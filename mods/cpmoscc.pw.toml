@@ -1,0 +1,58 @@
+filename = 'cpm-osc-compat-1.6.2.jar'
+name = 'Customizable Player Models OSC Compat'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.14.4',
+    '1.15',
+    '1.15.1',
+    '1.15.2',
+    '1.16',
+    '1.16.1',
+    '1.16.2',
+    '1.16.3',
+    '1.16.4',
+    '1.16.5',
+    '1.17',
+    '1.17.1',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.14.4-1.6.2'
+
+[download]
+hash = '144091fc9e0bf35a268240b0d1d0107cdddf7942d6b2c113a5f63e72a9d97cd1f911c1505507a4d4dd431693fb52506eec6441495ff872b09902dbb989edd049'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QDihBtsN/versions/RB1oc6zq/cpm-osc-compat-1.6.2.jar'
+
+[update.modrinth]
+mod-id = 'QDihBtsN'
+version = 'RB1oc6zq'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'h1E7sQNL'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'spelunkery-1.21.1-0.4.1-neoforge.jar'
+name = 'Spelunkery'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-0.4.1'
+
+[download]
+hash = 'd9085cfef65d0d4115b3abb131d30ea28b74825e447099f490816901367f47d47fc92dc6a7913d1417f6e4ff60f2e4eb9e1f81e224c123720279965a207ad910'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/krskFMfA/versions/zesprGoi/spelunkery-1.21.1-0.4.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'krskFMfA'
+version = 'zesprGoi'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'twkfQtEc'
+type = 'REQUIRED'
