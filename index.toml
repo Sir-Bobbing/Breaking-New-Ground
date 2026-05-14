@@ -1,0 +1,137 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cbc-fuze-sable-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cfm-wap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cpmoscc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-walls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ding.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/drogstyle.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gallery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/portfolio.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/redomesticate.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/the-mighty-architectury.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+metafile = true
