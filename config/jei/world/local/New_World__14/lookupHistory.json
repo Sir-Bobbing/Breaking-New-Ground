@@ -1,0 +1,9 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"spelunkery:sluice_grate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"archeological:curious_statue"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"scguns:flayed_god","components":{"minecraft:custom_data":{"AmmoCount":55,"DrawnTick":15,"GeckoLibID":3,"IsDrawing":1,"IsDrawn":1},"minecraft:damage":65}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:barnacles"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createbigcannons:he_shell"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"scguns:cryoniter"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "bobbing55",
+      "uniqueId": "474ddaeb-e01b-4670-aa7f-d06f1d0b44df"
+    },
+    "time": 1778779671379,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Y4EBMu4Tnn"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "bobbing55",
+      "uniqueId": "474ddaeb-e01b-4670-aa7f-d06f1d0b44df"
+    },
+    "time": 1778610743636,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/23raA7tyzo"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "bobbing55",
+      "uniqueId": "474ddaeb-e01b-4670-aa7f-d06f1d0b44df"
+    },
+    "time": 1778610693691,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/hIAwSw5G65"
+    }
+  }
+]

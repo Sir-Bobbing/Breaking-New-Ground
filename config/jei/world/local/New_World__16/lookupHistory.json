@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:chainmail_helmet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"royalvariations:royal_upgrade_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"scguns:pulsar","components":{"minecraft:custom_data":{"AmmoCount":4,"DrawnTick":15,"GeckoLibID":10,"IsDrawing":1,"IsDrawn":1}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"scguns:viventrum_package"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

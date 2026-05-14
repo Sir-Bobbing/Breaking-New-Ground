@@ -1,0 +1,21 @@
+filename = 'Create+Simple+Storage+Solid+GUI 1.1.zip'
+name = "Tom's Create Storage"
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.18', '1.18.1', '1.18.2', '1.19', '1.19.1', '1.19.2', '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Optional'
+
+[download]
+hash = '725e9d829bc821ebd96ce8d3ee1491904d6ecf1f8fd77c3ff95dc27fd34d3b6323a5f6c20f98eeb02968196e496c06710a9fcb5b4050badf89ffc2a75175baa2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xGCng9FL/versions/hlDyUi8g/Create%2BSimple%2BStorage%2BSolid%2BGUI 1.1.zip'
+
+[update.modrinth]
+mod-id = 'xGCng9FL'
+version = 'hlDyUi8g'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'xGCng9FL'
+type = 'REQUIRED'
