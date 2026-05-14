@@ -1,19 +1,19 @@
 #Enable mod
 enabled = true
-#Maximum tilt threshold (0.0 - 1.0)
-# Default: 0.8
-# Range: 0.0 ~ 1.0
-minNormalY = 0.5
-#Tilt interpolation speed per frame (0.0 = instant snap, 9999 = never moves)
-# Default: 1.7
-# Range: 0.0 ~ 9999.0
-smoothSpeed = 0.07
 #Allow in 3rd person view (BETA)
 allow3rdPerson = false
 #Rotate camera
 rotateCamera = true
 #Move camera
 moveCamera = true
+#Tilt interpolation speed per frame (0.0 = instant snap, 9999 = never moves)
+# Default: 1.7
+# Range: 0.0 ~ 9999.0
+smoothSpeed = 1.7
+#Maximum tilt threshold (0.0 - 1.0)
+# Default: 0.8
+# Range: 0.0 ~ 1.0
+minNormalY = 0.8
 #Number of raycasts (10 is usually enough)
 # Default: 10
 # Range: 1 ~ 10000

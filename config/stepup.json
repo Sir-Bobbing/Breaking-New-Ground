@@ -10,7 +10,7 @@
     "value": 0,
     "defaultValue": 0,
     "minValue": 0,
-    "maxValue": 2
+    "maxValue": 0
   },
   "mod.stepup.config.default": {
     "options": [
@@ -18,7 +18,7 @@
       "mod.stepup.config.nostepup",
       "mod.stepup.config.vanillajump"
     ],
-    "key": "mod.stepup.config.default",
+    "key": "Default on new servers",
     "toolTip": "",
     "value": 0,
     "defaultValue": 0,

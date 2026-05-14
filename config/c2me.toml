@@ -47,12 +47,12 @@ globalExecutorParallelism = "default"
 	# (may cause incompatibility with other mods)
 	# 
 	gcFreeChunkSerializer = "default"
+	# (Default: true) Whether to use the optimized implementation of IO system
+	replaceImpl = "default"
 	# (Default: 8192) Soft limit for io worker nbt cache
 	chunkDataCacheSoftLimit = "default"
 	# (Default: 32678) Hard limit for io worker nbt cache
 	chunkDataCacheLimit = "default"
-	# (Default: true) Whether to use the optimized implementation of IO system
-	replaceImpl = "default"
 
 [vanillaWorldGenOptimizations]
 	# (Default: false) Whether to use density function compiler to accelerate world generation
@@ -187,18 +187,6 @@ globalExecutorParallelism = "default"
 		# 
 		mode = "default"
 
-	[clientSideConfig.modifyMaxVDConfig]
-		# (Default: true) Whether to modify maximum view distance
-		enabled = "default"
-		# (Default: 50) Max render distance allowed in game options
-		maxViewDistance = "default"
-		# (Default: true) Enable client-side support for extended render distance protocol (c2me:ext_render_distance_v1)
-		# This allows requesting render distances higher than 127 chunks from the server
-		# 
-		# Note: The server must advertise support this protocol for this to work
-		# 
-		enableExtRenderDistanceProtocol = "default"
-
 [noTickViewDistance]
 	# (Default: true) Whether to enable no-tick view distance
 	enabled = "default"
@@ -221,3 +209,15 @@ globalExecutorParallelism = "default"
 	# Defaults to 200, which is 200%
 	# 
 	chunkSendingSpeedMultiplierPercentage = "default"
+
+	[clientSideConfig.modifyMaxVDConfig]
+		# (Default: true) Whether to modify maximum view distance
+		enabled = "default"
+		# (Default: 50) Max render distance allowed in game options
+		maxViewDistance = "default"
+		# (Default: true) Enable client-side support for extended render distance protocol (c2me:ext_render_distance_v1)
+		# This allows requesting render distances higher than 127 chunks from the server
+		# 
+		# Note: The server must advertise support this protocol for this to work
+		# 
+		enableExtRenderDistanceProtocol = "default"

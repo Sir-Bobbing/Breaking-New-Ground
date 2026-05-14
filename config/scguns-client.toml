@@ -57,7 +57,7 @@ buttonAlignment = "RIGHT"
 		#If enabled, enables cinematic camera effects on guns 
 		cinematicGunEffects = true
 		#If enabled, enables light sources when firing guns
-		fireLights = false
+		fireLights = true
 		#If enabled, enables purity seals on weapons
 		puritySeals = true
 		#The resting size of the Dynamic Crosshair when spread is zero.

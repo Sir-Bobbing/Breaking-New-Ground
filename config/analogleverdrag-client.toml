@@ -35,6 +35,10 @@
 	# Default: 0.15
 	# Range: 0.0 ~ 0.8
 	ui_smoothing = 0.15
+	#UI smoothing for the circular crank interface only. 0.15 matches the linear throttle-style catch-up; 0.00 snaps instantly; higher values are slower.
+	# Default: 0.15
+	# Range: 0.0 ~ 0.8
+	circular_ui_smoothing = 0.15
 	#Deprecated/internal compatibility flag. Wrench inversion now always preserves the in-world handle position for Create and DnDecor levers; this value is ignored by gameplay code.
 	wrench_preserves_handle_position = true
 	#If enabled, the drag interface overlay is shown. Disable to keep drag control active but hide all drag HUD/interface visuals.
@@ -45,10 +49,6 @@
 	show_interface_panel = true
 	#If enabled, discrete step markers are drawn on the linear lever UI.
 	show_step_markers = true
-	#UI smoothing for the circular crank interface only. 0.15 matches the linear throttle-style catch-up; 0.00 snaps instantly; higher values are slower.
-	# Default: 0.15
-	# Range: 0.0 ~ 0.8
-	circular_ui_smoothing = 0.15
 	#If enabled, the circular crank UI shows 0..15 numbers in both normal and fair crank modes. Visual only; does not change timing or redstone.
 	show_fair_crank_numbers = true
 
@@ -66,7 +66,7 @@
 	#Sensitivity for Create and DnDecor linear levers.
 	# Default: 0.65
 	# Range: 0.01 ~ 10.0
-	linear_sensitivity = 0.35
+	linear_sensitivity = 0.65
 	#Sensitivity for the Supplementaries circular crank.
 	# Default: 0.6
 	# Range: 0.01 ~ 10.0
