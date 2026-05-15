@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".README.md.kate-swp"
+hash = "93a0181f63f8773762eba8a672fa9e47d00aad621b8e38461097c21c0237fa69"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "a91c53c22051b7e65a655c185462edf7541761d78587036544a503c41dd3a445"
 
@@ -1487,7 +1491,7 @@ metafile = true
 
 [[files]]
 file = "mods/customoreveins.pw.toml"
-hash = "5f6ef72ffafd384409e024d3a01493050448eca5e73e2b4d76fa9a9dd0568a65"
+hash = "d0b206c0088bea6a9babe7b77e119889d41e9114a81a683a7716b1dace7827e3"
 metafile = true
 
 [[files]]
