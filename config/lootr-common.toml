@@ -38,7 +38,7 @@
 	dimension_blacklist = []
 	#list of dimensions by modid that loot chests should not be replaced in (default: blank, allowing all modids, format e.g., ["minecraft
 	#othermod"])
-	modid_dimension_blacklist = []
+	modid_dimension_blacklist = ["dungeoncrawl"]
 	#list of dimensions by modid that loot chest should be replaced in (default: blank, allowing all modids, format e.g., ["minecraft
 	#othermod"])
 	modid_dimension_whitelist = []

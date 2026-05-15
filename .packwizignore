@@ -2,3 +2,8 @@ README.md
 LICENSE
 modlist.csv
 /.git
+sodium-extra.properties
+sodium-fingerpring.json
+sodium-mixins.properites
+sodium-options.json
+sodiumdynamiclights-client.toml

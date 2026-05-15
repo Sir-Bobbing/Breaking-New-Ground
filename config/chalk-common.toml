@@ -21,15 +21,15 @@ GenerateChalkInLootChests = true
 
 #Enable/disable symbols and location of the advancement that will unlock that symbol. (Empty = available from the start)
 [Symbols]
-	HouseEnabled = true
-	HouseUnlockAdvancement = "chalk:adventure/home_is_where_the_bed_is"
 	CrossEnabled = true
 	CrossUnlockAdvancement = ""
-	PickaxeEnabled = true
-	PickaxeUnlockAdvancement = "minecraft:story/iron_tools"
-	CheckEnabled = true
-	CheckUnlockAdvancement = ""
 	HeartEnabled = true
 	HeartUnlockAdvancement = "minecraft:husbandry/tame_an_animal"
+	PickaxeEnabled = true
+	PickaxeUnlockAdvancement = "minecraft:story/iron_tools"
+	HouseEnabled = true
+	HouseUnlockAdvancement = "chalk:adventure/home_is_where_the_bed_is"
+	CheckEnabled = true
+	CheckUnlockAdvancement = ""
 	SkullEnabled = true
 	SkullUnlockAdvancement = "chalk:adventure/bound_by_bone"

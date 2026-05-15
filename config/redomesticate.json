@@ -6,13 +6,13 @@
   "rottenApple": true,
   "petBedRespawns": true,
   "rabbitsScareRavagers": true,
-  "petStoreVillageWeight": 17,
+  "petStoreVillageWeight": 0,
   "petCurseEnchantmentsLootOnly": true,
-  "blazingProtectionLootChance": 0.2,
-  "sinisterCarrotLootChance": 0.3,
-  "bubblingLootChance": 0.65,
-  "vampirismLootChance": 0.22,
-  "voidCloudLootChance": 0.19,
-  "muffledLootChance": 0.19,
-  "oreScentingLootChance": 0.15
+  "blazingProtectionLootChance": 0.0,
+  "sinisterCarrotLootChance": 0.0,
+  "bubblingLootChance": 0.0,
+  "vampirismLootChance": 0.0,
+  "voidCloudLootChance": 0.0,
+  "muffledLootChance": 0.0,
+  "oreScentingLootChance": 0.0
 }

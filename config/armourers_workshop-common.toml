@@ -70,17 +70,17 @@
 #Setting for the players wardrobe.
 [wardrobe]
 	#Allow the player to open the wardrobe GUI.
-	allowOpening = true
+	allowOpening = false
 	#Enable the wardrobe skins tab.
-	enableSkinTab = true
+	enableSkinTab = false
 	#Enable the wardrobe outfits tab.
-	enableOutfitTab = true
+	enableOutfitTab = false
 	#Enable the wardrobe display settings tab.
-	enableDisplayTab = true
+	enableDisplayTab = false
 	#Enable the wardrobe colour settings tab.
-	enableColourTab = true
+	enableColourTab = false
 	#Enable the wardrobe dyes tab.
-	enableDyeTab = true
+	enableDyeTab = false
 	#Only allows the player place to skin item into slots.
 	onlySkinIntoSlots = false
 	#Number of slot columns the mob starts with for skins.
@@ -102,7 +102,7 @@
 #Setting for the library blocks.
 [library]
 	#Allows clients to save skins from a server to their local computer using the library.
-	allowDownloadingSkins = false
+	allowDownloadingSkins = true
 	#Allows clients to load skins from their local computer onto the server using the library.
 	allowUploadingSkins = true
 	#Allow the mod to extract the official skins that come with the mod into the library folder.
@@ -139,7 +139,7 @@
 #Enable/disable holiday events.
 [holiday-events]
 	#Setting to true will disable all holiday events. What's wrong with you!
-	disableAllHolidayEvents = false
+	disableAllHolidayEvents = true
 
 #Change (memory use/IO access) ratio by category setting in this category.
 [cache]
