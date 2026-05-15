@@ -1,6 +1,9 @@
 #Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
 [types]
 
+		[types.stone_type.spelunkery]
+			nephrite = true
+
 		[types.stone_type.create]
 			limestone = true
 			asurine = true
@@ -17,9 +20,6 @@
 			shale = true
 			myalite = true
 			permafrost = true
-
-		[types.stone_type.spelunkery]
-			nephrite = true
 
 		[types.stone_type.architects_palette]
 			abyssaline = true
