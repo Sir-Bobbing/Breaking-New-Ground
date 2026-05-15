@@ -1365,12 +1365,12 @@ metafile = true
 
 [[files]]
 file = "mods/cbc-fuze-sable-fix.pw.toml"
-hash = "24a744ed095fb50872984818e0a0765a4ad946486363927697375f18481a2ba3"
+hash = "f743806951d535e8abc71e3a5b2f4cece8b44eaa10835d19a15f790cc99d9a2f"
 metafile = true
 
 [[files]]
 file = "mods/cfm-wap.pw.toml"
-hash = "2263c4ddc58b348e274c1e6a6119baf9ba52f883fc2ce379bbfb693541bbf5de"
+hash = "abfd9daa88a685b3c89bf4d49da918d24f6253444b519e07509a54ed87c59c71"
 metafile = true
 
 [[files]]
@@ -1695,7 +1695,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "c1c55e0da82d36095880022acebb2ce06983862aa87c0499cace9554ead6c2f0"
+hash = "f21332a2f5be043164fe83e6de24db18b51b5d35d688e76c5990a19e95810f6f"
 metafile = true
 
 [[files]]
@@ -1760,7 +1760,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-chests.pw.toml"
-hash = "fbd39be146440a17da6415d82014986329e9ba16c51b64f12c987171f46d7118"
+hash = "870eeaa7d6ca74829d014c4aed23d1d5f316201469291deec3a28a0d393d2099"
 metafile = true
 
 [[files]]
@@ -1810,7 +1810,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "23caecaf03739766bd7356d33c9bf525efcbc1e45fdd2f748bb070c351b44ae6"
+hash = "e78842f465b32c63f5bec466ae674b6319fcea9db0f0ff077e86ad5de39df322"
 metafile = true
 
 [[files]]
@@ -1890,7 +1890,7 @@ metafile = true
 
 [[files]]
 file = "mods/nobroken.pw.toml"
-hash = "480a66b7e417859f4d76db13d4962aea239dd76afca79c8607f9eb688548f1d1"
+hash = "e03108947c3b2ac2aca17cca1b4d42060456b54b640935cc4a3318a5ffdd30d0"
 metafile = true
 
 [[files]]
@@ -1980,7 +1980,7 @@ metafile = true
 
 [[files]]
 file = "mods/redomesticate.pw.toml"
-hash = "876b97f7e9054ca8184b4f1a2025da717d06a8a1121d77a36c7be291f88a3328"
+hash = "a5817fa5aa71a61d38288258df37d8a8b6973c766d6a445bf59b4ce937eb8c93"
 metafile = true
 
 [[files]]
@@ -1990,7 +1990,7 @@ metafile = true
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
-hash = "369c30036eafeb14805bc17655f9ebbeee28e49231ba475df3fe9df7fd372724"
+hash = "d061efccf4cb291fa89dc5a71ca05c0cb72cdb10e2bd25bb2e8bffad0ac40782"
 metafile = true
 
 [[files]]
@@ -2030,7 +2030,7 @@ metafile = true
 
 [[files]]
 file = "mods/scorched-guns-neoforged.pw.toml"
-hash = "a448fc5cfcbb211283ae3b30fa6eacf8d9b5ba8adf29e3216a5d1801cf86a09d"
+hash = "e0e510a82b984c7de4c675390db2332bb0c0c69b975f043439e4fd8e3e7be53c"
 metafile = true
 
 [[files]]
@@ -2180,7 +2180,7 @@ metafile = true
 
 [[files]]
 file = "mods/underground-rivers.pw.toml"
-hash = "465190dad8669557c16960df597ffdad351ffa2c94f95a0d83b4cab785250385"
+hash = "bf2ec8fc2f127aa27b17382ca2a9e3d461055fe0e0ddd595e4e830b0c8511be4"
 metafile = true
 
 [[files]]
