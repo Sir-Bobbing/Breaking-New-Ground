@@ -1486,6 +1486,10 @@ hash = "d65a013fc6ad1b6e1470e05c9efe7825e988b47415a033fef6d9b91474b488cb"
 metafile = true
 
 [[files]]
+file = "mods/customoreveins.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks-reborn.pw.toml"
 hash = "5c33ee84c17b3653307605c63a541d0e164fe58ec45dfcfe8e215a3ecf0d6033"
 metafile = true
@@ -1493,6 +1497,11 @@ metafile = true
 [[files]]
 file = "mods/deeper-oceans.pw.toml"
 hash = "25e2566c0691471796b8c8365c05936575e2ebc1879ec7cfa59e5f0f766e9731"
+metafile = true
+
+[[files]]
+file = "mods/deployer.pw.toml"
+hash = "34f20675ca26ae05670def8d9d84faf42009fabd1113d1739cea6fd380420aac"
 metafile = true
 
 [[files]]
@@ -1523,6 +1532,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
+metafile = true
+
+[[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "7b9204de0626ccbcb91201c16427cf5bc70e5990e35fe553d4709794f3b21776"
 metafile = true
 
 [[files]]
@@ -1603,6 +1617,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "13364ef7043db67ef306acc9a8f5eb5539888581fe01778ca7722886b5c96cad"
 metafile = true
 
 [[files]]
@@ -1968,6 +1987,10 @@ metafile = true
 [[files]]
 file = "mods/simulated-gauges.pw.toml"
 hash = "b131faa1c8ca8217f5d52612d4b41f8f8f019488f6b1e3bfee065ca82c21bdfb"
+metafile = true
+
+[[files]]
+file = "mods/sky-aesthetics.pw.toml"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Custom Ore Veins"
+filename = "customoreveins-neoforge-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/rMWqXxl3/versions/4cJ6vHVm/customoreveins-neoforge-1.0.1.jar"
+hash-format = "sha512"
+hash = "ae266119dc640d8e17f7cc39cf187f517cbe2c0984b399a2bc0eea99fb7326f72d3bf2b45188034e752d273ba46c407c5281f66c111e989d55adc4ccb1e65ba2"
+
+[update]
+[update.modrinth]
+mod-id = "rMWqXxl3"
+version = "4cJ6vHVm"
