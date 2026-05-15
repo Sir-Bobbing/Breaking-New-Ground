@@ -10,7 +10,7 @@ min_hitbox_size = true
 upwards_knockback = true
 #Health regenerates every 2 seconds, which requires more than 6 food points. Also food points will be directly consumed when healing. Surplus saturation does not yield quick health regeneration.
 #Default Value: false
-balanced_food_mechanics = false
+balanced_food_mechanics = true
 #Sprinting and attacking no longer interfere with each other, making critical hits possible at all times.
 #Default Value: true
 critical_hits_while_sprinting = true
@@ -57,10 +57,10 @@ no_projectile_immunity = true
 	no_axe_attack_penalty = true
 	#Add a delay of 4 ticks between throwing snowballs or eggs, just like with ender pearls.
 	#Default Value: true
-	throwables_delay = true
+	throwables_delay = false
 	#Eating and drinking both are interrupted if the player is damaged.
 	#Default Value: true
-	eating_interruption = true
+	eating_interruption = false
 
 [cooldown]
 	#Disable attacking when attack cooldown is below a certain percentage.
@@ -68,7 +68,7 @@ no_projectile_immunity = true
 	#Default Value: 1.0
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
-	min_attack_strength = 1.0
+	min_attack_strength = 0.0
 	#Holding down the attack button keeps attacking continuously. No more spam clicking required.
 	#Default Value: false
 	hold_attack_button = false

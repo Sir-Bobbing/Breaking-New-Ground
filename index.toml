@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "fa9a21938efb91ce43f80d7eac0138dff500805fbe6e2e6ab61a6c7d6f38956e"
+hash = "dbd22be198454ee27b07b3e74c78180cf6c7157d8c082f931c509708e023cc9d"
 
 [[files]]
 file = "config/FluidVoidFading.json5"
@@ -90,7 +90,7 @@ hash = "2eafaf93d766c179ea5bd54fe356029cf54ac09eb99524efc8ebddf93a35e2e8"
 
 [[files]]
 file = "config/artifacts/client.toml"
-hash = "fea09c9256febaf3cc2dc9f09a44624d9a2896ed7b0ea7766c02dd597d964c74"
+hash = "15ea8b5f0542c5b02b4c42908f11f2a419a3af58deaca156a8cb7dafc78a9749"
 
 [[files]]
 file = "config/artifacts/general.toml"
@@ -186,7 +186,7 @@ hash = "2d5233abbb0c0bf7014ee8b16f29bad036c0f708956643d9c6ddad054b8f0e01"
 
 [[files]]
 file = "config/combatnouveau-server.toml"
-hash = "aaae746bff2ec2ccfeeef8bf1883d2add9706a648d2c6e5a636b653cbb5dc206"
+hash = "2e4b3bfac041fcf2e581176004ad6f4c9c5851fe444b73d08ee9fc96638bb878"
 
 [[files]]
 file = "config/comforts-common.toml"
@@ -589,6 +589,10 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "48e87e143d91b12352f8424ad3ef4e91b93b861937948b6e162c7008e5dca3dd"
 
 [[files]]
+file = "config/jei/world/local/New_World__13/lookupHistory.json"
+hash = "3e371dd479484c425e4dfe67435beb8a2373cc6b30cc9f96a40f928074b40b9f"
+
+[[files]]
 file = "config/leavesbegone-server.toml"
 hash = "e41e4f60aa1919d031ef42aa5af412ad8198390c3833cab3f617f6392aaf9cfc"
 
@@ -622,6 +626,10 @@ hash = "cbac72131d1a46c8f095e1a0997f81a2c6000d9d926eecb38d63d206a7ff9ac4"
 
 [[files]]
 file = "config/malum-client-1.toml.bak"
+hash = "aace1b4159040842078f8fd8da3d780620289b1d2ee6f5ac01d33c8fc8d4bc01"
+
+[[files]]
+file = "config/malum-client-2.toml.bak"
 hash = "aace1b4159040842078f8fd8da3d780620289b1d2ee6f5ac01d33c8fc8d4bc01"
 
 [[files]]
@@ -861,6 +869,10 @@ file = "config/sootychimneys-common.toml"
 hash = "2db8c6cb45261c6bd8a0d6c4cc96c9203818b25694bd5aad1e26fd1c0e4ae36a"
 
 [[files]]
+file = "config/spark/activity.json"
+hash = "4c7f779a7670851c05ba2321eaa03ace09383d08db8045af45b28a33270a6b64"
+
+[[files]]
 file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
@@ -883,10 +895,6 @@ hash = "d0e58947a3b9803a3cea95fa1e0f1b567c595f18fb262969f40973aeda2eca54"
 [[files]]
 file = "config/spyglass-improvements/settings.json"
 hash = "0a19036936420b0045fab196758eacb65f31e8560d41b858a6afebe63208f4a0"
-
-[[files]]
-file = "config/ssrd-common.toml"
-hash = "4438e5629fb4972a1828670c8b0bf7823c675c36597193a698e02110bd679707"
 
 [[files]]
 file = "config/stonezone-common.toml"

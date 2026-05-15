@@ -12,3 +12,8 @@ config/sodiumdynamiclights-client.toml
 config/stepup.json
 config/fabric/indigo-renderer.properties
 *.tmp
+config/ssrd-common.toml
+config/ssrd-common.toml
+config/jei/world/local/New_World__13/lookupHistory.json
+config/fabric/indigo-renderer.properties
+config/ssrd-common.toml
