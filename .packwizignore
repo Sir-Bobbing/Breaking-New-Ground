@@ -9,4 +9,4 @@ config/sodium-options.json
 config/sodiumdynamiclights-client.toml
 config/stepup.json
 config/fabric/indigo-renderer.properties
-
+*.tmp
