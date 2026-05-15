@@ -1487,6 +1487,7 @@ metafile = true
 
 [[files]]
 file = "mods/customoreveins.pw.toml"
+hash = "5f6ef72ffafd384409e024d3a01493050448eca5e73e2b4d76fa9a9dd0568a65"
 metafile = true
 
 [[files]]
@@ -1991,6 +1992,7 @@ metafile = true
 
 [[files]]
 file = "mods/sky-aesthetics.pw.toml"
+hash = "9f12b985733a8d7b12b38808d52efa88721105d56a6fa089018944fd9fe8b4bc"
 metafile = true
 
 [[files]]
