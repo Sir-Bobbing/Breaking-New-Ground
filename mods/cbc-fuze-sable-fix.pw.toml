@@ -1,6 +1,6 @@
 filename = 'cbc_fuze_sable_fix-1.0.1.jar'
 name = 'CBC fuze Sable fix'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
