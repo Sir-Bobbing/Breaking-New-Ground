@@ -421,10 +421,6 @@ file = "config/extra_gauges-common.toml"
 hash = "3872d3ccaa0af368db1f0de7bd1f89b42b453e3458e1d67357f78c4498de354f"
 
 [[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "137f1e9355fbf92644dcf0a2022b37651d0df4e84c346df6b0e40316bcb12151"
-
-[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "4404ba02b39d4de63e4ab8fb5dd74e7994c23c67b15319c30f9fa207fa23ab1b"
 
@@ -622,7 +618,11 @@ hash = "4dd03ec5be94c8e56794c8fb0d0d1c907228d6881787d06e2743035e1dd4ca10"
 
 [[files]]
 file = "config/lootr-common.toml"
-hash = "07d0eb4724307651593e99714208645ffc69b46438b685b48f04b8c46d7b8436"
+hash = "cbac72131d1a46c8f095e1a0997f81a2c6000d9d926eecb38d63d206a7ff9ac4"
+
+[[files]]
+file = "config/malum-client-1.toml.bak"
+hash = "aace1b4159040842078f8fd8da3d780620289b1d2ee6f5ac01d33c8fc8d4bc01"
 
 [[files]]
 file = "config/malum-client.toml"
@@ -889,10 +889,6 @@ file = "config/ssrd-common.toml"
 hash = "4438e5629fb4972a1828670c8b0bf7823c675c36597193a698e02110bd679707"
 
 [[files]]
-file = "config/stepup.json"
-hash = "9acb36cafb90dd432bad8587772b4da698853494005bca2c9737859683014720"
-
-[[files]]
 file = "config/stonezone-common.toml"
 hash = "7030c4327882a865fff6f2cd56e7f85dfd06046ead5a29fed91d6b00b8d02710"
 
@@ -941,8 +937,12 @@ file = "config/toms_storage-common.toml"
 hash = "b54cd94393754928944a5705e3c3c783144efa6541231895482eb3e031834605"
 
 [[files]]
-file = "config/toms_storage-server.toml"
+file = "config/toms_storage-server-1.toml.bak"
 hash = "e6abae3180927a8c4347a898e030a75a9018f06ff8fcfbdba4d1ec63e66e6233"
+
+[[files]]
+file = "config/toms_storage-server.toml"
+hash = "5559a84df24d3e7cccb0019369ee63b3918deb5a5014f4f6f931e2251e9d239e"
 
 [[files]]
 file = "config/tracks-server.toml"
@@ -1006,7 +1006,7 @@ hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
-hash = "db49c4dde15db318eb25e8a43fa06992778f0e17b3a963fff5cbee35da11fb81"
+hash = "8ba223d9b27f336dad58be3394bd0d401e4d853914ca2db8e7720b80b047523f"
 
 [[files]]
 file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
@@ -1026,7 +1026,7 @@ hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
 
 [[files]]
 file = "config/xaero/world-map/profiles/default.cfg"
-hash = "7b24c882801bcc7f0a8aedc625d419f661fa490fa0e9d5ebe39599a1ce2dcbd5"
+hash = "e5ccf23962e49ed57c5c1df8077ca3542c13b9e26991035b803b2895b56cd236"
 
 [[files]]
 file = "config/xaero/world-map/server_profiles/default.cfg"
