@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".README.md.kate-swp"
-hash = "93a0181f63f8773762eba8a672fa9e47d00aad621b8e38461097c21c0237fa69"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "a91c53c22051b7e65a655c185462edf7541761d78587036544a503c41dd3a445"
 
@@ -325,6 +321,10 @@ file = "config/dndecor-server.toml"
 hash = "f42059ff192ead465682536fe9013e662f21184ad8ae7a44b65daa5a2ddf44eb"
 
 [[files]]
+file = "config/dramaticdoors-startup.toml"
+hash = "ee4c4f849b571ddce8328359c809d74fe83b341607a10be55d0faa3fb90289b4"
+
+[[files]]
 file = "config/dummmmmmy-client.toml"
 hash = "43a4a99a9bb4dae1bead774edca66ba3d307e818ddaa23b3d8679c2de5e9d51c"
 
@@ -389,8 +389,12 @@ file = "config/everycomp-common.toml"
 hash = "6ecab953789d91c8100bbad6195ca4e9966dd73049be083070e57e484440fe24"
 
 [[files]]
-file = "config/everycomp-entries.toml"
+file = "config/everycomp-entries-1.toml.bak"
 hash = "68a6f07ea694482b58aea9d3a4a3371327ea9e7a2ee90fb283a8078cecc2cbc1"
+
+[[files]]
+file = "config/everycomp-entries.toml"
+hash = "e6346b13d8ab594b650eb0836fc0d0c8c9ce2b235bfe735ef8a44700591bbb1e"
 
 [[files]]
 file = "config/everycomp-hazardous.toml"
@@ -406,7 +410,7 @@ hash = "3872d3ccaa0af368db1f0de7bd1f89b42b453e3458e1d67357f78c4498de354f"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "b2eef07f87b00f6bb885b8f4b6cb9f8da0fac7b2580363db6a79d1302a8a091c"
+hash = "34b21aaf25438589702a1c3c0e28f62e3f302fd58775b9f5eac1a7379f45c446"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -886,7 +890,7 @@ hash = "4438e5629fb4972a1828670c8b0bf7823c675c36597193a698e02110bd679707"
 
 [[files]]
 file = "config/stepup.json"
-hash = "9acb36cafb90dd432bad8587772b4da698853494005bca2c9737859683014720"
+hash = "eecc0c57024075596e5a426df2ce5b035ef6fd4ba95379b65d152269e612e699"
 
 [[files]]
 file = "config/stonezone-common.toml"
@@ -1220,6 +1224,11 @@ hash = "c65748ba4e13309eeba1dae2dfb348ad9b6348a093dc02a901e3e5a2a6110b0d"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "f3d66527c4f82b44d9409f643332bc15f91b85f033afe147e3d8b421c0ea6d1e"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
 metafile = true
@@ -1382,6 +1391,11 @@ metafile = true
 [[files]]
 file = "mods/cpmoscc.pw.toml"
 hash = "6a639ba0a4f31f9a103e199a4d752b2cd51acde5d1f59d4584c9e9874b92b7bc"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-compatability.pw.toml"
+hash = "14a661c7ccb290a48b14ed189ff5728cc50d7dd1606368e979464aff1faa9e5b"
 metafile = true
 
 [[files]]
