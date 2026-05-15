@@ -1,6 +1,6 @@
 filename = 'nobroken-mc1.21.1-fabric-1.0.1.jar'
 name = 'NoBroken (No Broken)'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
