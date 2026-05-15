@@ -2,8 +2,11 @@ README.md
 LICENSE
 modlist.csv
 /.git
-sodium-extra.properties
-sodium-fingerpring.json
-sodium-mixins.properites
-sodium-options.json
-sodiumdynamiclights-client.toml
+config/sodium-extra.properties
+config/sodium-fingerpring.json
+config/sodium-mixins.properites
+config/sodium-options.json
+config/sodiumdynamiclights-client.toml
+config/stepup.json
+config/fabric/indigo-renderer.properties
+
