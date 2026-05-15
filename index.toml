@@ -1225,6 +1225,10 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fluidvoidfading.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 metafile = true
 
@@ -1365,6 +1369,10 @@ file = "mods/moonlight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/no-broken-armor.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 metafile = true
 
@@ -1374,6 +1382,10 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nobroken.pw.toml"
 metafile = true
 
 [[files]]
@@ -1422,6 +1434,10 @@ metafile = true
 
 [[files]]
 file = "mods/portfolio.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/preferred-gamerules.pw.toml"
 metafile = true
 
 [[files]]
@@ -1549,6 +1565,10 @@ file = "mods/ssrd.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/stepupagain.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/stoat.pw.toml"
 metafile = true
 
@@ -1558,6 +1578,10 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
 metafile = true
 
 [[files]]
