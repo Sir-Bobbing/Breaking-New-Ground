@@ -1,6 +1,6 @@
 filename = 'NobrokenArmor-mc1.21-fabric-1.0.0.jar'
 name = 'No Broken Armor'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
