@@ -1212,7 +1212,7 @@ metafile = true
 
 [[files]]
 file = "mods/almanac.pw.toml"
-hash = "19d6b20763edf0247e395db37d6e7e5b012ca063f5820c81a6330baff2218c4e"
+hash = "c65748ba4e13309eeba1dae2dfb348ad9b6348a093dc02a901e3e5a2a6110b0d"
 metafile = true
 
 [[files]]
@@ -1287,7 +1287,7 @@ metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "6dc9443f66c77a942c58a0c1e827dc3daa7eb4e6fb0d7039862b5c5b6a00b505"
+hash = "9e8e6fefe7bbb8d00c64a5c9ee6b9dff3c7f18804f7fa7d72f07c37a1cb348a3"
 metafile = true
 
 [[files]]
@@ -1447,7 +1447,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-threaded-trains.pw.toml"
-hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
+hash = "f802c6f488a0141d9a51624bcce33c80c2c3d4bea731ea3f9301a6ec9d36cf4d"
 metafile = true
 
 [[files]]
@@ -1527,12 +1527,12 @@ metafile = true
 
 [[files]]
 file = "mods/drogstyle.pw.toml"
-hash = "430b432cf43c66161a21eeb3a62fe1c5e1c374812f9411679a172744acd6db82"
+hash = "060981d6866a73e34cdd2236ec18d7ed291840590611923b25af9880fb14b288"
 metafile = true
 
 [[files]]
 file = "mods/dungeoncrawl.pw.toml"
-hash = "236b80b3c623c8f388222bf2d4a7499a09fc0b6a438c1299c1a39e2809e3133e"
+hash = "ea9aa01bef9a96106305fb131a39311e0acd7682ed863e8814cf1cfd5403ac88"
 metafile = true
 
 [[files]]
@@ -1657,7 +1657,7 @@ metafile = true
 
 [[files]]
 file = "mods/im-fast.pw.toml"
-hash = "474d64dba26d80c32a84ccdefc66d06dbf18503c17fe48927040fdf9026c5860"
+hash = "8419731f64df87ec81aac48c87bb31a80f4d6e9bc7fbd4b2fc452b66173ac6ad"
 metafile = true
 
 [[files]]
@@ -1706,8 +1706,8 @@ hash = "d67604dfbec39057769c29308f520d1540cf57cd9e081753dc50203e7ac703af"
 metafile = true
 
 [[files]]
-file = "mods/kotlin-lang-forge.pw.toml"
-hash = "64f826e3ca9c1a6fb788d4f3396d2475f5e8c0b7a3c8397c74b80559ab459790"
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
@@ -1717,7 +1717,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "32551cd3db88210863565b772ee47679cbf1eeff163fb93b9ef84a79fa069496"
+hash = "583a335211bc3a21bb379394344b67d64bffea421e7f7942c254903e1d607814"
 metafile = true
 
 [[files]]
@@ -1732,12 +1732,17 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "367ce13ba351f3f6302f13e0271be1cdb8780df130ee41ad53e2539efd90ea36"
+hash = "bc2d592dc0107406f3564f968daf6b84d9379cdb66997305855ae68886fd5502"
 metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
+hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
+metafile = true
+
+[[files]]
+file = "mods/lodestonelib.pw.toml"
+hash = "f5d0701055478e980b50849f199f266e6ab1940277a17ad2e5060df0d978be83"
 metafile = true
 
 [[files]]
@@ -1747,7 +1752,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootjs.pw.toml"
-hash = "9b32e1374a3d85ccdd4803c8932f72fbeb6357e69d895980e3f24e1974a07ca6"
+hash = "e42581d8eb65aa947dcbe6edb71b2082e84f31936b01f131758395d88dabc919"
 metafile = true
 
 [[files]]
@@ -1757,7 +1762,7 @@ metafile = true
 
 [[files]]
 file = "mods/luminous-monsters.pw.toml"
-hash = "2d2eec7440999c5b7c15209a089825f4188f65e4c0427ddcbb01c271ef0bc062"
+hash = "4ac6d03d8fa12f6b31274e920eab7f7f3be77588120e65883cc96349fedf214f"
 metafile = true
 
 [[files]]
@@ -1787,7 +1792,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-broken-armor.pw.toml"
-hash = "cf93f4c487d031af14cd029f38717be64c51df1257b8fb36a5189654ff45b85c"
+hash = "51a8fd89cc2d60e8f6627aa7c3411aec900d55ee2881cc3775fa3648953df1fd"
 metafile = true
 
 [[files]]
@@ -1812,7 +1817,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisiumforked.pw.toml"
-hash = "df6299f5622d3e53a9cae66696cdc7b2b557b11b5be101eebb7ebd7a91d501db"
+hash = "11835b8555c23090b12d6ca9be871a6b5bfcec5ff7f48e77ef09c784af40b69e"
 metafile = true
 
 [[files]]
@@ -1872,7 +1877,7 @@ metafile = true
 
 [[files]]
 file = "mods/preferred-gamerules.pw.toml"
-hash = "985ecc4a35a2feab6d51b6cd6b95e7efa3f6b49aa5f549c132f59217b7a2a5a5"
+hash = "1348184baa1f4fc4f0115889dc4c5d49d50ca53307bb55fd98fcc12008731b21"
 metafile = true
 
 [[files]]
@@ -1972,7 +1977,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
-hash = "514dab7fee713bccf17296d21b4f25d9e67954a96e7de1a8b586b90ea00a2bed"
+hash = "82aedef3c457ffe51e27a4153aaf73ef7c073b87059a021495af487e41ed2e99"
 metafile = true
 
 [[files]]
@@ -2052,7 +2057,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "e8ae114624b21b91cada4ed8241b829d2a6b1979b98bf9b994bd2c8320740f66"
+hash = "9137c688c724db6215a475abe5ec71e1dd4a508860434eb2b35933c5079c8e70"
 metafile = true
 
 [[files]]
@@ -2092,7 +2097,7 @@ metafile = true
 
 [[files]]
 file = "mods/underground-rivers.pw.toml"
-hash = "5be3e8d3647d11f749a1780d0e898da7312e8b7c4305e5f70de5ba407b89c9a7"
+hash = "191fa5df4cffa6749701f65dde920113ada74812953be01ff1750ac43ffa10a4"
 metafile = true
 
 [[files]]
