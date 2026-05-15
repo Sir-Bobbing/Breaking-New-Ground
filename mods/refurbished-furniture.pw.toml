@@ -11,7 +11,7 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22'''
 hash = '6c209e6b755ff26218efd55aedf2dea49183d29b'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+url = 'https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture/files/7473565'
 
 [update.curseforge]
 file-id = 7473565
