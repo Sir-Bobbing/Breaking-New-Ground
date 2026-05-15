@@ -38,14 +38,14 @@
 	dimension_blacklist = []
 	#list of dimensions by modid that loot chests should not be replaced in (default: blank, allowing all modids, format e.g., ["minecraft
 	#othermod"])
-	modid_dimension_blacklist = ["dungeoncrawl"]
+	modid_dimension_blacklist = []
 	#list of dimensions by modid that loot chest should be replaced in (default: blank, allowing all modids, format e.g., ["minecraft
 	#othermod"])
 	modid_dimension_whitelist = []
 	#list of loot tables which shouldn't be converted (in the format of ["modid:loot_table", "othermodid:other_loot_table"])
 	loot_table_blacklist = []
 	#list of modids whose loot tables shouldn't be converted (in the format of ["modid", "other_modid"])
-	loot_modid_blacklist = []
+	loot_modid_blacklist = ["dungeoncrawl"]
 	#list of loot tables whose conversion causes problems (in the same format as `loot_table_blacklist`)
 	problematic_loot_tables = ["twilightforest:structures/stronghold_boss", "atum:chests/pharaoh"]
 
