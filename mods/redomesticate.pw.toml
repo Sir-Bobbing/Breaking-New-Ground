@@ -1,13 +1,25 @@
-name = "Redomesticate"
-filename = "redomesticate-neoforge-1.21.1-1.1.0.jar"
-side = "both"
+filename = 'redomesticate-neoforge-1.21.1-1.3.0.jar'
+name = 'Redomesticate'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Redomesticate Neoforge 1.21.1 - 1.3.0'
 
 [download]
-hash-format = "sha1"
-hash = "08fb420c4ce90f3deba18fa8efb2a37564a3888d"
-mode = "metadata:curseforge"
+hash = '3e9ffca2b964f5b82d5da48bbfe7c6cc2663dcf3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
-file-id = 8089231
+file-id = 8091013
 project-id = 1541881
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '324717'
+type = 'OPTIONAL'
