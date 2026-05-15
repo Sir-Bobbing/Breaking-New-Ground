@@ -16,5 +16,6 @@
 
 # Installation
 
-Main: [Main Branch]([url](https://github.com/Sir-Bobbing/Breaking-New-Ground/releases/download/0.0.1/BNG-Main.zip))
+Main: [Main Branch](https://github.com/Sir-Bobbing/Breaking-New-Ground/releases/download/0.0.1/BNG-Main.zip)
+
 Dev: 
