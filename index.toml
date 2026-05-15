@@ -1065,6 +1065,10 @@ file = "mods/controlling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/copper-tools-armor-backport.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/copycats+-aeronautics-weight.pw.toml"
 metafile = true
 
@@ -1338,6 +1342,10 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/incremental-mining.pw.toml"
 metafile = true
 
 [[files]]

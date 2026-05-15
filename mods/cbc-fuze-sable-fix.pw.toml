@@ -10,7 +10,7 @@ x-prismlauncher-version-number = 'CBC fuze Sable fix NeoForge 1.21.1'
 hash = 'a53bf6d01b03935c467bba1de6e024446f358aac'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+url = 'https://www.curseforge.com/minecraft/mc-mods/cbc-fuze-sable-fix/files/8031344'
 
 [update.curseforge]
 file-id = 8031344
