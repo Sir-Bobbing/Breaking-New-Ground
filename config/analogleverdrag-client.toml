@@ -66,8 +66,8 @@
 	#Sensitivity for Create and DnDecor linear levers.
 	# Default: 0.65
 	# Range: 0.01 ~ 10.0
-	linear_sensitivity = 0.65
+	linear_sensitivity = 0.15
 	#Sensitivity for the Supplementaries circular crank.
 	# Default: 0.6
 	# Range: 0.01 ~ 10.0
-	circular_sensitivity = 0.6
+	circular_sensitivity = 0.4
