@@ -913,10 +913,6 @@ file = "mods/almanac.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ambientsounds.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/amendments.pw.toml"
 metafile = true
 
@@ -1049,10 +1045,6 @@ file = "mods/cpmoscc.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics-compatability.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics.pw.toml"
 metafile = true
 
@@ -1137,10 +1129,6 @@ file = "mods/custom-player-models.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/customoreveins.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/decorative-blocks-reborn.pw.toml"
 metafile = true
 
@@ -1170,10 +1158,6 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/dramatic-doors.pw.toml"
 metafile = true
 
 [[files]]
@@ -1238,10 +1222,6 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/fluidvoidfading.pw.toml"
 metafile = true
 
 [[files]]
@@ -1321,15 +1301,11 @@ file = "mods/kobolds.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/kotlin-for-forge.pw.toml"
+file = "mods/kotlin-lang-forge.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/large-ore-veins.pw.toml"
 metafile = true
 
 [[files]]
@@ -1350,10 +1326,6 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/lodestonelib.pw.toml"
 metafile = true
 
 [[files]]
@@ -1389,15 +1361,7 @@ file = "mods/modernfix.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/modopedia.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/no-broken-armor.pw.toml"
 metafile = true
 
 [[files]]
@@ -1410,10 +1374,6 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/nobroken.pw.toml"
 metafile = true
 
 [[files]]
@@ -1462,10 +1422,6 @@ metafile = true
 
 [[files]]
 file = "mods/portfolio.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/preferred-gamerules.pw.toml"
 metafile = true
 
 [[files]]
@@ -1537,11 +1493,7 @@ file = "mods/searchables.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/separate-sable-distance.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sky-aesthetics.pw.toml"
+file = "mods/simulated-gauges.pw.toml"
 metafile = true
 
 [[files]]
@@ -1593,7 +1545,7 @@ file = "mods/spyglass-improvements.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/stepupagain.pw.toml"
+file = "mods/ssrd.pw.toml"
 metafile = true
 
 [[files]]
@@ -1609,10 +1561,6 @@ file = "mods/storagedrawers.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/styled-nicknames.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 metafile = true
 
@@ -1622,10 +1570,6 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml"
 metafile = true
 
 [[files]]
@@ -1642,10 +1586,6 @@ metafile = true
 
 [[files]]
 file = "mods/trash-cans.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/true-ending.pw.toml"
 metafile = true
 
 [[files]]
