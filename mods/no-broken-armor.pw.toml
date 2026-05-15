@@ -1,6 +1,6 @@
 name = "No Broken Armor"
 filename = "NobrokenArmor-mc1.21-fabric-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QcTqO1UG/versions/l6qCaXqK/NobrokenArmor-mc1.21-fabric-1.0.0.jar"

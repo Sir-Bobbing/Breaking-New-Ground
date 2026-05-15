@@ -1,6 +1,6 @@
 name = "Luminous: Monsters"
 filename = "Luminous Monsters V1.2.8 - NeoForge 1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TzC3nDsQ/versions/TfJjGBM2/Luminous%20Monsters%20V1.2.8%20-%20NeoForge%201.21.1.jar"
