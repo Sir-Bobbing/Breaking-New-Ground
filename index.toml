@@ -589,10 +589,6 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "48e87e143d91b12352f8424ad3ef4e91b93b861937948b6e162c7008e5dca3dd"
 
 [[files]]
-file = "config/jei/world/local/New_World__13/lookupHistory.json"
-hash = "3e371dd479484c425e4dfe67435beb8a2373cc6b30cc9f96a40f928074b40b9f"
-
-[[files]]
 file = "config/leavesbegone-server.toml"
 hash = "e41e4f60aa1919d031ef42aa5af412ad8198390c3833cab3f617f6392aaf9cfc"
 
@@ -630,6 +626,10 @@ hash = "aace1b4159040842078f8fd8da3d780620289b1d2ee6f5ac01d33c8fc8d4bc01"
 
 [[files]]
 file = "config/malum-client-2.toml.bak"
+hash = "aace1b4159040842078f8fd8da3d780620289b1d2ee6f5ac01d33c8fc8d4bc01"
+
+[[files]]
+file = "config/malum-client-3.toml.bak"
 hash = "aace1b4159040842078f8fd8da3d780620289b1d2ee6f5ac01d33c8fc8d4bc01"
 
 [[files]]
@@ -1324,7 +1324,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "4e6b365e3c0b9c7538e851c44192d9e29fe958af2e895f398f25546b4f17852e"
+hash = "f2a22e7ff733aa059dcfea7472da3255ac00ac3902ce937eeba3a65b6ec00740"
 metafile = true
 
 [[files]]
@@ -1784,7 +1784,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "e78842f465b32c63f5bec466ae674b6319fcea9db0f0ff077e86ad5de39df322"
+hash = "5afe6535ca36df0aefe9f97cb7aa817bc90e47c5fd1b1e8282d5514a57113a08"
 metafile = true
 
 [[files]]
@@ -1954,7 +1954,7 @@ metafile = true
 
 [[files]]
 file = "mods/redomesticate.pw.toml"
-hash = "81433cd0ff6b727baa158640ea3315f1ff7e15cb5c5f72610279597120fbbcb5"
+hash = "876282386bc085e2150752d23e82ca66165a9c3cf13ca572d72d2c9cb70ad13a"
 metafile = true
 
 [[files]]
@@ -2089,7 +2089,7 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "b3873fbdc75b5f067bab9de2135062a9200d0ae94ae07b1995a64c9ec357f381"
+hash = "1ef1186df6398c9249a85fb6d168e84d7be8710b0a47b1b6ff1694b3e837f6c1"
 metafile = true
 
 [[files]]
