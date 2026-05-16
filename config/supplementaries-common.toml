@@ -143,11 +143,11 @@
 		#Allows all entities to be captured by cages and jars. Not meant for survival
 		allow_all_mobs = false
 		#Allows all baby mobs to be captured by cages
-		cage_allow_all_babies = false
+		cage_allow_all_babies = true
 		#Dynamically allows all small mobs inside cages depending on their hitbox size
 		cage_auto_detect = false
 		#Makes it so all (hostile) mobs captured by cages and jars will be set to persistent so they won't despawn when released
-		persistent_mobs = false
+		persistent_mobs = true
 		#Health percentage under which mobs will be allowed to be captured by cages and jars. Leave at 100 to accept any health level
 		# Default: 100
 		# Range: 1 ~ 100
@@ -174,7 +174,7 @@
 		#How many slots should a sack have
 		# Default: 9
 		# Range: 1 ~ 27
-		slots = 9
+		slots = 12
 
 	[functional.bamboo_spikes]
 		enabled = true

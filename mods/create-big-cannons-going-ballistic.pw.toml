@@ -1,13 +1,22 @@
-name = "Create Big Cannons: Going Ballistic"
-filename = "cbc_going_ballistic-0.1.3.jar"
-side = "both"
+filename = 'cbc_going_ballistic-0.1.3.jar'
+name = 'Create Big Cannons: Going Ballistic'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.1.3'
 
 [download]
-url = "https://cdn.modrinth.com/data/xxaCKdq3/versions/iEuWoUeT/cbc_going_ballistic-0.1.3.jar"
-hash-format = "sha512"
-hash = "429cb9f3a95d95d2e682179601ebbed96184b206d0706b4f975e700e9b1fbe2c9f5402d4b8137f24acee2c779411931d32f34eb22505629758b8f678159470ed"
+hash = '429cb9f3a95d95d2e682179601ebbed96184b206d0706b4f975e700e9b1fbe2c9f5402d4b8137f24acee2c779411931d32f34eb22505629758b8f678159470ed'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xxaCKdq3/versions/iEuWoUeT/cbc_going_ballistic-0.1.3.jar'
 
-[update]
 [update.modrinth]
-mod-id = "xxaCKdq3"
-version = "iEuWoUeT"
+mod-id = 'xxaCKdq3'
+version = 'iEuWoUeT'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'GWp4jCJj'
+type = 'REQUIRED'
+version = 'bsGaXKEd'

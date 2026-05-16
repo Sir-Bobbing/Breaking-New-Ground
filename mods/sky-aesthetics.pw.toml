@@ -1,13 +1,18 @@
-name = "Sky Aesthetics"
-filename = "sky_aesthetics-neoforge-2.0.13-beta.jar"
-side = "client"
+filename = 'sky_aesthetics-neoforge-2.0.13-beta.jar'
+name = 'Sky Aesthetics'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '2.0.13-beta'
 
 [download]
-url = "https://cdn.modrinth.com/data/2zaNpyqY/versions/CCCpQYZS/sky_aesthetics-neoforge-2.0.13-beta.jar"
-hash-format = "sha512"
-hash = "7a2c47fe988ec01bd4328047bde641cd458fa5beb4042d09acd11d91d247bc56c3c72a7de0fb185845cd44b4f2a9ed622a7a09d0129235fcd66c91a253088175"
+hash = '7a2c47fe988ec01bd4328047bde641cd458fa5beb4042d09acd11d91d247bc56c3c72a7de0fb185845cd44b4f2a9ed622a7a09d0129235fcd66c91a253088175'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2zaNpyqY/versions/CCCpQYZS/sky_aesthetics-neoforge-2.0.13-beta.jar'
 
-[update]
 [update.modrinth]
-mod-id = "2zaNpyqY"
-version = "CCCpQYZS"
+mod-id = '2zaNpyqY'
+version = 'CCCpQYZS'
