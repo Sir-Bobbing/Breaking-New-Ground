@@ -125,14 +125,6 @@ file = "config/betterpingdisplay-client.toml"
 hash = "e3ea7a04c684bab4eccdf8dfd866cc01d041195fca88ef1dc19e9b0fbe0dc811"
 
 [[files]]
-file = "config/bits_n_bobs-common.toml"
-hash = "07d43b2d02e4d8e6588736973af399ac1ff0e30a3855bb9cc1ef89fdf646f9e4"
-
-[[files]]
-file = "config/bits_n_bobs-server.toml"
-hash = "4478eae9b70774b0568c09c758e63ebd37b1579c80ca88804498f7129c69f2f4"
-
-[[files]]
 file = "config/blueprint-client.toml"
 hash = "cf742e2b9b3d16a1a9cb448b47f2434f7c7148b6af74192d59a4006c19ddc557"
 
@@ -147,10 +139,6 @@ hash = "1bb070627f60188b5924bd27f1e7fbf0b4cfe573c8a1f54bf7927c3c4d437f05"
 [[files]]
 file = "config/brewinandchewin-common.toml"
 hash = "cf7e8f3ae75a942e0c8b62f14fa68df3963b47c9c38895c2d7ba59c2bcb079ab"
-
-[[files]]
-file = "config/c2me.toml"
-hash = "93b45b68c9211e7d9ac07673aeb6ed2015e40a838ba2d750eedb2cde28c7892a"
 
 [[files]]
 file = "config/cbc_equally_opposite-common.toml"
@@ -230,7 +218,7 @@ hash = "d7922ae120ea9aab0b43eb76ed814ac69b567e8332539e224792be5335a4b650"
 
 [[files]]
 file = "config/cpm.json"
-hash = "8f3181aecb018adc8f9d7d1185815bd326145b1cf4b9cdeea1cfd143d324c70e"
+hash = "161de1b5aa749b79d4b62755834bf8becd4fbe72de0587b3eb3f6bd6ad0e0dca"
 
 [[files]]
 file = "config/create-client.toml"
@@ -273,8 +261,12 @@ file = "config/createpropulsion-client.toml"
 hash = "ed4c5599ccd8916b39fd40ec83b9b665cd7ed511bf4c773cb56e1e9a22d34055"
 
 [[files]]
-file = "config/createpropulsion-common.toml"
+file = "config/createpropulsion-common-1.toml.bak"
 hash = "0b4081d539a1cba794f2d62859099eacd036130ab1112960a1c4a6b47c6d7d02"
+
+[[files]]
+file = "config/createpropulsion-common.toml"
+hash = "400dc9e864d539bf6754bb8b490d0dd0781ba2467af394aba90575ad80720a8b"
 
 [[files]]
 file = "config/creativecore-client.json"
@@ -341,6 +333,10 @@ file = "config/dummmmmmy-common.toml"
 hash = "be81c20c752e33060eef2c8e8fe841cbf76863751fc48e1b0f3158eec4cb7c0c"
 
 [[files]]
+file = "config/dungeon_crawl-1.toml.bak"
+hash = "3a942d50aa59bf4e229d9ca6d781a849703fc33b6b5251031cd622d1233e1699"
+
+[[files]]
 file = "config/dungeon_crawl.toml"
 hash = "42519f8d877ea64b1c5af0921925c4c814403549f1e9cf6fbde02c30590d2cd1"
 
@@ -398,15 +394,27 @@ hash = "6ecab953789d91c8100bbad6195ca4e9966dd73049be083070e57e484440fe24"
 
 [[files]]
 file = "config/everycomp-entries-1.toml.bak"
-hash = "e6346b13d8ab594b650eb0836fc0d0c8c9ce2b235bfe735ef8a44700591bbb1e"
+hash = "48138015c92ca6b54f0ccc7666138ad5e8a1469044fed42bea9e080a9f2706e9"
 
 [[files]]
 file = "config/everycomp-entries-2.toml.bak"
+hash = "e628c786c47a5dea92886374b3e1f244725c145230e3d6974f5f5d9bfc873136"
+
+[[files]]
+file = "config/everycomp-entries-3.toml.bak"
+hash = "d54d74b3399800158da499061d986cd42598898f4f629214006b3fdd33fc0a43"
+
+[[files]]
+file = "config/everycomp-entries-4.toml.bak"
+hash = "e6346b13d8ab594b650eb0836fc0d0c8c9ce2b235bfe735ef8a44700591bbb1e"
+
+[[files]]
+file = "config/everycomp-entries-5.toml.bak"
 hash = "68a6f07ea694482b58aea9d3a4a3371327ea9e7a2ee90fb283a8078cecc2cbc1"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "d54d74b3399800158da499061d986cd42598898f4f629214006b3fdd33fc0a43"
+hash = "b77b6bca161014994cccce5a42a813572d2a9785bd00e395b28b06301f9285b5"
 
 [[files]]
 file = "config/everycomp-hazardous.toml"
@@ -562,7 +570,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "af9e2d04af72306941e544e15758383524d2c4eb43f3125ee265c7a97c98a140"
+hash = "3dcaaecd448003f28c6c4dcd020b058a99e4f38b1369fcd952e2b2d246d56aec"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -586,7 +594,15 @@ hash = "4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "48e87e143d91b12352f8424ad3ef4e91b93b861937948b6e162c7008e5dca3dd"
+hash = "08420be133467712ef59aba8cf32a8113e9b0b23b7576358eefd9b30a6d3c6c8"
+
+[[files]]
+file = "config/jei/world/local/Oregen/lookupHistory.json"
+hash = "2684043b88e5f803ca2935ddab4aff8c8ab57307b36a22a3b811ca0494fde314"
+
+[[files]]
+file = "config/jei/world/local/SC_Aero_test/lookupHistory.json"
+hash = "df3cd809fe40a6ad2358c92fbe13fd69838bdbb59d25f18623ad70830cc086eb"
 
 [[files]]
 file = "config/leavesbegone-server.toml"
@@ -633,6 +649,14 @@ file = "config/malum-client-3.toml.bak"
 hash = "aace1b4159040842078f8fd8da3d780620289b1d2ee6f5ac01d33c8fc8d4bc01"
 
 [[files]]
+file = "config/malum-client-4.toml.bak"
+hash = "aace1b4159040842078f8fd8da3d780620289b1d2ee6f5ac01d33c8fc8d4bc01"
+
+[[files]]
+file = "config/malum-client-5.toml.bak"
+hash = "aace1b4159040842078f8fd8da3d780620289b1d2ee6f5ac01d33c8fc8d4bc01"
+
+[[files]]
 file = "config/malum-client.toml"
 hash = "aace1b4159040842078f8fd8da3d780620289b1d2ee6f5ac01d33c8fc8d4bc01"
 
@@ -654,7 +678,7 @@ hash = "ee24e2b1bc100942a1c605f996255742cd6a5bb3662877aa906bc301100ccf27"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "f7684457ca67d68a8df81e6f63b2f1bc6e3d9e3633ef60eef45c55d9c50d026a"
+hash = "a0ba63e34f1a8babffe8f103d9f0d4c548de117484e3c869d539552b10241f95"
 
 [[files]]
 file = "config/moonlight-client.toml"
@@ -697,6 +721,10 @@ file = "config/nomansland-startup.toml"
 hash = "b7a93ec0f76c28f8e2a21433fe4011742c200ca8b565bcb7223c127c7d34196d"
 
 [[files]]
+file = "config/notenoughcrashes.json"
+hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
+
+[[files]]
 file = "config/offroad-server.toml"
 hash = "7dda83d4436419564b495e65b4123ab8453eb926cdd8dabc526e41d3ace6bf40"
 
@@ -707,6 +735,10 @@ hash = "e7fc10ebe579ba3773d5650a6cb5912ed97543b6dd3b20174c9a491329b41be8"
 [[files]]
 file = "config/particlerain/config.json"
 hash = "bd8abf7000e1cd681b090d8425b808f196297b6af473826405321d037e6fdd3a"
+
+[[files]]
+file = "config/particlerain/particles.json"
+hash = "6073e4ccdf51cebfb0c911bae2700771dc04a213cf3e180b7076de1655b493c9"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -742,7 +774,7 @@ hash = "9187ba73098c3860d4c8bb6e3404d24d9415c4ff4ed621a01de89fb6d97c40d6"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
-hash = "5aa89cb23625cdbcb37089d9b1471252b3a773d9b7b13fd6729b3fcf1feac1b3"
+hash = "774274e780bee5bf90b8114e59429b5b3a26222b4dca7d8df8b1dd438b33a003"
 
 [[files]]
 file = "config/prospectingpicks-common.toml"
@@ -750,7 +782,7 @@ hash = "4349ee2eabd0b11cfba6b675f4cf9bccbee12ab7b9b40fb1ea0fc7f3cf3c87fd"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "a16cc0c0b6b86a61440805dd5afd5b6231fa83f4ab70b5c05d112ec91c02117b"
+hash = "aab6ee07e8d9f699eabf9e48ac5e551f523f9894f968581d0e2d8fbda00a64dc"
 
 [[files]]
 file = "config/redomesticate.json"
@@ -797,8 +829,12 @@ file = "config/scguns-client.toml"
 hash = "95cece7299e0bb26e1c1f7132fff6c0ed9e8d415e97a7d38879fe44b6d1bf106"
 
 [[files]]
-file = "config/scguns-common.toml"
+file = "config/scguns-common-1.toml.bak"
 hash = "8dfa4d6bb7060b19f9a5943696d15a00c1893f79994eb95e268a6f77ab1c4b92"
+
+[[files]]
+file = "config/scguns-common.toml"
+hash = "ed879bbf468c3b01d6fe9d8b24a053b33b8aab181ab2ee0eec092707238097b8"
 
 [[files]]
 file = "config/scguns-server.toml"
@@ -823,10 +859,6 @@ hash = "39e1269b6b3cec623ab69a170ee184c7504c302968c0213ccfbb0dcec71e3964"
 [[files]]
 file = "config/simulated-server.toml"
 hash = "4eb8a653258d8f7aa303fa77c34df800785b543116d5bc41ae613adec8000202"
-
-[[files]]
-file = "config/sky_aesthetics.json"
-hash = "19558d4070f194719cf66046f52cc226b402ae37e2ad5b016ea22d96a17ded50"
 
 [[files]]
 file = "config/sliceanddice-client.toml"
@@ -897,20 +929,16 @@ file = "config/spyglass-improvements/settings.json"
 hash = "0a19036936420b0045fab196758eacb65f31e8560d41b858a6afebe63208f4a0"
 
 [[files]]
+file = "config/ssrd-common.toml"
+hash = "1f9ef7c974c6d97b5b79916eddcf3002318965068f58fdbdbce8ecf9c640abc4"
+
+[[files]]
 file = "config/stonezone-common.toml"
 hash = "7030c4327882a865fff6f2cd56e7f85dfd06046ead5a29fed91d6b00b8d02710"
 
 [[files]]
 file = "config/stonezone-hazardous.toml"
 hash = "fc0bcc406e60714376c56716a061f92f887b165a0867fec6183a6074211f6db1"
-
-[[files]]
-file = "config/storagedrawers-client.toml"
-hash = "208db3e4a920d34d9d72e8bee35ea202f59c018cc8d5d53c83896947f75cf205"
-
-[[files]]
-file = "config/storagedrawers-common.v2.toml"
-hash = "f85f909e20ab3a7b9db17013e21bca303dfb8f677a0308d7e64cdc85fcd1ac58"
 
 [[files]]
 file = "config/styled-nicknames.json"
@@ -935,10 +963,6 @@ hash = "59aa4c66b0533991c42f4e1305ed7ab3f54621679be86bd8f7362b91a8517d46"
 [[files]]
 file = "config/tfmg-server.toml"
 hash = "6b1f369aed48e1dff6ce4cb5d89014fc986eeedbcdb3f8a853191a4bb6d8c84b"
-
-[[files]]
-file = "config/tipsmod.json"
-hash = "2e5e6b293b2251a6acdc55a9e5210c6a78b7fc176b0504f042d106c9350dfca1"
 
 [[files]]
 file = "config/toms_storage-common.toml"
@@ -1061,14 +1085,6 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/block/example_block.png"
-hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/example_item.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
-
-[[files]]
 file = "kubejs/client_scripts/main.js"
 hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
 
@@ -1083,6 +1099,26 @@ hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 [[files]]
 file = "kubejs/config/web_server.json"
 hash = "13ff2e041598f8b12e44fbf8d63b25f088c43d025193b0062863113559ac73eb"
+
+[[files]]
+file = "kubejs/data/create/neoforge/biome_modifier/zinc_ore.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/createpropulsion/neoforge/biome_modifier/add_ore_platinum.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/createpropulsion/neoforge/biome_modifier/add_ore_platinum_buried.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/createpropulsion/neoforge/biome_modifier/add_ore_platinum_large.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/createpropulsion/neoforge/biome_modifier/add_ore_platinum_medium.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
 
 [[files]]
 file = "kubejs/data/dimension_hop/function/load.mcfunction"
@@ -1157,6 +1193,34 @@ file = "kubejs/data/lootintegrations/loot/loot_pruins_water.json"
 hash = "504f7c3d7a430611f8b7f33149c87636ca5bbdeb1b20ae6fa035235dda2c56f8"
 
 [[files]]
+file = "kubejs/data/malum/neoforge/biome_modifier/blazing_quartz_ore.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/malum/neoforge/biome_modifier/brilliant_ore.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/malum/neoforge/biome_modifier/cthonic_gold_ore.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/malum/neoforge/biome_modifier/deepslate_quartz_geode.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/malum/neoforge/biome_modifier/natural_quartz_ore.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/malum/neoforge/biome_modifier/quartz_geode.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/malum/neoforge/biome_modifier/soulstone_ore.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
 file = "kubejs/data/minecraft/dimension_type/overworld.json"
 hash = "0a7724a67b4b5623b65e3002edf8dfa36959e17423b90bc7fa6a7a62dda098ea"
 
@@ -1166,7 +1230,7 @@ hash = "39a6e6aa24e2fb916910bb6120b4864879a5f378831d15cb319c43632fd3bf69"
 
 [[files]]
 file = "kubejs/data/minecraft/dimension_type/the_nether.json"
-hash = "2f1a4c1218a2c04c9f0fbe56fb4f349b1e87ba4cdd6cfa7e09428da61c0c4d40"
+hash = "360731697a58adc00f8055ad3cf9fd1d2652e1313c24bd05aa71eaae5f852bfe"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/function/load.json"
@@ -1197,12 +1261,164 @@ file = "kubejs/data/minecraft/worldgen/noise_settings/overworld.json"
 hash = "2813eb6796c683491e4ea2d7fc464d16c461004b53a934a26659264b73859e2f"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_coal_lower.json"
+hash = "6d2d613fb1024a43d7da752170f3ff177b187abbc2f783c3f0d6fcebb9f27f2a"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_coal_upper.json"
+hash = "57bb7a3dcf84493c402dc482bd88206ddf0085c37574723bb9add200c048ca55"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond.json"
+hash = "c101683a3a2cacee7d427d817b53a8e3da086fc8923cc5492d910f69c3581302"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_buried.json"
+hash = "b170292617a8403c6be28a88e03cbaf4f76b01518b6b07529cdf98287114994a"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_large.json"
+hash = "f2f6d921b1c8768b115b6f06d739d83280b820134c63f262411743eded66a574"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_medium.json"
+hash = "f4e4fff0bac896a6865eb9afb1a1c9443682460bd54d360df5fe7b103638c1c9"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_emerald.json"
+hash = "7044e77d7eed27f7f19a68d8115043cb11f49fd9c3152cfb65f9019a5c1cf218"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold.json"
+hash = "cc88cef43edf527dd6027c7ef188ed947c3b9349cd75484eabf83f2c6afa7f8f"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_deltas.json"
+hash = "70a4ddfbe3ca4817c2b5c5ee279e77e7e3466b96420922af69e5c90a52752bf5"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_extra.json"
+hash = "4238a3b08f12734e57ec004f661ab918240d287123f8e848ab6f82fe8105ef4b"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_lower.json"
+hash = "cc88cef43edf527dd6027c7ef188ed947c3b9349cd75484eabf83f2c6afa7f8f"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_nether.json"
+hash = "70a4ddfbe3ca4817c2b5c5ee279e77e7e3466b96420922af69e5c90a52752bf5"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_middle.json"
+hash = "0449f5bd6593282d38faa799fc8bde95c6270ff45e33aa274192fe57141520dc"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_small.json"
+hash = "266a3a2362deda8a6e66ea59adc91597e3068f38aa05a53c9da1f271b2fae2e5"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_upper.json"
+hash = "0449f5bd6593282d38faa799fc8bde95c6270ff45e33aa274192fe57141520dc"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_lapis.json"
+hash = "d309f0fbb51433c4b33301c70d65d26373c3ad7d8d1fbd302cf9377139a748f5"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_lapis_buried.json"
+hash = "84e58be76357fa449eb9368b3744480a2075416cbe3d1035605d267eeeb1197b"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_quartz_deltas.json"
+hash = "7c3185007ec946d99490abc5cfa5fa03ad2fcb0384eb5259318d0bd7bd74cec6"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_quartz_nether.json"
+hash = "7c3185007ec946d99490abc5cfa5fa03ad2fcb0384eb5259318d0bd7bd74cec6"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_redstone.json"
+hash = "171fefb7c72bfc5a17f1a9bc30e04cfef72c22fa4cffb3d0b6d11466b71a91f7"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_redstone_lower.json"
+hash = "171fefb7c72bfc5a17f1a9bc30e04cfef72c22fa4cffb3d0b6d11466b71a91f7"
+
+[[files]]
+file = "kubejs/data/ore_gen/neoforge/biome_modifier/ore_noise.json"
+hash = "27c2da329e27e4995f713edec1fa148fd9816aee3e2166925ab429696ee320af"
+
+[[files]]
+file = "kubejs/data/ore_gen/worldgen/configured_feature/noise_stripes_coal.json"
+hash = "d2bd6c55d654b9736cf431c2aca916813acb321c661f940388302b32868a5e46"
+
+[[files]]
+file = "kubejs/data/ore_gen/worldgen/placed_feature/noise_coal.json"
+hash = "e371dd100832f18317af281cd6cb0601c76b8bda7b8056908fa60c9fbf0a98ee"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/anthralite_ore.json"
+hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/nether_sulfur_ore.json"
+hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/sulfur_ore.json"
+hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/vehement_coal_ore.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
 file = "kubejs/data/simulated/end_sea/overworld.json"
 hash = "f390a92a94ed876ebebfc98f817238fb4bfaacc04a634a734bc796b5362ce715"
 
 [[files]]
 file = "kubejs/data/simulated/end_sea/the_nether.json"
 hash = "93398cdd344898e442a428afa76afb56ec91e375bfcf4cf1c45867bd76d06526"
+
+[[files]]
+file = "kubejs/data/spelunkery/neoforge/biome_modifier/nether_modifier.json"
+hash = "1b55d1ba7e740045b46610581cd96855cfecb81369848a7780845fc7a1ca2c23"
+
+[[files]]
+file = "kubejs/data/spelunkery/tags/worldgen/biome/has_desert_noise.json"
+hash = "8193e154337320e41ad4de2699e7a59303109a755cac73cd8f846709ff132c12"
+
+[[files]]
+file = "kubejs/data/spelunkery/tags/worldgen/biome/has_dirt_noise.json"
+hash = "4e3856e4b979c44b975747b1099e9de66036d4c80787b42d530660b8f52f2bed"
+
+[[files]]
+file = "kubejs/data/spelunkery/tags/worldgen/biome/has_ocean_noise.json"
+hash = "112d5087292d01bab6c06be3888b6fbd7d35d0bbfa56a7544108265bd8c0e4e4"
+
+[[files]]
+file = "kubejs/data/spelunkery/tags/worldgen/biome/has_stone_noise.json"
+hash = "c6629105c155419869027578800c312ab6035f6d929123a0a8661a76b78c3bb5"
+
+[[files]]
+file = "kubejs/data/spelunkery/tags/worldgen/biome/has_swamp_noise.json"
+hash = "8b69f204a518d089ea82efbdb019277aea41420ab5f7db3bb3a77f562efd78ff"
+
+[[files]]
+file = "kubejs/data/tfmg/neoforge/biome_modifier/lead_ore.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/tfmg/neoforge/biome_modifier/lithium_ore.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/tfmg/neoforge/biome_modifier/nickel_ore.json"
+hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
+
+[[files]]
+file = "kubejs/data/tfmg/worldgen/configured_feature/tfmg_striated_ores_nether.json"
+hash = "b5d5745f08d22908df0dcb4ace45185c711e01f338f15bbfb8a2ad8ccb38c06f"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
@@ -1313,18 +1529,8 @@ hash = "17f6dc669018b4450ccb3a5eafbc7b681b92336d189cf98d6df9ee726da28804"
 metafile = true
 
 [[files]]
-file = "mods/bookshelf-lib.pw.toml"
-hash = "ba3081449d58c1d0b3438c1fa238c6de65067bb1f00b42c22604321e26ecf1fc"
-metafile = true
-
-[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "902f58c6daa3adab75d47c81b0b227eca3bd265ef6a2f56608efd1f5f99779f0"
-metafile = true
-
-[[files]]
-file = "mods/c2me-neoforge.pw.toml"
-hash = "f2a22e7ff733aa059dcfea7472da3255ac00ac3902ce937eeba3a65b6ec00740"
 metafile = true
 
 [[files]]
@@ -1373,6 +1579,11 @@ hash = "b6b9e514a420b92d3e8259422fcca1c401879fcba62b8c10f06fac1adabef1f3"
 metafile = true
 
 [[files]]
+file = "mods/cool-rain-reforged.pw.toml"
+hash = "b6f3aa0f2249dcd8dfa468f73f224d0e39b3f70c35e4355a2f274eb03c2f0dcf"
+metafile = true
+
+[[files]]
 file = "mods/copper-tools-armor-backport.pw.toml"
 hash = "f1f391220d1baddf47b80d3602c1ecf0e713eaf79354633342598bbcc445d991"
 metafile = true
@@ -1414,7 +1625,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons-equally-opposite.pw.toml"
-hash = "14db091637bf59131512beda6320654bc19eddde120140c0820de6bfc4575e86"
+hash = "5a35f7e075dcdd3f71e3d79853f5043cb896bd90e4dffc0e088763500026e58c"
 metafile = true
 
 [[files]]
@@ -1425,11 +1636,6 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "41b6fd03f19b3fd2b0cb81669f1591308693e4a87c0d74fc6e9201a3e399de47"
-metafile = true
-
-[[files]]
-file = "mods/create-bits-n-bobs.pw.toml"
-hash = "3f4767000b82b1abb84da1162fe39203e437c43da98b08dc78a8a05a1f9aad5c"
 metafile = true
 
 [[files]]
@@ -1445,6 +1651,11 @@ metafile = true
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "4b2377b2395e82eef2dea3b12e0730f8e27c861be6b46506de9ae028544de4d1"
+metafile = true
+
+[[files]]
+file = "mods/create-nowheel.pw.toml"
+hash = "e5676933035759987fb97f1e400366fcdf33390d4054a29d1fbee613efc0aa8d"
 metafile = true
 
 [[files]]
@@ -1510,11 +1721,6 @@ metafile = true
 [[files]]
 file = "mods/custom-player-models.pw.toml"
 hash = "59adfc3c3d6c20e23f4ed5034135d4275ff392ee52bccaff56dc55b10dba2346"
-metafile = true
-
-[[files]]
-file = "mods/customoreveins.pw.toml"
-hash = "3e3be1ef4009dccad50f4dc27331d277f5c36423c3c6aacc5de09779d48a93c5"
 metafile = true
 
 [[files]]
@@ -1590,6 +1796,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
 hash = "a6d446759910bfb98c8a796dc08db1086dc42306d98528d1100da861c041f302"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-ore-veins.pw.toml"
+hash = "78fbc999983ca61daa9bc33863cf8246862a6b46e2c0449dcd549bcf66b6ed87"
 metafile = true
 
 [[files]]
@@ -1724,7 +1935,7 @@ metafile = true
 
 [[files]]
 file = "mods/incremental-mining.pw.toml"
-hash = "993afff3621eb86a09522e91a15e6ac023d134a25e83fb201ca8ddd8bdc951a9"
+hash = "a2eefd7e288fd597f2fbd95d28f4394067d64202706eeec8c7167903f2c110c9"
 metafile = true
 
 [[files]]
@@ -1843,11 +2054,6 @@ hash = "f68ef5c391c3a8d78d1e499e37e833d70a76edc27d9ed92859dfc7666704ab1d"
 metafile = true
 
 [[files]]
-file = "mods/no-broken-armor.pw.toml"
-hash = "2d7803aee8bc977f5595d109fa439a283c0a2bec67f06ff0f96e69ce8184f0d1"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "38b151f3a919dd52bf0cd98d0ea768243c23335f2ac6e312c12bc0ae837a2af5"
 metafile = true
@@ -1873,6 +2079,11 @@ hash = "a92097d7a2743abeb37669cedee7efd91854a1aae045f1be7b2f83c347def454"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "a2e9eb49d44ae59d13ec7bd75eb43d66da4a4654b9631f693dafd792d65e4bc4"
+metafile = true
+
+[[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "8dc52c2517aa437dec2e4edf90e90b96df5d2d486083f1ccb8ed753e1ac2ac8d"
 metafile = true
@@ -1880,11 +2091,6 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "ba8a8ac1bfa36486c89f0c099bb46b26337c79682a75944b1417d28cbd131d1a"
-metafile = true
-
-[[files]]
-file = "mods/oxide.pw.toml"
-hash = "aa56a4637efa6130f05d4787041cb88914b72cb00f5dc042af73857b2da5f0ff"
 metafile = true
 
 [[files]]
@@ -1930,11 +2136,6 @@ metafile = true
 [[files]]
 file = "mods/preferred-gamerules.pw.toml"
 hash = "b5d40071cb8511343078786fada0e0a7a913ead85ddb63267bd272e1ca19e329"
-metafile = true
-
-[[files]]
-file = "mods/prickle.pw.toml"
-hash = "4930361828dbdbb889e87900c50730c9e1fca24d59a5cf22a4f8ff24a268eba0"
 metafile = true
 
 [[files]]
@@ -2004,7 +2205,7 @@ metafile = true
 
 [[files]]
 file = "mods/scorched-guns-neoforged.pw.toml"
-hash = "e0e510a82b984c7de4c675390db2332bb0c0c69b975f043439e4fd8e3e7be53c"
+hash = "03530a0c2f2ed1ac73f439107571615b0de40a0817514536491e2e13ceecb596"
 metafile = true
 
 [[files]]
@@ -2020,11 +2221,6 @@ metafile = true
 [[files]]
 file = "mods/simulated-gauges.pw.toml"
 hash = "194be234ec946940552f9fd3277fb249aca551befce3042afbd5527e6a52bea6"
-metafile = true
-
-[[files]]
-file = "mods/sky-aesthetics.pw.toml"
-hash = "c28670d85ae46be569b8261b359dec0e63c1fa13bc66058b3ce9dd27e55f9484"
 metafile = true
 
 [[files]]
@@ -2108,11 +2304,6 @@ hash = "07ac16b01844a2b3201a96acbb689d41bd88b10927076b2364ac0d710c376011"
 metafile = true
 
 [[files]]
-file = "mods/storagedrawers.pw.toml"
-hash = "5c5df97d91c0f2c2d2dc181ac326408cc70d79d3c988e6f7d42b1013d50d2ab7"
-metafile = true
-
-[[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "98e7fca829ca9824c0fec9c57befb20529f526d00b9742ff5289083052fd106d"
 metafile = true
@@ -2130,11 +2321,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "b95225452166c96ed50a0224dbb233991648e709565b17c5fa0d60e406af3b9c"
-metafile = true
-
-[[files]]
-file = "mods/tips.pw.toml"
-hash = "a83e0dc24b89ecfc950cef0db95e68c6263b07d678878d14a1a4354b226491af"
 metafile = true
 
 [[files]]
@@ -2188,5 +2374,10 @@ hash = "8c8b0b51480caddd63ff459450a5811d9d7900c1c55796d3318b01060864b855"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Create+Simple+Storage+Solid+GUI 1.1.zip"
-hash = "b06263643403277519aa48f37bd09d94305068c11062fb06c1c4a375e40778df"
+file = "resourcepacks/.index/toms-metal-storage.pw.toml"
+hash = "5e47a81f97622ce7db9bb8525d351b2767c5819e35a5329ffb905ef540e329ca"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Tom's Metal Storage v1.2 (1.21.1).zip"
+hash = "61ea83a33ec670ffc75bddf3d6bbba65da54affda9b6e2adf323cfd959a3ab98"

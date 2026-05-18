@@ -8,7 +8,7 @@
   "wetSoundsVolume": 50,
   "foliageSoundsVolume": 100,
   "maxSteppingEntities": 50,
-  "disabled": true,
+  "disabled": false,
   "firstRun": true,
   "multiplayer": true,
   "global": true,

@@ -34,11 +34,11 @@
 		[types.stone_type.dndecor]
 			cut_stone = true
 
-		[types.stone_type.scguns]
-			phosphorite = true
-
 		[types.stone_type.nomansland]
 			silt = true
+
+		[types.stone_type.scguns]
+			phosphorite = true
 
 		[types.cake.nomansland]
 			fruit_cake = true
@@ -192,15 +192,6 @@
 			window_pane = true
 			window = true
 
-		[entries.wood_type.storagedrawers]
-			half_drawers_1 = true
-			half_drawers_4 = true
-			half_drawers_2 = true
-			trim = true
-			full_drawers_2 = true
-			full_drawers_4 = true
-			full_drawers_1 = true
-
 		[entries.wood_type.quark]
 			vertical_planks = true
 			chest = true
@@ -218,6 +209,10 @@
 
 		[entries.wood_type.farmersdelight]
 			cabinet = true
+
+		[entries.wood_type.dramaticdoors]
+			short_door = true
+			tall_door = true
 
 		[entries.leaves_type.quark]
 			hedge = true

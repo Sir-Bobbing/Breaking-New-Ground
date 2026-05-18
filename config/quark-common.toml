@@ -768,7 +768,7 @@
 	"Monster Box" = false
 	"Nether Obsidian Spikes" = false
 	"New Stone Types" = false
-	"No More Lava Pockets" = true
+	"No More Lava Pockets" = false
 	Permafrost = false
 	"Spiral Spires" = false
 
@@ -1336,7 +1336,7 @@
 
 [mobs]
 	Crabs = true
-	Forgotten = false
+	Forgotten = true
 	Foxhound = false
 	Shiba = false
 	Stonelings = false

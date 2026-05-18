@@ -1,27 +1,27 @@
-filename = 'cbc_equally_opposite-0.1.0.jar'
+filename = 'cbc_equally_opposite-0.1.1.jar'
 name = 'Create Big Cannons: Equally Opposite'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.1.0'
+x-prismlauncher-version-number = '0.1.1'
 
 [download]
-hash = 'b63a402f2caebd6b1b50145d66cd43ee09a90fffdb9327f70bde56776899d4f4f335382cde98670ce6a987686cbb7fe67a560c374f8128e9c9cd5a2e972d403c'
+hash = '5f52ed6ee594a4778c94633dedbe811e0e9c2835802abde2bfe8e6cac73758e8b2b1355fc8b218c4bd3ee589ca2a25e92dc6f814ea9a1ff8681f2388cee37ca0'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/9PsdRq7Q/versions/Ui9CXHTf/cbc_equally_opposite-0.1.0.jar'
+url = 'https://cdn.modrinth.com/data/9PsdRq7Q/versions/aoRyreZe/cbc_equally_opposite-0.1.1.jar'
 
 [update.modrinth]
 mod-id = '9PsdRq7Q'
-version = 'Ui9CXHTf'
+version = 'aoRyreZe'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'REQUIRED'
+version = 'EV0eDTeG'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'GWp4jCJj'
 type = 'REQUIRED'
 version = 'bsGaXKEd'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'T9PomCSv'
-type = 'REQUIRED'
-version = '3FMsUjO4'
