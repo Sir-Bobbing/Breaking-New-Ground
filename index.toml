@@ -2741,7 +2741,7 @@ metafile = true
 
 [[files]]
 file = "mods/deployer.pw.toml"
-hash = "d2f61d0d8ff1af24ef8506c88d16386189cfaec4f73ffc98c43550e360a943db"
+hash = "85619611c4bdb059b58e81c8edaac8a9ea6dc090a91651e98a1bc145944b8d5a"
 metafile = true
 
 [[files]]
@@ -3146,7 +3146,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "8ccf9d2e03aa6b33f8a3d35a993bd4333f0d30ec306cb21b4c42392a5f1d3249"
+hash = "58234e8bd7f691826ba0c0ef0f114f9f9788ca8f5b5b1a17c0afef7c496c3b25"
 metafile = true
 
 [[files]]
@@ -3336,7 +3336,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "146da50f10614f2cf438ff8a419836b12d8a545c2951cfbb414155cfcfc46256"
+hash = "c70cfcfa5551ec5d75107acd104b3cc1f9605735b318058741983c75256608c9"
 metafile = true
 
 [[files]]
@@ -3361,7 +3361,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/.index/toms-metal-storage.pw.toml"
-hash = "5e47a81f97622ce7db9bb8525d351b2767c5819e35a5329ffb905ef540e329ca"
+hash = "b8aa7846cf63ed0f736d97637c7076f84f708044b3843677c11aa8ff6e3b6755"
 metafile = true
 
 [[files]]

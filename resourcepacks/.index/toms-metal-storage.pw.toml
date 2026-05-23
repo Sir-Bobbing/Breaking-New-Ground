@@ -10,7 +10,7 @@ x-prismlauncher-version-number = '1.2'
 hash = '0e3ad181f4e2db12801dd581e26608a588e40d75314d313380224b5f58f87e131cd27a61fd5c783202cb6bffb409d76db635f605c04a8a4bcbdf498bde9095ce'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/nIS7bKS0/versions/wQUux8uy/Tom%27s Metal Storage v1.2 %281.21.1%29.zip'
+url = 'https://modrinth.com/resourcepack/toms-metal-storage/version/1.2'
 
 [update.modrinth]
 mod-id = 'nIS7bKS0'

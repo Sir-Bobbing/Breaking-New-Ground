@@ -10,7 +10,7 @@ x-prismlauncher-version-number = 'Deployer [0.1.2]'
 hash = 'c3d2d9baad2e714cb8bf8ae6df9bc9cac6e87c1c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+url = 'https://www.curseforge.com/minecraft/mc-mods/deployer/files/7981471'
 
 [update.curseforge]
 file-id = 7981471

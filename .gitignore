@@ -15,6 +15,5 @@ lookupHistory.json
 ssrd-common.toml
 config/spark/activity.json
 /config/fabric
-config/cpm.json
+cpm.json
 resourcepacks/Tom's Metal Storage v1.2 (1.21.1).zip
-config/cpm.json
