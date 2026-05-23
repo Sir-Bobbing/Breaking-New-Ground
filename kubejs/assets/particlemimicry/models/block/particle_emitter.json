@@ -1,0 +1,25 @@
+{
+	"credit": "Sir Bobbing",
+    "parent": "minecraft:block/block",	
+	"textures": {
+		"1": "particlemimicry:block/particle_emitter_bottom",
+		"4": "particlemimicry:block/particle_emitter_side",
+		"6": "particlemimicry:block/particle_emitter_top",
+		"particle": "particlemimicry:block/particle_emitter_side"
+		
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"up": {"uv": [16, 16, 0, 0], "texture": "#6"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#1"}
+			}
+		}
+	]
+}

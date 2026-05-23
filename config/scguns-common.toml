@@ -58,6 +58,18 @@
 		dissidentSpawnChance = 0.1
 		#If true, guns will automatically start reloading when fired with an empty magazine if ammo is available
 		enableAutoReload = true
+		#Global multiplier for mob fire rate. 1.0 = normal speed, 0.5 = faster, 2.0 = slower.
+		# Default: 1.0
+		# Range: 0.1 ~ 5.0
+		mobFireRateMultiplier = 2.0
+		#Multiplier for delay between mob gun bursts. Higher values add longer pauses between bursts.
+		# Default: 1.0
+		# Range: 0.1 ~ 5.0
+		mobBurstDelayMultiplier = 1.0
+		#Global multiplier for mob gun damage after difficulty scaling.
+		# Default: 1.0
+		# Range: 0.01 ~ 100.0
+		mobGunDamageMultiplier = 1.0
 		#If true, allows flamethrowers to place fire on blocks
 		enableFirePlacement = true
 
@@ -94,7 +106,7 @@
 	#Properties relating to mob aggression from gunfire
 	[common.aggro_mobs]
 		#If true, hostile mobs may become aggressive when guns are fired nearby.
-		enabled = true
+		enabled = false
 		#Range in which hostile mobs may detect and react to unsilenced gunfire.
 		# Default: 20.0
 		# Range: 0.0 ~ 1.7976931348623157E308
@@ -129,6 +141,17 @@
 		#LEGACY: Additional entities that will flee from gunshots. Animals are automatically detected. Use the 'scguns:fleeing_from_guns' entity tag instead for better mod compatibility.
 		fleeingEntities = ["minecraft:villager"]
 
+	#Properties relating to natural Scorched Guns mob spawning
+	[common.natural_mob_spawning]
+		#If true, naturally-spawning hostile Scorched Guns mobs can also spawn during daytime.
+		#Night spawning is unchanged.
+		enableDaytimeAggressiveMobSpawns = false
+		#Hostile Scorched Guns mobs allowed to spawn during daytime will not naturally spawn within this many blocks of a bed.
+		#This protects player bases without blocking daytime spawns in naturally bright open areas. Set to 0 to disable.
+		# Default: 48
+		# Range: 0 ~ 256
+		daytimeAggressiveMobBaseProtectionRadius = 48
+
 	#Gun Mob Spawning Configuration
 	[common.gunner_config]
 		#If enabled, mobs will have a chance to spawn with guns.
@@ -158,7 +181,7 @@
 	#Scorched Guns raid configuration
 	[common.raids]
 		#If enabled, Scorched Guns raid flares and nightly raid scheduling can start custom raids.
-		raidsEnabled = true
+		raidsEnabled = false
 		#Chance each night to schedule a progression raid for an eligible player.
 		# Default: 0.2
 		# Range: 0.0 ~ 1.0
@@ -302,14 +325,3 @@
 		# Default: 1.7976931348623157E308
 		# Range: 0.0 ~ 1.7976931348623157E308
 		max_scaled_damage = 1.7976931348623157E308
-
-	#Properties relating to natural Scorched Guns mob spawning
-	[common.natural_mob_spawning]
-		#If true, naturally-spawning hostile Scorched Guns mobs can also spawn during daytime.
-		#Night spawning is unchanged.
-		enableDaytimeAggressiveMobSpawns = false
-		#Hostile Scorched Guns mobs allowed to spawn during daytime will not naturally spawn within this many blocks of a bed.
-		#This protects player bases without blocking daytime spawns in naturally bright open areas. Set to 0 to disable.
-		# Default: 48
-		# Range: 0 ~ 256
-		daytimeAggressiveMobBaseProtectionRadius = 48

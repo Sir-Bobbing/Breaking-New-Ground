@@ -1,6 +1,28 @@
 {
 	// If you notice a fluid not rendering transparent try adding it's identifier here
 	"AdditionalTransparentFluids": [
-		"minecraft:flowing_lava"
+		"minecraft:flowing_lava",
+		"create:flowing_honey",
+		"create:flowing_chocolate",
+		"tfmg:flowing_heavy_oil",
+		"tfmg:flowing_crude_oil",
+		"tfmg:flowing_molten_plastic",
+		"tfmg:flowing_molten_steel",
+		"tfmg:flowing_molten_slag",
+		"tfmg:flowing_creosote",
+		"tfmg:flowing_kerosene",
+		"tfmg:flowing_naptha",
+		"tfmg:flowing_gasoline",
+		"tfmg:flowing_diesel",
+		"tfmg:flowing_liquid_silicon",
+		"tfmg:flowing_lubrication_oil",
+		"tfmg:flowing_napalm",
+		"tfmg:flowing_sulfuric_acid",
+		"tfmg:flowing_cooling_fluid",
+		"createbigcannons:flowing_molten_bronze",
+		"createbigcannons:flowing_cast_iron",
+		"sliceanddice:flowing_fertilizer",
+		"scguns:vicious_acid_flowing",
+		"aeronautics:flowing_levitite_blend"
 	]
 }

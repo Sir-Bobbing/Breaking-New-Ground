@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "spelunkery:raw_magnetite_nugget"
+    },
+    "B": {
+      "tag": "c:plates/cast_iron"
+    },
+    "C": {
+      "tag": "c:ender_pearls"
+    }
+  },
+  "result": {
+    "id": "chunkloaders:basic_chunk_loader"
+  }
+}

@@ -19,8 +19,6 @@
 		turn_off_animation = true
 
 	[television.live_feed]
-		#Draws the date and time on the live feed texture
-		draw_date = false
 		#How many times per second the television updates its live feed texture. Lowering this will improve performance but make the video less smooth, fractions work too
 		# Default: 10.0
 		# Range: 1.0 ~ 60.0
@@ -60,4 +58,4 @@
 		#Enable bilinear sampling for rescaled images. Enable for a less pixelated look
 		bilinear_sampling = false
 		#A list of regex which will filter out valid URLs. At least one of these must match for a URL video to work
-		save_urls = []
+		safe_urls = []

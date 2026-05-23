@@ -160,28 +160,6 @@
 			drawer = true
 			chair = true
 
-		[entries.wood_type.refurbished_furniture]
-			storage_cabinet = true
-			storage_jar = true
-			kitchen_cabinetry = true
-			crate = true
-			desk = true
-			chair = true
-			light_ceiling_fan = true
-			cutting_board = true
-			drawer = true
-			table = true
-			mail_box = true
-			dark_ceiling_fan = true
-			kitchen_sink = true
-			toilet = true
-			lattice_fence = true
-			basin = true
-			kitchen_drawer = true
-			lattice_fence_gate = true
-			bath = true
-			kitchen_storage_cabinet = true
-
 		[entries.wood_type.decorative_blocks]
 			beam = true
 			support = true
@@ -193,13 +171,13 @@
 			window = true
 
 		[entries.wood_type.quark]
-			vertical_planks = true
-			chest = true
-			ladder = true
+			vertical_planks = false
+			chest = false
+			ladder = false
 			hollow_log = true
 			post = true
-			trapped_chest = true
-			bookshelf = true
+			trapped_chest = false
+			bookshelf = false
 			stripped_post = true
 			vertical_slab = true
 
@@ -217,6 +195,3 @@
 		[entries.leaves_type.quark]
 			hedge = true
 			leaf_carpet = true
-
-		[entries.leaves_type.refurbished_furniture]
-			hedge = true

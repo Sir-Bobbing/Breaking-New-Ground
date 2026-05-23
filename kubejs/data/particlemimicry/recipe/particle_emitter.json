@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "G": {
+      "tag": "c:glass_blocks"
+    },
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    },
+    "S": {
+      "item": "minecraft:smooth_stone"
+    },
+    "S": {
+      "item": "spelunkery:cinnabar"
+    }
+  },
+  "pattern": [
+    "IGI",
+    "IQI",
+    "SCS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "particlemimicry:particle_emitter"
+  }
+}

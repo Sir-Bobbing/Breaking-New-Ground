@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ACA",
+    "CDC",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "spelunkery:diamond_shard"
+    },
+    "C": {
+      "item": "tfmg:heavy_plate"
+    },
+    "D": {
+      "item": "chunkloaders:advanced_chunk_loader"
+    }
+  },
+  "result": {
+    "id": "chunkloaders:ultimate_chunk_loader"
+  }
+}

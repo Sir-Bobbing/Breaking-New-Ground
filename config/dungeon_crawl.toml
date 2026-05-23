@@ -18,7 +18,7 @@
 	#----------------------------------------------------------------------------------------------------+
 	# Whether the dungeons should have secret rooms or not.
 	#
-	secret_rooms = true
+	secret_rooms = false
 	#----------------------------------------------------------------------------------------------------+
 	# Whether loot tables of certain spawner entities should be overwritten.
 	# For example, wither skeletons from dungeon spawners will never drop skulls if this is enabled.

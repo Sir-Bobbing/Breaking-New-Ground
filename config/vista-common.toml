@@ -10,3 +10,9 @@
 	#Where the wave gate is obtainable.
 	#Allowed Values: CRAFTABLE, CREATIVE_ONLY, OFF
 	wave_gate_enabled = "CREATIVE_ONLY"
+	#Allows the server to send chunks that a player could be able to see from one of the tvs nearby that is linked to a view finder far away.
+	send_chunks_viewed_by_view_finders = true
+	#Server loads chunks that are near a far away view finder linked to a tv that's close to at least 1 player. Will increase server strain
+	chunkload_chunks_viewed_by_view_finders = false
+	#Makes connected tvs just have a square aspect ratio. If you set to false cassettes will be stretched and will look worse as a result
+	square_aspect_ratio = true

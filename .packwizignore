@@ -10,3 +10,4 @@ sodiumdynamiclights-client.toml
 stepup.json
 indigo-renderer.properties
 *.tmpssrd-common.toml
+config/cpm.json

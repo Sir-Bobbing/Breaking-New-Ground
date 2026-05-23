@@ -1,0 +1,27 @@
+filename = 'drivebywire-typewriter-1.0.1.jar'
+name = 'Drive-By-Wire:Typewriter'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '1.0.1'
+
+[download]
+hash = '07c916df73510b6f715eb578367802a4be00ef88052495693aa28a4ade001400dac0af2b6b7ff056cb0880e7b763e7d28cd09e23784c465938b47eb34c75a5c5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lDYpnxit/versions/I7aL73ff/drivebywire-typewriter-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'lDYpnxit'
+version = 'I7aL73ff'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'KsqvI0hD'
+type = 'REQUIRED'
+version = 'c9Usu0Mo'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'oWaK0Q19'
+type = 'REQUIRED'
+version = '1sv6OtSz'
