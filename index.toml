@@ -161,10 +161,6 @@ file = "config/brewinandchewin-common.toml"
 hash = "cf7e8f3ae75a942e0c8b62f14fa68df3963b47c9c38895c2d7ba59c2bcb079ab"
 
 [[files]]
-file = "config/cbc_equally_opposite-common-1.toml.bak"
-hash = "68bc1db4f738db02332a04d7c07e2f54187ee93fbbf2c895d724e9fcb10e1b0b"
-
-[[files]]
 file = "config/cbc_equally_opposite-common.toml"
 hash = "6f28d0aa967dca29cd0c4cf614a463bd993b82d6e12b9fadeb6324fd9b758826"
 
@@ -293,10 +289,6 @@ file = "config/createpropulsion-client.toml"
 hash = "ed4c5599ccd8916b39fd40ec83b9b665cd7ed511bf4c773cb56e1e9a22d34055"
 
 [[files]]
-file = "config/createpropulsion-common-1.toml.bak"
-hash = "0b4081d539a1cba794f2d62859099eacd036130ab1112960a1c4a6b47c6d7d02"
-
-[[files]]
 file = "config/createpropulsion-common.toml"
 hash = "400dc9e864d539bf6754bb8b490d0dd0781ba2467af394aba90575ad80720a8b"
 
@@ -369,10 +361,6 @@ file = "config/dummmmmmy-common.toml"
 hash = "be81c20c752e33060eef2c8e8fe841cbf76863751fc48e1b0f3158eec4cb7c0c"
 
 [[files]]
-file = "config/dungeon_crawl-1.toml.bak"
-hash = "3a942d50aa59bf4e229d9ca6d781a849703fc33b6b5251031cd622d1233e1699"
-
-[[files]]
 file = "config/dungeon_crawl.toml"
 hash = "1b44feecfa20691db369f0ada33e5151ecf090908a7c2a11b95694c4de0c41ce"
 
@@ -427,26 +415,6 @@ hash = "f4d0c2784c248ec9df8c21f5c809083435ea0d9b645cc648184f06f223e7cba6"
 [[files]]
 file = "config/everycomp-common.toml"
 hash = "6ecab953789d91c8100bbad6195ca4e9966dd73049be083070e57e484440fe24"
-
-[[files]]
-file = "config/everycomp-entries-1.toml.bak"
-hash = "e84418e7fc99778b8f72bac048d4e399756351c9f23a075181d7540b27d11a16"
-
-[[files]]
-file = "config/everycomp-entries-2.toml.bak"
-hash = "b77b6bca161014994cccce5a42a813572d2a9785bd00e395b28b06301f9285b5"
-
-[[files]]
-file = "config/everycomp-entries-3.toml.bak"
-hash = "48138015c92ca6b54f0ccc7666138ad5e8a1469044fed42bea9e080a9f2706e9"
-
-[[files]]
-file = "config/everycomp-entries-4.toml.bak"
-hash = "e628c786c47a5dea92886374b3e1f244725c145230e3d6974f5f5d9bfc873136"
-
-[[files]]
-file = "config/everycomp-entries-5.toml.bak"
-hash = "d54d74b3399800158da499061d986cd42598898f4f629214006b3fdd33fc0a43"
 
 [[files]]
 file = "config/everycomp-entries.toml"
@@ -581,16 +549,8 @@ file = "config/immersiveenchanting-server.toml"
 hash = "f967e40de287a2adf9cf26c734a0461c52d0e7040f45e9b10cbf1e1b29de70b2"
 
 [[files]]
-file = "config/incrementalmining-client-1.toml.bak"
-hash = "71fea5c5e8a083d861a611f4eb938ac121fff5f4eb40c806b5046c09571da2bc"
-
-[[files]]
 file = "config/incrementalmining-client.toml"
 hash = "1879621c6b675909e0e3879f11e159955889ad18d46e5415b09af7790ee3feb7"
-
-[[files]]
-file = "config/incrementalmining-server-1.toml.bak"
-hash = "79fc301a05dea620294c613f8be3d7594a4c55f76a0ff1d03b2e6372d700ac0c"
 
 [[files]]
 file = "config/incrementalmining-server.toml"
@@ -649,40 +609,8 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "ed6fb7aa29f3e05fb318916ea7ecbeaa18d8d8408a14580b2796b538550f037e"
 
 [[files]]
-file = "config/jei/world/local/New_World/lookupHistory.json"
-hash = "68257012b6dcdaf35083c2eed72782cfa1e9a799c916f5a159bc3d1d97323398"
-
-[[files]]
-file = "config/jei/world/local/New_World__1/lookupHistory.json"
-hash = "d1c17e4fe05e9581a4ac8f33af005dab86565ad2a89e208e5525eb02a586f683"
-
-[[files]]
-file = "config/jei/world/local/New_World__17/lookupHistory.json"
-hash = "91699975d902e5c67c3ad713278c1a37bc399ee298b567fc92d43dce1fa09986"
-
-[[files]]
-file = "config/jei/world/local/New_World__2/lookupHistory.json"
-hash = "fe6bab95cc3dd3b87a1b531909ecbaab21d46af152057727c405adb1402121d0"
-
-[[files]]
-file = "config/jei/world/local/Oregen/lookupHistory.json"
-hash = "2684043b88e5f803ca2935ddab4aff8c8ab57307b36a22a3b811ca0494fde314"
-
-[[files]]
 file = "config/jei/world/local/Recipe_Tweaks/bookmarks.json"
 hash = "6e95db8c26da8483eed89d20f80bb10c1d31b6aec57731d30c09072dbd0fdfe9"
-
-[[files]]
-file = "config/jei/world/local/Recipe_Tweaks/lookupHistory.json"
-hash = "9af04e91f37c98d35f3edfb06dd10f735e61479f2cdacce67df83029ab11505b"
-
-[[files]]
-file = "config/jei/world/local/SC_Aero_test/lookupHistory.json"
-hash = "df3cd809fe40a6ad2358c92fbe13fd69838bdbb59d25f18623ad70830cc086eb"
-
-[[files]]
-file = "config/jei/world/local/SC_Aero_test3/lookupHistory.json"
-hash = "77b1bda729a9fd50907b15b33342732a9e74b49f588cc4c4502f60a95bd5fcff"
 
 [[files]]
 file = "config/leavesbegone-server.toml"
@@ -715,26 +643,6 @@ hash = "4dd03ec5be94c8e56794c8fb0d0d1c907228d6881787d06e2743035e1dd4ca10"
 [[files]]
 file = "config/lootr-common.toml"
 hash = "cbac72131d1a46c8f095e1a0997f81a2c6000d9d926eecb38d63d206a7ff9ac4"
-
-[[files]]
-file = "config/malum-client-1.toml.bak"
-hash = "aace1b4159040842078f8fd8da3d780620289b1d2ee6f5ac01d33c8fc8d4bc01"
-
-[[files]]
-file = "config/malum-client-2.toml.bak"
-hash = "aace1b4159040842078f8fd8da3d780620289b1d2ee6f5ac01d33c8fc8d4bc01"
-
-[[files]]
-file = "config/malum-client-3.toml.bak"
-hash = "aace1b4159040842078f8fd8da3d780620289b1d2ee6f5ac01d33c8fc8d4bc01"
-
-[[files]]
-file = "config/malum-client-4.toml.bak"
-hash = "aace1b4159040842078f8fd8da3d780620289b1d2ee6f5ac01d33c8fc8d4bc01"
-
-[[files]]
-file = "config/malum-client-5.toml.bak"
-hash = "aace1b4159040842078f8fd8da3d780620289b1d2ee6f5ac01d33c8fc8d4bc01"
 
 [[files]]
 file = "config/malum-client.toml"
@@ -1001,10 +909,6 @@ file = "config/styled-nicknames.json"
 hash = "de64b17dd2bfa4439d5873e741c8278e4dbbbe0039cbea3c53f7b5de067f368e"
 
 [[files]]
-file = "config/supplementaries-client-1.toml.bak"
-hash = "da1372da61bb4ff4a3a1c86e36db75af614fad7ba2f8746cb8bae59a22e04db0"
-
-[[files]]
 file = "config/supplementaries-client.toml"
 hash = "1a72034740e1f1fe59ea846c7cb6293adbb9db9982d2ff800d1e153aa9daecdd"
 
@@ -1027,10 +931,6 @@ hash = "6b1f369aed48e1dff6ce4cb5d89014fc986eeedbcdb3f8a853191a4bb6d8c84b"
 [[files]]
 file = "config/toms_storage-common.toml"
 hash = "b54cd94393754928944a5705e3c3c783144efa6541231895482eb3e031834605"
-
-[[files]]
-file = "config/toms_storage-server-1.toml.bak"
-hash = "e6abae3180927a8c4347a898e030a75a9018f06ff8fcfbdba4d1ec63e66e6233"
 
 [[files]]
 file = "config/toms_storage-server.toml"
@@ -1057,24 +957,8 @@ file = "config/trender.json"
 hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
 
 [[files]]
-file = "config/vista-client-1.toml.bak"
-hash = "1f07c239e4b92efcd01ad6304ec20a98f258236ec9071fe0aabab556efdc8eea"
-
-[[files]]
-file = "config/vista-client-2.toml.bak"
-hash = "078e49da542233f440723d971e1e7b1aee8d75d40b6bbab5ff5bf6416352c63a"
-
-[[files]]
 file = "config/vista-client.toml"
 hash = "2cf9bc06044dbeb31166c956e2de7f988433be0e71d29138cf54cb18cf9bb6b4"
-
-[[files]]
-file = "config/vista-common-1.toml.bak"
-hash = "412744218d5d4811aeb4912d01b261bd75ab53df5f349929a905fd8c7f310ff3"
-
-[[files]]
-file = "config/vista-common-2.toml.bak"
-hash = "5c25d9ff9e17d4a571271b08fd0e9b58cc984ee384dd96780777180da80c9625"
 
 [[files]]
 file = "config/vista-common.toml"

@@ -12,3 +12,5 @@ indigo-renderer.properties
 *.tmpssrd-common.toml
 config/cpm.json
 .index
+*.bak
+lookupHistory.json
