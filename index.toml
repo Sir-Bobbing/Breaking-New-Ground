@@ -1,0 +1,2487 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+
+[[files]]
+file = "config/FluidVoidFading.json5"
+
+[[files]]
+file = "config/Luminous Monsters Configuration.toml"
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+
+[[files]]
+file = "config/SoundPhysicsPerfected.json5"
+
+[[files]]
+file = "config/aeronautics-server.toml"
+
+[[files]]
+file = "config/aileron.json"
+
+[[files]]
+file = "config/almanac-common.toml"
+
+[[files]]
+file = "config/ambientsounds-client.json"
+
+[[files]]
+file = "config/amendments-client.toml"
+
+[[files]]
+file = "config/amendments-common.toml"
+
+[[files]]
+file = "config/analogleverdrag-client.toml"
+
+[[files]]
+file = "config/analogleverdrag-common.toml"
+
+[[files]]
+file = "config/antiportals-common.toml"
+
+[[files]]
+file = "config/appleskin-client.toml"
+
+[[files]]
+file = "config/architects_palette-common.toml"
+
+[[files]]
+file = "config/armourers_workshop-client.toml"
+
+[[files]]
+file = "config/armourers_workshop-common.toml"
+
+[[files]]
+file = "config/artifacts/client.toml"
+
+[[files]]
+file = "config/artifacts/general.toml"
+
+[[files]]
+file = "config/artifacts/items.toml"
+
+[[files]]
+file = "config/bagofholding-client.toml"
+
+[[files]]
+file = "config/bagofholding-server.toml"
+
+[[files]]
+file = "config/better-advanced-tooltips-client.toml"
+
+[[files]]
+file = "config/betteradvancements-client.toml"
+
+[[files]]
+file = "config/betterclouds-v1.json"
+
+[[files]]
+file = "config/betterf3.toml"
+
+[[files]]
+file = "config/betterpingdisplay-client.toml"
+
+[[files]]
+file = "config/biggerstacks-client.toml"
+
+[[files]]
+file = "config/biggerstacks-local.toml"
+
+[[files]]
+file = "config/biggerstacks-rules.xml"
+
+[[files]]
+file = "config/biggerstacks-server.toml"
+
+[[files]]
+file = "config/biggerstacks-template-overrides.json"
+
+[[files]]
+file = "config/blueprint-client.toml"
+
+[[files]]
+file = "config/blueprint-common.toml"
+
+[[files]]
+file = "config/brewinandchewin-client.toml"
+
+[[files]]
+file = "config/brewinandchewin-common.toml"
+
+[[files]]
+file = "config/cbc_equally_opposite-common.toml"
+
+[[files]]
+file = "config/cbc_going_ballistic-common.toml"
+
+[[files]]
+file = "config/chalk-client.toml"
+
+[[files]]
+file = "config/chalk-common.toml"
+
+[[files]]
+file = "config/chunkloaders-common.toml"
+
+[[files]]
+file = "config/chunky/config.json"
+
+[[files]]
+file = "config/chunky/tasks/minecraft/overworld.properties"
+
+[[files]]
+file = "config/combatnouveau-client.toml"
+
+[[files]]
+file = "config/combatnouveau-common.toml"
+
+[[files]]
+file = "config/combatnouveau-server.toml"
+
+[[files]]
+file = "config/comforts-common.toml"
+
+[[files]]
+file = "config/comforts-server.toml"
+
+[[files]]
+file = "config/connector.json"
+
+[[files]]
+file = "config/copper_tools_armor_backport-common.toml"
+
+[[files]]
+file = "config/copycats-client.toml"
+
+[[files]]
+file = "config/copycats-common.toml"
+
+[[files]]
+file = "config/copycats-server.toml"
+
+[[files]]
+file = "config/corpse-server.toml"
+
+[[files]]
+file = "config/cosmeticarmorreworked-client.toml"
+
+[[files]]
+file = "config/cosmeticarmorreworked-common.toml"
+
+[[files]]
+file = "config/create-client.toml"
+
+[[files]]
+file = "config/create-common.toml"
+
+[[files]]
+file = "config/create-server.toml"
+
+[[files]]
+file = "config/create_connected-common.toml"
+
+[[files]]
+file = "config/create_connected-server.toml"
+
+[[files]]
+file = "config/create_radar-client.toml"
+
+[[files]]
+file = "config/create_radar-server.toml"
+
+[[files]]
+file = "config/createbigcannons-client.toml"
+
+[[files]]
+file = "config/createbigcannons-server.toml"
+
+[[files]]
+file = "config/createdynlight-client.toml"
+
+[[files]]
+file = "config/createdynlight-server.toml"
+
+[[files]]
+file = "config/createpropulsion-client.toml"
+
+[[files]]
+file = "config/createpropulsion-common.toml"
+
+[[files]]
+file = "config/creativecore-client.json"
+
+[[files]]
+file = "config/creativecore.json"
+
+[[files]]
+file = "config/creeperoverhaul.jsonc"
+
+[[files]]
+file = "config/crepperoverhaul-client.jsonc"
+
+[[files]]
+file = "config/cupboard.json"
+
+[[files]]
+file = "config/curios-client.toml"
+
+[[files]]
+file = "config/curios-common.toml"
+
+[[files]]
+file = "config/curios-server.toml"
+
+[[files]]
+file = "config/deeper_oceans.json"
+
+[[files]]
+file = "config/deployer-server.toml"
+
+[[files]]
+file = "config/dimthread-common.toml"
+
+[[files]]
+file = "config/ding.toml"
+
+[[files]]
+file = "config/dndecor-server.toml"
+
+[[files]]
+file = "config/dramaticdoors-startup.toml"
+
+[[files]]
+file = "config/drivebywire-common.toml"
+
+[[files]]
+file = "config/dummmmmmy-client.toml"
+
+[[files]]
+file = "config/dummmmmmy-common.toml"
+
+[[files]]
+file = "config/dungeon_crawl.toml"
+
+[[files]]
+file = "config/easyanvils-client.toml"
+
+[[files]]
+file = "config/easyanvils-common.toml"
+
+[[files]]
+file = "config/easyanvils-server.toml"
+
+[[files]]
+file = "config/emojitype.json"
+
+[[files]]
+file = "config/endermanoverhaul-client.jsonc"
+
+[[files]]
+file = "config/endermanoverhaul.jsonc"
+
+[[files]]
+file = "config/entityculling.json"
+
+[[files]]
+file = "config/envelope-client.toml"
+
+[[files]]
+file = "config/envelope-server.toml"
+
+[[files]]
+file = "config/etched-client.toml"
+
+[[files]]
+file = "config/etched-server.toml"
+
+[[files]]
+file = "config/everycomp-client.toml"
+
+[[files]]
+file = "config/everycomp-common.toml"
+
+[[files]]
+file = "config/everycomp-entries.toml"
+
+[[files]]
+file = "config/everycomp-hazardous.toml"
+
+[[files]]
+file = "config/extra_gauges-client.toml"
+
+[[files]]
+file = "config/extra_gauges-common.toml"
+
+[[files]]
+file = "config/extra_gauges-server.toml"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+
+[[files]]
+file = "config/figura.json"
+
+[[files]]
+file = "config/flywheel-client.toml"
+
+[[files]]
+file = "config/fml.toml"
+
+[[files]]
+file = "config/fzzy_config/keybinds.toml"
+
+[[files]]
+file = "config/gallery-client.toml"
+
+[[files]]
+file = "config/gallery-common.toml"
+
+[[files]]
+file = "config/gun_scaling/main.toml"
+
+[[files]]
+file = "config/ichunutil/ichunutil-client.toml"
+
+[[files]]
+file = "config/ichunutil/themes/aztec.json"
+
+[[files]]
+file = "config/ichunutil/themes/blue&black.json"
+
+[[files]]
+file = "config/ichunutil/themes/blue&orange.json"
+
+[[files]]
+file = "config/ichunutil/themes/default.json"
+
+[[files]]
+file = "config/ichunutil/themes/grassgreen.json"
+
+[[files]]
+file = "config/ichunutil/themes/green&black.json"
+
+[[files]]
+file = "config/ichunutil/themes/lazygray.json"
+
+[[files]]
+file = "config/ichunutil/themes/monogeneric.json"
+
+[[files]]
+file = "config/ichunutil/themes/nightblack.json"
+
+[[files]]
+file = "config/ichunutil/themes/red&black.json"
+
+[[files]]
+file = "config/ichunutil/themes/skyblue.json"
+
+[[files]]
+file = "config/ichunutil/themes/whitelight.json"
+
+[[files]]
+file = "config/immediatelyfast.json"
+
+[[files]]
+file = "config/immersive_paintings/client_config.toml"
+
+[[files]]
+file = "config/immersive_paintings/common_config.toml"
+
+[[files]]
+file = "config/immersiveenchanting-client.toml"
+
+[[files]]
+file = "config/immersiveenchanting-server.toml"
+
+[[files]]
+file = "config/incrementalmining-client.toml"
+
+[[files]]
+file = "config/incrementalmining-server.toml"
+
+[[files]]
+file = "config/iteminteractions-client.toml"
+
+[[files]]
+file = "config/iteminteractions-server.toml"
+
+[[files]]
+file = "config/itemphysic-client.json"
+
+[[files]]
+file = "config/itemphysic.json"
+
+[[files]]
+file = "config/jei-server.toml"
+
+[[files]]
+file = "config/jei/blacklist.json"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+
+[[files]]
+file = "config/jei/world/local/Recipe_Tweaks/bookmarks.json"
+
+[[files]]
+file = "config/leavesbegone-server.toml"
+
+[[files]]
+file = "config/letmedespawn.json"
+
+[[files]]
+file = "config/lithium.properties"
+
+[[files]]
+file = "config/lithostitched.json"
+
+[[files]]
+file = "config/lodestone-client.toml"
+
+[[files]]
+file = "config/lootintegrations.json"
+
+[[files]]
+file = "config/lootr-client.toml"
+
+[[files]]
+file = "config/lootr-common.toml"
+
+[[files]]
+file = "config/malum-client.toml"
+
+[[files]]
+file = "config/malum-common.toml"
+
+[[files]]
+file = "config/midnightlib.json"
+
+[[files]]
+file = "config/mixed_litter-startup.toml"
+
+[[files]]
+file = "config/modernfix-common.toml"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+
+[[files]]
+file = "config/moonlight-client.toml"
+
+[[files]]
+file = "config/moonlight-common.toml"
+
+[[files]]
+file = "config/neoforge-client.toml"
+
+[[files]]
+file = "config/neoforge-common.toml"
+
+[[files]]
+file = "config/neoforge-server.toml"
+
+[[files]]
+file = "config/nerb/compat/emi.yaml"
+
+[[files]]
+file = "config/nerb/general.yaml"
+
+[[files]]
+file = "config/nomansland-client.toml"
+
+[[files]]
+file = "config/nomansland-common.toml"
+
+[[files]]
+file = "config/nomansland-startup.toml"
+
+[[files]]
+file = "config/notenoughcrashes.json"
+
+[[files]]
+file = "config/nowheel.json"
+
+[[files]]
+file = "config/offroad-server.toml"
+
+[[files]]
+file = "config/particlerain/config.json"
+
+[[files]]
+file = "config/particlerain/particles.json"
+
+[[files]]
+file = "config/patchouli-client.toml"
+
+[[files]]
+file = "config/pehkui-client.toml"
+
+[[files]]
+file = "config/pehkui-common.toml"
+
+[[files]]
+file = "config/pehkui-server.toml"
+
+[[files]]
+file = "config/personality-client.toml"
+
+[[files]]
+file = "config/personality-common.toml"
+
+[[files]]
+file = "config/ponder-client.toml"
+
+[[files]]
+file = "config/preferred-gamerules.properties"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+
+[[files]]
+file = "config/prospectingpicks-common.toml"
+
+[[files]]
+file = "config/quark-common.toml"
+
+[[files]]
+file = "config/redomesticate.json"
+
+[[files]]
+file = "config/resourceful-config-web.json"
+
+[[files]]
+file = "config/ritchiesprojectilelib-server.toml"
+
+[[files]]
+file = "config/sable-client.toml"
+
+[[files]]
+file = "config/sable-common.toml"
+
+[[files]]
+file = "config/sawmill-common.toml"
+
+[[files]]
+file = "config/scguns-client.toml"
+
+[[files]]
+file = "config/scguns-common.toml"
+
+[[files]]
+file = "config/scguns-server.toml"
+
+[[files]]
+file = "config/scholar-client.toml"
+
+[[files]]
+file = "config/scholar-common.toml"
+
+[[files]]
+file = "config/scrollabletooltips-client.toml"
+
+[[files]]
+file = "config/simulated-client.toml"
+
+[[files]]
+file = "config/simulated-server.toml"
+
+[[files]]
+file = "config/sliceanddice-client.toml"
+
+[[files]]
+file = "config/sliceanddice-common.toml"
+
+[[files]]
+file = "config/snowundertrees-common.toml"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+
+[[files]]
+file = "config/solonion-client.json"
+
+[[files]]
+file = "config/solonion.json"
+
+[[files]]
+file = "config/sootychimneys-client.toml"
+
+[[files]]
+file = "config/sootychimneys-common.toml"
+
+[[files]]
+file = "config/spark/activity.json"
+
+[[files]]
+file = "config/spark/config.json"
+
+[[files]]
+file = "config/spark/tmp-client/about.txt"
+
+[[files]]
+file = "config/spark/tmp/about.txt"
+
+[[files]]
+file = "config/spelunkery-client.toml"
+
+[[files]]
+file = "config/spelunkery-common.toml"
+
+[[files]]
+file = "config/spyglass-improvements/settings.json"
+
+[[files]]
+file = "config/stonezone-common.toml"
+
+[[files]]
+file = "config/stonezone-hazardous.toml"
+
+[[files]]
+file = "config/styled-nicknames.json"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+
+[[files]]
+file = "config/test-config.json"
+
+[[files]]
+file = "config/tfmg-common.toml"
+
+[[files]]
+file = "config/tfmg-server.toml"
+
+[[files]]
+file = "config/toms_storage-common.toml"
+
+[[files]]
+file = "config/toms_storage-server.toml"
+
+[[files]]
+file = "config/tracks-server.toml"
+
+[[files]]
+file = "config/tradingpost-server.toml"
+
+[[files]]
+file = "config/transition.json"
+
+[[files]]
+file = "config/trashcans-common.toml"
+
+[[files]]
+file = "config/trender.json"
+
+[[files]]
+file = "config/vista-client.toml"
+
+[[files]]
+file = "config/vista-common.toml"
+
+[[files]]
+file = "config/xaero/lib/client.cfg"
+
+[[files]]
+file = "config/xaero/lib/common.cfg"
+
+[[files]]
+file = "config/xaero/lib/profiles/default.cfg"
+
+[[files]]
+file = "config/xaero/lib/server_profiles/default.cfg"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+
+[[files]]
+file = "config/xaero/minimap/common.cfg"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_server.json"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+
+[[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+
+[[files]]
+file = "config/xaerohud.txt"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+
+[[files]]
+file = "config/yacl.json5"
+
+[[files]]
+file = "config/zeta-common.toml"
+
+[[files]]
+file = "kubejs/README.txt"
+
+[[files]]
+file = "kubejs/assets/bagofholding/lang/en_us.json"
+
+[[files]]
+file = "kubejs/assets/bagofholding/textures/item/golden_bag_of_holding.png"
+
+[[files]]
+file = "kubejs/assets/bagofholding/textures/item/iron_bag_of_holding.png"
+
+[[files]]
+file = "kubejs/assets/bagofholding/textures/item/leather_bag_of_holding.png"
+
+[[files]]
+file = "kubejs/assets/chunkloaders/textures/advanced_chunk_loader.png"
+
+[[files]]
+file = "kubejs/assets/chunkloaders/textures/basic_chunk_loader.png"
+
+[[files]]
+file = "kubejs/assets/chunkloaders/textures/single_chunk_loader.png"
+
+[[files]]
+file = "kubejs/assets/chunkloaders/textures/ultimate_chunk_loader.png"
+
+[[files]]
+file = "kubejs/assets/particlemimicry/blockstates/particle_emitter.json"
+
+[[files]]
+file = "kubejs/assets/particlemimicry/models/block/particle_emitter.json"
+
+[[files]]
+file = "kubejs/assets/particlemimicry/models/block/particle_emitter_active.json"
+
+[[files]]
+file = "kubejs/assets/particlemimicry/textures/block/particle_emitter.png"
+
+[[files]]
+file = "kubejs/assets/particlemimicry/textures/block/particle_emitter_bottom.png"
+
+[[files]]
+file = "kubejs/assets/particlemimicry/textures/block/particle_emitter_inside.png"
+
+[[files]]
+file = "kubejs/assets/particlemimicry/textures/block/particle_emitter_side.png"
+
+[[files]]
+file = "kubejs/assets/particlemimicry/textures/block/particle_emitter_side_active.png"
+
+[[files]]
+file = "kubejs/assets/particlemimicry/textures/block/particle_emitter_top.png"
+
+[[files]]
+file = "kubejs/assets/particlemimicry/textures/block/particle_emitter_top_active.png"
+
+[[files]]
+file = "kubejs/config/client.json"
+
+[[files]]
+file = "kubejs/config/common.json"
+
+[[files]]
+file = "kubejs/config/defaultoptions.txt"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/andesite_alloy_from_copper.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/crafting/bronze_autocannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/crafting/bronze_autocannon_breech.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/crafting/bronze_autocannon_recoil_spring.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/crafting/bronze_cannon_end.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/crafting/bronze_sliding_breech.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/crafting/built_up_steel_cannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/crafting/built_up_steel_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/crafting/cast_iron_autocannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/crafting/cast_iron_autocannon_breech.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/crafting/cast_iron_autocannon_recoil_spring.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/crafting/cast_iron_cannon_end.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/crafting/cast_iron_sliding_breech.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/crafting/steel_autocannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/crafting/steel_autocannon_breech.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/crafting/steel_autocannon_recoil_spring.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/crafting/steel_scew_breech.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/crafting/steel_sliding_breech.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/crafting/thick_steel_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/mechanical_crafting/bronze_cannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/mechanical_crafting/bronze_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/mechanical_crafting/cast_iron_cannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/mechanical_crafting/cast_iron_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/mechanical_crafting/steel_cannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/mechanical_crafting/steel_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/bng/recipe/mixing/andesite_alloy.json"
+
+[[files]]
+file = "kubejs/data/chunkloaders/recipe/advanced_chunk_loader.json"
+
+[[files]]
+file = "kubejs/data/chunkloaders/recipe/basic_chunk_loader.json"
+
+[[files]]
+file = "kubejs/data/chunkloaders/recipe/ultimate_chunk_loader.json"
+
+[[files]]
+file = "kubejs/data/create/neoforge/biome_modifier/zinc_ore.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/bronze_autocannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/bronze_cannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/bronze_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/bronze_cannon_end.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/built_up_nethersteel_cannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/built_up_nethersteel_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/built_up_steel_cannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/built_up_steel_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/cast_iron_autocannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/cast_iron_cannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/cast_iron_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/cast_iron_cannon_end.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/incomplete_bronze_autocannon_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/incomplete_bronze_autocannon_recoil_spring.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/incomplete_bronze_sliding_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/incomplete_cast_iron_autocannon_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/incomplete_cast_iron_autocannon_recoil_spring.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/incomplete_cast_iron_sliding_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/incomplete_nethersteel_screw_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/incomplete_steel_autocannon_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/incomplete_steel_autocannon_recoil_spring.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/incomplete_steel_screw_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/incomplete_steel_sliding_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/large_nethersteel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/large_steel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/medium_nethersteel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/medium_steel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/nethersteel_cannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/nethersteel_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/small_nethersteel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/small_steel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/steel_autocannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/steel_cannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/steel_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/thick_nethersteel_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/thick_steel_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_bronze_autocannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_bronze_autocannon_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_bronze_autocannon_recoil_spring.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_bronze_cannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_bronze_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_bronze_sliding_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_cast_iron_autocannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_cast_iron_autocannon_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_cast_iron_autocannon_recoil_spring.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_cast_iron_cannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_cast_iron_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_cast_iron_sliding_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_large_nethersteel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_large_steel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_medium_nethersteel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_medium_steel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_nethersteel_screw_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_small_nethersteel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_small_steel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_steel_autocannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_steel_autocannon_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_steel_autocannon_recoil_spring.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_steel_screw_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_steel_sliding_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_very_large_nethersteel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_very_large_steel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_very_small_nethersteel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/unbored_very_small_steel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/very_large_nethersteel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/very_large_steel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/very_small_nethersteel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/createbigcannons/block_recipes/very_small_steel_cannon_layer.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/bronze_autocannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/bronze_autocannon_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/bronze_autocannon_recoil_spring.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/bronze_cannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/bronze_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/bronze_cannon_end.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/bronze_quickfiring_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/bronze_sliding_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/built_up_nethersteel_cannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/built_up_nethersteel_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/built_up_steel_cannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/built_up_steel_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/cast_iron_autocannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/cast_iron_autocannon_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/cast_iron_autocannon_recoil_spring.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/cast_iron_cannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/cast_iron_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/cast_iron_cannon_end.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/cast_iron_quickfiring_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/cast_iron_sliding_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/incomplete_bronze_autocannon_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/incomplete_bronze_autocannon_recoil_spring.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/incomplete_bronze_sliding_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/incomplete_cast_iron_autocannon_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/incomplete_cast_iron_autocannon_recoil_spring.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/incomplete_cast_iron_sliding_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/incomplete_nethersteel_screw_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/incomplete_steel_autocannon_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/incomplete_steel_autocannon_recoil_spring.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/incomplete_steel_screw_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/incomplete_steel_sliding_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/nethersteel_cannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/nethersteel_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/nethersteel_screw_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/steel_autocannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/steel_autocannon_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/steel_autocannon_recoil_spring.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/steel_cannon_barrel.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/steel_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/steel_quickfiring_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/steel_screw_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/steel_sliding_breech.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/thick_nethersteel_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/thick_steel_cannon_chamber.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/recipe/sequenced_assembly/assembling_machine_gun_round.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/block/concrete.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/block/drill_can_pass_through.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/block/glass_effect_on_impact.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/block/netherrack.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/block/obsidian.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/block/reduces_spread.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/block/sandstone.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/block/spark_effect_on_impact.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/block/splinter_effect_on_impact.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/block/thick_tubing.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/fluid/molten_metal.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/autocannon_ammo_containers.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/autocannon_cartridges.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/autocannon_rounds.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/big_cannon_cartridges.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/big_cannon_projectiles.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/big_cannon_propellant.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/big_cannon_propellant_bags.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/can_be_nitrated.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/dust_glowstone.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/dusts_redstone.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/fuzes.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/gas_masks.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/gelatinizers.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/gems_quartz.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/glass.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/guncotton.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/gunpowder.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/gunpowder_pinch.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/high_explosive_materials.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/impact_fuze_head.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/inexpensive_big_cartridge_sheet.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/nitro_acidifiers.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/nitropowder.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/spent_autocannon_casings.json"
+
+[[files]]
+file = "kubejs/data/createbigcannons/tags/item/stone.json"
+
+[[files]]
+file = "kubejs/data/createdeco/tags/item/shipping_containers.json"
+
+[[files]]
+file = "kubejs/data/createdeco/tags/item/supports.json"
+
+[[files]]
+file = "kubejs/data/createpropulsion/neoforge/biome_modifier/add_ore_platinum.json"
+
+[[files]]
+file = "kubejs/data/createpropulsion/neoforge/biome_modifier/add_ore_platinum_buried.json"
+
+[[files]]
+file = "kubejs/data/createpropulsion/neoforge/biome_modifier/add_ore_platinum_large.json"
+
+[[files]]
+file = "kubejs/data/createpropulsion/neoforge/biome_modifier/add_ore_platinum_medium.json"
+
+[[files]]
+file = "kubejs/data/dimension_hop/function/load.mcfunction"
+
+[[files]]
+file = "kubejs/data/dimension_hop/function/tick.mcfunction"
+
+[[files]]
+file = "kubejs/data/dimension_hop/predicate/nether_to_over.json"
+
+[[files]]
+file = "kubejs/data/dimension_hop/predicate/over_to_nether.json"
+
+[[files]]
+file = "kubejs/data/kobolds/loot_table/gameplay/enchanter_loot.json"
+
+[[files]]
+file = "kubejs/data/kobolds/loot_table/gameplay/engineer_loot.json"
+
+[[files]]
+file = "kubejs/data/kobolds/loot_table/gameplay/stone_loot.json"
+
+[[files]]
+file = "kubejs/data/kobolds/loot_table/gameplay/trader_loot.json"
+
+[[files]]
+file = "kubejs/data/lootintegrations/loot/dungeoncrawl_dungeonloot_easy.json"
+
+[[files]]
+file = "kubejs/data/lootintegrations/loot/dungeoncrawl_dungeonloot_medium.json"
+
+[[files]]
+file = "kubejs/data/lootintegrations/loot/dungeoncrawl_villageloot_house.json"
+
+[[files]]
+file = "kubejs/data/lootintegrations/loot/loot_dnt_easy.json"
+
+[[files]]
+file = "kubejs/data/lootintegrations/loot/loot_dnt_hard.json"
+
+[[files]]
+file = "kubejs/data/lootintegrations/loot/loot_dnt_medium.json"
+
+[[files]]
+file = "kubejs/data/lootintegrations/loot/loot_dnt_nether.json"
+
+[[files]]
+file = "kubejs/data/lootintegrations/loot/loot_dnt_village.json"
+
+[[files]]
+file = "kubejs/data/lootintegrations/loot/loot_dnt_water.json"
+
+[[files]]
+file = "kubejs/data/lootintegrations/loot/loot_pruins_easy.json"
+
+[[files]]
+file = "kubejs/data/lootintegrations/loot/loot_pruins_hard.json"
+
+[[files]]
+file = "kubejs/data/lootintegrations/loot/loot_pruins_medium.json"
+
+[[files]]
+file = "kubejs/data/lootintegrations/loot/loot_pruins_nether.json"
+
+[[files]]
+file = "kubejs/data/lootintegrations/loot/loot_pruins_water.json"
+
+[[files]]
+file = "kubejs/data/malum/neoforge/biome_modifier/blazing_quartz_ore.json"
+
+[[files]]
+file = "kubejs/data/malum/neoforge/biome_modifier/brilliant_ore.json"
+
+[[files]]
+file = "kubejs/data/malum/neoforge/biome_modifier/cthonic_gold_ore.json"
+
+[[files]]
+file = "kubejs/data/malum/neoforge/biome_modifier/deepslate_quartz_geode.json"
+
+[[files]]
+file = "kubejs/data/malum/neoforge/biome_modifier/natural_quartz_ore.json"
+
+[[files]]
+file = "kubejs/data/malum/neoforge/biome_modifier/quartz_geode.json"
+
+[[files]]
+file = "kubejs/data/malum/neoforge/biome_modifier/soulstone_ore.json"
+
+[[files]]
+file = "kubejs/data/minecraft/dimension_type/overworld.json"
+
+[[files]]
+file = "kubejs/data/minecraft/dimension_type/overworld_caves.json"
+
+[[files]]
+file = "kubejs/data/minecraft/dimension_type/the_nether.json"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_table/entities/iron_golem.json"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/block/enderman_holdable.json"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/function/load.json"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/function/tick.json"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_desert.json"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_jungle.json"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_mountain.json"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_nether.json"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_ocean.json"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_standard.json"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_swamp.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_carver/cave.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_carver/cave_extra_underground.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/density_function/overworld/caves/entrances.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/density_function/overworld/caves/noodle.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/density_function/overworld/caves/spaghetti_2d.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/density_function/overworld/caves/spaghetti_roughness_function.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/noise_settings/caves.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/noise_settings/nether.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/noise_settings/overworld.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_coal_lower.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_coal_upper.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_buried.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_large.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_medium.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_emerald.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_deltas.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_extra.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_lower.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_nether.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_middle.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_small.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_upper.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_lapis.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_lapis_buried.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_quartz_deltas.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_quartz_nether.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_redstone.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_redstone_lower.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/structure_set/ruined_portals.json"
+
+[[files]]
+file = "kubejs/data/ore_gen/neoforge/biome_modifier/ore_noise.json"
+
+[[files]]
+file = "kubejs/data/ore_gen/worldgen/configured_feature/noise_stripes_coal.json"
+
+[[files]]
+file = "kubejs/data/ore_gen/worldgen/placed_feature/noise_coal.json"
+
+[[files]]
+file = "kubejs/data/particlemimicry/recipe/particle_emitter.json"
+
+[[files]]
+file = "kubejs/data/quark/worldgen/biome/glimmering_weald.json"
+
+[[files]]
+file = "kubejs/data/scguns/loot_modifiers/pebbles_from_gravel.json"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/anthralite_ore.json"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/nether_sulfur_ore.json"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/sulfur_ore.json"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/vehement_coal_ore.json"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/mech_press/antique_flare.json"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/powered_mech_press/powered_antique_flare.json"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/vicious_acid.json"
+
+[[files]]
+file = "kubejs/data/scguns/vents/geothermal_vent.json"
+
+[[files]]
+file = "kubejs/data/scguns/vents/sulfur_vent.json"
+
+[[files]]
+file = "kubejs/data/simulated/end_sea/overworld.json"
+
+[[files]]
+file = "kubejs/data/simulated/end_sea/the_nether.json"
+
+[[files]]
+file = "kubejs/data/spelunkery/neoforge/biome_modifier/nether_modifier.json"
+
+[[files]]
+file = "kubejs/data/spelunkery/tags/worldgen/biome/has_desert_noise.json"
+
+[[files]]
+file = "kubejs/data/spelunkery/tags/worldgen/biome/has_dirt_noise.json"
+
+[[files]]
+file = "kubejs/data/spelunkery/tags/worldgen/biome/has_ocean_noise.json"
+
+[[files]]
+file = "kubejs/data/spelunkery/tags/worldgen/biome/has_stone_noise.json"
+
+[[files]]
+file = "kubejs/data/spelunkery/tags/worldgen/biome/has_swamp_noise.json"
+
+[[files]]
+file = "kubejs/data/tfmg/neoforge/biome_modifier/lead_ore.json"
+
+[[files]]
+file = "kubejs/data/tfmg/neoforge/biome_modifier/lithium_ore.json"
+
+[[files]]
+file = "kubejs/data/tfmg/neoforge/biome_modifier/nickel_ore.json"
+
+[[files]]
+file = "kubejs/data/tfmg/recipe/mixing/gunpowder.json"
+
+[[files]]
+file = "kubejs/data/tfmg/recipe/vat_machine_recipe/rubber.json"
+
+[[files]]
+file = "kubejs/data/tfmg/recipe/vat_machine_recipe/sulfuric_acid.json"
+
+[[files]]
+file = "kubejs/data/tfmg/worldgen/configured_feature/tfmg_striated_ores_nether.json"
+
+[[files]]
+file = "kubejs/server_scripts/jei.js"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+
+[[files]]
+file = "kubejs/server_scripts/respawn.js"
+
+[[files]]
+file = "kubejs/server_scripts/tags.js"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+
+[[files]]
+file = "mods/aileron.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/almanac.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/antiportals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/archeologicalmod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/architects-palette.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/armourers-workshop.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bag-of-holding.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bigger-stacks-unofficial.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/biolith.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cbc-fuze-sable-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chalk-mod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/combat-nouveau.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cool-rain-reforged.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/copper-tools-armor-backport.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/copycats+-aeronautics-weight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cpmoscc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-compatability.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons-equally-opposite.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons-going-ballistic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-extra-gauges.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-nowheel.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsion-simulated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-radars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-sable-dynamic-lights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-tfmg.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-threaded-trains.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks-reborn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/deeper-oceans.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/deployer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-walls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dimthreads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ding.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dramatic-doors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/drive-by-wire-sable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/drive-by-wiretypewriter.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/drogstyle.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dungeoncrawl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-stronghold-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-ore-veins.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emoji-type.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/envelope.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/etched.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fluidvoidfading.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gallery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/glows.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/im-fast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immersive-enchanting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/incremental-mining.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/incubation.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/items-displayed-neoforge-lite-edition.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kobolds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lever-drugster.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lodestonelib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/luminous-monsters.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/malum.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mannequins.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/no-mans-land.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nobroken.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/noisiumforked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/particle-mimicry.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/personality!.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pf-neoforge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/philips-ruins.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/portfolio.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/preferred-gamerules.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/redomesticate.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rpl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scholar.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scorched-guns-neoforged.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scrollabletooltips.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simulated-gauges.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sooty-chimneys.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-perfected.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spelunkery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-onion.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-improvements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/stepupagain.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/stoat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/stone-zone.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trading-post.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/underground-rivers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/universal-sawmill.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/vista_tv.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Tom's Metal Storage v1.2 (1.21.1).zip"
+
+[[files]]
+file = "resourcepacks/toms-metal-storage.pw.toml"
+metafile = true
