@@ -609,10 +609,6 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "c2ff399c9bbacc15894b3a08afff0a59d6c0d6c4946b3dfc5487f695d18e8d25"
 
 [[files]]
-file = "config/jei/world/local/Recipe_Tweaks/bookmarks.json"
-hash = "d515e8120d9f064b1135af1435d4fec75de7f3bb548b416dd9a9b34dd7be892b"
-
-[[files]]
 file = "config/leavesbegone-server.toml"
 hash = "e41e4f60aa1919d031ef42aa5af412ad8198390c3833cab3f617f6392aaf9cfc"
 

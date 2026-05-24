@@ -16,3 +16,4 @@ config/cpm.json
 lookupHistory.json
 *.zip
 activity.json
+bookmarks.json
