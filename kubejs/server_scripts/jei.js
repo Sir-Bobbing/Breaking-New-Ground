@@ -132,6 +132,36 @@ RecipeViewerEvents.removeEntries('item', event => {
 
 // Enchanted Books
     event.remove('minecraft:enchanted_book')
-
-
+// Create Connected
+    event.remove('create_connected:control_chip')
+// Spelunkery
+    event.remove('spelunkery:depth_gauge')
+    event.remove('spelunkery:compression_blast_miner')
+// CreatePropulsion
+    event.remove('createpropulsion:platinum_block')
+    event.remove('createpropulsion:platinum_casing')
+    event.remove('createpropulsion:platinum_sheet')
+    event.remove('createpropulsion:platinum_ingot')
+    event.remove('createpropulsion:platinum_nugget')
+    event.remove('createpropulsion:platinum_fluid_tank')
+    event.remove('createpropulsion:raw_platinum')
+    event.remove('createpropulsion:raw_platinum_block')
+    event.remove('createpropulsion:cable_relay')
+    event.remove('createpropulsion:cable')
+    event.remove('createpropulsion:platinum_ore')
+    event.remove('createpropulsion:deepslate_platinum_ore')
+    event.remove('createpropulsion:pine_resin')
+    event.remove('createpropulsion:turpentine_bucket')
+// TFMG
+    event.remove('tfmg:lithium_block')
+    event.remove('tfmg:lithium_ingot')
+    event.remove('tfmg:lithium_nugget')
+    event.remove('tfmg:raw_lithium')
+    event.remove('tfmg:raw_lithium_block')
+    event.remove('tfmg:lithium_blade')
+    event.remove('tfmg:lithium_torch')
+    event.remove('tfmg:lithium_charge')
+    event.remove('tfmg:lithium_ore')
+    event.remove('tfmg:deepslate_lithium_ore')
+    event.remove('tfmg:crushed_raw_lithium')
 })

@@ -126,4 +126,51 @@ ServerEvents.recipes(event => {
     // Create Deco Mod Removals]
     event.remove({ output: '#createdeco:shipping_containers' })
     event.remove({ output: '#createdeco:supports' })
+
+// Create: Connected
+    event.remove({ id: 'create_connected:sequenced_assembly/control_chip' })
+
+// Spelunkery
+    event.remove({ id: 'spelunkery:depth_gauge' })
+    event.remove({ id: 'spelunkery:compression_blast_miner' })
+
+// Create: Propulsion
+    event.remove({ output: '#c:ingots/platinum' })
+    event.remove({ output: '#c:nuggets/platinum' })
+    event.remove({ output: '#c:storage_blocks/platinum' })
+    event.remove({ output: '#c:plates/platinum' })
+    event.remove({ output: '#c:raw_materials/platinum' })
+    event.remove({ output: '#c:storage_blocks/raw_platinum' })
+    event.remove({ input: '#c:ingots/platinum' })
+    event.remove({ input: '#c:nuggets/platinum' })
+    event.remove({ input: '#c:storage_blocks/platinum' })
+    event.remove({ input: '#c:plates/platinum' })
+    event.remove({ input: '#c:raw_materials/platinum' })
+    event.remove({ input: '#c:storage_blocks/raw_platinum' })
+    event.remove({ id: 'createpropulsion:crushing/raw_platinum' })
+    event.remove({ id: 'createpropulsion:crushing/raw_platinum_block' })
+    event.remove({ id: 'createpropulsion:crushing/platinum_ore' })
+    event.remove({ id: 'createpropulsion:crushing/deepslate_platinum_ore' })
+    event.remove({ id: 'create:crushing/raw_platinum' })
+    event.remove({ id: 'create:crushing/raw_platinum_block' })
+    event.remove({ id: 'create:crushing/platinum_ore' })
+    event.remove({ id: 'create:crushing/deepslate_platinum_ore' })
+    event.remove({ output: 'createpropulsion:pine_resin' })
+    event.remove({ input: 'createpropulsion:pine_resin' })
+
+// TFMG
+    event.remove({ output: '#c:ingots/lithium' })
+    event.remove({ output: '#c:nuggets/lithium' })
+    event.remove({ output: '#c:storage_blocks/lithium' })
+    event.remove({ output: '#c:raw_materials/lithium' })
+    event.remove({ output: '#c:storage_blocks/raw_lithium' })
+    event.remove({ input: '#c:ingots/lithium' })
+    event.remove({ input: '#c:nuggets/lithium' })
+    event.remove({ input: '#c:storage_blocks/lithium' })
+    event.remove({ input: '#c:raw_materials/lithium' })
+    event.remove({ input: '#c:storage_blocks/raw_lithium' })
+    event.remove({ id: 'create:crushing/lithium_ore' })
+    event.remove({ id: 'create:crushing/deepslate_lithium_ore' })
+    event.remove({ id: 'tfmg:crafting/materials/lithium_blade' })
+
 })

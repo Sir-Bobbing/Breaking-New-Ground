@@ -377,7 +377,7 @@
 	hosePulleyBlockThreshold = 10000
 	#.
 	#Whether hose pulleys should continue filling up above-threshold sources.
-	fillInfinite = false
+	fillInfinite = true
 	#.
 	#Configure which fluids can be drained infinitely.
 	#Allowed Values: ALLOW_ALL, DENY_ALL, ALLOW_BY_TAG, DENY_BY_TAG
@@ -464,13 +464,13 @@
 	#The maximum allowed file size of uploaded Schematics.
 	# Default: 256
 	# Range: > 16
-	maxTotalSchematicSize = 256
+	maxTotalSchematicSize = 8192
 	#.
 	#[in Bytes]
 	#The maximum packet size uploaded Schematics are split into.
 	# Default: 1024
 	# Range: 256 ~ 32767
-	maxSchematicPacketSize = 1024
+	maxSchematicPacketSize = 4096
 	#.
 	#Amount of game ticks without new packets arriving until an active schematic upload process is discarded.
 	# Default: 600

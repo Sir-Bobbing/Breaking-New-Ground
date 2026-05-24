@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "200",
+    "210",
+    "200"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:planks"
+    },
+    "1": {
+      "item": "create:electron_tube"
+    },
+    "2": {
+      "item": "minecraft:tinted_glass"
+    }
+  },
+  "result": {
+    "id": "vista:television",
+    "count": 1
+  }
+}

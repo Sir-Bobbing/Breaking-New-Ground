@@ -19,18 +19,70 @@ ServerEvents.tags('item', event => {
     event.remove('c:gems/quartz', 'malum:natural_quartz')
     event.remove('c:ingots/cast_iron', 'createbigcannons:cast_iron_ingot')
     event.remove('c:nuggets/cast_iron', 'createbigcannons:cast_iron_nugget')
+    event.remove('malum:void_soulstone_material', 'createpropulsion:raw_platinum')
+    event.add('c:fuel', 'nomansland:resin_oil')
+    event.add('c:fuel', 'nomansland:resin_oil_bottle')
+})
 
-    event.add('create:seats', '#handcrafted:dining_bench')
-    event.add('create:seats', '#handcrafted:cushions')
-    event.add('create:seats', '#handcrafted:chairs')
-    event.add('create:seats', '#handcrafted:benches')
-    event.add('create:seats', '#handcrafted:couches')
+ServerEvents.tags('fluid', event => {
+    event.add('c:fuel', 'nomansland:resin_oil')
+    event.add('c:fuel', 'nomansland:resin_oil_bottle')
+
 })
 
     ServerEvents.tags('block', event => {
 // Carver Tweaks
     event.remove('minecraft:overworld_carver_replaceables', 'minecraft:obsidian')
     event.remove('minecraft:overworld_carver_replaceables', 'minecraft:crying_obsidian')
+
+// Tom's Simple Storage
+    event.remove('minecraft:mineable/axe', 'toms_storage:crafting_terminal')
+    event.remove('minecraft:mineable/axe', 'toms_storage:storage_terminal')
+    event.remove('minecraft:mineable/axe', 'toms_storage:trim')
+    event.remove('minecraft:mineable/axe', 'toms_storage:inventory_connector')
+    event.remove('minecraft:mineable/axe', 'toms_storage:inventory_cable')
+    event.remove('minecraft:mineable/axe', 'toms_storage:inventory_cable_framed')
+    event.remove('minecraft:mineable/axe', 'toms_storage:inventory_cable_connector')
+    event.remove('minecraft:mineable/axe', 'toms_storage:inventory_cable_connector_framed')
+    event.remove('minecraft:mineable/axe', 'toms_storage:inventory_interface')
+    event.remove('minecraft:mineable/axe', 'toms_storage:level_emitter')
+    event.remove('minecraft:mineable/axe', 'toms_storage:inventory_proxy')
+    event.remove('minecraft:mineable/axe', 'toms_storage:basic_inventory_hopper')
+
+    event.add('minecraft:mineable/pickaxe', 'toms_storage:crafting_terminal')
+    event.add('minecraft:mineable/pickaxe', 'toms_storage:storage_terminal')
+    event.add('minecraft:mineable/pickaxe', 'toms_storage:trim')
+    event.add('minecraft:mineable/pickaxe', 'toms_storage:inventory_connector')
+    event.add('minecraft:mineable/pickaxe', 'toms_storage:inventory_cable')
+    event.add('minecraft:mineable/pickaxe', 'toms_storage:inventory_cable_framed')
+    event.add('minecraft:mineable/pickaxe', 'toms_storage:inventory_cable_connector')
+    event.add('minecraft:mineable/pickaxe', 'toms_storage:inventory_cable_connector_framed')
+    event.add('minecraft:mineable/pickaxe', 'toms_storage:inventory_interface')
+    event.add('minecraft:mineable/pickaxe', 'toms_storage:level_emitter')
+    event.add('minecraft:mineable/pickaxe', 'toms_storage:inventory_proxy')
+    event.add('minecraft:mineable/pickaxe', 'toms_storage:basic_inventory_hopper')
+
+    event.add('create:wrench_pickup', 'toms_storage:crafting_terminal')
+    event.add('create:wrench_pickup', 'toms_storage:storage_terminal')
+    event.add('create:wrench_pickup', 'toms_storage:trim')
+    event.add('create:wrench_pickup', 'toms_storage:inventory_connector')
+    event.add('create:wrench_pickup', 'toms_storage:inventory_cable')
+    event.add('create:wrench_pickup', 'toms_storage:inventory_cable_framed')
+    event.add('create:wrench_pickup', 'toms_storage:inventory_cable_connector')
+    event.add('create:wrench_pickup', 'toms_storage:inventory_cable_connector_framed')
+    event.add('create:wrench_pickup', 'toms_storage:inventory_interface')
+    event.add('create:wrench_pickup', 'toms_storage:level_emitter')
+    event.add('create:wrench_pickup', 'toms_storage:inventory_proxy')
+    event.add('create:wrench_pickup', 'toms_storage:basic_inventory_hopper')
+    event.add('create:wrench_pickup', 'toms_storage:open_crate')
+    event.add('create:wrench_pickup', 'toms_storage:filing_cabinet')
+
+// Seats
+    event.add('create:seats', '#handcrafted:dining_bench')
+    event.add('create:seats', '#handcrafted:cushions')
+    event.add('create:seats', '#handcrafted:chairs')
+    event.add('create:seats', '#handcrafted:benches')
+    event.add('create:seats', '#handcrafted:couches')
 
 // Handcrafted Adjustments
     event.add('create:seats', '#handcrafted:dining_bench')

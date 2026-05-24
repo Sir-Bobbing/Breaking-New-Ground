@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"CTC",
+    "P P",
+    "CTC"
+  ],
+  "key": {
+  	"P": {
+      "item": "create:brass_funnel"
+    },
+    "C": {
+      "tag": "c:ingots/cast_iron"
+    },
+    "T": {
+      "item": "toms_storage:inventory_cable"
+    }
+  },
+  "result": {
+    "id": "toms_storage:inventory_proxy"
+  }
+}
