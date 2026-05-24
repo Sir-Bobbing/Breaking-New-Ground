@@ -1,8 +1,0 @@
-{
-  "loot_table": "lootintegrations:chests/village",
-  "max_result_itemcount": 7,
-  "integrated_loot_tables": {
-    "dungeoncrawl:chests/food":2,
-    "dungeoncrawl:chests/supply":2
-  }
-}
