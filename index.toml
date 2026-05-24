@@ -869,10 +869,6 @@ file = "config/sootychimneys-common.toml"
 hash = "2db8c6cb45261c6bd8a0d6c4cc96c9203818b25694bd5aad1e26fd1c0e4ae36a"
 
 [[files]]
-file = "config/spark/activity.json"
-hash = "4c7f779a7670851c05ba2321eaa03ace09383d08db8045af45b28a33270a6b64"
-
-[[files]]
 file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
@@ -895,10 +891,6 @@ hash = "d0e58947a3b9803a3cea95fa1e0f1b567c595f18fb262969f40973aeda2eca54"
 [[files]]
 file = "config/spyglass-improvements/settings.json"
 hash = "0a19036936420b0045fab196758eacb65f31e8560d41b858a6afebe63208f4a0"
-
-[[files]]
-file = "config/ssrd-common.toml"
-hash = "4438e5629fb4972a1828670c8b0bf7823c675c36597193a698e02110bd679707"
 
 [[files]]
 file = "config/stonezone-common.toml"

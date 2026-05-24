@@ -15,3 +15,4 @@ config/cpm.json
 *.bak
 lookupHistory.json
 resourcepacks/Tom's Metal Storage v1.2 (1.21.1).zip
+activity.json
