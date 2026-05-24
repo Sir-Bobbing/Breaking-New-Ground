@@ -1137,6 +1137,22 @@ file = "kubejs/config/web_server.json"
 hash = "13ff2e041598f8b12e44fbf8d63b25f088c43d025193b0062863113559ac73eb"
 
 [[files]]
+file = "kubejs/data/bng/function/load.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/bng/function/tick.mcfunction"
+hash = "20e3f13b114ae6c2433d0f3d2a0d95b9511458b8539aa6546663b6c949a2799a"
+
+[[files]]
+file = "kubejs/data/bng/predicate/nether_to_over.json"
+hash = "1011f58a044f45f3dd4c90995a3a9ed4b64fd45f38917b9b6685ae51e334ad72"
+
+[[files]]
+file = "kubejs/data/bng/predicate/over_to_nether.json"
+hash = "a1bdfe8a98cd5e56814784d3ada0a42832daafd384321cd9af766e70a8d9c949"
+
+[[files]]
 file = "kubejs/data/bng/recipe/andesite_alloy_from_copper.json"
 hash = "94c457be997a99c88502270b283f5e41fa18b13e3e12d1c2fae3325c3bf80c33"
 
@@ -1897,22 +1913,6 @@ file = "kubejs/data/createpropulsion/recipe/crafting/vector_thruster.json"
 hash = "3b33e7efb5ba2a0460d3664169f34b593e907c7564eb056ffd0094c6fb6bcdba"
 
 [[files]]
-file = "kubejs/data/dimension_hop/function/load.mcfunction"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "kubejs/data/dimension_hop/function/tick.mcfunction"
-hash = "20e3f13b114ae6c2433d0f3d2a0d95b9511458b8539aa6546663b6c949a2799a"
-
-[[files]]
-file = "kubejs/data/dimension_hop/predicate/nether_to_over.json"
-hash = "1011f58a044f45f3dd4c90995a3a9ed4b64fd45f38917b9b6685ae51e334ad72"
-
-[[files]]
-file = "kubejs/data/dimension_hop/predicate/over_to_nether.json"
-hash = "a1bdfe8a98cd5e56814784d3ada0a42832daafd384321cd9af766e70a8d9c949"
-
-[[files]]
 file = "kubejs/data/kobolds/loot_table/gameplay/enchanter_loot.json"
 hash = "56f6cf0dc9a3bb26680b130b448569a6271a7dc9f56ef3606ddc3b27b7008cab"
 
@@ -2267,22 +2267,6 @@ hash = "c6629105c155419869027578800c312ab6035f6d929123a0a8661a76b78c3bb5"
 [[files]]
 file = "kubejs/data/spelunkery/tags/worldgen/biome/has_swamp_noise.json"
 hash = "8b69f204a518d089ea82efbdb019277aea41420ab5f7db3bb3a77f562efd78ff"
-
-[[files]]
-file = "kubejs/data/spelunkery/worldgen/configured_feature/spring_water_pool.json"
-hash = "2b92c14f803bdbc5bee3324feaf78fbc50f152c5fb841b108c33e71d3b47a2af"
-
-[[files]]
-file = "kubejs/data/spelunkery/worldgen/configured_feature/spring_water_spring.json"
-hash = "7002a14e2ecd1ab6cd09c22b7e3376738d0ef948fdc5b20be8a0d1f372814109"
-
-[[files]]
-file = "kubejs/data/spelunkery/worldgen/placed_feature/spring_water_pool.json"
-hash = "bc71a777e6138a5bd7ae93cb19a4b51041367465d05f200f05b957636b4a5b8d"
-
-[[files]]
-file = "kubejs/data/spelunkery/worldgen/placed_feature/spring_water_spring.json"
-hash = "4f207e678df484784b6585294d3d4261595cf7eca81c81e93b476cdbc90a9ec6"
 
 [[files]]
 file = "kubejs/data/tfmg/neoforge/biome_modifier/lead_ore.json"
