@@ -3335,10 +3335,6 @@ hash = "8c8b0b51480caddd63ff459450a5811d9d7900c1c55796d3318b01060864b855"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Tom's Metal Storage v1.2 (1.21.1).zip"
-hash = "61ea83a33ec670ffc75bddf3d6bbba65da54affda9b6e2adf323cfd959a3ab98"
-
-[[files]]
 file = "resourcepacks/toms-metal-storage.pw.toml"
 hash = "8a570bc9204e57f5bb26a22f74543d100c90c54dcea8e3825c698e5d42fb169b"
 metafile = true
