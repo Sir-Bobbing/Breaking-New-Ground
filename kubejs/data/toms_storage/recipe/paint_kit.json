@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+  	{
+      "item": "minecraft:brush"
+  	},
+    {
+      "tag": "c:dyes/red"
+    },
+    {
+      "tag": "c:dyes/green"
+    },
+    {
+      "tag": "c:dyes/blue"
+    },
+	{
+      "tag": "c:dyes/black"
+    }
+  ],
+  "result": {
+    "id": "toms_storage:paint_kit"
+  }
+}
