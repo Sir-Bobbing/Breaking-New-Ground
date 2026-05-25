@@ -5,9 +5,9 @@
     "NGN"
   ],
   "key": {
-    "P": { "item": "createpropulsion:platinum_sheet" },
+    "P": { "item": "tfmg:aluminum_sheet" },
     "I": { "item": "createpropulsion:ion_thruster" },
-    "N": { "item": "createpropulsion:platinum_nugget" },
+    "N": { "item": "tfmg:aluminum_nugget" },
     "G": { "item": "simulated:gimbal_sensor" }
   },
   "result": {

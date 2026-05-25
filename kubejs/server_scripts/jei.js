@@ -164,4 +164,13 @@ RecipeViewerEvents.removeEntries('item', event => {
     event.remove('tfmg:lithium_ore')
     event.remove('tfmg:deepslate_lithium_ore')
     event.remove('tfmg:crushed_raw_lithium')
+
+    // Malum
+    event.remove('malum:block_of_brilliance')
+    event.remove('malum:raw_brilliance')
+    event.remove('malum:crushed_brilliance')
+    event.remove('malum:brilliant_stone')
+    event.remove('malum:brilliant_deepslate')
+    event.remove('create:experience_nugget')
+
 })

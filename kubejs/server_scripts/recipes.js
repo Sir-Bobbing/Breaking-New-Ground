@@ -173,4 +173,18 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'create:crushing/deepslate_lithium_ore' })
     event.remove({ id: 'tfmg:crafting/materials/lithium_blade' })
 
+    // Malum
+    event.replaceInput(
+        { input: 'create:experience_nugget' },
+        'create:experience_nugget',
+        Ingredient.of('malum:refined_brilliance')
+    )
+    event.replaceOutput(
+        { output: 'create:experience_nugget' },
+        'create:experience_nugget',
+        Item.of('malum:refined_brilliance')
+    )
+    event.remove({ output: 'malum:crushed_brilliance' })
+    event.remove({ input: 'malum:crushed_brilliance' })
+
 })

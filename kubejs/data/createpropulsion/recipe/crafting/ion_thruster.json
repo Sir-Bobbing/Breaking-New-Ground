@@ -2,25 +2,22 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
-    "RBI",
+    "BIB",
     "SPS",
     "SCS"
   ],
   "key": {
-    "R": {
-      "item": "simulated:redstone_accumulator"
-    },
     "B": {
       "item": "create:brass_sheet"
     },
     "I": {
-      "item": "simulated:redstone_inductor"
+      "item": "tfmg:circuit_board"
     },
     "S": {
       "item": "create:sturdy_sheet"
     },
     "P": {
-      "item": "create:precision_mechanism"
+      "item": "tfmg:large_coil"
     },
     "C": {
       "item": "create:chute"

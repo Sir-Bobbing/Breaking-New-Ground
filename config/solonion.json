@@ -3,42 +3,158 @@
     "entries": [],
     "isWhitelist": false
   },
-  "trackCount": 32,
+  "trackCount": 30,
   "resetOnDeath": true,
   "limitProgressionToSurvival": false,
   "minFoodsToActivate": 0,
   "benefits": [
     {
-      "threshold": 3,
-      "benefit": "{key:\"minecraft:generic.max_health\",op:0,type:\"att\",val:2.0d}"
+      "threshold": 5,
+      "benefit": "{key:\"minecraft:generic.safe_fall_distance\",op:0,type:\"att\",val:1.0d}"
     },
     {
-      "threshold": 5,
-      "benefit": "{key:\"minecraft:strength\",type:\"eff\",val:0.0d}"
+      "threshold": 6,
+      "benefit": "{key:\"minecraft:generic.luck\",op:0,type:\"att\",val:0.05d}"
     },
     {
       "threshold": 7,
-      "benefit": "{key:\"minecraft:regeneration\",type:\"eff\",val:0.0d}"
+      "benefit": "{key:\"minecraft:player.block_interaction_range\",op:0,type:\"att\",val:0.3d}"
     },
     {
-      "threshold": 10,
-      "benefit": "{key:\"minecraft:speed\",type:\"eff\",val:0.0d}"
+      "threshold": 9,
+      "benefit": "{key:\"minecraft:generic.luck\",op:0,type:\"att\",val:0.05d}"
     },
     {
-      "threshold": 13,
-      "benefit": "{key:\"minecraft:generic.armor_toughness\",op:0,type:\"att\",val:2.0d}"
+      "threshold": 12,
+      "benefit": "{key:\"minecraft:generic.safe_fall_distance\",op:0,type:\"att\",val:1.0d}"
+    },
+    {
+      "threshold": 12,
+      "benefit": "{key:\"minecraft:generic.luck\",op:0,type:\"att\",val:0.05d}"
+    },
+    {
+      "threshold": 15,
+      "benefit": "{key:\"minecraft:generic.luck\",op:0,type:\"att\",val:0.05d}"
+    },
+    {
+      "threshold": 16,
+      "benefit": "{key:\"minecraft:player.block_interaction_range\",op:0,type:\"att\",val:0.3d}"
     },
     {
       "threshold": 18,
-      "benefit": "{key:\"minecraft:strength\",type:\"eff\",val:1.0d}"
+      "benefit": "{key:\"minecraft:generic.luck\",op:0,type:\"att\",val:0.05d}"
+    },
+    {
+      "threshold": 19,
+      "benefit": "{key:\"minecraft:generic.safe_fall_distance\",op:0,type:\"att\",val:1.0d}"
+    },
+    {
+      "threshold": 20,
+      "benefit": "{key:\"minecraft:generic.max_health\",op:0,type:\"att\",val:2.0d}"
+    },
+    {
+      "threshold": 21,
+      "benefit": "{key:\"minecraft:generic.luck\",op:0,type:\"att\",val:0.05d}"
+    },
+    {
+      "threshold": 24,
+      "benefit": "{key:\"minecraft:generic.luck\",op:0,type:\"att\",val:0.05d}"
     },
     {
       "threshold": 25,
+      "benefit": "{key:\"minecraft:player.block_interaction_range\",op:0,type:\"att\",val:0.3d}"
+    },
+    {
+      "threshold": 26,
+      "benefit": "{key:\"minecraft:generic.safe_fall_distance\",op:0,type:\"att\",val:1.0d}"
+    },
+    {
+      "threshold": 27,
+      "benefit": "{key:\"minecraft:generic.luck\",op:0,type:\"att\",val:0.05d}"
+    },
+    {
+      "threshold": 30,
+      "benefit": "{key:\"minecraft:generic.luck\",op:0,type:\"att\",val:0.05d}"
+    },
+    {
+      "threshold": 33,
+      "benefit": "{key:\"minecraft:generic.luck\",op:0,type:\"att\",val:0.05d}"
+    },
+    {
+      "threshold": 33,
+      "benefit": "{key:\"minecraft:generic.safe_fall_distance\",op:0,type:\"att\",val:1.0d}"
+    },
+    {
+      "threshold": 34,
+      "benefit": "{key:\"minecraft:player.block_interaction_range\",op:0,type:\"att\",val:0.3d}"
+    },
+    {
+      "threshold": 40,
+      "benefit": "{key:\"minecraft:generic.safe_fall_distance\",op:0,type:\"att\",val:1.0d}"
+    },
+    {
+      "threshold": 40,
       "benefit": "{key:\"minecraft:generic.max_health\",op:0,type:\"att\",val:2.0d}"
     },
     {
-      "threshold": 31,
+      "threshold": 43,
+      "benefit": "{key:\"minecraft:player.block_interaction_range\",op:0,type:\"att\",val:0.3d}"
+    },
+    {
+      "threshold": 47,
+      "benefit": "{key:\"minecraft:generic.safe_fall_distance\",op:0,type:\"att\",val:1.0d}"
+    },
+    {
+      "threshold": 52,
+      "benefit": "{key:\"minecraft:player.block_interaction_range\",op:0,type:\"att\",val:0.3d}"
+    },
+    {
+      "threshold": 54,
+      "benefit": "{key:\"minecraft:generic.safe_fall_distance\",op:0,type:\"att\",val:1.0d}"
+    },
+    {
+      "threshold": 60,
       "benefit": "{key:\"minecraft:generic.max_health\",op:0,type:\"att\",val:2.0d}"
+    },
+    {
+      "threshold": 61,
+      "benefit": "{key:\"minecraft:player.block_interaction_range\",op:0,type:\"att\",val:0.3d}"
+    },
+    {
+      "threshold": 68,
+      "benefit": "{key:\"minecraft:generic.fall_damage_multiplier\",op:0,type:\"att\",val:-0.2d}"
+    },
+    {
+      "threshold": 70,
+      "benefit": "{key:\"minecraft:player.block_interaction_range\",op:0,type:\"att\",val:0.3d}"
+    },
+    {
+      "threshold": 79,
+      "benefit": "{key:\"minecraft:player.block_interaction_range\",op:0,type:\"att\",val:0.3d}"
+    },
+    {
+      "threshold": 80,
+      "benefit": "{key:\"minecraft:generic.max_health\",op:0,type:\"att\",val:2.0d}"
+    },
+    {
+      "threshold": 82,
+      "benefit": "{key:\"minecraft:generic.fall_damage_multiplier\",op:0,type:\"att\",val:-0.2d}"
+    },
+    {
+      "threshold": 88,
+      "benefit": "{key:\"minecraft:player.block_interaction_range\",op:0,type:\"att\",val:0.3d}"
+    },
+    {
+      "threshold": 96,
+      "benefit": "{key:\"minecraft:generic.fall_damage_multiplier\",op:0,type:\"att\",val:-0.2d}"
+    },
+    {
+      "threshold": 100,
+      "benefit": "{key:\"minecraft:generic.max_health\",op:0,type:\"att\",val:2.0d}"
+    },
+    {
+      "threshold": 130,
+      "benefit": "{key:\"farmersdelight:nourishment\",type:\"eff\",val:0.0d}"
     }
   ],
   "detriments": [],

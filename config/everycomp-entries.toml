@@ -44,9 +44,9 @@
 			fruit_cake = true
 
 		[types.wood_type.quark]
-			azalea = true
-			ancient = true
-			blossom = true
+			azalea = false
+			ancient = false
+			blossom = false
 
 		[types.wood_type.architects_palette]
 			twisted = true
