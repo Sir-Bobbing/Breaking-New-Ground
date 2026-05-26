@@ -1,18 +1,18 @@
-filename = 'ScorchedGuns-1.4.2.jar'
+filename = 'ScorchedGuns-1.4.3.jar'
 name = 'Scorched Guns'
 side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.4.2'
+x-prismlauncher-version-number = '1.4.3'
 
 [download]
-hash = 'a5c3b0ef6fcdbaf297e731a1bd4fe3bc94ad3557f92739e5108ebca11e17b583fab018b76a3eeb8f44ac8a5034b66a47e14e0ca2418f437f41b10e541e9df289'
+hash = 'f4e63042ffa8445993d295ec350b8494d849239738c3236cb04768029671f99cac826a2153cc55f7fe0a85f45617619e40cef358dd3983dea8c76d6457db4926'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/GwtIopV4/versions/xTgfoPhp/ScorchedGuns-1.4.2.jar'
+url = 'https://cdn.modrinth.com/data/GwtIopV4/versions/cwjbjQGl/ScorchedGuns-1.4.3.jar'
 
 [update.modrinth]
 mod-id = 'GwtIopV4'
-version = 'xTgfoPhp'
+version = 'cwjbjQGl'

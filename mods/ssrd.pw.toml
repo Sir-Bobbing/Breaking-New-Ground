@@ -1,0 +1,29 @@
+filename = 'SSRD-0.5-1.21.1.jar'
+name = 'Seperate Sable Render Distance'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.5'
+
+[download]
+hash = 'b708adff51de22c8a5582c2aabddad8ec54c72fdf7107828dd43bcc9d45ef4cde3ee81fce61a89ff64ddf92fecdb28d2a717534cb65fc0824b442b852743ce10'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fJ183v3D/versions/lng7cmmP/SSRD-0.5-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'fJ183v3D'
+version = 'lng7cmmP'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'uCdwusMi'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'AANobbMI'
+type = 'REQUIRED'

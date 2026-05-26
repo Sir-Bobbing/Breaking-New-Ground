@@ -52,4 +52,4 @@
 	slime_growth_max = 5
 
 [worldgen]
-	stone_stripe_features = true
+	stone_stripe_features = false

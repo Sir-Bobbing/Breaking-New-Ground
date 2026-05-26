@@ -1,0 +1,21 @@
+{
+  "item_settings": {
+    "display_name": {
+      "type": "translatable",
+      "translate": "breakingnewground.guide_name"
+    },
+    "tooltip_lines": [
+      {
+        "text": "1st Edition",
+        "color": "dark_gray"
+      }
+    ],
+    "model": "breakingnewground:item/guide"
+  },
+  "custom_colors": {
+    "testmod:test_color": {
+      "dark_mode": "#ff0000",
+      "light_mode": "#00ff00"
+    }
+  }
+}

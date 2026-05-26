@@ -36,6 +36,7 @@
 
 		[types.stone_type.nomansland]
 			silt = true
+			siltstone = true
 
 		[types.stone_type.scguns]
 			phosphorite = true
@@ -45,7 +46,7 @@
 
 		[types.wood_type.quark]
 			azalea = false
-			ancient = false
+			ancient = true
 			blossom = false
 
 		[types.wood_type.architects_palette]

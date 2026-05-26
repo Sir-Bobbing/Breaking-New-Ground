@@ -1,0 +1,6 @@
+{
+  "guide.click": {
+    "replace": true,
+    "sounds": ["guideme:ui_channel_default_04"]
+  }
+}

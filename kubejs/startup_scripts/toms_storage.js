@@ -1,4 +1,3 @@
-// Visit the wiki for more info - https://kubejs.com/
 console.info('Simple Storage adjustments Loads')
 
 BlockEvents.modification(event => {

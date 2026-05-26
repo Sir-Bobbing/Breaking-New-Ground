@@ -22,6 +22,10 @@ ServerEvents.tags('item', event => {
     event.remove('malum:void_soulstone_material', 'createpropulsion:raw_platinum')
     event.add('c:fuel', 'nomansland:resin_oil')
     event.add('c:fuel', 'nomansland:resin_oil_bottle')
+
+// Bookshelf
+    event.add('minecraft:bookshelf_books', 'guideme:guide')
+
 })
 
 ServerEvents.tags('fluid', event => {
@@ -92,11 +96,41 @@ ServerEvents.tags('fluid', event => {
     event.add('create:seats', '#handcrafted:couches')
 
 })
-
-
     ServerEvents.tags('entity_type', event => {
         event.add('redomesticate:command_blacklist', 'scguns:supply_scamp')
         event.add('redomesticate:command_blacklist', 'scguns:viventrum')
+// Cage and Jar Entities
+        event.add('supplementaries:jar_catchable', 'minecraft:silverfish')
+        event.add('supplementaries:jar_catchable', 'endermanoverhaul:spirit')
+        event.add('supplementaries:jar_catchable', 'endermanoverhaul:scarab')
+        event.add('supplementaries:jar_catchable', 'minecraft:endermite')
+        event.add('supplementaries:jar_catchable', 'scguns:swarm')
+        event.add('supplementaries:jar_baby_catchable', 'minecraft:turtle')
+        event.add('supplementaries:jar_baby_catchable', 'minecraft:chicken')
+        event.add('supplementaries:jar_baby_catchable', 'nomansland:goose')
+        event.add('supplementaries:cage_catchable', 'scguns:scampler')
+        event.add('supplementaries:cage_catchable', 'minecraft:silverfish')
+        event.add('supplementaries:cage_catchable', 'endermanoverhaul:spirit')
+        event.add('supplementaries:cage_catchable', 'endermanoverhaul:scarab')
+        event.add('supplementaries:cage_catchable', 'minecraft:wolf')
+        event.add('supplementaries:cage_catchable', 'nomansland:goose')
+        event.add('supplementaries:cage_catchable', 'envelope:pidgeon')
+        event.add('supplementaries:cage_baby_catchable', 'minecraft:camel')
+        event.add('supplementaries:cage_baby_catchable', 'nomansland:deer')
+        event.add('supplementaries:cage_baby_catchable', 'minecraft:panda')
+        event.add('supplementaries:cage_baby_catchable', 'minecraft:llama')
+        event.add('supplementaries:cage_baby_catchable', 'minecraft:trader_llama')
+        event.add('supplementaries:cage_baby_catchable', 'minecraft:drowned')
+        event.add('supplementaries:cage_baby_catchable', 'minecraft:mooshroom')
+        event.add('supplementaries:cage_baby_catchable', 'nomansland:tortoise')
+        event.add('supplementaries:cage_baby_catchable', 'minecraft:strider')
+        event.add('supplementaries:cage_baby_catchable', 'minecraft:villager')
+        event.add('supplementaries:cage_baby_catchable', 'minecraft:zombie')
+        event.add('supplementaries:cage_baby_catchable', 'minecraft:zombie_villager')
+        event.add('supplementaries:cage_baby_catchable', 'minecraft:turtle')
+        event.add('supplementaries:cage_baby_catchable', 'kobolds:kobold_child')
+        event.add('supplementaries:cage_baby_catchable', 'minecraft:husk')
+        event.add('supplementaries:cage_baby_catchable', 'minecraft:zombified_piglin')
 
 
 })

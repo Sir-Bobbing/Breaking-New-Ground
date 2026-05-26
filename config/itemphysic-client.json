@@ -1,7 +1,7 @@
 {
   "rendering": {
     "oldRotation": false,
-    "vanillaRendering": false,
+    "vanillaRendering": true,
     "rotateSpeed": 1.0,
     "showPickupTooltip": true,
     "showPickupTooltipOnlyOnGround": false,

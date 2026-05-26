@@ -1,0 +1,21 @@
+{
+  "item_settings": {
+    "display_name": {
+      "type": "translatable",
+      "translate": "testmod.guide_name"
+    },
+    "tooltip_lines": [
+      {
+        "text": "Best guide ever!",
+        "color": "dark_gray"
+      }
+    ],
+    "model": "testmod:item/guide"
+  },
+  "custom_colors": {
+    "testmod:test_color": {
+      "dark_mode": "#ff0000",
+      "light_mode": "#00ff00"
+    }
+  }
+}

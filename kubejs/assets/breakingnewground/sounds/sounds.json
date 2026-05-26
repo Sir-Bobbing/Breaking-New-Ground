@@ -1,0 +1,10 @@
+{
+  "guide.click": {
+    "sounds":
+    [
+      {
+      "name": "breakingnewground:ui_channel_news_04"
+      }
+    ]
+  }
+}

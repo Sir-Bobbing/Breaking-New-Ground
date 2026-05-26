@@ -174,3 +174,14 @@ RecipeViewerEvents.removeEntries('item', event => {
     event.remove('create:experience_nugget')
 
 })
+// Fluids
+RecipeViewerEvents.removeEntries('fluid', event => {
+    event.remove('createbigcannons:molten_steel')
+    event.remove('createbigcannons:molten_nethersteel')
+
+})
+// GuideME
+RecipeViewerEvents.addEntries('item', event => {
+    event.add('guideme:guide[guideme:guide_id="breakingnewground:guide"]')
+
+})
