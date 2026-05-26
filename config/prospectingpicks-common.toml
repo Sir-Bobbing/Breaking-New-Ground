@@ -5,8 +5,18 @@ enableTierSteel = false
 displayNumericCount = false
 #Spherical ore search radius
 # Default: 7
-# Range: 1 ~ 32
-searchRadius = 7
+# Range: 1 ~ 64
+searchRadius = 8
+#Enables column search. Will search a column down. Crouch when breaking block to activate.
+searchColumn = true
+#Column search radius. Makes a diamond shape rather than a circle
+# Default: 2
+# Range: 0 ~ 32
+searchColumnRadius = 8
+#Column search length before stopping search.
+# Default: 128
+# Range: 1 ~ 256
+searchColumnLength = 192
 #Cluster threshold 0 - min number of ores found for detection
 # Default: 1
 # Range: > 1
@@ -14,19 +24,19 @@ clusterThreshold0 = 1
 #Cluster threshold 1 - labeled as moderate amounts
 # Default: 3
 # Range: > 1
-clusterThreshold1 = 3
+clusterThreshold1 = 16
 #Cluster threshold 2 - labeled as large amounts
 # Default: 9
 # Range: > 1
-clusterThreshold2 = 9
+clusterThreshold2 = 64
 #Cluster threshold 3 - labeled as massive amounts
 # Default: 32
 # Range: > 1
-clusterThreshold3 = 32
+clusterThreshold3 = 128
 #Cluster threshold 4 - labeled as extraordinary amounts
 # Default: 72
 # Range: > 1
-clusterThreshold4 = 72
+clusterThreshold4 = 256
 #Vein raw ore threshold 0 - number of raw ore blocks needed to confirm vein detection
 # Default: 1
 # Range: > 1
@@ -34,22 +44,24 @@ veinThreshold0_rawOre = 1
 #Vein raw ore threshold 0 - number of ores needed to confirm vein detection
 # Default: 1
 # Range: > 1
-veinThreshold0_ore = 1
+veinThreshold0_ore = 16
 #Vein raw ore threshold 1 - number of raw ore blocks needed to label vein as large
 # Default: 2
 # Range: > 1
-veinThreshold1_rawOre = 2
+veinThreshold1_rawOre = 1
 #Vein ore threshold 1 - number of ores needed to label vein as large
 # Default: 5
 # Range: > 1
-veinThreshold1_ore = 5
+veinThreshold1_ore = 128
 #Vein raw ore threshold 2 - number of raw ore blocks needed to label vein as enormous
 # Default: 5
 # Range: > 1
-veinThreshold2_rawOre = 5
+veinThreshold2_rawOre = 1
 #Vein ore threshold 2 - number of ores needed to label vein as enormous
 # Default: 24
 # Range: > 1
-veinThreshold2_ore = 24
+veinThreshold2_ore = 256
 #A list of ore tags to search for. Format: ore_tag;raw_ore_tag;[canonical_block_id];is_treasure. canonical_block_id is used to optionally fetch the translation key.
-ores = ["coal;coal;;false", "diamond;diamond;;true", "lapis;lapis;;false", "emerald;emerald;;true", "iron;raw_iron;;false", "redstone;redstone;;false", "gold;raw_gold;;false", "copper;raw_copper;;false", "quartz;quartz;;false", "netherite_scrap;netherite;;true", "silver;raw_silver;;false", "platinum;raw_platinum;;true", "uranium;raw_uranium;;false", "tin;raw_tin;;false", "zinc;raw_zinc;;false", "aluminum;raw_aluminum;;false", "sapphire;sapphire;;true", "ruby;ruby;;false", "tungsten;raw_tungsten;;false", "osmium;raw_osmium;;false", "bismuth;raw_bismuth;;false", "fluorite;fluorite;;false", "nickel;raw_nickel;;false", "sulfur;sulfur;;false", "niter;niter;;false", "cinnabar;cinnabar;;false", "apatite;apatite;;false"]
+ores = ["coal;coal;;false", "diamond;raw_diamond;;true", "lapis;raw_lazurite;;false", "emerald;raw_emerald;;true", "iron;raw_iron;;false", "redstone;raw_cinnabar;;false", "gold;raw_gold;;false", "copper;raw_copper;;false", "quartz;quartz;;false", "netherite_scrap;netherite;;true", "silver;raw_silver;;false", "platinum;raw_platinum;;true", "uranium;raw_uranium;;false", "tin;raw_tin;;false", "zinc;raw_zinc;;false", "aluminum;raw_aluminum;;false", "sapphire;sapphire;;true", "ruby;ruby;;false", "tungsten;raw_tungsten;;false", "osmium;raw_osmium;;false", "bismuth;raw_bismuth;;false", "fluorite;fluorite;;false", "nickel;raw_nickel;;false", "sulfur;sulfur;;false", "niter;niter;;false", "apatite;apatite;;false", "bauxite;;;false","phosphorus;raw_phosphor;;false"]
+#Display column depth numerically instead of descriptively
+displayNumericDepth = false
