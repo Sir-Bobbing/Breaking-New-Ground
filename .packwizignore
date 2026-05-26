@@ -17,3 +17,5 @@ lookupHistory.json
 *.zip
 activity.json
 bookmarks.json
+# Folders
+/guide

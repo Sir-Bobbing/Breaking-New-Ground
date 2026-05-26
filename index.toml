@@ -774,7 +774,7 @@ hash = "774274e780bee5bf90b8114e59429b5b3a26222b4dca7d8df8b1dd438b33a003"
 
 [[files]]
 file = "config/prospectingpicks-common.toml"
-hash = "4349ee2eabd0b11cfba6b675f4cf9bccbee12ab7b9b40fb1ea0fc7f3cf3c87fd"
+hash = "03f87ff6b9681d1cd909c5fa98ebe51a953212a68d907d526ada6315e25aa27d"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -1055,194 +1055,6 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 [[files]]
 file = "config/zeta-common.toml"
 hash = "ea1fa91de03d8f6f3c36b0c6cef77375a8365790ac0acb63fd558643d54d677f"
-
-[[files]]
-file = "guide/.obsidian/app.json"
-hash = "4374eeac1712a41b47890b4ffff2a54ecce4223c02a1d83816087c03f1ba1ad8"
-
-[[files]]
-file = "guide/.obsidian/appearance.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "guide/.obsidian/core-plugins.json"
-hash = "a639cf472b293e8f44a320b23bc4f553dab670645e0e6a3530d14f334f8085c6"
-
-[[files]]
-file = "guide/.obsidian/graph.json"
-hash = "89b1b8c279c3229a13509a0fad866ef90a7a70a6536f78d542e9c0960aec3d77"
-
-[[files]]
-file = "guide/.obsidian/templates.json"
-hash = "938076119ceba865e99e3810792e07bb0463320151320bd0ddff4afd65f05766"
-
-[[files]]
-file = "guide/.obsidian/workspace.json"
-hash = "990bfb9de9fb1d8c12e03918284adb618369c4d78593e33286bb593dc16d1d5e"
-
-[[files]]
-file = "guide/.trash/Untitled 2.md"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "guide/.trash/Untitled.md"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "guide/.trash/Welcome.md"
-hash = "ecd0dfb6b21143ff52cfe36f93636df57e5b21773c101491b86f10ce17556ca8"
-
-[[files]]
-file = "guide/.trash/minutiae_secrets.md"
-hash = "ccd444564af7b568a7a821ecd24686ad6d6528650eaed20d00543424b5613fb1"
-
-[[files]]
-file = "guide/.trash/minutiae_utilities 1.md"
-hash = "c92ea139fdbca5ab09c62df5bd47c95cacf93e95729af2e402b27f60b0e7dc67"
-
-[[files]]
-file = "guide/.trash/tenna.gif"
-hash = "f77d0da1ff8c0df09e6816311a76526c5b3d6b3a2b067c27326d723dd635dd94"
-
-[[files]]
-file = "guide/.trash/vanilla_tweaks.md"
-hash = "ff616c9f5137052fe7d26a8e6e8c896af1661918a7ad4118c3286e3ecd6b2ed0"
-
-[[files]]
-file = "guide/breakingnewground/guideme_guides/guide.json"
-hash = "d8f4842d69da7fc158a04d88d973069de6b87ebfead0404f9e298ea8e4842d5a"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/arcane.md"
-hash = "69a8251df9b2f3ca6de999f317c780874cf84be21210c3cf567ec8329af59fee"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/arcane_alchemists.md"
-hash = "88cd4f095fe61cf427b122e8bb3bd755aff9a26a823225d21420ac915e84c2c5"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/arcane_artifacts.md"
-hash = "ca47a7953ec76e0dfb749b693746654b9db3dca393adb96a19e2cc8337984cf2"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/arcane_enchanting.md"
-hash = "c730ee23ebb4218ba03d3be32a4daa398ba0394a55a821d579151b58349118ff"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/arcane_malum.md"
-hash = "bddbeb979365a0664cbc67d7e2259c1d320d7d51d3c325f942116196d4013982"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/index.md"
-hash = "629bd878e36606917a4aba6a7898482f40cc49ee3677f82790e0378c3ca21889"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/industrial.md"
-hash = "d22a58a0c100390ca828dd360dac194b339c1564c270c1c1fdba74b8329487d5"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/industrial_chunk_loaders.md"
-hash = "4b82bb95c9569d25508769d982d350eea5d7de5a3583f540ce3ad1262a7d80c0"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/industrial_create.md"
-hash = "a81ec87a92cc5d4583b2a041ac1fb791fe0c64df85404fa9693cb4ea8112d655"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/industrial_drive_by_wire.md"
-hash = "9e4c1a88b659115f4beb0af22e3688d9d6d9069da8f16ce6dc766f187fac3d33"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/industrial_guns_cannons.md"
-hash = "55e3b0b867c56e0c9095c915581fbfc05441351b177e6c836d94905ebd4dbb3b"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/industrial_prospecting.md"
-hash = "883e96f964ec823554ec071593838630356d1d55a7a3565a4dbf5d722ccd8e7b"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/industrial_simple_storage.md"
-hash = "1cd1554f4c93b6c998d60731a2587199f5cd768bd982dbb69e05b42e452dcffa"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/industrial_tfmg.md"
-hash = "22a3da65c8f0ffa7ff3a2ca7eefb5d8c9bf5baa335f3b750575fa3b2c20bb167"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/industrial_transport.md"
-hash = "486be8308525e6e302ca37e1c344f6c8e7abfbbd23c364a08ed6b302abf6aa77"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/minutiae.md"
-hash = "5aa32d332a68fa54dd0c7e7995e3f6219c5f1ac881db9b214449a3d3591baf3f"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/minutiae_decoration.md"
-hash = "dc1887f88a74c8a43fa8e968c3a648c9c4f707da4ca65308a0bec65479684107"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/minutiae_envelope.md"
-hash = "feb4a85519a6f596f86b7a8a546fa69d3838802cc2a26e1c603b6c0765d6ebe5"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/minutiae_utilities.md"
-hash = "0453beb47a26624032307896bb25f4aec6aad3c0327e13c831b274c2d2da4f81"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/minutiae_vista.md"
-hash = "b9181c024a72e9195a42c7d612a1fd200d491432340f7a600877b8cfec00d106"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/secret_cassettes.md"
-hash = "4877684553a397533eaf8993cc23c51ac10871c1c865b30ffca5d8d75ad1b4ce"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/world.md"
-hash = "7ed9dab44c26553cc2fbbef1acfa9d879a8e51416aa3f001e9644a041046c1db"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/world_food.md"
-hash = "9470b91bb2f163d1ba3d7a7f61903070243d0e83460018fec12aa3aaf1fb1831"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/world_pets.md"
-hash = "fcedeb0ab6d1e90063ba223ebf84851c1ed3b2a93c44150cf67d10f021ad44ed"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/world_the_nether.md"
-hash = "88de8b834b8f19065e5b4ac6f570b391c13a8476fc0fdc8d76faecd6da314c03"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/world_the_overworld.md"
-hash = "a0108f46d811ddcb03e656629b5660066fd55abe4f42c2748585265895c0d9b3"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/world_villagers_kobolds.md"
-hash = "48cd1d91a584d2ebadefccda8985f6464ece9bd5347053be81543e876e5e34a1"
-
-[[files]]
-file = "guide/breakingnewground/guides/breakingnewground/guide/z_other_resources.md"
-hash = "d8d03b9ea3dc932393e759461278d3e6d6066ba0cda67d711081c4d618278134"
-
-[[files]]
-file = "guide/breakingnewground/items/guide.json"
-hash = "3b8fd8934c17fb54c320dd356b0a58b8fae7390a342ef2245900e5dce60cf497"
-
-[[files]]
-file = "guide/breakingnewground/lang/en_us.json"
-hash = "eaf013c3cfb3f137be90796fd44f3677ecbedbbdf63c93bb031838fe12881b21"
-
-[[files]]
-file = "guide/breakingnewground/models/item/guide.json"
-hash = "c067e8904ad8758c4bf4db7f005ccbff10f2141c9c81c4a23b2697ef4e9e3626"
-
-[[files]]
-file = "guide/breakingnewground/textures/item/guide.png"
-hash = "33b6f7c419928a38489b138c5195c0adde98a1cb41e53876a2d7c81bc5fbfbe3"
-
-[[files]]
-file = "guide/page template.md"
-hash = "7e8d6b947a723aa28cff5d476cc8f65510415dc4115909c04df6a6e713c4d739"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -1595,10 +1407,6 @@ hash = "375db7c2cb2ce279125ca79dd25279c2df0684b8b7993714673b25375b5892a4"
 [[files]]
 file = "kubejs/data/chunkloaders/recipe/ultimate_chunk_loader.json"
 hash = "1caa7f2e35b8542a1ee7e314b7824ee0ddc617d0d56264fc4808e22b38d53ef1"
-
-[[files]]
-file = "kubejs/data/create/neoforge/biome_modifier/zinc_ore.json"
-hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
 
 [[files]]
 file = "kubejs/data/create_connected/recipe/crafting/kinetics/sequenced_pulse_generator.json"
@@ -2209,22 +2017,6 @@ file = "kubejs/data/createdeco/tags/item/supports.json"
 hash = "cf7d717b37fac147993f0014de13de3dfa1d8d3b48df423da8308b05b84782ab"
 
 [[files]]
-file = "kubejs/data/createpropulsion/neoforge/biome_modifier/add_ore_platinum.json"
-hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
-
-[[files]]
-file = "kubejs/data/createpropulsion/neoforge/biome_modifier/add_ore_platinum_buried.json"
-hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
-
-[[files]]
-file = "kubejs/data/createpropulsion/neoforge/biome_modifier/add_ore_platinum_large.json"
-hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
-
-[[files]]
-file = "kubejs/data/createpropulsion/neoforge/biome_modifier/add_ore_platinum_medium.json"
-hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
-
-[[files]]
 file = "kubejs/data/createpropulsion/recipe/crafting/coral_generator.json"
 hash = "7f06ca029d1f1f27b989085b24314900e5c7bcc1b9991a89dfa4d9e2cc0c83ac"
 
@@ -2597,34 +2389,6 @@ file = "kubejs/data/lootintegrations/loot/loot_pruins_water.json"
 hash = "504f7c3d7a430611f8b7f33149c87636ca5bbdeb1b20ae6fa035235dda2c56f8"
 
 [[files]]
-file = "kubejs/data/malum/neoforge/biome_modifier/blazing_quartz_ore.json"
-hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
-
-[[files]]
-file = "kubejs/data/malum/neoforge/biome_modifier/brilliant_ore.json"
-hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
-
-[[files]]
-file = "kubejs/data/malum/neoforge/biome_modifier/cthonic_gold_ore.json"
-hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
-
-[[files]]
-file = "kubejs/data/malum/neoforge/biome_modifier/deepslate_quartz_geode.json"
-hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
-
-[[files]]
-file = "kubejs/data/malum/neoforge/biome_modifier/natural_quartz_ore.json"
-hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
-
-[[files]]
-file = "kubejs/data/malum/neoforge/biome_modifier/quartz_geode.json"
-hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
-
-[[files]]
-file = "kubejs/data/malum/neoforge/biome_modifier/soulstone_ore.json"
-hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
-
-[[files]]
 file = "kubejs/data/malum/recipe/spirit_infusion/brilliant_obelisk.json"
 hash = "366fa3c150b52629d2b76088a9d1110edced76aacfa4127c77a3cdac87dcacb6"
 
@@ -2729,104 +2493,8 @@ file = "kubejs/data/minecraft/worldgen/noise_settings/overworld.json"
 hash = "2813eb6796c683491e4ea2d7fc464d16c461004b53a934a26659264b73859e2f"
 
 [[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_coal_lower.json"
-hash = "6d2d613fb1024a43d7da752170f3ff177b187abbc2f783c3f0d6fcebb9f27f2a"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_coal_upper.json"
-hash = "57bb7a3dcf84493c402dc482bd88206ddf0085c37574723bb9add200c048ca55"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond.json"
-hash = "c101683a3a2cacee7d427d817b53a8e3da086fc8923cc5492d910f69c3581302"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_buried.json"
-hash = "b170292617a8403c6be28a88e03cbaf4f76b01518b6b07529cdf98287114994a"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_large.json"
-hash = "f2f6d921b1c8768b115b6f06d739d83280b820134c63f262411743eded66a574"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_medium.json"
-hash = "f4e4fff0bac896a6865eb9afb1a1c9443682460bd54d360df5fe7b103638c1c9"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_emerald.json"
-hash = "7044e77d7eed27f7f19a68d8115043cb11f49fd9c3152cfb65f9019a5c1cf218"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold.json"
-hash = "cc88cef43edf527dd6027c7ef188ed947c3b9349cd75484eabf83f2c6afa7f8f"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_deltas.json"
-hash = "70a4ddfbe3ca4817c2b5c5ee279e77e7e3466b96420922af69e5c90a52752bf5"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_extra.json"
-hash = "4238a3b08f12734e57ec004f661ab918240d287123f8e848ab6f82fe8105ef4b"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_lower.json"
-hash = "cc88cef43edf527dd6027c7ef188ed947c3b9349cd75484eabf83f2c6afa7f8f"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_nether.json"
-hash = "70a4ddfbe3ca4817c2b5c5ee279e77e7e3466b96420922af69e5c90a52752bf5"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_middle.json"
-hash = "0449f5bd6593282d38faa799fc8bde95c6270ff45e33aa274192fe57141520dc"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_small.json"
-hash = "266a3a2362deda8a6e66ea59adc91597e3068f38aa05a53c9da1f271b2fae2e5"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_upper.json"
-hash = "0449f5bd6593282d38faa799fc8bde95c6270ff45e33aa274192fe57141520dc"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_lapis.json"
-hash = "d309f0fbb51433c4b33301c70d65d26373c3ad7d8d1fbd302cf9377139a748f5"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_lapis_buried.json"
-hash = "84e58be76357fa449eb9368b3744480a2075416cbe3d1035605d267eeeb1197b"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_quartz_deltas.json"
-hash = "7c3185007ec946d99490abc5cfa5fa03ad2fcb0384eb5259318d0bd7bd74cec6"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_quartz_nether.json"
-hash = "7c3185007ec946d99490abc5cfa5fa03ad2fcb0384eb5259318d0bd7bd74cec6"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_redstone.json"
-hash = "171fefb7c72bfc5a17f1a9bc30e04cfef72c22fa4cffb3d0b6d11466b71a91f7"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/placed_feature/ore_redstone_lower.json"
-hash = "171fefb7c72bfc5a17f1a9bc30e04cfef72c22fa4cffb3d0b6d11466b71a91f7"
-
-[[files]]
 file = "kubejs/data/minecraft/worldgen/structure_set/ruined_portals.json"
 hash = "ffd2d8633a38d739d65029257d522b81a0b6f71562d2068ce413104c71cbb968"
-
-[[files]]
-file = "kubejs/data/ore_gen/neoforge/biome_modifier/ore_noise.json"
-hash = "27c2da329e27e4995f713edec1fa148fd9816aee3e2166925ab429696ee320af"
-
-[[files]]
-file = "kubejs/data/ore_gen/worldgen/configured_feature/noise_stripes_coal.json"
-hash = "d2bd6c55d654b9736cf431c2aca916813acb321c661f940388302b32868a5e46"
-
-[[files]]
-file = "kubejs/data/ore_gen/worldgen/placed_feature/noise_coal.json"
-hash = "e371dd100832f18317af281cd6cb0601c76b8bda7b8056908fa60c9fbf0a98ee"
 
 [[files]]
 file = "kubejs/data/particlemimicry/recipe/particle_emitter.json"
@@ -2839,22 +2507,6 @@ hash = "2c65f6a42ea86b6b61b8210c20d805445523602c97719941dce150b3de53b927"
 [[files]]
 file = "kubejs/data/scguns/loot_modifiers/pebbles_from_gravel.json"
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
-
-[[files]]
-file = "kubejs/data/scguns/neoforge/biome_modifier/anthralite_ore.json"
-hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
-
-[[files]]
-file = "kubejs/data/scguns/neoforge/biome_modifier/nether_sulfur_ore.json"
-hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
-
-[[files]]
-file = "kubejs/data/scguns/neoforge/biome_modifier/sulfur_ore.json"
-hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
-
-[[files]]
-file = "kubejs/data/scguns/neoforge/biome_modifier/vehement_coal_ore.json"
-hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
 
 [[files]]
 file = "kubejs/data/scguns/recipe/create/ancient_brass_brass_from_mixing.json"
@@ -2897,42 +2549,6 @@ file = "kubejs/data/simulated/end_sea/the_nether.json"
 hash = "6be82413398c48257d0f5824367dd7e6b80de5bdf32026600f1069e97b156fa5"
 
 [[files]]
-file = "kubejs/data/spelunkery/neoforge/biome_modifier/nether_modifier.json"
-hash = "1b55d1ba7e740045b46610581cd96855cfecb81369848a7780845fc7a1ca2c23"
-
-[[files]]
-file = "kubejs/data/spelunkery/tags/worldgen/biome/has_desert_noise.json"
-hash = "8193e154337320e41ad4de2699e7a59303109a755cac73cd8f846709ff132c12"
-
-[[files]]
-file = "kubejs/data/spelunkery/tags/worldgen/biome/has_dirt_noise.json"
-hash = "4e3856e4b979c44b975747b1099e9de66036d4c80787b42d530660b8f52f2bed"
-
-[[files]]
-file = "kubejs/data/spelunkery/tags/worldgen/biome/has_ocean_noise.json"
-hash = "112d5087292d01bab6c06be3888b6fbd7d35d0bbfa56a7544108265bd8c0e4e4"
-
-[[files]]
-file = "kubejs/data/spelunkery/tags/worldgen/biome/has_stone_noise.json"
-hash = "c6629105c155419869027578800c312ab6035f6d929123a0a8661a76b78c3bb5"
-
-[[files]]
-file = "kubejs/data/spelunkery/tags/worldgen/biome/has_swamp_noise.json"
-hash = "8b69f204a518d089ea82efbdb019277aea41420ab5f7db3bb3a77f562efd78ff"
-
-[[files]]
-file = "kubejs/data/tfmg/neoforge/biome_modifier/lead_ore.json"
-hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
-
-[[files]]
-file = "kubejs/data/tfmg/neoforge/biome_modifier/lithium_ore.json"
-hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
-
-[[files]]
-file = "kubejs/data/tfmg/neoforge/biome_modifier/nickel_ore.json"
-hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
-
-[[files]]
 file = "kubejs/data/tfmg/recipe/mixing/gunpowder.json"
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
 
@@ -2943,10 +2559,6 @@ hash = "e449331537a8a7c306fcc6ecf829c0b568881c4de821a659eb4406fed4c4ab00"
 [[files]]
 file = "kubejs/data/tfmg/recipe/vat_machine_recipe/sulfuric_acid.json"
 hash = "c4af97802c5b33fd7d9b5783b61b2fc1021fedd4ecbd56d240eca836c9dbc7a1"
-
-[[files]]
-file = "kubejs/data/tfmg/worldgen/configured_feature/tfmg_striated_ores_nether.json"
-hash = "b5d5745f08d22908df0dcb4ace45185c711e01f338f15bbfb8a2ad8ccb38c06f"
 
 [[files]]
 file = "kubejs/data/toms_storage/recipe/basic_inventory_hopper.json"
@@ -3143,6 +2755,10 @@ metafile = true
 file = "mods/blueprint.pw.toml"
 hash = "17f6dc669018b4450ccb3a5eafbc7b681b92336d189cf98d6df9ee726da28804"
 metafile = true
+
+[[files]]
+file = "mods/bngore-1.0.0.jar"
+hash = "5a629598d53abfb215037d3cb31a8d48fd34784ef2cc033798462f94cd5b5688"
 
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
@@ -3753,6 +3369,10 @@ metafile = true
 file = "mods/preferred-gamerules.pw.toml"
 hash = "b5d40071cb8511343078786fada0e0a7a913ead85ddb63267bd272e1ca19e329"
 metafile = true
+
+[[files]]
+file = "mods/prospectingpicks-1.2.2.jar"
+hash = "143ed9eb070c1b260c96c7bbf746029e3b80fb7e713b7d4be8d70b8aa95311a0"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
