@@ -1197,66 +1197,6 @@ file = "kubejs/assets/particlemimicry/textures/block/particle_emitter_top_active
 hash = "0661af46b9107320dde332d2dfeb82d0e6d1b46af77632ec12a109ef824fe826"
 
 [[files]]
-file = "kubejs/assets/testmod/guideme_guides/guide.json"
-hash = "ee26520276bb8edcac5568173eb5bdcee74c5e65a1eb281bc5b205067c4c83a9"
-
-[[files]]
-file = "kubejs/assets/testmod/guides/testmod/guide/end_portal.nbt"
-hash = "f6149dc68d79c8abb22189f4af27a77ad06d2fc2be55cad182b5ca99dc54114f"
-
-[[files]]
-file = "kubejs/assets/testmod/guides/testmod/guide/index.md"
-hash = "b0ca61d242c13f5d45fb16c9b0facfad8285b5726677a146f516c3bbca6c1360"
-
-[[files]]
-file = "kubejs/assets/testmod/guides/testmod/guide/japanese.md"
-hash = "0ddc7fc87e1649168a3bd40e5b565bf2c71ddcc24b8ea84f53d8b057243dab9a"
-
-[[files]]
-file = "kubejs/assets/testmod/guides/testmod/guide/markdown.md"
-hash = "5dbc2cf521d0b1d7fd6bd38005823ae7d2f8c3faef887d8e276b53a999600674"
-
-[[files]]
-file = "kubejs/assets/testmod/guides/testmod/guide/redstone_test.nbt"
-hash = "bb6253856d5a3f786fcb0b07a7c6f4bebecfe54b9965ecc9ff188b5b9835fd3b"
-
-[[files]]
-file = "kubejs/assets/testmod/guides/testmod/guide/subpage.md"
-hash = "f4892b03c8b35ab7c1fabb185d315519a514f9601f695ff1c7ae3a59d5e57482"
-
-[[files]]
-file = "kubejs/assets/testmod/guides/testmod/guide/subpage2.md"
-hash = "f7dd06e1a90965833efa2a1b7baf3fcaf40160fd177b745705276130bbfe50a8"
-
-[[files]]
-file = "kubejs/assets/testmod/guides/testmod/guide/test.md"
-hash = "9f94d1dd80e0ef13fd7b202186da2638e2062652bfd6c8f6ea9723e2131d1b8e"
-
-[[files]]
-file = "kubejs/assets/testmod/guides/testmod/guide/test.nbt"
-hash = "e97ce294e683131c5a40a815b3e046587905f2948322f52c39419cc2def5448c"
-
-[[files]]
-file = "kubejs/assets/testmod/guides/testmod/guide/test.png"
-hash = "804c104572128892f53216397fef64da7206bd0ffa3898edfe87cc7850356f35"
-
-[[files]]
-file = "kubejs/assets/testmod/items/guide.json"
-hash = "577e8ff060c44f046d94b4353b3b2136ab5ec063be4a77fad37c5460e0e628d2"
-
-[[files]]
-file = "kubejs/assets/testmod/lang/en_us.json"
-hash = "66011a90dc5eff49e4cf7ffa591b5f208b899d30b6114144f2da0aeadca1efd7"
-
-[[files]]
-file = "kubejs/assets/testmod/models/item/guide.json"
-hash = "dac26799fb64317e67d4051ced7c9834532a0dfdd5d4e9d97d416ba744de1b65"
-
-[[files]]
-file = "kubejs/assets/testmod/textures/item/guide.png"
-hash = "4ce77b74e6a4947a5a3456874ee7f4e491800d827080383db4d7e00898ef6728"
-
-[[files]]
 file = "kubejs/client_scripts/client_guideme.js"
 hash = "9bc508f21f9f7b048f48209c9da1ea47a08431d03bf5feb1e4ca79cd284c12a6"
 
