@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "dementia": {
+      "trigger": "minecraft:slept_in_bed"
+    }
+  },
+  "requirements": [
+    [
+      "dementia"
+    ]
+  ],
+  "rewards": {
+    "function": "minecraft:whats_this/dementia"
+  }
+}
