@@ -2,7 +2,7 @@
   "levels": {
     "1": [
       {
-        "item": "minecraft:nether_star",
+        "item": "scguns:nether_star_fragment",
         "amount": 1
       }
     ]

@@ -8,20 +8,20 @@
     ],
     "2": [
       {
-        "item": "minecraft:nether_brick",
-        "amount": 1
+        "item": "malum:aqueous_spirit",
+        "amount": 8
       }
     ],
     "3": [
       {
-        "item": "minecraft:blaze_rod",
+        "item": "minecraft:magma_cream",
         "amount": 1
       }
     ],
     "4": [
       {
-        "item": "minecraft:torchflower",
-        "amount": 1
+        "item": "minecraft:blue_ice",
+        "amount": 8
       }
     ]
   }

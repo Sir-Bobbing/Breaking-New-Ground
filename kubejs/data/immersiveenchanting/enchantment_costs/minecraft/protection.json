@@ -14,12 +14,6 @@
     ],
     "3": [
       {
-        "item": "minecraft:nautilus_shell",
-        "amount": 1
-      }
-    ],
-    "4": [
-      {
         "item": "minecraft:shulker_shell",
         "amount": 1
       }

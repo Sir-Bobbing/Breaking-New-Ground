@@ -9,55 +9,55 @@
     "2": [
       {
         "item": "#neoforge:enchanting_fuels",
-        "amount": 2
+        "amount": 3
       }
     ],
     "3": [
       {
         "item": "#neoforge:enchanting_fuels",
-        "amount": 3
+        "amount": 6
       }
     ],
     "4": [
       {
         "item": "#neoforge:enchanting_fuels",
-        "amount": 4
+        "amount": 9
       }
     ],
     "5": [
       {
         "item": "#neoforge:enchanting_fuels",
-        "amount": 5
+        "amount": 12
       }
     ],
     "6": [
       {
         "item": "#neoforge:enchanting_fuels",
-        "amount": 6
+        "amount": 15
       }
     ],
     "7": [
       {
         "item": "#neoforge:enchanting_fuels",
-        "amount": 7
+        "amount": 18
       }
     ],
     "8": [
       {
         "item": "#neoforge:enchanting_fuels",
-        "amount": 8
+        "amount": 21
       }
     ],
     "9": [
       {
         "item": "#neoforge:enchanting_fuels",
-        "amount": 9
+        "amount": 24
       }
     ],
     "10": [
       {
         "item": "#neoforge:enchanting_fuels",
-        "amount": 10
+        "amount": 27
       }
     ]
   }

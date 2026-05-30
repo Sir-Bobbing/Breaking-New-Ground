@@ -2,19 +2,19 @@
   "levels": {
     "1": [
       {
-        "item": "minecraft:diamond",
+        "item": "nomansland:clover_patch",
         "amount": 1
       }
     ],
     "2": [
       {
-        "item": "minecraft:phantom_membrane",
-        "amount": 1
+        "item": "malum:wicked_spirit",
+        "amount": 24
       }
     ],
     "3": [
       {
-        "item": "minecraft:pitcher_plant",
+        "item": "malum:ring_of_esoteric_spoils",
         "amount": 1
       }
     ]

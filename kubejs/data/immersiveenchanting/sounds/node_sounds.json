@@ -10,7 +10,6 @@
       "volume": 0.5,
       "pitch": 1.0
     },
-
     "minecraft:aqua_affinity": {
       "sound": "minecraft:entity.axolotl.attack",
       "volume": 0.5,

@@ -2,19 +2,19 @@
   "levels": {
     "1": [
       {
-        "item": "minecraft:mangrove_roots",
-        "amount": 1
+        "item": "malum:raw_soulstone",
+        "amount": 4
       }
     ],
     "2": [
       {
-        "item": "minecraft:crimson_roots",
-        "amount": 1
+        "item": "malum:aerial_spirit",
+        "amount": 8
       }
     ],
     "3": [
       {
-        "item": "minecraft:soul_soil",
+        "item": "farmersdelight:cake_slice",
         "amount": 1
       }
     ]

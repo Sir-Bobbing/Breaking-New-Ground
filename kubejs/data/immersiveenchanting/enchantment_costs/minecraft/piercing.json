@@ -14,14 +14,14 @@
     ],
     "3": [
       {
-        "item": "minecraft:goat_horn",
+        "item": "minecraft:lightning_rod",
         "amount": 1
       }
     ],
     "4": [
       {
-        "item": "minecraft:echo_shard",
-        "amount": 1
+        "item": "architects_palette:entwine_rod",
+        "amount": 4
       }
     ]
   }

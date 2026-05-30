@@ -3,7 +3,7 @@
     "1": [
       {
         "item": "minecraft:feather",
-        "amount": 2
+        "amount": 6
       }
     ],
     "2": [
@@ -14,8 +14,8 @@
     ],
     "3": [
       {
-        "item": "minecraft:hay_block",
-        "amount": 8
+        "item": "spelunkery:parachute",
+        "amount": 1
       }
     ],
     "4": [

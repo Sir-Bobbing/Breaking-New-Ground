@@ -2,8 +2,8 @@
   "levels": {
     "1": [
       {
-        "item": "minecraft:torchflower",
-        "amount": 1
+        "item": "minecraft:fire_charge",
+        "amount": 3
       }
     ]
   }

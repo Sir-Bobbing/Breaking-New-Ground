@@ -2,8 +2,8 @@
   "levels": {
     "1": [
       {
-        "item": "minecraft:end_crystal",
-        "amount": 1
+        "item": "malum:soulwoven_silk",
+        "amount": 8
       }
     ]
   }

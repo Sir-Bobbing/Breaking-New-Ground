@@ -2,7 +2,7 @@
   "levels": {
     "1": [
       {
-        "item": "minecraft:cod_bucket",
+        "item": "minecraft:soul_sand",
         "amount": 1
       }
     ],
@@ -14,7 +14,7 @@
     ],
     "3": [
       {
-        "item": "minecraft:tadpole_bucket",
+        "item": "endermanoverhaul:bubble_pearl",
         "amount": 1
       }
     ]

@@ -14,19 +14,19 @@
     ],
     "3": [
       {
-        "item": "minecraft:ancient_debris",
+        "item": "tfmg:lead_block",
         "amount": 1
       }
     ],
     "4": [
       {
-        "item": "minecraft:heavy_core",
+        "item": "minecraft:ancient_debris",
         "amount": 1
       }
     ],
     "5": [
       {
-        "item": "minecraft:nether_star",
+        "item": "minecraft:heavy_core",
         "amount": 1
       }
     ]

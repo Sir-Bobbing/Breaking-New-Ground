@@ -2,19 +2,19 @@
   "levels": {
     "1": [
       {
-        "item": "minecraft:cake",
+        "item": "createbigcannons:worm",
         "amount": 1
       }
     ],
     "2": [
       {
-        "item": "minecraft:slime_ball",
-        "amount": 1
+        "item": "malum:aerial_spirit",
+        "amount": 8
       }
     ],
     "3": [
       {
-        "item": "minecraft:pufferfish_bucket",
+        "item": "malum:rune_of_good_tides",
         "amount": 1
       }
     ]

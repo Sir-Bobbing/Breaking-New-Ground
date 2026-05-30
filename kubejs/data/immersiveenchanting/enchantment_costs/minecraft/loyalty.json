@@ -8,13 +8,13 @@
     ],
     "2": [
       {
-        "item": "minecraft:end_crystal",
+        "item": "create:rope_pulley",
         "amount": 1
       }
     ],
     "3": [
       {
-        "item": "minecraft:echo_shard",
+        "item": "endermanoverhaul:soul_pearl",
         "amount": 1
       }
     ]

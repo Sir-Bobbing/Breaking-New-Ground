@@ -2,31 +2,31 @@
   "levels": {
     "1": [
       {
-        "item": "minecraft:cake",
+        "item": "minecraft:redstone_block",
         "amount": 1
       }
     ],
     "2": [
       {
-        "item": "minecraft:redstone_block",
+        "item": "create:builders_tea",
         "amount": 1
       }
     ],
     "3": [
       {
-        "item": "minecraft:glistering_melon_slice",
-        "amount": 1
+        "item": "malum:aerial_spirit",
+        "amount": 8
       }
     ],
     "4": [
       {
-        "item": "minecraft:rabbit_foot",
+        "item": "malum:rune_of_howling_gale",
         "amount": 1
       }
     ],
     "5": [
       {
-        "item": "minecraft:dragon_breath",
+        "item": "tfmg:lubrication_oil_bucket",
         "amount": 1
       }
     ]

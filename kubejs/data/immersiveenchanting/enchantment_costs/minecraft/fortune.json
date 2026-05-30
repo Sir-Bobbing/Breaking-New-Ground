@@ -2,19 +2,19 @@
   "levels": {
     "1": [
       {
-        "item": "minecraft:golden_apple",
+        "item": "malum:block_of_hallowed_gold",
         "amount": 1
       }
     ],
     "2": [
       {
-        "item": "minecraft:emerald_block",
-        "amount": 1
+        "item": "create:crushing_wheel",
+        "amount": 2
       }
     ],
     "3": [
       {
-        "item": "minecraft:pitcher_plant",
+        "item": "malum:belt_of_the_prospector",
         "amount": 1
       }
     ]

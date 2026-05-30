@@ -2,19 +2,19 @@
   "levels": {
     "1": [
       {
-        "item": "minecraft:bamboo",
+        "item": "minecraft:golden_sword",
         "amount": 1
       }
     ],
     "2": [
       {
-        "item": "minecraft:prismarine_shard",
+        "item": "malum:crude_scythe",
         "amount": 1
       }
     ],
     "3": [
       {
-        "item": "minecraft:breeze_rod",
+        "item": "malum:ether",
         "amount": 1
       }
     ]
