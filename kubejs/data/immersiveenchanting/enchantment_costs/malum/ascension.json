@@ -1,0 +1,22 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "minecraft:feather",
+        "amount": 8
+      }
+    ],
+    "2": [
+      {
+        "item": "malum:aerial_spirit",
+        "amount": 6
+      }
+    ],
+    "3": [
+      {
+        "item": "malum:gust_igniter",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -214,6 +214,56 @@
       "sound": "minecraft:entity.wind_charge.wind_burst",
       "volume": 0.5,
       "pitch": 1.0
+    },
+    "": {
+      "sound": "",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "malum:weavers_propagation": {
+      "sound": "malum:spark_formed",
+      "volume": 0.2,
+      "pitch": 0.8
+    },
+    "malum:weavers_haste": {
+      "sound": "malum:spark_directed",
+      "volume": 0.2,
+      "pitch": 0.8
+    },
+    "malum:animated": {
+      "sound": "malum:alchemical_trinket_equipped",
+      "volume": 0.5,
+      "pitch": 0.8
+    },
+    "malum:haunted": {
+      "sound": "malum:arcane_whispers",
+      "volume": 0.5,
+      "pitch": 0.8
+    },
+    "malum:spirit_plunder": {
+      "sound": "malum:a_soul_shatters",
+      "volume": 0.5,
+      "pitch": 0.8
+    },
+    "malum:ascension": {
+      "sound": "malum:scythe_user_ascends",
+      "volume": 0.5,
+      "pitch": 0.8
+    },
+    "malum:capacitor": {
+      "sound": "malum:staff_charged",
+      "volume": 0.5,
+      "pitch": 0.8
+    },
+    "malum:replenishing": {
+      "sound": "malum:staff_strikes",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "malum:rebound": {
+      "sound": "malum:scythe_spins_happily",
+      "volume": 0.5,
+      "pitch": 1.0
     }
   }
 }

@@ -1,0 +1,22 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "minecraft:lead",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "endermanoverhaul:soul_pearl",
+        "amount": 1
+      }
+    ],
+    "3": [
+      {
+        "item": "malum:soulbinding_brazier",
+        "amount": 1
+      }
+    ]
+  }
+}

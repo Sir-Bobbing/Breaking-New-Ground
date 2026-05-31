@@ -1,0 +1,28 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "malum:aerial_spirit",
+        "amount": 8
+      }
+    ],
+    "2": [
+      {
+        "item": "malum:runewood_totem_base",
+        "amount": 1
+      }
+    ],
+    "3": [
+      {
+        "item": "malum:rite_anchor",
+        "amount": 1
+      }
+    ],
+    "4": [
+      {
+        "item": "malum:waveform_runewood_totem_base",
+        "amount": 1
+      }
+    ]
+  }
+}

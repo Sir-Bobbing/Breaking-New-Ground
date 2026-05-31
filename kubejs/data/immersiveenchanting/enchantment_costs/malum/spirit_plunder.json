@@ -1,0 +1,16 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "malum:spirit_jar",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "malum:ring_of_esoteric_spoils",
+        "amount": 1
+      }
+    ]
+  }
+}

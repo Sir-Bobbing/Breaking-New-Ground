@@ -1,0 +1,28 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "malum:aerial_spirit",
+        "amount": 8
+      }
+    ],
+    "2": [
+      {
+        "item": "malum:rune_of_dexterity",
+        "amount": 1
+      }
+    ],
+    "3": [
+      {
+        "item": "malum:accelerating_inlay",
+        "amount": 1
+      }
+    ],
+    "4": [
+      {
+        "item": "malum:rune_of_unnatural_stamina",
+        "amount": 1
+      }
+    ]
+  }
+}

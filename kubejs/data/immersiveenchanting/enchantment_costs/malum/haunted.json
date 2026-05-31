@@ -1,0 +1,22 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "create:haunted_bell",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "malum:eldritch_spirit",
+        "amount": 6
+      }
+    ],
+    "3": [
+      {
+        "item": "malum:imitation_flesh",
+        "amount": 2
+      }
+    ]
+  }
+}

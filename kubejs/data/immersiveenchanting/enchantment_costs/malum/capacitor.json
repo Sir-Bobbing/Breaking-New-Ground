@@ -1,0 +1,16 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "malum:soulwoven_pouch",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "bagofholding:iron_bag_of_holding",
+        "amount": 1
+      }
+    ]
+  }
+}
