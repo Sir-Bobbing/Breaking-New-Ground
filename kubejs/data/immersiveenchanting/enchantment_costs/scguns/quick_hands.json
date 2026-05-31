@@ -1,0 +1,16 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "brewinandchewin:cocoa_fudge",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "tfmg:lubrication_oil_bucket",
+        "amount": 1
+      }
+    ]
+  }
+}

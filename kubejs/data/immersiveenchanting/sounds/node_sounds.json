@@ -264,6 +264,81 @@
       "sound": "malum:scythe_spins_happily",
       "volume": 0.5,
       "pitch": 1.0
+    },
+    "": {
+      "sound": "",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "scguns:accelerator": {
+      "sound": "scguns:bullet.flyby1",
+      "volume": 0.5,
+      "pitch": 0.8
+    },
+    "scguns:banzai": {
+      "sound": "minecraft:entity.player.attack.sweep",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "scguns:collateral": {
+      "sound": "entity.enderman.teleport",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "scguns:corroded": {
+      "sound": "minecraft:block.bubble_column.upwards_ambient",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "scguns:elemental_pop": {
+      "sound": "minecraft:block.brewing_stand.brew",
+      "volume": 0.5,
+      "pitch": 1
+    },
+    "scguns:heavy_shot": {
+      "sound": "minecraft:block.anvil.place",
+      "volume": 0.2,
+      "pitch": 1.0
+    },
+    "scguns:hot_barrel": {
+      "sound": "minecraft:entity.generic.burn",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "scguns:lightweight": {
+      "sound": "malum:spirit_diode_ticks_ferociously",
+      "volume": 0.5,
+      "pitch": 0.8
+    },
+    "scguns:puncturing": {
+      "sound": "entity.arrow.hit_player",
+      "volume": 0.5,
+      "pitch": 0.5
+    },
+    "scguns:quick_hands": {
+      "sound": "scguns:item.makeshift_rifle.cock",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "scguns:reclaimed": {
+      "sound": "malum:avarice_collected",
+      "volume": 0.5,
+      "pitch": 0.5
+    },
+    "scguns:shell_catcher": {
+      "sound": "scguns:item.ping.ping",
+      "volume": 0.2,
+      "pitch": 1
+    },
+    "scguns:trigger_finger": {
+      "sound": "create:scroll_value",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "scguns:waterproof": {
+      "sound": "minecraft:item.honeycomb.wax_on",
+      "volume": 0.5,
+      "pitch": 1.0
     }
   }
 }

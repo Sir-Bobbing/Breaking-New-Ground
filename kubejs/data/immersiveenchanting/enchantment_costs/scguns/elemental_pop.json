@@ -1,0 +1,16 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "minecraft:brewing_stand",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "createpropulsion:oxidizer_bucket",
+        "amount": 1
+      }
+    ]
+  }
+}

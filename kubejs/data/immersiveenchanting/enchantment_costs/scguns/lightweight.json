@@ -1,0 +1,16 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "tfmg:constantan_frame",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "tfmg:aluminum_frame",
+        "amount": 1
+      }
+    ]
+  }
+}

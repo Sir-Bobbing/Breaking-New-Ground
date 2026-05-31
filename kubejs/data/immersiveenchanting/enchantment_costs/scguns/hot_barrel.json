@@ -1,0 +1,16 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "create:blaze_burner",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "tfmg:napalm_bucket",
+        "amount": 1
+      }
+    ]
+  }
+}

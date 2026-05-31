@@ -1,0 +1,28 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "minecraft:poisonous_potato",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "tfmg:sulfuric_acid_bucket",
+        "amount": 1
+      }
+    ],
+    "3": [
+      {
+        "item": "malum:block_of_rotting_essence",
+        "amount": 1
+      }
+    ],
+    "4": [
+      {
+        "item": "scguns:vicious_acid_bucket",
+        "amount": 1
+      }
+    ]
+  }
+}

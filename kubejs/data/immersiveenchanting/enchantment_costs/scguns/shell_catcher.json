@@ -1,0 +1,22 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "spelunkery:item_magnet",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "create:mechanical_arm",
+        "amount": 1
+      }
+    ],
+    "3": [
+      {
+        "item": "powergrid:magnet",
+        "amount": 1
+      }
+    ]
+  }
+}

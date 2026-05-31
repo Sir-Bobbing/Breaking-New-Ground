@@ -1,0 +1,22 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "create:precision_mechanism",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "createbigcannons:ap_shell",
+        "amount": 1
+      }
+    ],
+    "3": [
+      {
+        "item": "tfmg:steel_mechanism",
+        "amount": 1
+      }
+    ]
+  }
+}
