@@ -941,10 +941,6 @@ file = "config/spyglass-improvements/settings.json"
 hash = "0a19036936420b0045fab196758eacb65f31e8560d41b858a6afebe63208f4a0"
 
 [[files]]
-file = "config/ssrd-common.toml"
-hash = "4438e5629fb4972a1828670c8b0bf7823c675c36597193a698e02110bd679707"
-
-[[files]]
 file = "config/stonezone-common.toml"
 hash = "7030c4327882a865fff6f2cd56e7f85dfd06046ead5a29fed91d6b00b8d02710"
 
@@ -2095,66 +2091,6 @@ hash = "f38e8b6e3de1ad0ce7a32f7734f2eb0cfbd74a71148d9771d1b55733c0acd712"
 [[files]]
 file = "kubejs/data/dungeoncrawl/dungeon/types/mountains/default.json"
 hash = "061060e55a055f92888ff16451bde7af98f3b10f16e3875365b1ad2cec50ef91"
-
-[[files]]
-file = "kubejs/data/dungeoncrawl/loot_table/chests/food.json"
-hash = "7119b22fce4425a8043028647cf35a99664dd89a1ebf644c2ff177021dfa19db"
-
-[[files]]
-file = "kubejs/data/dungeoncrawl/loot_table/chests/secret_room.json"
-hash = "86d1ca49c595b219e89b67bc9d42971e0f0eec98a490d2639b00380864baf59b"
-
-[[files]]
-file = "kubejs/data/dungeoncrawl/loot_table/chests/stage_1.json"
-hash = "10e211e137642622a12fdb224c3a56c20ad20abb79d3490de228517f7bdcf9f8"
-
-[[files]]
-file = "kubejs/data/dungeoncrawl/loot_table/chests/stage_2.json"
-hash = "124cc601baac8651f79501559432f2fbef1c7e64bb8417aafbcbfeeceb8b7af6"
-
-[[files]]
-file = "kubejs/data/dungeoncrawl/loot_table/chests/stage_3.json"
-hash = "126b89eba104a0090e30eee4210c42b5c08497f1f0adbc849ef4584ef1c59c01"
-
-[[files]]
-file = "kubejs/data/dungeoncrawl/loot_table/chests/stage_4.json"
-hash = "516e2a4a649bd037932933421f919a6d538f6e08d9ad78c61020f7c0b242df2b"
-
-[[files]]
-file = "kubejs/data/dungeoncrawl/loot_table/chests/stage_5.json"
-hash = "5d3b667178c4eee210c7d3eb59eea0ab5fd64b76015517677f6e6081e9e4b709"
-
-[[files]]
-file = "kubejs/data/dungeoncrawl/loot_table/chests/supply.json"
-hash = "bbd4b70dd5bb4948431fe19f6cb43d3f8768a57c7fcbfa2ce7d3515ca56780e0"
-
-[[files]]
-file = "kubejs/data/dungeoncrawl/loot_table/chests/treasure.json"
-hash = "ea61ed0d9e06d25c81f15aa9330e8ad2a0eebcc484ff30617c5a9509f7fdc549"
-
-[[files]]
-file = "kubejs/data/dungeoncrawl/loot_tables/chests/forge.json"
-hash = "bcfbcc4427b1002d8eadf9af039d6b5f8213cac19e69dea76eb298347c101b43"
-
-[[files]]
-file = "kubejs/data/dungeoncrawl/loot_tables/chests/library.json"
-hash = "e354c99d5050695abcf7a5fed1e9f7ac5c17050cc7ee3f2303368bf57368f340"
-
-[[files]]
-file = "kubejs/data/dungeoncrawl/loot_tables/misc/dispenser_1.json"
-hash = "2a598b7372ce3d5fe97b4c07a944fcdda06a3a96fdadb079764dfe7736021640"
-
-[[files]]
-file = "kubejs/data/dungeoncrawl/loot_tables/misc/dispenser_2.json"
-hash = "3f404ea845b40d5eacfdbc5285476a7ce9ed216a7c25f07819666f084026ca3b"
-
-[[files]]
-file = "kubejs/data/dungeoncrawl/loot_tables/misc/dispenser_3.json"
-hash = "19ee7bc29d0f115e55c021c9d00ff98b9925e77b63d69ccca095f3a721d60bd0"
-
-[[files]]
-file = "kubejs/data/dungeoncrawl/loot_tables/monster_overrides/wither_skeleton.json"
-hash = "b413311094570a319ab9676a5968cc7e4ec7633b1bd4128da7f6fec4b4f2583a"
 
 [[files]]
 file = "kubejs/data/dungeoncrawl/models/catacombs/corridor/linker/linker.json"
