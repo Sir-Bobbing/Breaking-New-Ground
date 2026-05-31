@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "scguns:cog_chambers",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "separation": 30,
+    "spacing": 50,
+    "exclusion_zone": {
+      "other_set": "nomansland:alchemist_ruins",
+      "chunk_count": 5
+    },
+    "salt": 421788846
+  }
+}

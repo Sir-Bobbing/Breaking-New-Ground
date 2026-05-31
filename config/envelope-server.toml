@@ -102,7 +102,7 @@
 	[service_addresses.equine_assurance_bureau]
 		#A notice letter would be sent out to all players occasionally.
 		#Default: true
-		notice_sending_enabled = true
+		notice_sending_enabled = false
 		#Minimum time (in minutes) from the previous send after which another notice could be sent.
 		# Default: 120.0
 		# Range: 0.0 ~ 9999.0

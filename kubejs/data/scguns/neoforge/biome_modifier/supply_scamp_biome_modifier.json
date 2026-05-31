@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#breakingnewground:spawns_scguns_mobs",
+  "spawners": {
+    "type": "scguns:supply_scamp",
+    "weight": 1,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

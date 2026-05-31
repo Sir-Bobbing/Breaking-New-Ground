@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#breakingnewground:spawns_redcoats",
+  "spawners": {
+    "type": "scguns:redcoat",
+    "weight": 50,
+    "minCount": 2,
+    "maxCount": 4
+  }
+}

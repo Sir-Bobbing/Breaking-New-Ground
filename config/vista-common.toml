@@ -16,3 +16,9 @@
 	chunkload_chunks_viewed_by_view_finders = false
 	#Makes connected tvs just have a square aspect ratio. If you set to false cassettes will be stretched and will look worse as a result
 	square_aspect_ratio = true
+	#Whether TVs should consume Forge energy (NeoForge only).
+	tv_consume_energy = false
+	#Energy consumption rate per tick when TV is powered and has a cassette.
+	# Default: 20
+	# Range: 1 ~ 10000
+	tv_energy_consumption_rate = 20

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "Q": {
+      "item": "scguns:anthralite_ingot"
+    },
+    "X": {
+      "item": "minecraft:iron_bars"
+    },
+    "M": {
+      "tag": "c:storage_blocks/saltpeter"
+    }
+  },
+  "pattern": [
+    "QXQ",
+    "XMX",
+    "QXQ"
+  ],
+  "result": {
+    "id": "scguns:cryoniter"
+  }
+}

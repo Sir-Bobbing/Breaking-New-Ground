@@ -61,11 +61,11 @@
 		#Global multiplier for mob fire rate. 1.0 = normal speed, 0.5 = faster, 2.0 = slower.
 		# Default: 1.0
 		# Range: 0.1 ~ 5.0
-		mobFireRateMultiplier = 2.0
+		mobFireRateMultiplier = 1.0
 		#Multiplier for delay between mob gun bursts. Higher values add longer pauses between bursts.
 		# Default: 1.0
 		# Range: 0.1 ~ 5.0
-		mobBurstDelayMultiplier = 1.0
+		mobBurstDelayMultiplier = 1.25
 		#Global multiplier for mob gun damage after difficulty scaling.
 		# Default: 1.0
 		# Range: 0.01 ~ 100.0
@@ -160,7 +160,7 @@
 		#Progression-based gunner mobs use this as their base chance. Thematic mob JSON spawn chances are multiplied by this value.
 		# Default: 0.3
 		# Range: 0.0 ~ 1.0
-		gunnerSpawnChance = 0.3
+		gunnerSpawnChance = 0.1
 		#If enabled, spawn chances scale with game difficulty.
 		#PEACEFUL: 50% of base chance, EASY: 75%, NORMAL: 100%, HARD: 150%
 		scaleToDifficulty = true
@@ -170,7 +170,7 @@
 		#This is the spawn chance on NORMAL difficulty.
 		# Default: 0.2
 		# Range: 0.0 ~ 1.0
-		eliteChance = 0.2
+		eliteChance = 0.05
 		#Multiplier for extra aim inaccuracy used by hostile gunner and raid mobs.
 		#1.0 keeps the previous behavior, values above 1.0 make mobs less accurate, values below 1.0 make mobs more accurate.
 		#This does not change player weapon spread or gun JSON values.

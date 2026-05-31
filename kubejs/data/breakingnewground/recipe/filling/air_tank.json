@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "createbigcannons:packed_gunpowder"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 250,
+      "tag": "c:fuel"
+    }
+  ],
+  "results": [
+    {
+      "id": "createbigcannons:nitropowder"
+    }
+  ]
+}
