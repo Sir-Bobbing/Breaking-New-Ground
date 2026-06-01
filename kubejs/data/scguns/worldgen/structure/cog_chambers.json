@@ -1,0 +1,18 @@
+{
+  "type": "scguns:cogchambers",
+  "start_pool": "scguns:entrance",
+  "biomes": "nomansland:cave_depths",
+  "step": "underground_structures",
+  "liquid_settings": "ignore_waterlogging",
+  "terrain_adaptation": "encapsulate",
+  "start_height": {
+    "type": "minecraft:uniform",
+    "max_inclusive": {
+      "absolute": -20
+    },
+    "min_inclusive": {
+      "absolute": -40
+    }
+  },
+  "spawn_overrides": {}
+}

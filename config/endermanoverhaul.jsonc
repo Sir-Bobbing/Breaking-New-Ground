@@ -1,7 +1,7 @@
 {
     // The version of the config file. Do not change this unless you know what you are doing.
     "rconfig:version": 0,
-    "allowPickingUpBlocks": true,
+    "allowPickingUpBlocks": false,
     "friendlyEndermanTeleport": true,
     "friendlyEndermanDespawn": true,
     "allowSpawning": true,

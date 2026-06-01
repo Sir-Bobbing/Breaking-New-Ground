@@ -1,5 +1,5 @@
 {
-  "trinaryCommandSystem": false,
+  "trinaryCommandSystem": true,
   "tameableHorse": true,
   "tameableFox": true,
   "swingThroughPets": true,
@@ -7,6 +7,9 @@
   "petBedRespawns": true,
   "rabbitsScareRavagers": true,
   "petStoreVillageWeight": 0,
+  "disablePetTeleportation": false,
+  "petWontAttackWhenInjured": true,
+  "petInjuredStatusHealthRatio": 0.2,
   "petCurseEnchantmentsLootOnly": true,
   "blazingProtectionLootChance": 0.0,
   "sinisterCarrotLootChance": 0.0,

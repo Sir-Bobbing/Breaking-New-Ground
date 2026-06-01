@@ -119,6 +119,8 @@
 	# Default: 0.05
 	# Range: 0.0 ~ 1.0
 	buriedSpawningChance = 0.05
+	#Witches use bowls to drain cauldrons of witch stew.
+	witchesEatStew = true
 
 [meeting_point]
 	#The minimum distance, from the center of the world, the Meeting Point should spawn at.

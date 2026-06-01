@@ -1,0 +1,60 @@
+[
+  {
+    "action": "remove_recipe",
+    "type": "createbigcannons:melting"
+  },
+  {
+    "action": "remove_recipe",
+    "type": "scguns:macerating"
+  },
+  {
+    "action": "remove_recipe",
+    "type": "scguns:powered_macerating"
+  },
+  // Experience Nugget
+  {
+    "action": "replace_input",
+    "target": "create:experience_nugget",
+    "replacement": "malum:refined_brilliance"
+  },
+  {
+    "action": "replace_output",
+    "replacement": "malum:refined_brilliance",
+    "target": "create:experience_nugget"
+  },
+  // Sulfur & Niter
+  {
+    "action": "replace_input",
+    "target": "tfmg:sulfur_dust",
+    "replacement": "#c:dusts/sulfur"
+  },
+  {
+    "action": "replace_input",
+    "target": "scguns:sulfur_dust",
+    "replacement": "#c:dusts/sulfur"
+  },
+  {
+    "action": "replace_input",
+    "target": "tfmg:nitrate_dust",
+    "replacement": "#c:dusts/niter"
+  },
+  {
+    "action": "replace_input",
+    "target": "scguns:niter_dust",
+    "replacement": "#c:dusts/niter"
+  },
+  {
+    "action": "remove_recipe",
+    "id": [
+      "scguns:create/heavy_gunpowder_from_mixing",
+      "scguns:create/gunpowder_from_mixing"
+    ]
+  },
+// CBC
+  {
+    "action": "replace_input",
+    "target": "createbigcannons:nitropowder",
+    "replacement": "createbigcannons:packed_gunpowder"
+  }
+
+]

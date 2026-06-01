@@ -1,23 +1,23 @@
-filename = 'analogleverdrag-neoforge-1.21.1-1.4.5.jar'
+filename = 'analogleverdrag-neoforge-1.21.1-1.5.0.jar'
 name = 'Analog Lever Drag Control'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.4.5'
+x-prismlauncher-version-number = '1.5.0'
 
 [download]
-hash = '6291f666d750ca1959a34824d32fd1dea3bed5efea097eb23e1563fd696c333d4f1ced3580cddcc3ef1ab348d431d06636ebd8c197517ab0cc2db511d9504269'
+hash = 'abfd7c3013a8afb1c83ebcaffa68dfe0d0d8cd5a06441decb5b0e16f1e29b1805820eb2d0f93fe2acb74b51fce0dba1f0a4725b4076c14cd0d3852d2658663f1'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/GQNtImhh/versions/Ixy9jHpF/analogleverdrag-neoforge-1.21.1-1.4.5.jar'
+url = 'https://cdn.modrinth.com/data/GQNtImhh/versions/RRukPoez/analogleverdrag-neoforge-1.21.1-1.5.0.jar'
 
 [update.modrinth]
 mod-id = 'GQNtImhh'
-version = 'Ixy9jHpF'
+version = 'RRukPoez'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'x49wilh8'
+addonId = 'LNytGWDc'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
@@ -25,9 +25,9 @@ addonId = 'oWaK0Q19'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'LNytGWDc'
+addonId = 'fFEIiSDQ'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'fFEIiSDQ'
+addonId = 'x49wilh8'
 type = 'OPTIONAL'

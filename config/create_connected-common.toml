@@ -42,7 +42,7 @@ migrateCopycatsOnInitialize = true
 	copycat_board = false
 	inventory_bridge = false
 	copycat_fence = false
-	brass_chute = true
+	brass_chute = false
 	dashboard = true
 
 #.

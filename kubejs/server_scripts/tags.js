@@ -38,6 +38,13 @@ ServerEvents.tags('fluid', event => {
 // Carver Tweaks
     event.remove('minecraft:overworld_carver_replaceables', 'minecraft:obsidian')
     event.remove('minecraft:overworld_carver_replaceables', 'minecraft:crying_obsidian')
+    // No Spring Break
+    event.remove('spelunkery:spring_geyser_breakable', '#minecraft:overworld_carver_replaceables')
+    event.remove('spelunkery:spring_geyser_breakable', 'spelunkery:rock_salt_block')
+    event.remove('spelunkery:spring_geyser_breakable', '#minecraft:snow')
+    event.remove('spelunkery:spring_geyser_breakable', 'minecraft:smooth_basalt')
+    event.remove('spelunkery:spring_geyser_breakable', 'minecraft:blue_ice')
+
 
 // Tom's Simple Storage
     event.remove('minecraft:mineable/axe', 'toms_storage:crafting_terminal')
@@ -81,24 +88,8 @@ ServerEvents.tags('fluid', event => {
     event.add('create:wrench_pickup', 'toms_storage:open_crate')
     event.add('create:wrench_pickup', 'toms_storage:filing_cabinet')
 
-// Seats
-    event.add('create:seats', '#handcrafted:dining_bench')
-    event.add('create:seats', '#handcrafted:cushions')
-    event.add('create:seats', '#handcrafted:chairs')
-    event.add('create:seats', '#handcrafted:benches')
-    event.add('create:seats', '#handcrafted:couches')
-
-// Handcrafted Adjustments
-    event.add('create:seats', '#handcrafted:dining_bench')
-    event.add('create:seats', '#handcrafted:cushions')
-    event.add('create:seats', '#handcrafted:chairs')
-    event.add('create:seats', '#handcrafted:benches')
-    event.add('create:seats', '#handcrafted:couches')
-
 })
     ServerEvents.tags('entity_type', event => {
-        event.add('redomesticate:command_blacklist', 'scguns:supply_scamp')
-        event.add('redomesticate:command_blacklist', 'scguns:viventrum')
 // Cage and Jar Entities
         event.add('supplementaries:jar_catchable', 'minecraft:silverfish')
         event.add('supplementaries:jar_catchable', 'endermanoverhaul:spirit')

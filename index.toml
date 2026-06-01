@@ -10,7 +10,7 @@ hash = "e94b6ab8f32821ea2aec399b87a3d7ce3b02e64711d89fffcaa8d46073f16975"
 
 [[files]]
 file = "config/Luminous Monsters Configuration.toml"
-hash = "070d3bfa439b55be33c831c0cc84d8720eecd99db6e701c459d54dca952ae21e"
+hash = "e8700c83e363ce13e1ee56f6c2ff4d09359c1236d32608fa0aed2a3bcdc71f35"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -30,7 +30,7 @@ hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
 file = "config/SoundPhysicsPerfected.json5"
-hash = "7b8a26d4877eb38e2edc5b1815a5fa2a1fcb1a40668fb0957a80027c2178b533"
+hash = "99e3c0805ade9c33d1220c15525dfd4395eae42d59aa130deaa14c27f23a1fbe"
 
 [[files]]
 file = "config/aeronautics-server.toml"
@@ -69,6 +69,14 @@ file = "config/antiportals-common.toml"
 hash = "f0cc7603cdd0f6ca729085a4fe3f6bc0552618257e4d1771741cdb8a66235a8a"
 
 [[files]]
+file = "config/antique-atlas.toml"
+hash = "e20d3a1095edcba46e4c42c82740ea77f375fa9cf7bff726cf762af800b8c7ea"
+
+[[files]]
+file = "config/antique_transport.toml"
+hash = "027074d1fc97aeecd2b15d38a129b5c1274d5d1c7d52184fa49fb59bb7eb45c1"
+
+[[files]]
 file = "config/appleskin-client.toml"
 hash = "6a3624ed584e6d2c4323957c3ca3d17bf2c01c7bbb73b9ee487378ff69d88aba"
 
@@ -90,7 +98,7 @@ hash = "15ea8b5f0542c5b02b4c42908f11f2a419a3af58deaca156a8cb7dafc78a9749"
 
 [[files]]
 file = "config/artifacts/general.toml"
-hash = "69fca522275b815b32ac83ace1dad3258d0d92de267d319f08a667a47f6cdf92"
+hash = "b219277a4212bc8018ce7264478cf21cfda1b0d9a8b279298155bdbac75c7784"
 
 [[files]]
 file = "config/artifacts/items.toml"
@@ -114,7 +122,7 @@ hash = "5b965898d5b13c5557b603c68ed4ac79a4f850f3a7205eb3dbfc6116f2caf19a"
 
 [[files]]
 file = "config/betterclouds-v1.json"
-hash = "09be006fc0369fdce4009aa0b4336ed3e8a975c892ab0276b9c13a680d46662c"
+hash = "05070bada1af3025c6fb56cab118985003fe101e88bc9911fc2ed2f9babaa2a2"
 
 [[files]]
 file = "config/betterf3.toml"
@@ -189,6 +197,14 @@ file = "config/chunky/tasks/minecraft/overworld.properties"
 hash = "885895daa61fb4e5fc31aa330e0081f0d185bbb768a2b4c8c8ae9e12caeb16ab"
 
 [[files]]
+file = "config/clutternomore/client.toml"
+hash = "a397cd07f09c617c01443c9d2fd1ca79358f921f63aeda4b677e802870e74c9f"
+
+[[files]]
+file = "config/clutternomore/startup.toml"
+hash = "222039918e237801c5623a0b30b1e6d8a8a290343f97a13a8accae4bdc82684e"
+
+[[files]]
 file = "config/combatnouveau-client.toml"
 hash = "d8bddc364abcee6b260746e0e2b841cca6be31696dc6f42ca3747fa0682e8952"
 
@@ -254,7 +270,7 @@ hash = "184b2159553619ceb1bb3ca88c8a65df6ea8832b8ac70ec39020125d7934145d"
 
 [[files]]
 file = "config/create_connected-common.toml"
-hash = "bfd2650a962d18f260945af73bc1f871a7dea9519ac0ec2d44315fc2e945502d"
+hash = "3f46b28dd04096de92f6ed6ad7192ac1a53f2134dbdb1accef10d459f6901c68"
 
 [[files]]
 file = "config/create_connected-server.toml"
@@ -342,7 +358,7 @@ hash = "a926afee796b6ebf85d8400b47151794c262e64381ed47326c4a1619a21c79b7"
 
 [[files]]
 file = "config/dndecor-server.toml"
-hash = "f42059ff192ead465682536fe9013e662f21184ad8ae7a44b65daa5a2ddf44eb"
+hash = "712d07cd68e9abfea7d7be0f92ab355da6f21dc669d96c27e20b4352b0888132"
 
 [[files]]
 file = "config/dramaticdoors-startup.toml"
@@ -377,6 +393,10 @@ file = "config/easyanvils-server.toml"
 hash = "61228450bef35c2871f9438b12f4dfba2f52aa740038a8a27ffbf2fc659592a2"
 
 [[files]]
+file = "config/emi.css"
+hash = "d211e36675e873a0cce591a00e417432755733bad0363786a9c5be48713d5d90"
+
+[[files]]
 file = "config/emojitype.json"
 hash = "c00788b1242899849e1ac2c3b219093d5938f5515adac0d90e1700973fbcfe65"
 
@@ -386,7 +406,7 @@ hash = "7fcc9808465cc6ac8f57426b568516f7ad9ba3197be8f3692ead91253f8bef7a"
 
 [[files]]
 file = "config/endermanoverhaul.jsonc"
-hash = "94d584e93f86976673fc36fd3834f407444a452199fc4bb9adff6ba320c3e881"
+hash = "205388dcbd6c4a6ecb4c632b0adc4da7e2d78dbe93ee8132a28e3827b6ce9de5"
 
 [[files]]
 file = "config/entityculling.json"
@@ -398,7 +418,7 @@ hash = "71e22a8f2f0c8296dad8a41a5a50f4a7d95933933858e1ea7d55f96a9a1bb280"
 
 [[files]]
 file = "config/envelope-server.toml"
-hash = "df5e9ddef7d7335a5bb4181f31af070c6243559088d068144eff7eecd9b90fd1"
+hash = "4cbb24caf054a3760391bf7181077875852743db32609e6db2478124a5262924"
 
 [[files]]
 file = "config/etched-client.toml"
@@ -418,7 +438,7 @@ hash = "6ecab953789d91c8100bbad6195ca4e9966dd73049be083070e57e484440fe24"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "6a86e2e70eb9cf77b6105f43c3ee6364e971affac1acccaaef46ea086ce2e586"
+hash = "018266162f3b29badfbc8c21e2dcbd87dd68ccb799190defb7128796e9f85d73"
 
 [[files]]
 file = "config/everycomp-hazardous.toml"
@@ -463,6 +483,10 @@ hash = "cc127c6067eb9e23289edc1c774afd71456456eef06c688af6731a72d3bba5e5"
 [[files]]
 file = "config/fzzy_config/keybinds.toml"
 hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+
+[[files]]
+file = "config/fzzy_config/search.toml"
+hash = "103317c4c1c5ae1421946c921428cbfbd9b2a17ee37115d9778d0b22e3b64e19"
 
 [[files]]
 file = "config/gallery-client.toml"
@@ -578,19 +602,11 @@ hash = "c94085d83817aa5ab1cf8273413a9aaeba032a791ad9f64311398639877b6b10"
 
 [[files]]
 file = "config/jei-server.toml"
-hash = "50092e73ede78dc2e86d2d668970f6adfb1c2c14a6daa1d9d91624af1144c2f3"
+hash = "57d741871716e29b3a318b625e740d590598f001c362b6a4a95e3ee628c5cbc3"
 
 [[files]]
 file = "config/jei/blacklist.json"
 hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
-
-[[files]]
-file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "cbbbf51521b648d25b0a94c8ee8f926b9641d5cdb029c9a4ff84c2654db40e6b"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "0dc8823adf4eefda89ef61e0d41199e09c54e32769f6ade22dc5ebf6922b99e3"
 
 [[files]]
 file = "config/jei/jei-client.ini"
@@ -610,7 +626,11 @@ hash = "4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "aa04ab67fc7c934a531ac5dd533c203c0c36248e3ab85fd91141bd920f3d9121"
+hash = "435f1b7b3a3fcf52ec5b9391106845b4e6148437eae3deb811fc48de228877b8"
+
+[[files]]
+file = "config/labels-client.toml"
+hash = "c50dc7a616e00da93b906ae3fa65c9872c6bc925e8bb1358ab6e6cbd5cbaed25"
 
 [[files]]
 file = "config/leavesbegone-server.toml"
@@ -651,6 +671,10 @@ hash = "aace1b4159040842078f8fd8da3d780620289b1d2ee6f5ac01d33c8fc8d4bc01"
 [[files]]
 file = "config/malum-common.toml"
 hash = "7dc9ec79cb6fc3032d8f2a4e3e5b96dfb65b8912915397083dcec1b6d05ace20"
+
+[[files]]
+file = "config/mcqoy.toml"
+hash = "5ded9a920b11f1d4cab63993bc52dad330c6c2f2172356b964953e502c655937"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -702,7 +726,7 @@ hash = "107fce4cd6da91eb0709caa04985be0a0c62a0234e1497e010e76f2d83e64172"
 
 [[files]]
 file = "config/nomansland-common.toml"
-hash = "2b8a77ad40d590b12bc2882e35a764fc35e606a49b3dfdef734b91ac06c5feb7"
+hash = "954e0c8a9659a659f7f62e9953186ff20ca36f4ae2805f1d1e65829a5cc1ec40"
 
 [[files]]
 file = "config/nomansland-startup.toml"
@@ -774,15 +798,31 @@ hash = "774274e780bee5bf90b8114e59429b5b3a26222b4dca7d8df8b1dd438b33a003"
 
 [[files]]
 file = "config/prospectingpicks-common.toml"
-hash = "03f87ff6b9681d1cd909c5fa98ebe51a953212a68d907d526ada6315e25aa27d"
+hash = "ea557776ec7705158d6d618f36b9f1797f86c5d49811e43f54ba438525e1ba86"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "77d207fb6a5ead2b7b0c3fe40d83812fd17b624ff1fdcab2c9fca32e4804476a"
+hash = "907771124bcf5bb2bb2993d90afbc8936bbd479a5e9f2e882707805180c06f7d"
 
 [[files]]
 file = "config/redomesticate.json"
-hash = "cb9548a1bb7fa1a8f98f27380fdef602e7a46cdbe856713f284a81c452f73b80"
+hash = "a8745541743d75414b5cbbf9fb5112f068c01fad0ba95819ab12b5551cd8229a"
+
+[[files]]
+file = "config/reliable_recipes.json"
+hash = "2fc8333ddc190d44d555f49da8857a5464d1b5fafe8844bb9a4b8f2688b9ab02"
+
+[[files]]
+file = "config/reliable_recipes/recipe_rules.json"
+hash = "9c53c06ea75dbdca2ac8be05bd232c5f55edd21288d886a551cc8897d7d2c508"
+
+[[files]]
+file = "config/reliable_remover.json"
+hash = "5b9399eea3ff127d808f4debfaf3eae7513817cd63b36225e550daf9f8054e88"
+
+[[files]]
+file = "config/reliable_remover/rules.json"
+hash = "fa99d870a0dece3f419e97ae059a5dddf0275f7709fb18809937ca290e3bffef"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -810,7 +850,7 @@ hash = "95cece7299e0bb26e1c1f7132fff6c0ed9e8d415e97a7d38879fe44b6d1bf106"
 
 [[files]]
 file = "config/scguns-common.toml"
-hash = "fd5f589f343bbc5ea09895816c3342452aebf82e9c15af744bf088d60a5bb1b1"
+hash = "964aeac48cc476d12f0f0491de12d805e6153aaf1d0b27a81b26377056eea025"
 
 [[files]]
 file = "config/scguns-server.toml"
@@ -901,10 +941,6 @@ file = "config/spyglass-improvements/settings.json"
 hash = "0a19036936420b0045fab196758eacb65f31e8560d41b858a6afebe63208f4a0"
 
 [[files]]
-file = "config/ssrd-common.toml"
-hash = "4438e5629fb4972a1828670c8b0bf7823c675c36597193a698e02110bd679707"
-
-[[files]]
 file = "config/stonezone-common.toml"
 hash = "7030c4327882a865fff6f2cd56e7f85dfd06046ead5a29fed91d6b00b8d02710"
 
@@ -923,6 +959,10 @@ hash = "1a72034740e1f1fe59ea846c7cb6293adbb9db9982d2ff800d1e153aa9daecdd"
 [[files]]
 file = "config/supplementaries-common.toml"
 hash = "192a4e0d9ada66e58518147dcd2e34b1f7f4d02e5ba0726552293dfacb71db7d"
+
+[[files]]
+file = "config/surveyor.toml"
+hash = "6df130fe21550eef513805d6a33dd0241a800c3a6be171c31b2ec98cca9d84cc"
 
 [[files]]
 file = "config/test-config.json"
@@ -970,7 +1010,7 @@ hash = "2cf9bc06044dbeb31166c956e2de7f988433be0e71d29138cf54cb18cf9bb6b4"
 
 [[files]]
 file = "config/vista-common.toml"
-hash = "865173091d812cf29719ed22ea3582bed00c34703d42f11a32408b56a24e7843"
+hash = "f0cb05d89267d5b983bb2fc921c5bb005d7868e3256ac7a445f7c95a06ec447a"
 
 [[files]]
 file = "config/void_water-server.toml"
@@ -1078,7 +1118,7 @@ hash = "65a117e1a84273aae3eccf54af96fbcd2e4e40a6e49576f78319794aa951fe39"
 
 [[files]]
 file = "kubejs/assets/breakingnewground/guideme_guides/guide.json"
-hash = "d35dfb60ce4f6ad4e1f0d6e418d8b9ef8c67ccdcedbd3a7cf98434c72522d198"
+hash = "7fdb82409fed5768c06d0df9594e44c834e286741ae80d94654fb942e41d75bb"
 
 [[files]]
 file = "kubejs/assets/breakingnewground/items/guide.json"
@@ -1157,6 +1197,22 @@ file = "kubejs/assets/guideme/textures/gui/sprites/background.png.mcmeta"
 hash = "8a1985956bde8a6bd0d3bf93cbbf012d9fda2965437bd86e3f7da4f72b9527d2"
 
 [[files]]
+file = "kubejs/assets/minecraft/textures/entity/warden/warden.png"
+hash = "f66349d6ae7005fba9f249f0093b2f7704d97f9b700f614fb39c48b2cb5afc77"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/entity/warden/warden_bioluminescent_layer.png"
+hash = "0b1cf5c2fbf361447b9149ff78a80a9bcc98e199f0fa1b991e32216a665034b9"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/entity/warden/warden_pulsating_spots_1.png"
+hash = "7ecffda2459dfdfcf19938b3f87ce72580c36de1537227d1120df531606a5477"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/entity/warden/warden_pulsating_spots_2.png"
+hash = "dcfcb495f428deb2c063a003e4117e9a76db7747c4bfe3b82ac56e74c013f319"
+
+[[files]]
 file = "kubejs/assets/particlemimicry/blockstates/particle_emitter.json"
 hash = "93ca17b13a8387b59ade487d0e48543773ebe3ecd8dfce122c8e9c8688eb1b8f"
 
@@ -1197,6 +1253,10 @@ file = "kubejs/assets/particlemimicry/textures/block/particle_emitter_top_active
 hash = "0661af46b9107320dde332d2dfeb82d0e6d1b46af77632ec12a109ef824fe826"
 
 [[files]]
+file = "kubejs/assets/scguns/lang/en_us.json"
+hash = "0beabf34d8fd80d69b9361e10b7fe18cba2e35e3c45bbcab65a7071e30684037"
+
+[[files]]
 file = "kubejs/client_scripts/client_guideme.js"
 hash = "9bc508f21f9f7b048f48209c9da1ea47a08431d03bf5feb1e4ca79cd284c12a6"
 
@@ -1217,6 +1277,10 @@ file = "kubejs/config/web_server.json"
 hash = "13ff2e041598f8b12e44fbf8d63b25f088c43d025193b0062863113559ac73eb"
 
 [[files]]
+file = "kubejs/data/artifacts/neoforge/biome_modifier/add_campsite.json"
+hash = "a24568552832f1f2e90e48450c7f0f6472ee2b3e61e1b0360a6713e97f9fa593"
+
+[[files]]
 file = "kubejs/data/breakingnewground/function/load.mcfunction"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -1233,7 +1297,7 @@ file = "kubejs/data/breakingnewground/predicate/over_to_nether.json"
 hash = "a1bdfe8a98cd5e56814784d3ada0a42832daafd384321cd9af766e70a8d9c949"
 
 [[files]]
-file = "kubejs/data/breakingnewground/recipe/andesite_alloy_from_copper.json"
+file = "kubejs/data/breakingnewground/recipe/crafting/andesite_alloy_from_copper.json"
 hash = "94c457be997a99c88502270b283f5e41fa18b13e3e12d1c2fae3325c3bf80c33"
 
 [[files]]
@@ -1285,6 +1349,10 @@ file = "kubejs/data/breakingnewground/recipe/crafting/cast_iron_sliding_breech.j
 hash = "5433d5da9f3157bef401efa03a4d1ec769c037c8f3790bd9427f9733fde47425"
 
 [[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/deed_of_ownership.json"
+hash = "9fae832f9140cb26045c43d78cce5e0b52a6fac7073bb6d5ff73003aa38d35cf"
+
+[[files]]
 file = "kubejs/data/breakingnewground/recipe/crafting/steel_autocannon_barrel.json"
 hash = "c05ad364b6bd4949624abdb06e1f8581b0096a4541aef389c408e73d11a27abf"
 
@@ -1307,6 +1375,10 @@ hash = "77f6b774b43214f761900385c822b824dccdbb6ed78f75353e080b013835bdf2"
 [[files]]
 file = "kubejs/data/breakingnewground/recipe/crafting/thick_steel_cannon_chamber.json"
 hash = "260404619be46e294e262ecac28b84b9b60d060e43ae1790db218a6fb31b8bed"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/filling/air_tank.json"
+hash = "22249453837c3ec7938d7fe4cc5d777e790ed2d0539fcb09a4cb72cfd7721c80"
 
 [[files]]
 file = "kubejs/data/breakingnewground/recipe/mechanical_crafting/bronze_cannon_barrel.json"
@@ -1335,6 +1407,18 @@ hash = "126a0ae4a342462d34c5e3b1596ba8beb1a223d479fed16aa8ff5d56403641c1"
 [[files]]
 file = "kubejs/data/breakingnewground/recipe/mixing/andesite_alloy.json"
 hash = "e7bc6a1d0aa2b1973eb31c420a59ad7f1e7ac8bc5ef8dc598b53114ce2edc443"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/mixing/soap.json"
+hash = "103eb4cd26528d7cda8f395676679af11b418fed9c3473b453975f808d4dedc0"
+
+[[files]]
+file = "kubejs/data/breakingnewground/tags/worldgen/biome/spawns_redcoats.json"
+hash = "54d2a7c8d9149e09adb10a9fc210057853ce15921b4da03a5c7e42bd3825328b"
+
+[[files]]
+file = "kubejs/data/breakingnewground/tags/worldgen/biome/spawns_scguns_mobs.json"
+hash = "54d2a7c8d9149e09adb10a9fc210057853ce15921b4da03a5c7e42bd3825328b"
 
 [[files]]
 file = "kubejs/data/chunkloaders/recipe/advanced_chunk_loader.json"
@@ -1949,14 +2033,6 @@ file = "kubejs/data/createbigcannons/tags/item/stone.json"
 hash = "c78f1984cf8d76a4f5a1219ceb6e8ae8612ef345c0afcc35306126c445394f7b"
 
 [[files]]
-file = "kubejs/data/createdeco/tags/item/shipping_containers.json"
-hash = "03fb7302b659ea0477d8957bc0335c052bc85d3e237750f3e4631f2ac952ac37"
-
-[[files]]
-file = "kubejs/data/createdeco/tags/item/supports.json"
-hash = "cf7d717b37fac147993f0014de13de3dfa1d8d3b48df423da8308b05b84782ab"
-
-[[files]]
 file = "kubejs/data/createpropulsion/recipe/crafting/coral_generator.json"
 hash = "7f06ca029d1f1f27b989085b24314900e5c7bcc1b9991a89dfa4d9e2cc0c83ac"
 
@@ -1973,12 +2049,1088 @@ file = "kubejs/data/createpropulsion/recipe/crafting/vector_thruster.json"
 hash = "6bc4ffe338c08cb68eaaf4c8628aa555eb12a5556e53231955fe663f5e2a5143"
 
 [[files]]
-file = "kubejs/data/decorative_blocks/lattice.json"
+file = "kubejs/data/creeperoverhaul/tags/worldgen/biome/is_cave.json"
+hash = "246208555d8ac93b0686c16724248bfca37b81b07381cc960a421103555cc75c"
+
+[[files]]
+file = "kubejs/data/decorative_blocks/recipe/lattice.json"
 hash = "3b94cf8e00acc0a079c455f761c766cc3ce9643f11ba2b76b4805781fb127e65"
 
 [[files]]
+file = "kubejs/data/dungeoncrawl/dev/block_definitions/default.json"
+hash = "1b88ffd7d444d7456bc1db1f05816185fe5d13e4d8aa3a0c2728ef6faf950073"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/dev/block_definitions/default_with_lava.json"
+hash = "b8f287e94afc8b2507ff8b1e79f04a32a4c58043391e39a582fbe9c3f5092720"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/dev/block_definitions/nether.json"
+hash = "fa47eb7fa38f1429d508048aca6fef9fbe8da192c09553d18503ca0902929a84"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/dungeon/biome_mappings/default.json"
+hash = "a61ce5b7cc31668bded7055d485480760d7b2696f4e3ee37634fc33731620942"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/dungeon/model_pools.json"
+hash = "1c045e94108000c42f75b078a998c26d082cce22de1e095131462e55ca29f19f"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/dungeon/types/default.json"
+hash = "cb87e44d54cae58e3e1d26f02474c81dbc23ea48e0dae5078b6b619f2a7cf842"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/dungeon/types/desert/default.json"
+hash = "7262105d9707f8a750084259311a18eb52985ff97974467ba923816651c1d834"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/dungeon/types/forest/default.json"
+hash = "f38e8b6e3de1ad0ce7a32f7734f2eb0cfbd74a71148d9771d1b55733c0acd712"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/dungeon/types/mountains/default.json"
+hash = "061060e55a055f92888ff16451bde7af98f3b10f16e3875365b1ad2cec50ef91"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/corridor/linker/linker.json"
+hash = "ee7f8cb57632734afd33a44a10029a248ab099676366791e9fb9ddc44bec4eb6"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/corridor/linker/linker.nbt"
+hash = "f388fcd314a3032e5869dd980128600c62aaa968c87d55a143a4d489754382a8"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/corridor/linker/linker_trap.json"
+hash = "c26fe9cf7e5334a3bf026b1af1d55fc8a9e4b53f80a7dd1d714132858c3ff301"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/corridor/linker/linker_trap.nbt"
+hash = "9bf38ae2213bbded7e2d4945203bfb6d666a12388978dd25d902578c771c3dc8"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/multipart/connector.nbt"
+hash = "1361de2e96cffe648f0a9d7dcd83cea9282249db61f0f807bcf1c743c98a22f8"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/multipart/connector_2.nbt"
+hash = "b07aa958152834f2e54eded3ebb523d41e2f7fba3d234d8b9269fa2726645fc4"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/multipart/corridor/ceiling.nbt"
+hash = "128c3a104be4cc4a8888d5e85793bed0da85da266b6cc3c6ff847cae652f5a4f"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/multipart/corridor/ceiling_glowstone.nbt"
+hash = "91062f82950c08b56ee489b35f40313129c90da659356e32ec7be0076e1088d0"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/multipart/corridor/ceiling_lamp.nbt"
+hash = "8bd90863e39102b8990d158fd860266c9ec71d5c24818bcdae764c96413e929d"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/multipart/crypt_graves.json"
+hash = "8fcd85c767eeab46609fb887216da408a4f35e1a2002d5655c5d13bfe50f3596"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/multipart/crypt_graves.nbt"
+hash = "b888b87f65a61360bf6ec65ac6fd56543aa3606644ab16a542af5d68f131cc77"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/multipart/hidden_piston.nbt"
+hash = "b09e2cc8a1bfb971c4fc92d313001d26bdbced9f24882292fece6caafdae6383"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/multipart/large_connector.nbt"
+hash = "e500ad07d6bbc00b46a083a41dcd04eeccbfa08d12cca565bb562653fb42e4e2"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/multipart/large_spawner_cell_open.nbt"
+hash = "db0bf7e04ae761fdf906dd70bd5b368b18ca5bf617c97084fc15323f6153b4e1"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/multipart/node/ceiling/crumbled.nbt"
+hash = "ffb5984cf49b1db81bca267cc6839b8e9ddd8c0188c2d799410d94e023b368d2"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/multipart/node/ceiling/dome.nbt"
+hash = "3ceef69a5134089b075587bba6ee3393e7a03d49d91c74b86487e97545282d79"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/multipart/node/ceiling/flat.nbt"
+hash = "220c6288736d7465dc0592fef94800c857b889fbb2b9d86df9f753164c8b9d46"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/multipart/node/ceiling/light.nbt"
+hash = "48f888c0ff0cc22e514bcc5c23daac0687f20397f762ad168df51dd6fe8a81f3"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/crypt_dead_end.json"
+hash = "b7e9a1040ac0d5f224dbe74c5fcc03f8b429c4a885765584da57c797e664f960"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/crypt_dead_end.nbt"
+hash = "782927a0ae99e450d5e5dbe859af0bcd023c3635d02f5f0209a524e2e4a84dcd"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/crypt_turn.json"
+hash = "5a61e17e4ed71ede3a2afa6005fee98ca336f59fa2d8f08425cfcce523d25534"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/crypt_turn.nbt"
+hash = "c3325c9a053ebd38a4f2e0868c65855765e12499ec704871330c2b9ea0878127"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/fountain.json"
+hash = "355ab3bb5fe56a725e4f61984e7c241fbcd7ddb9b5b9b949d5d0f38a8d8e480b"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/fountain.nbt"
+hash = "0d64ebc99a95348f399a24efa6b77ebe8b056b4f1eb312bf995ae6e6be4fb07c"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/prison.json"
+hash = "84c624b28614831b7557270e5025d2d5957b87fc7a6f333c138bbe3f488c3e35"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/prison.nbt"
+hash = "6d7f900af372f3784bfbdcc01d37b770d82e4977a3498bb40fa284ce155b42ef"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/prison_fork.json"
+hash = "b67c9d67d17640c57907f2074cf4d237d678d4e1a4f5aaf6245ffc6c3211cfdf"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/prison_fork.nbt"
+hash = "9adcbddab8ef41166fa1d54881d1c853edc273486624f5f874121ed10a56e314"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/room.json"
+hash = "d74bd1b7e6cc2f061151f0e1c891285eeadd391f08a948c311675370d351ba8d"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/room.nbt"
+hash = "20dc328ac907c4c1e3751ea0701479701f02a25efc55be16b4186681f06b437c"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/room_2.json"
+hash = "d74bd1b7e6cc2f061151f0e1c891285eeadd391f08a948c311675370d351ba8d"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/room_2.nbt"
+hash = "d4d6c3979c302b760703e9bd93d68781c3bbc3628c7927e7ebec0d7c7e5d8772"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/sarcophagus.json"
+hash = "a950b069612fad1c12e474dedd08faf79b3620885a85437b2457caa63be724d4"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/sarcophagus.nbt"
+hash = "2fd5bce06a91d7ada492c71aa4d5b68ca25c2f8f6d7d1574478da0b080a33448"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/sewers.json"
+hash = "303c33e560778a7abc2e4ff5cb1e97d2e21e779f181addab45fcc06d0d98e650"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/sewers.nbt"
+hash = "427b569e8632f639e5aff63ea264fb0ae5fb3af6223040673e98d1d083fe10e2"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/sewers_dead_end.json"
+hash = "0dbb2b95039f3ddd4df22b4e1c418aef22d3c169c64e6ec26ef6dfdc94c94cb2"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/sewers_dead_end.nbt"
+hash = "4b787270445d6d1546b33e719d2ecd3f6cbf83fa96243c7dd4ad8ec1775bde81"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/sewers_fork.json"
+hash = "dfa1fba391f9f174b6cb235c613a89b4eb4cfd199d0a0983afebf986d58e6364"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/sewers_fork.nbt"
+hash = "56ff5a456ad6bc4399a19c90206eff109c06d4f403e00367db526437cff4b526"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/sewers_straight.json"
+hash = "41e0b17aefc4a8edf2b3b383d13e19295781f48e5d698c0d85f430471fc2798c"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/node/sewers_straight.nbt"
+hash = "3848b1dd447eccf97c7b9c942b5db6a21422f6a94d3cf640f66415dd8ae5e604"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/room/spawner_room.json"
+hash = "7d11bdb8eb5aadb8c7b9cb0cfc5e3092e82b0241de155ba3969c81932c1d6569"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/catacombs/room/spawner_room.nbt"
+hash = "099af812c39bc05f640587b0daec6f670723c906c02a0f8b78e20820e872fe8c"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/corridor.json"
+hash = "f8ad8b1124dead586acbe7bb8c2d73187fa7ae072399dd79a639e928ecbaea79"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/corridor.nbt"
+hash = "bf1dfcf3a80389bebeb6ee538d0fb9d84683b28916e18ad99384aeceb6c21b95"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/corridor_2.json"
+hash = "17c507f6d4712592cf86ea7b1fe991be960fb90a77324fea41defc0ecfc295bb"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/corridor_2.nbt"
+hash = "c16a53b31dee7d2217392dacf479d83e453aa913fcbed1e87785d80ed568a31c"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/corridor_3.json"
+hash = "3435a21b607c0f2635f584684278726c68562ed313b57229d6b96376777ccec5"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/corridor_3.nbt"
+hash = "8750da7ab69c27bc54f5d5d3ebbea1b5af00d9e913af855be43b7de09afac12b"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/corridor_fire.json"
+hash = "78ee7704cdb2e93bff09ef19f84ff9e3fa06a016e1b8b1d424d716194e6a3dac"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/corridor_fire.nbt"
+hash = "7b464b33ca1dfeeca07a43d7e47c6b67919482b3b496bd70a030b418d8fc37c8"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/corridor_light.json"
+hash = "cb88037d58b7b8b665d4480a86274fc3097f688653891a0393a081050d3d24a0"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/corridor_light.nbt"
+hash = "5b7df3c7627c796e5fdd9b042ca50db30a5fe5165b396d9426b743192c01306f"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/corridor_room.json"
+hash = "a512fe7f3cf5415488b221020526cac626ab8f4eecb2aed411ed845f5f390ca2"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/corridor_room.nbt"
+hash = "a3938d5bbcb9f28e26ba909ffcdd7785abe7c4f3180c74b16fb5102b18dcbeca"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/corridor_spawner.json"
+hash = "be8f6db442446e17c9f9642a7f8ed0dc7e026bf12a3b1a93ea07cec760236005"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/corridor_spawner.nbt"
+hash = "78e61cdf7442908afef8b1ee24fb65099bb5bff15dadabf70c21acb83b695182"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/linker/cake_room.json"
+hash = "aea9cf291f361d86c5e69f7bc985ac4a79e266939c1a6c94cb056503d6841f97"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/linker/cake_room.nbt"
+hash = "b2f7a00e434c482f0cac95d9894c46cb3587be6b8b4986930f1c2e858c6268cb"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/linker/linker.json"
+hash = "0609cf69bd8d734642aba2b6565ee4844e1944185388a4d519c756a0fb12a765"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/linker/linker.nbt"
+hash = "6d7f4b78b020d873644a969baf6d9ecd0fabaefa4f1b2d46654c278563b54e16"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/linker/linker_2.json"
+hash = "cf9095ce911af6dda32b201eed0df46fa19f0f580962b5a4d887f814bf5af426"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/linker/linker_2.nbt"
+hash = "783bbf17463bf3cb1c31a3c1bdb1c51093f6cb165f5b924e1f9c6d6cb2215bda"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/linker/linker_3.json"
+hash = "a6633f572fdec77fc25513a06ff44625cd00fb83cf51633769c5f05efe7e64e8"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/linker/linker_3.nbt"
+hash = "773ded22ebd97a634fe663b396f332387f5357aad17a53fb62092909d248255b"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/linker/linker_4.json"
+hash = "ccf6a9c4a044e2efc38154b9a1fcc236aa6ee66413e59c2ddf69de138d8dbdcd"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/linker/linker_4.nbt"
+hash = "a54788cd520a07c5530c985592d88786d4d31cdd4662943ba43041eeabed0b6e"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/linker/linker_5.json"
+hash = "1e9f69f8786099d8ebc54aa82826cd2daf586a25e57681f5486f0aab497af681"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/linker/linker_5.nbt"
+hash = "0d714b46fdfa2eabd1ab75ab9b1db7604b32f5a76a82132ec44494fd51ad6efa"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/linker/linker_6.json"
+hash = "823899473ec6f63a92997e18fdb63df64e3f5a6d49f732ae2cf8ccfef6ba28ec"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/linker/linker_6.nbt"
+hash = "3b3a2ca3faeb5ac3c451017b8896602ff7a993ff2de19e3a6b98574ed8341462"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/old_corridor.json"
+hash = "bd80e5897d4c354a2c4a6b1289d010065a453c12d2bef5a7ad813d69fd11b23a"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/old_corridor.nbt"
+hash = "ff859d725482d769d2e811c95cf6ba8670463f8fe0e1cd9649a4df246c323954"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/old_corridor_3.json"
+hash = "2aa3953b42ab9b94e5c3f92a71cff42efba3b928699158b17ec38ac5bed597a1"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/old_corridor_3.nbt"
+hash = "5fb008a190f386eaaa5381310e70a6c907beeba0f018eb1df1409305dc40fcd7"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/secret_room_entrance.json"
+hash = "945535f855634b6efaa76d5c8a30abbb08284ffeab85d627b351ac87e322dd44"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/secret_room_entrance.nbt"
+hash = "bf1dfcf3a80389bebeb6ee538d0fb9d84683b28916e18ad99384aeceb6c21b95"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/stone_corridor.json"
+hash = "fd0ed2e75c39cbf1aff05d36de2c7c0613a9ecf0dbfc92c63275ec4f13c49fe3"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/corridor/stone_corridor.nbt"
+hash = "c322901baa89f8498414658f21dd4746bc00eea63c3778fa89f84f00a8cde01d"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/loot_room.json"
+hash = "cfc2699176ea49d6021bbfe8855d23c0b2789ca590302eaa11c6032f7b73df20"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/loot_room.nbt"
+hash = "d08b666a6a3d3a9668814e0091cbf5751d1384176a4f745b33562f9d29265be5"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/bookshelf.nbt"
+hash = "aba4c9e6256f921c4b987a377d4da9c5eb8ab39848fe956ea3bac3e4d3a5d401"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/chest.nbt"
+hash = "b9643428907463764c61d3bdb7df34248b3e92748ca46c52d7fd3ce564d246a3"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/chest_room.nbt"
+hash = "4a73ac29f37c62b1c70eb7ee8894e4d76b116fd09a905503da17be16ff41c9dc"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/chest_room_2.nbt"
+hash = "58c800f59f9316d2804fda36b0581efc4aeda3c1800f4b2e5498ba8832cbd3eb"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/crops.json"
+hash = "ad3cfab7a971f31c859ba6891c0df7cf7f87eea1ab83f838d115525aa4d58cc9"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/crops.nbt"
+hash = "9882f3c913197dd8704ad0581cfdbb90ae2ad0283e9adb37cf76b38485a507e2"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/default.nbt"
+hash = "4d294c88d7a65a8cd5c804ee41430dcb3669b1adf409d4d22587877016139f26"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/empty_room.nbt"
+hash = "ac7ee0023a50b722ad28194fe52483de6c3b4682a421a06dce322ae937d84837"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/empty_room_2.nbt"
+hash = "e2e8b65a20255d556cff8a78a150ec1fcebe9e4e21f310b96879c6ce7fb981eb"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/empty_room_3.nbt"
+hash = "c4188d096f97dcba66117c2b05ed2cba6d2fa5e03c9a743d64305d24bf80ae1a"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/empty_room_4.nbt"
+hash = "62c5e9c49f0ea35507e991a53af7ec1d5312303f0ccfa1a16efd19fa38486c74"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/fire.nbt"
+hash = "7a1dbe2a0e53d677f89eeb733376794efc1641fe031a705b1d30a0400ddc770a"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/light.nbt"
+hash = "83d56f598d4b620d31455c93ce96155f1ab7bc891df0841fcdeaf4447924275e"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/light_switch.nbt"
+hash = "2b5065674dea01684ec4cd9093d361db5864e4cde0d54639bd878f24dadd7bfc"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/secret_room_entrance.nbt"
+hash = "e9beb49f7aec2f21352fe69323e3c1dd0309318f324ed95d5e0d4cc607360a50"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/secret_room_entrance_2.nbt"
+hash = "cd79f614482005e84435664d510f781e75b46f297b48ba7c582d767dafa9f260"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/secret_room_entrance_3.nbt"
+hash = "c19071c75685400e538757994a922e01288e3cac89f80e3b7cade1ba1077bbdb"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/secret_room_entrance_bookshelf.nbt"
+hash = "8621ae5cd59ea98e0a18bf40e0258ab3020c953cc12fb8979cb101062522482a"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/spawner.nbt"
+hash = "df18b52a13e8e511662ba075f554a1514b2d359f2d4e9b429ea5e06ab7b8debe"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/spawner_room.nbt"
+hash = "6f24441cb476d0bb7134868cfa4dacee8de2748bc510f04dc2b30b1f79e89268"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/variant.nbt"
+hash = "8af0fc8df76798fee22ca16377969f9d395b41bc34ecca3ed4f3554db18f8bc6"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/corridor/variant_2.nbt"
+hash = "04ded2e46dc60dbe521ee26f67abc5e2781e7d1a6a731cca1603ad4cf4d93621"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/large_wall.nbt"
+hash = "db88b4d9fe1f532ff47f5841901c5346a155e2fccb7f3cb51fd919a869c60677"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/node_connector.nbt"
+hash = "3a72d5c1222e18a3e1892a59c7237f6ca5645f390a9d5a93e3a152e8e0c24c7f"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/short_node_connector.nbt"
+hash = "a746ca7e2b9ccac9fd4c9093698f30b22a96074911afaf7fb0bc6bf828dbc4d4"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/wall.nbt"
+hash = "fa8a78cc7f2180ea9a366a30c317eab9a7601fc63905048b5d0b3a0b2ca72cb0"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/multipart/wall_2.nbt"
+hash = "457613f88fb6c88b2fa7557132564e13ef47a1853bf1e0387a0b04c87e0262cf"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/connector/connector.json"
+hash = "6b421c630666d4af3a034bf8a3bc28a3680f2d294561cdd06ccf8f22c87b7c65"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/connector/connector.nbt"
+hash = "f9498f41c4c0082b8d5b07dd0a78b763abe9c619a2d525b768719c9994d799a4"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/connector/connector_2.json"
+hash = "f4caa9dac5d6c315d441db9c6d4f1466872ca91d4fd3bc70db0d3453490ea192"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/connector/connector_2.nbt"
+hash = "d2c5bf1a4ca4ca3b7d26822721f979708621ef2f3106e5d6318b7ba03a082a39"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/connector/connector_3.json"
+hash = "678a9e2a35020f14af382826f93998991ffd9ac6127300cc9d26b90a4dd7da74"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/connector/connector_3.nbt"
+hash = "503a85a32b3f0128d11e826568a814f62123a8db111bf35425b2c1468bcfeeb0"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/connector/connector_4.json"
+hash = "eb418abbe6f36009505d935e894c3802282d029d4586654b5411cf80aaed3c78"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/connector/connector_4.nbt"
+hash = "1cb7c67924fea27cc934cfc51388bfe810f9d184ce526021b33da9d5c09c44f8"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/connector/connector_5.json"
+hash = "fabddb1d07994ba2db90139759654c5f46733475797bdee15b6e85d336ac1918"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/connector/connector_6.json"
+hash = "3696110565cf8fcdc1f095576c5cf5f8b45b377dfee3bb5783205e671fbff684"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/connector/connector_6.nbt"
+hash = "6be6dad46f69b7833a6033893b4b29dc3416d422495cfdb2e5bcc15f5a3233c8"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/connector/connector_lava.nbt"
+hash = "a85f2019a6f9ef5b3b20eeef96242ed67c0dbfd06cd871dd1905bf1410310d9c"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/connector/node_connector_catacomb.json"
+hash = "f7abf051c290dbfa3e6daca0249de40fea32466ab3bff36594ef9719cb8e62f0"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/connector/node_connector_catacomb.nbt"
+hash = "5a0289a89728e6204fea020e40a2a8aa93c348d69cff966c8689c731b94c5d4d"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/dark_hall.nbt"
+hash = "f3607a57eca8d43ef41cfc7c92af6ede4c91006ff899a7aab40f0978d290ea88"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/fire_hall.nbt"
+hash = "a12a61c45e3d9e1e4d438e66088a7c6a43040e7cd2d614a1a83a6cd7b7ac867d"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/fireplace.json"
+hash = "ec2e4a06cdaef17c45bf2491755a7328a569c4371b6cee3ce52affd4b0c53d85"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/fireplace.nbt"
+hash = "d141dbf71a015772705693f144dffbe2e0d1b2a393ddd168bac9eb33205823d8"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/forge.json"
+hash = "ceaa65f43899ac0186c30b0d56acfe14bea4deb194df5da0450937f474bc586a"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/forge.nbt"
+hash = "d2727d144f1b2ac8df8041c9dd9b3c7bbc942c6a6d3bd03624aab8006e235477"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/jukebox_room.json"
+hash = "14558620233c6a1d9c28910192ac2b4eeb6abc0ff7e31a01d9eb4f9ddc2cf5a3"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/jukebox_room.nbt"
+hash = "08431ceebc036be538f2318a4c0e310c5bfa0b1149e95d88961be680f75825f6"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/library.json"
+hash = "2081787b181fb9dc203e65afdb46b0ae50e872106b9bbf4d64ad4cd40ae082fb"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/library.nbt"
+hash = "2b31ed20a25f2170962038d9c3f1c48638c6687ee16632bf7859b0a2c3683460"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/node_turn.json"
+hash = "ecfcf70013dbb0f13e2079bd97e5000aa1ef011c8b40ec94535e9335b90a6f0a"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/node_turn.nbt"
+hash = "19f3c4d23e4951dc4e3f9a22f105d78314a85db5466320f928a6d4b21235d19c"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/old_fire_hall.json"
+hash = "67de78b2cef5c7e0543a129ba4ab6c20aca89e8ca4dd8c52bbaf1a1b00c0c823"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/old_fire_hall.nbt"
+hash = "76f8cbc75097d39d92ae3f0e28e2f31ed0074a17751ba23c5c43d2286b253ffa"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/old_jukebox_room.json"
+hash = "699da011e227f71e236cb576359fde55c83394b6fd011cbcbe275e15ba8c12b4"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/old_jukebox_room.nbt"
+hash = "6304cda96aff2f6753022369a76bfcaea62a3e2a8202594abe2a940a62a49666"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/room.json"
+hash = "b7a7c0a5b63f5b97e0eb907b96f960e4ad161de8e2116c52222a4c35c39a8990"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/room.nbt"
+hash = "8a9237c3e35e74122c1ba6a69bcbc81f87557aca30563c3e27b4db2fb2b60f54"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/room_2.json"
+hash = "21eb63caf74fe7330034f03dd001fd71c98a6f4b69b983b91d2182f087be14c8"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/room_2.nbt"
+hash = "1951266d0fb0d586ce5203931e30d796d48eb68727adf0cd7e38f3039f7d698d"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/spawner_hall.json"
+hash = "23566a27ff0babf6b0cbb5d0531e48beeb1c3948a800ddba191a0e35dba0bdd8"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/node/spawner_hall.nbt"
+hash = "4ee39ee18895e09b3bdb113cd9506511b36109a38e5193f46d6a9dc0bf55e20d"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/old_loot_room.json"
+hash = "48d605c2ab662d25db3c295d58d906d96e1511b6a866c4de108adc253f12e72e"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/old_loot_room.nbt"
+hash = "1a5a41b9d4b266c248cdafff8886167f58aa59bdffac3ca18ed3f6d5b37e0817"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/room/food_side_room.json"
+hash = "f6d384ee562ff32c00abf97813b3b5828ef9ad3f9d3d2aaf6cf4382fe7dd899f"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/room/food_side_room.nbt"
+hash = "7f7d8f0e6853148b075caafe335fad9ecb4975d52e45d866c04a0216c30b7668"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/room/secret_room.json"
+hash = "94f963f85c4c4d0392af56a068708c2d1f3a9b65d590bd4c868d624fa09fda10"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/room/secret_room.nbt"
+hash = "c51d30492099a0155256d1777ac49bef8c1d7ffc4cb989fecfccd0fd12a1c222"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/room/spawner_room.json"
+hash = "503b71a99d38af09834b64f51bbc2f5724f65e00f748f6e8416271a9cfd5bbd5"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/room/spawner_room.nbt"
+hash = "f9ad081122e748ffe1f310ac7ef7509038caa7eb8afc7d4362d68d7e8909fc11"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/room/spawner_room_2.json"
+hash = "53b0a32f75ced81df9a3c877921929878a2737cb26f37fa77d786c6b2d68f1c2"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/room/spawner_room_2.nbt"
+hash = "1f1b3827aab1e1b556b6efab5f331f68e7683066f0ad2034345749e3472841da"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/room/spawner_room_material.json"
+hash = "ad4ce34866d2cfcf9a1ea7dd31b27c5197a03db48524607626db32276d886ca5"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/room/spawner_room_material.nbt"
+hash = "50ab413d8ea8f7aff0f5e9289257a9f4d18ce75ce66fe97bc50b105e140a4114"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/room/spawner_room_material_2.json"
+hash = "c8416a01cbf0315eabff0c1e772a2301f89616187e4190e43505e91f5b4aa102"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/room/spawner_room_material_2.nbt"
+hash = "b5b7abc113fd3ab1db909f1d10f645a647b37d1ce0e5e2685a81e641fbdc171e"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/room/starter_room.json"
+hash = "fd8af2a6547f6ab1163b6e12551ca025bfd26e513c13093ae196aa2f0d0223ea"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/room/starter_room.nbt"
+hash = "ce8155396652bda7016c2ca4629a358578ee3191adebf025bee04da9eea72216"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/room/tnt_trap_side_room.json"
+hash = "2fd3ff0c70ee40bdca1274615ec4902feeadb8b3b012ec7c8be8504a6e6125dd"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/room/tnt_trap_side_room.nbt"
+hash = "d5038286ffacdb370ed45c248ca4070131214cce7cfbe26ac66412a934738322"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/staircase.json"
+hash = "c64daa5a447fec09e2af95acf839fde37dc1ad80350cc6a5cad3741ab0bd7b13"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/staircase.nbt"
+hash = "51256ae2518df47893e8211a7daf1180ad64aff4bde48375db0de8e939d0a590"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/staircase_layer.nbt"
+hash = "5be2058e6511578ea17fb5b1a8cc20a90bf65d8e92680618b16530558966aff7"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/stairs_bottom.json"
+hash = "318ad98df76eabe58fe1373c5f1568fda12db6ae638dfb8ab85083bd68325da5"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/stairs_bottom.nbt"
+hash = "8c87d8419bb822070087f91663f356636cb626601eaa8605b2af069e8bd4704d"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/stairs_bottom_2.json"
+hash = "74bbabb643a41f93e624509ce073723daea9db6f6b47441027c884689fbe2b71"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/stairs_bottom_2.nbt"
+hash = "4bea74639fb6436a4804d49596385257d945d04d6f54733cb4f84e6cc50516ae"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/stairs_top.json"
+hash = "af611143e79a6c1c39a650753913231a6597cef3702b95f6e40651e1d38b7f00"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/default/stairs_top.nbt"
+hash = "910e607488ef588033e2fb0d6a59b8c356e3b0d7248f62efe726d33698ba3f94"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/entrance/roguelike/eniko_tower.json"
+hash = "a33cf4d3624e827304368ecb35e279f25ff0f8034d43892981a1865c9f2d6687"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/entrance/roguelike/eniko_tower.nbt"
+hash = "f925c169c880c82ef8c4d1f2ca84a7cf3d723e0e98d4800b920cc17ca1b171ca"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/entrance/roguelike/house.json"
+hash = "4c986b0ebce44f59c92b580d43488a4fadb38b2c7d1717e6a850dc0788e46599"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/entrance/roguelike/house.nbt"
+hash = "8c31c8303cad3d67c14eea9bd5679ca2c00663ece0e7a9d8b3de45f56fa254aa"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/entrance/roguelike/pyramid.json"
+hash = "d367e6065f2b9eeee2fdd93a84b0d4392f75fa15bc4f1f8457ff3524b8d18b60"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/entrance/roguelike/pyramid.nbt"
+hash = "ac734e402201a1a4a06debe0597fe72154e882c0959535f37226e72553ee3c84"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/entrance/roguelike/rogue_tower.json"
+hash = "5f5201fe3866694d41cfa3eff630add838f111cc684f65e9c04fd04ec5a84df5"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/entrance/roguelike/rogue_tower.nbt"
+hash = "123af7390945e2418fd975be2ea058de2f44749a3a539946e64614a2b892ea58"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/entrance/roguelike/witch_tower.json"
+hash = "91da1256df3a17247f32b41433ac7652fe1367ac017edec8e0af132d81ba5d5a"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/entrance/roguelike/witch_tower.nbt"
+hash = "a0c80e822162b850e49b5a60bd51e19b0f7aa94ccfccb114fda626700d8ece74"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/hell/node/lava_hall.nbt"
+hash = "8f2b40dffea05a2091680fb4d534e4cf5c348dc71ef0036d4dd09fb723912abd"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/hell/node/small_loot_room.json"
+hash = "d239ae06c300b90889e8aad54ad6e4ad6e5925b675983337aede738afc64d794"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/hell/node/small_loot_room.nbt"
+hash = "c972ca33f11ac7a54c31b5ce2b1c8d916fce8934f6674350ce8213a6e1453626"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/hell/room/empty_room.json"
+hash = "d7e8aa18710bd41f2c43993518d58130ce0157975d031ee8077279e64ee1521d"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/hell/room/empty_room.nbt"
+hash = "74e4aa4326003e1cbd13800f8830328a245668c732bc7ed1478f31995deb19ed"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/hell/room/spawner_room.json"
+hash = "146a50e28ddbe58499498e2b988ba0ce3f00fa180ce7e526edc139b2a4ba26cf"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/models/hell/room/spawner_room.nbt"
+hash = "f938b8095914835e197eb546af8373f01952f7f64d4caf0e5ef8d3ba86ada72a"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/entities/stage_1.json"
+hash = "cc73415ad67a58c67ef2f9540b02751eaaf481b694e1ccf661ef42f12297edb8"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/entities/stage_2.json"
+hash = "cc73415ad67a58c67ef2f9540b02751eaaf481b694e1ccf661ef42f12297edb8"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/entities/stage_3.json"
+hash = "e9944fce8fe488a553d95ea5d80b0e2219d8d0e41b5032b263f8bc6ad4f81ad7"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/entities/stage_4.json"
+hash = "3e7821c97b0deefb20a6c06812e3e1690dce865fc742a7e4391f2503aca82c09"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/entities/stage_5.json"
+hash = "a88f9fcda214d30c1e16e400f4bb14bed2ce49a043df74c57aba7673f7a2f3f5"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/equipment/armor/stage_1.json"
+hash = "bd0bc6c9345696da14d42cfec393c7814fb653dc8829d37e08f4f59ff2ca9a5e"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/equipment/armor/stage_2.json"
+hash = "e7d594985d44947c45b755f9a4d7f8e8fcf1769bb522204f04f4aa19678eefc6"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/equipment/armor/stage_3.json"
+hash = "966894e1a7d6ceecc7f1ffb0b1cbd6cb71f8a6156935745cc8b11f0469cf4119"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/equipment/armor/stage_4.json"
+hash = "c534a532b0c61d77511a5462bc8c9df7c3504e66181a9127212940b8bd7c432f"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/equipment/armor/stage_5.json"
+hash = "9494d033ffee1100208e10a0568daa814e8c53bebdb03e79db97ade38ff855b0"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/equipment/weapon/stage_1.json"
+hash = "5a193f15ac4d0121b0d3f12161621028fc1a13b76663ad607d7fda29d07f7181"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/equipment/weapon/stage_2.json"
+hash = "cc937399e6145985a7cd6695fc76a2ebc150a7223cb74138efd17f7877d0f137"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/equipment/weapon/stage_3.json"
+hash = "afd2e62f2db96ad3e80a9fc4f51d4df44bb18f0362d7d03daf281c8de3620816"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/equipment/weapon/stage_4.json"
+hash = "8db2bbdfb9a88f61ac55703deb4e408c703ac2fcd1af69b5022410c462805a60"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/equipment/weapon/stage_5.json"
+hash = "0151b8cb67b1d0b959bb0390f7a96ec1c05fdc51cd1fb292926258ba50410cb3"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/potion_effects/stage_1.json"
+hash = "db04d5c774193c63581846473eb044d676862eb37298d8858dfe9aa051391280"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/potion_effects/stage_2.json"
+hash = "db04d5c774193c63581846473eb044d676862eb37298d8858dfe9aa051391280"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/potion_effects/stage_3.json"
+hash = "d94ac46bbed1b1dda2c6d730375eecc0d3da10932b8ad4ab4313c6603d26e278"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/potion_effects/stage_4.json"
+hash = "23c177077751e9ea73a51d2f79d7ad027310a287d9b89b8bf3887857ae335d11"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/potion_effects/stage_5.json"
+hash = "df47ee482ab14bade7a345a09c7b1c2cf61e178bf8f19fd07a39f86121814112"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/monster/spawn_rates.json"
+hash = "21656662bc5d1edf4927bc715fd7dbf18f8894b4299bced0a2492b2aa2b94aef"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/tags/worldgen/biome/has_structure/dungeon.json"
+hash = "3b2d8aa1b06ab1f17737c9c016dea65ecf69b51a715336d2ad23a6409354787c"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/lower_layers/catacombs/default.json"
+hash = "a024973ad9263483e1718a7d470bc11342be0b956e9c922f7697ff2a79aae4a4"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/lower_layers/hell/default.json"
+hash = "84f0353eb01e3979ddbc33e4c1b831f836a3f38dbe9aca6fd8cb63c98048e8ad"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/lower_layers/upper_catacombs/default.json"
+hash = "9840beeb1aa1b6c1df80f45165ca9be2bf38ea84e899645ae9a472ac5351f862"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/mappings/primary/create.json"
+hash = "9b234f27a292d28103d1f02eabc1f35702c8c27165160492627a3faa92d1f656"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/mappings/primary/vanilla.json"
+hash = "a75512ef84e7a8f42ff47281e25ecf27be5112aa77e18462c6971066fa460287"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/mappings/secondary/vanilla.json"
+hash = "d1184b2c4d0dbe48674725c3dbe95d5dc36f2480ba1bdcf29d6c438e901ff058"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/catacombs/crumbled.json"
+hash = "87639eb0111228d4ae10702b4c7d215d44a9889196b76c331108bf4b8f018a04"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/create/andesite.json"
+hash = "39071c790e09ab48f846e40894ed050bdd5f7126d2bfea0b353488834d968e9c"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/create/crumbled_andesite.json"
+hash = "9390494389d3672e81f497a6b3f11b9e4db834f8722dfb92b9f9174bd177a1ff"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/create/mossy_andesite.json"
+hash = "684369d93711d395f1538d0640fe56637d60b4989b7df0e93c8eb6827898e930"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/create/overgrown_andesite.json"
+hash = "05efd30ce17a9ac575646fe618b7c602ce8c2b7a4ffa4bcbf28634e18eb6d5a5"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/hell/roguelike.json"
+hash = "562d39f837e1ffdef51fee36b3cc893542e9db377e3f0ce9e560d887c88a9b86"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/vanilla/andesite.json"
+hash = "66041a2c5af4d2d7db82218ebaffd447b1168f816fc44a3d7905acbb350e2c75"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/vanilla/badlands/default.json"
+hash = "d7079214ee5edd0e7f07ca600fafd54c01e247c9f562ee988068e9a14174b2e5"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/vanilla/bricks.json"
+hash = "c76f13879d22505a86ba5d4442cba911220963d2c3312857c48a431cb468f639"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/vanilla/bricks_2.json"
+hash = "6182a90d5f33b3113291c9f43786dd5e68e109a651fef17117ebdc9e958beaf9"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/vanilla/catacombs/ancient.json"
+hash = "519fd5bbae8d491fcac79f357c7ede164801362346eb5758bfa269df1f50c51a"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/vanilla/catacombs/bricks.json"
+hash = "bd5caf36d92b8082d95a2bd42b73c609953cfe5b599140a36122d925147fecda"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/vanilla/catacombs/crumbled_floor.json"
+hash = "58fa138b8d205b13a0514c879ca1a4d83a901cbf41207394075f251b30d677ce"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/vanilla/catacombs/mossy.json"
+hash = "a3e9acbc99fff20d42e7df9c8982692c1f5b9716a7416cfe5e2b569533cde279"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/vanilla/catacombs/overgrown.json"
+hash = "9a724fa77af91b91b8e6b7958bfa70e87e02e8edf64ed0f3147a93ade5a7f647"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/vanilla/default.json"
+hash = "41f1109adfeb69fb3435c9878e77070f5b0ca6630ed15f7146913b702e97e65b"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/vanilla/desert/default.json"
+hash = "91b68b160f7094d116238a08d4ed37b858a15d101497ce5ebbf9eff66f3d022b"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/vanilla/desert/diorite.json"
+hash = "9f02efd837b0d42a6839e2559fd8b4a2c8e94eb3267f04374125edb7464b8147"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/vanilla/desert/granite.json"
+hash = "ad7ef30b42d190deda8e4e7bd6e474d217abbaf6c42c4cb9606f4db54dbc9f94"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/vanilla/desert/terracotta.json"
+hash = "3533873090032f19167f9c83c6213c51532b53e9b67936adad1ce7cc614260c2"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/vanilla/hell/checked_floor.json"
+hash = "ecbcf6b4b25f8e51740510c649697d88bf125acc91d898fe137520f47864bcad"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/vanilla/hell/default.json"
+hash = "b8ec5381b663fadae31327762ad4ae3937af889fbdacfe6b624a5135bb5d2a65"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/vanilla/hell/mossy.json"
+hash = "83eb35c2ef4c7b38a1906eda59f9f0380843f03071896c1308fc473642cb123a"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/vanilla/jungle/default.json"
+hash = "b9de1da828cda0e172da0d60b0ce782e21537f61a1d0c1c01aa3fa98c5b5d567"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/primary_themes/vanilla/mountains/default.json"
+hash = "e2604bbf48f207f1bc1898d94e14c25ce08b167099a43b3670d0f64dfce06bb1"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/secondary_themes/catacombs/crumbled.json"
+hash = "8632379228cd4754d604721ee83e2727f6185e24872d4e9e0e4502391fdc5c0a"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/secondary_themes/hell/roguelike.json"
+hash = "7fca4d376494d246afe039a2cdbacddf6ec1db0e25f7fcaf853507382630de76"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/secondary_themes/vanilla/acacia.json"
+hash = "7dcb4a04b6ec31b33642c685863db514b6aedbbadb78fd632ff001d933dd5e0a"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/secondary_themes/vanilla/badlands/default.json"
+hash = "fa27b3d235ec05d76a95da87195c1efd660fcb94f63c9c0a3c422355a2ed77f5"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/secondary_themes/vanilla/birch.json"
+hash = "43dd2d415b19fac47ddd8542bd2992efffb4a34b52efc3cae3253845feb99dc0"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/secondary_themes/vanilla/catacombs/mossy.json"
+hash = "9705474ec128f87444d0d9f2f1d41a6b22a3d1d6303d05c9a77544642be0b7d8"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/secondary_themes/vanilla/catacombs/overgrown.json"
+hash = "537be89e0b580796f03173b19549638a945568e1e4b9ad69e34b69d7887a6a4a"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/secondary_themes/vanilla/dark_oak.json"
+hash = "572031543b852934d908e5ed261fcc0a8a053f4c9eed6b1f8740945c315d7f07"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/secondary_themes/vanilla/desert/default.json"
+hash = "7f5074c4d0ad3e59e940b3053b64f44313d776ab81aed4ef188e057a036ccbeb"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/secondary_themes/vanilla/desert/diorite.json"
+hash = "cd49ae18d08782df7687d043433d8287c59ca103c74c2d76f45b8cae9cf0532a"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/secondary_themes/vanilla/desert/granite.json"
+hash = "5706f319a03473fb5ca5147599abe447b48c7380d0d169e6e5f2dcf4483ac9fa"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/secondary_themes/vanilla/hell/default.json"
+hash = "767ed960fbe8424653e4bd28dd0e7500f6c433c64d0056e11f5816691ef0cedc"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/secondary_themes/vanilla/jungle.json"
+hash = "dd13c2383754065c56092403ba1a00f033f5249bf70e9e374415f5d7f50be53d"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/secondary_themes/vanilla/mountains/default.json"
+hash = "3155fb0dec8c95930e12a3ffb01929e05ac8cab6d2274d4b0f68e5a9c04619ca"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/secondary_themes/vanilla/oak.json"
+hash = "2f0efdfacfcb4dacc2da42652ec3a8ab4d2e3f0a2fdb0097618818382d718dc5"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/theming/secondary_themes/vanilla/spruce.json"
+hash = "85e5fa9bd000988dab1c29dc949410e5c28b2136c82c5f6f886fb75529c48c21"
+
+[[files]]
+file = "kubejs/data/dungeoncrawl/worldgen/structure_set/dungeons.json"
+hash = "4154cbb5130cc623527948d5c983a1e6a73c03d5b27693c83d460c6f5129fda0"
+
+[[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/immersiveenchanting/enchanting_fuels.json"
-hash = "f9261f051b2198f8659c704a8de030fb535ca885335ce689e63ae1aeb479bba3"
+hash = "ca8c1e80fb6507e20000cd2bba2aecd1a9b794060ed29e7ab09b1cd67174417b"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/immersiveenchanting/replicate.json"
@@ -1987,6 +3139,42 @@ hash = "04d8f04e70735c79a050a5312eb35631e7227c420dea6eddd7df0a0b3e19e0a7"
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/immersiveenchanting/transmute.json"
 hash = "9566bc3211a156f75a5e4b51e57faec249374d52ed2f8edb353c3205acef0ffe"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/animated.json"
+hash = "ce03db984e339d4de00f171c401131ab39ad5ce65625cd50f61f0f5ecc528c3d"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/ascension.json"
+hash = "927f791a1e1e7638e369a8ae4a6d7e31af8cbaa2843364c5dd84e3551b6c5f9a"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/capacitor.json"
+hash = "32433e346a6a2835a1461588b41b623eda0c050f9c175335c25b736411cc59ae"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/haunted.json"
+hash = "68fac62f8136ee757a9b2fcf39c285f88e2e335d119e820d4a9e542788b6b436"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/rebound.json"
+hash = "8ca474c6acda203314bcd74984811ab194d8c35cba5fd6f454a0bc0dadbf847b"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/replenishing.json"
+hash = "8efbcfe368aa20ab3d20e2c325d3c5c096422ae604eba5530463f12c60431357"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/spirit_plunder.json"
+hash = "540b33287381ca8f1141fca2ddda9e027f6c6bf96b7ddcd51bff07a2a79b25d4"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/weavers_haste.json"
+hash = "f9cfe163d96fc8917572a9edf674d555fa4895fa52c3a26af694cf1f592b2665"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/weavers_propagation.json"
+hash = "e1ad72c631b531a600833468af80597e62bb19ba7645188f06ce9ae15eed0b6a"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/aqua_affinity.json"
@@ -1998,7 +3186,7 @@ hash = "4e19562e9610b96dcad10e428b06e3c2da4456f34bfe60ecf36a8d97b10d4f7b"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/blast_protection.json"
-hash = "8602058198a95b60f39ae266a547153fec5d3b67d5f01596be069d4f19badf81"
+hash = "0d0cb5760f382829a7cfafd5191f40b6c866bfc7d239857d6529e8774cd2cd85"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/breach.json"
@@ -2010,7 +3198,7 @@ hash = "2a6322179b61202173b9491ca969ced23a660b583d3d3189936bd7146aadaeb1"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/density.json"
-hash = "28c8c9981efd56322b77673f7ceeb338ed3229c18ab261c5f44cfe534b3b9304"
+hash = "104d5749e902a7413bcdda1d5488d2780cd737496776ee970498e8f3c3a6946d"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/depth_strider.json"
@@ -2018,27 +3206,27 @@ hash = "7b9560212e3d91f90c3d2257d19e038d159414646fe17fd523c2b6d08a2b35ec"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/efficiency.json"
-hash = "0b743699d6bd3f1182178c58aa5302a434100b9a41e7d9abb026e5ef74a42abe"
+hash = "9ca239b22f35f0e27168cae6483ffe4c5eb65ae7dd031573b424b0008c9366bb"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/feather_falling.json"
-hash = "9518907ccbb388a661034e42f3e81be1b4b3a5837a67ad2935cbf7056909f480"
+hash = "90581f707712fa801cf13cbcfca120d52ae5427180f6482e0433b4235da6c28f"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/fire_aspect.json"
-hash = "2398bdccbe2dc71faf85514165979539d3ff2d600fd9176a4211b776cc304eb3"
+hash = "11f813aa913f93c8faad3ad37e23767aab7f7ebf8b032b82e6a7e8c7415a1802"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/fire_protection.json"
-hash = "c9461b6e5ebaff0ebe7d476d00eef4da2567b88367c5fd4f9140e230602660b9"
+hash = "53467777686f5e45b51afddc11a88b2c74bbc45e2eb84a93f61a900756561bf2"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/flame.json"
-hash = "38d2063b0aa5852098d3e6b528102b1d7a5148825bb4dae8e5f8997f7b5896c0"
+hash = "fa412d47ea6544939381c8d5be98cf6a59af27c04f2001a04fbdb580034f8e24"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/fortune.json"
-hash = "7cafa71376e8821306e9d7746b288cd8063a7f2f31ea9a605c4ddeb341a66d0a"
+hash = "74bbdeccb848c951110149ea49eca85a33e4d6ae267090e52ba82a637308934c"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/frost_walker.json"
@@ -2046,11 +3234,11 @@ hash = "4aece67696c2a634f110678800230461a393010fffee10347ecba9d5224d3b1b"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/impaling.json"
-hash = "1557b3d6327c4ba31516f7e20d9c08cb9f5dce9a60063fefec57a102d146caf3"
+hash = "91eda4189710ed57c23dfe36d8b860b75993905d15bf1f23099308528c93eb2a"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/infinity.json"
-hash = "fe66d9dd2293c70dce465e7782b3a6c03e04de07ce83ab7d425528960dc44c66"
+hash = "fff6dc5d56b513fae21eeae79b3c6c2fc924d3c61651647bd66594a18843a4c1"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/knockback.json"
@@ -2058,11 +3246,11 @@ hash = "1354f371ae838be12d83d0535853d44cc31f1b35596beb7c4fa53752b2008dfd"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/looting.json"
-hash = "ee5357beffc07bfe73bf025a1b9edd518014fc3a39a6f83cd635201907f3b08a"
+hash = "adef3541cfe5100af6943b4965cd0dd416c575f9d8bf1347f5254c7f1b2b805c"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/loyalty.json"
-hash = "c021885cf07d2b1bfa87b7a8f66ed6ad19ddfd27edcf0a01b574add73af4d561"
+hash = "ee833fc0e4a703b6850eb703d297a549768c248cf088f1f8b6819f3ccfb426fa"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/luck_of_the_sea.json"
@@ -2070,7 +3258,7 @@ hash = "749457b52d9b59cb1e6a09449335318ef979f98387fc9b507716cf54e29b9888"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/lure.json"
-hash = "bca251f2df1639f034e3a0246dd34f94f8e03b6f361f09afc2334c463a9f3633"
+hash = "325bafb29c196476393112ccfe37ea16470c659bb623a7dcd41de7b7447c61cb"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/mending.json"
@@ -2078,23 +3266,23 @@ hash = "37d024d9c6e12def66d8a73290e75ee903e2528a75c17bacf0858e4b656577c1"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/multishot.json"
-hash = "32dd2ba2bacd17afc44bf220f923e86bf0ee0e61dd45439485e70f71d6565a61"
+hash = "33ab8bb7973340f96b293362e3409824ada2fabb712a74cb16b37422436799ed"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/piercing.json"
-hash = "2134f41427677326894474195ad050e2f5b090e0b3de74a911f537e025b17b4e"
+hash = "058d91257c1593112bda9f8fdd093f21aa8c5e0ae9f634fc3c1cea5f9ca06d5e"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/power.json"
-hash = "b3f8683571e4d22cd8f5ea4592b167f681264b4c089c0822354d08a301964ff8"
+hash = "5be99b16c81fb500ad5206481ffbe101a45766e832bd9ea32ec420a37498cbcb"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/projectile_protection.json"
-hash = "8f4f22b1d6efb0da9e142a8ea46b31186d0002dd7078c7b492995068ec1c4fa9"
+hash = "5f4c39ba19a252f3db3dd5c3f4274e5535bc61f9215f4049fe25cc1ebc5798e8"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/protection.json"
-hash = "8b489e81f1a410b2f2cb0d49f4951ccc36b9c943d5750c53b72c71068f21df93"
+hash = "df9f42283b2a8b67a15d192dcfc60b7f3a68397eef8ec118267504d8be7b0998"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/punch.json"
@@ -2102,35 +3290,35 @@ hash = "1354f371ae838be12d83d0535853d44cc31f1b35596beb7c4fa53752b2008dfd"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/quick_charge.json"
-hash = "3ae9562c6e08c6c2a5fa6671d45c06288ea45db992d5950fe33517e3c90f8bc6"
+hash = "6761518db3036f7a1aabfe29654068429163776b48a0ff9d477f1b9f0230ed87"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/respiration.json"
-hash = "130d213694f64df9a05228719bc91b901f7149ded5fbf4c6bbed4810eb941f6a"
+hash = "c90debdb88d773ff888c7c7e910d33e7fbfee92f7290f8ed557932dfc70a6466"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/riptide.json"
-hash = "4d07a383541fef09327d1d020474cac9d9446994ee1b1f09bc0d9cb6c9fcc394"
+hash = "e991504266f3394ff110704a1829fea72d547a81c85fc7efa3b9d12875f47a30"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/sharpness.json"
-hash = "cf131c9976ad428e121648d4bfdea0e3976443f81702ad0d9b95faea1a88fa4c"
+hash = "e7ab37b279a1a2f90aa8b7c01522d8e5dd491f926f76919c4f0f0c2b4234246d"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/silk_touch.json"
-hash = "ef0f3ae71c660b7873c7f2735f57fcacd8919912cf5bff32d08459647285dce7"
+hash = "146483105a54039aacd39d37b27df053be120966dcd6add42050c168003a1903"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/smite.json"
-hash = "cdd29492d6437391b14f8a45909b71a0c1f2eea64ea210ed2597ab2a8782fd49"
+hash = "c1d8de17781bab025025c127cf53936e0847275343faa4c3778b86402f139f68"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/soul_speed.json"
-hash = "0b258d247a6a2ace1e773c889bb02cd0cc341051d7f596da515c4ec7f315df47"
+hash = "1b18a24dea4f99a8d3310e73990188571da1acdc5facc3f47cdf80c2f1917abf"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/sweeping_edge.json"
-hash = "422ebb37f712c825ba69cecabe6de64b2db85e6ada2cbc2e14c87a1b9047ebd7"
+hash = "b6679e3e17683271b073167da93a87256b9ac7ee0d265f5efecd891a467af356"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/swift_sneak.json"
@@ -2147,6 +3335,62 @@ hash = "5e1ad918364815aef008430f75cbe01615f8d5bad4a190e575efb13017696c3b"
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/wind_burst.json"
 hash = "e73e0596f670174950a31cf1ecde50cb066749d2361c1bd54b7d7dc3a5d375f1"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/accelerator.json"
+hash = "1531f06d1b387be11efbd9f577657cf91cc1ec99de2348de434e0baaaf77c1dd"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/banzai.json"
+hash = "4a4ff641931cab25f47f4c834d7ac811c6ccbd5cfb5cfd8aee239a44c311014b"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/collateral.json"
+hash = "f8b7dbf63b64685598a2a0febdab2bd4122d3a6978eb39ad527f123cfa617201"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/corroded.json"
+hash = "ae74660f9a140331d05bc24e295ff63423adfdad50219f2196ce4bfb344da005"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/elemental_pop.json"
+hash = "208aac83f8b47588390f25b8b4c99754951d28d6c2587065b3a965f60d9957f0"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/heavy_shot.json"
+hash = "71e728b7ef2eb6bddc53f5ad671a655030275eb324d23af5d3fa4e4acc6f03dc"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/hot_barrel.json"
+hash = "97a2bd0f0a7bba52878299e386800bdf99c4c64dcf87f1148a416da7e1b13adb"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/lightweight.json"
+hash = "20d00d0c204669ba3c091ff029a0c100934f012827e8b5aa2b88b1e2c02de434"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/puncturing.json"
+hash = "59541ba99f478421ff675afefc1d8c5a01f613c1d0b011c68b8a2bea35fc564d"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/quick_hands.json"
+hash = "aa794c370e32397a907ab59b98e7576e4c2fadbae0c1d5aff8ca256a2b356363"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/reclaimed.json"
+hash = "169f0b2f6f2e8c5ace81f1d6f578500abc883c79c1187729971333d34c96dc0d"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/shell_catcher.json"
+hash = "3fb6b62d5954327a8bd5a8ceeb5c921fa282b21e9db8d937f898d54f5f7c6068"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/trigger_finger.json"
+hash = "7e898c3e1f2b16a9b03a1acd0b4e7ce2e66e7471b1ae7cc7e56f2e25fbfe5a7f"
+
+[[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/waterproof.json"
+hash = "9ba3d97b18c8338fc78a9d125ba166c7aff704ab2288a3592d657b29eba97e90"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/loot_modifiers/abandoned_mineshaft_ancient_books.json"
@@ -2242,7 +3486,7 @@ hash = "516f6f70267e1e025dd1d3d79d1d6235632aec2df81060d9d61d53a76159de03"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/sounds/node_sounds.json"
-hash = "3d04c786a7e47db5eefb4cadf53dc51b2a30d7df24fc621a360710d24956f840"
+hash = "219606cde8bbe95195830702817c466d6ef9579079ec1ca18a0c536b1996b87e"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/worldgen/structure_set/ancient_library_desert.json"
@@ -2257,20 +3501,16 @@ file = "kubejs/data/immersiveenchanting/worldgen/structure_set/ancient_library_j
 hash = "03cd15e15f66b336867cee7b8cdef0ae17ad89f372c819bdfeabe1c075502689"
 
 [[files]]
-file = "kubejs/data/kobolds/loot_table/gameplay/enchanter_loot.json"
-hash = "56f6cf0dc9a3bb26680b130b448569a6271a7dc9f56ef3606ddc3b27b7008cab"
+file = "kubejs/data/kobolds/tags/worldgen/biome/kobold_den_biomes.json"
+hash = "09332ad3aa6db62c4b4cedb6c3aea814ea55155a023a57cfe65bd201850fc52c"
 
 [[files]]
-file = "kubejs/data/kobolds/loot_table/gameplay/engineer_loot.json"
-hash = "f1cb91fa60135d7e4fa817fbe8314101ce9784eb7f4e2b9a977236c799aee41b"
+file = "kubejs/data/kobolds/worldgen/structure/kobold_den.json"
+hash = "8d6404023b1c5677001fa2ebc506a95e40ed66867f01093d488c1e3a72e2fb43"
 
 [[files]]
-file = "kubejs/data/kobolds/loot_table/gameplay/stone_loot.json"
-hash = "af2ab2b75379ade953e990e114cd09e2e81d37b06302fac1696a7c032d8f6afb"
-
-[[files]]
-file = "kubejs/data/kobolds/loot_table/gameplay/trader_loot.json"
-hash = "e71c80eda15928546623c0124a6fe34944f68bddf755c595a070825824d89f64"
+file = "kubejs/data/kobolds/worldgen/structure/kobold_den_pirate.json"
+hash = "40b48b74fd4035d77b69e06f9cf3e84cbdb3c36e2c6d35fa4ca2679f0a015994"
 
 [[files]]
 file = "kubejs/data/lootintegrations/loot/dungeoncrawl_dungeonloot_easy.json"
@@ -2357,6 +3597,14 @@ file = "kubejs/data/malum/worldgen/placed_feature/runewood_tree.json"
 hash = "ca03c0e78b3cac1939e37fc0b3487d643b0e2b42535317b76fc8a601fa903332"
 
 [[files]]
+file = "kubejs/data/minecraft/advancement/story/whats_this.json"
+hash = "1cf96cbc7c98ebbd207553e41086154e46d9beac7eb7cfc5a92666a151e5aa77"
+
+[[files]]
+file = "kubejs/data/minecraft/advancement/whats_this/whats_this.json"
+hash = "2e56dd1e61b7f9e7ed27ebc789844d8004171efef846cd3f322734d4969e1b9d"
+
+[[files]]
 file = "kubejs/data/minecraft/dimension_type/overworld.json"
 hash = "0a7724a67b4b5623b65e3002edf8dfa36959e17423b90bc7fa6a7a62dda098ea"
 
@@ -2367,6 +3615,14 @@ hash = "39a6e6aa24e2fb916910bb6120b4864879a5f378831d15cb319c43632fd3bf69"
 [[files]]
 file = "kubejs/data/minecraft/dimension_type/the_nether.json"
 hash = "360731697a58adc00f8055ad3cf9fd1d2652e1313c24bd05aa71eaae5f852bfe"
+
+[[files]]
+file = "kubejs/data/minecraft/function/whats_this/dementia.mcfunction"
+hash = "219e0396d55073278f206ab517d948a054bf7b778c98baf752204fcbd37c445c"
+
+[[files]]
+file = "kubejs/data/minecraft/function/whats_this/remember.mcfunction"
+hash = "c38278b5161a2b3f7f1b6014da354f1932524e747d82e883a12f6a5c66a135a5"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_table/entities/iron_golem.json"
@@ -2383,6 +3639,10 @@ hash = "1bd03f22385a82e75798c4999d0a7015ab5d4f4c68e47792c58ff4c34b0899fe"
 [[files]]
 file = "kubejs/data/minecraft/tags/function/tick.json"
 hash = "c5a4c1c3e987e568202070faa69b5951d1259021bf2065edab2e6b31c33f4856"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/painting_variant/placeable.json"
+hash = "90e97aaa925e305e611ec7276106f171fe00d8cdb4467bfd4d0eeeee2082de7e"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_desert.json"
@@ -2413,6 +3673,10 @@ file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_sw
 hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
 
 [[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/without_zombie_sieges.json"
+hash = "88a704ccbab6de7d93402094aabb6ced6b08a94174dd946a38a4805e03e143e6"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/configured_carver/cave.json"
 hash = "f5b44f8670dbbf309b92c7d55c5fb25324b043f3d07437a05a700e1379f1bae6"
 
@@ -2429,12 +3693,12 @@ file = "kubejs/data/minecraft/worldgen/noise_settings/nether.json"
 hash = "a08cf455570b69b556e42fdf7194a154d9a5887fe959d3aadbb991ae761d70ed"
 
 [[files]]
-file = "kubejs/data/minecraft/worldgen/noise_settings/overworld.json"
-hash = "2813eb6796c683491e4ea2d7fc464d16c461004b53a934a26659264b73859e2f"
-
-[[files]]
 file = "kubejs/data/minecraft/worldgen/structure_set/ruined_portals.json"
 hash = "ffd2d8633a38d739d65029257d522b81a0b6f71562d2068ce413104c71cbb968"
+
+[[files]]
+file = "kubejs/data/nomansland/recipe/pebbles.json"
+hash = "1bd9fe4dbc0c84563cb1bc8af62a45595aa53343e8c75d95b3594b87bc68ee39"
 
 [[files]]
 file = "kubejs/data/particlemimicry/recipe/particle_emitter.json"
@@ -2449,8 +3713,212 @@ file = "kubejs/data/scguns/loot_modifiers/pebbles_from_gravel.json"
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
 
 [[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/cog_knight_biome_modifier.json"
+hash = "f081637c8ffdf95b9c7f5c2d79e22b39c45d5efbfe62cc01020b1c2c5c7c2e1e"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/cog_minion_biome_modifier.json"
+hash = "9abdb92e710b7d2f8d5ba520196d5c0ca25617078e79ce5aec8563c926dd1470"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/dissident_biome_modifier.json"
+hash = "44517d2cc6d74574f85a945fe996d3774e454dcbbe4d096b0bd22bdca460d847"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/geothermal_vent.json"
+hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/hive_biome_modifier.json"
+hash = "2671a6cec9fbecd85a8dd8258bf8ebd828f9235539702ec73b3be76b810cb970"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/hornlin_biome_modifier.json"
+hash = "6aebbb0d8c15e2e20654377c3142c48d0a0ecf168dc34aae17546c5b7901265d"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/praetor_biome_modifier.json"
+hash = "2f4116485191f12a44f1e201b66834d23eb8b182061798153c66adc59d85e654"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/redcoat_biome_modifier.json"
+hash = "8ea23a2e635ed1d3a9e7ee440cb0add9b7d7aa54f75989f5b1eb1d004c051c81"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/sulfur_vent.json"
+hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/sulfurhead_biome_modifier.json"
+hash = "032feab0f65f355e8a8b5c76b10ed5ebb328c98e18a648332790eb181e6a3e22"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/supply_scamp_biome_modifier.json"
+hash = "312ff49ae63d86d0c3cc123c7c0e7d1947d09c5b6400e5a00cd68e9f4f35ab73"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/trauma_unit_biome_modifier.json"
+hash = "ed73c4be2b139b9fe986c73ce60405b14ab6067294a736bff66acd5adde9291a"
+
+[[files]]
+file = "kubejs/data/scguns/neoforge/biome_modifier/zombified_hornlin_biome_modifier.json"
+hash = "7149e5de3afc7fcd3d4f4d645cf85d986776b114c9565927b328a46a6d89a306"
+
+[[files]]
 file = "kubejs/data/scguns/recipe/create/ancient_brass_brass_from_mixing.json"
 hash = "37d4ed6ee18532dcc26e93c326e6023b111aa250e4d7e3fe7c624fc70a75563d"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/create/deploying/depleted_diamond_steel.json"
+hash = "b96698d5976d8b523949682e68f4a9333528b31748d85df1f3e6bec8198e8c31"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/create/diamond_steel_ingot_from_mixing.json"
+hash = "14da13c72d183b7e3287c18a0be17f7a30385de48f97f447f9252d39d389ca73"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/create/scorched_blend_from_mixing.json"
+hash = "6acf4dc314712c97d764d5695ef916c8eff9a073f0ece1a88cc4e72e179740ad"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/create/treated_brass_ingot_from_mixing.json"
+hash = "51ee484cef14c2f312a6628d291a90a8f2c346d5f3122f2428b40788c13c8b1a"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/create/treated_iron_ingot_from_mixing.json"
+hash = "9990a96f455c096a17da74502b6211f454631772a119ba17f0d847afb60bc203"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/cryoniter.json"
+hash = "9553f556d3ff1f76c57f9e374e334f4d1240151b99e4a748a3c5bc569d9c071d"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/music_disc_11.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/music_disc_13.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/music_disc_5.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/music_disc_blocks.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/music_disc_cat.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/music_disc_chirp.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/music_disc_far.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/music_disc_mall.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/music_disc_mellohi.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/music_disc_otherside.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/music_disc_pigstep.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/music_disc_relic.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/music_disc_stal.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/music_disc_strad.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/music_disc_wait.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/music_disc_ward.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/powered_music_disc_11.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/powered_music_disc_13.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/powered_music_disc_5.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/powered_music_disc_blocks.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/powered_music_disc_cat.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/powered_music_disc_chirp.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/powered_music_disc_far.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/powered_music_disc_mall.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/powered_music_disc_mellohi.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/powered_music_disc_otherside.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/powered_music_disc_pigstep.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/powered_music_disc_relic.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/powered_music_disc_stal.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/powered_music_disc_strad.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/powered_music_disc_wait.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/disc/powered_music_disc_ward.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "kubejs/data/scguns/recipe/mech_press/antique_flare.json"
@@ -2481,12 +3949,56 @@ file = "kubejs/data/scguns/vents/sulfur_vent.json"
 hash = "54bcc028bccbad5ec1e66d262bdbfd16602be7b86f2e5f6117f8873a9e831b9e"
 
 [[files]]
+file = "kubejs/data/scguns/worldgen/structure/cog_chambers.json"
+hash = "16434f0deb45897d1c006422bb7de24d5560dc838e53f684298a5700516685c0"
+
+[[files]]
+file = "kubejs/data/scguns/worldgen/structure_set/aboveground_medium.json"
+hash = "794cd556552a3955b85c096c1cbeaa8bf4cd027164e5e1b03401a99dd208d482"
+
+[[files]]
+file = "kubejs/data/scguns/worldgen/structure_set/cog_chambers.json"
+hash = "61716d71f9fcf769183eb71c851df4104bc194813dbf19d17aad16ed40d0da38"
+
+[[files]]
+file = "kubejs/data/scguns/worldgen/structure_set/trench.json"
+hash = "936fec40d959ebc62d90fd651d391b6ac713ba092083f04980354a74264bae4e"
+
+[[files]]
+file = "kubejs/data/shape_tweaks/shape_map/add.json"
+hash = "26ad591d6163e8b4b3be513c5c45954599830ce416efc6ee174a09a3aaa8477c"
+
+[[files]]
 file = "kubejs/data/simulated/end_sea/overworld.json"
 hash = "f390a92a94ed876ebebfc98f817238fb4bfaacc04a634a734bc796b5362ce715"
 
 [[files]]
 file = "kubejs/data/simulated/end_sea/the_nether.json"
 hash = "6be82413398c48257d0f5824367dd7e6b80de5bdf32026600f1069e97b156fa5"
+
+[[files]]
+file = "kubejs/data/spelunkery/neoforge/biome_modifier/add_hot_springs.json"
+hash = "a3a16f62e91af17855a28f84d1821e7d2dbffaff609a094f3f715e15f752bcee"
+
+[[files]]
+file = "kubejs/data/spelunkery/neoforge/biome_modifier/add_nephrite_geodes.json"
+hash = "cd8bb1c962a0700cdc57ee9fd5e2c466a6c8e3560abcdf91c892355029191d94"
+
+[[files]]
+file = "kubejs/data/spelunkery/neoforge/biome_modifier/mountain_modifier.json"
+hash = "1c6f69e22806f8705871938965b3f97a252d30039400d637e5080bd30cabae87"
+
+[[files]]
+file = "kubejs/data/spelunkery/neoforge/biome_modifier/overworld_modifier.json"
+hash = "077c6f3e6d05f70bd11b3ba887081d36d1b81ede6927674d10f624b994703f7b"
+
+[[files]]
+file = "kubejs/data/spelunkery/worldgen/placed_feature/nephrite_geode.json"
+hash = "5efd1113967bb55ed2a103b652f061887b7621e2dde2ab191cc0cffcaa83295b"
+
+[[files]]
+file = "kubejs/data/spelunkery/worldgen/placed_feature/spring_water_pool.json"
+hash = "59af875d79489ee0c83448144812c05464e04f9faf2cf1a777487bafb79c78da"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/mixing/gunpowder.json"
@@ -2573,12 +4085,8 @@ file = "kubejs/data/vista/recipe/television.json"
 hash = "1ba8d4ec7b26b83912a823e602839d76a30c2b483cc37d3c625714c622d0898b"
 
 [[files]]
-file = "kubejs/server_scripts/jei.js"
-hash = "569b17fb4adf55b0f0ac643302162ba81b75cc07347c02ba96108aa18a982cd9"
-
-[[files]]
-file = "kubejs/server_scripts/recipes.js"
-hash = "41b5cd52f6323b7bee132c56cb8da3611d7375772caff293327a21f179ab7c29"
+file = "kubejs/server_scripts/emi.js"
+hash = "0271c91df7dd1885c6969f511fd346aef14a9fa41b34d11cc61b5283a583515c"
 
 [[files]]
 file = "kubejs/server_scripts/respawn.js"
@@ -2586,7 +4094,7 @@ hash = "f2432b2ae1d81e8ad2008b3c9f7a93eefc9942c0ec2389433f32e7e6190cdcbf"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "35ec2446b1571bc77548c5d3d2b22d895ee980e6949a21742244c47ce21e3a6b"
+hash = "7e0f41be521bd8a207bedcee1686e711ed1af792e354f3f4cfe81c2cb56e255a"
 
 [[files]]
 file = "kubejs/startup_scripts/startup_item_tweaks.js"
@@ -2624,6 +4132,16 @@ metafile = true
 [[files]]
 file = "mods/antiportals.pw.toml"
 hash = "aea5f2368a9ccfa3835323a189ecea6130525ab187996690a8a7f7848a0c7862"
+metafile = true
+
+[[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "86ac751c556a617808f94bbeceec000ddabdbcfe67e62b6cb132925bdb9a27b8"
+metafile = true
+
+[[files]]
+file = "mods/antique-transport.pw.toml"
+hash = "10b6b03e1bde2cac5e7cb9754519314c3b599e5506ae0d14e028b9c216ad92e6"
 metafile = true
 
 [[files]]
@@ -2697,10 +4215,6 @@ hash = "17f6dc669018b4450ccb3a5eafbc7b681b92336d189cf98d6df9ee726da28804"
 metafile = true
 
 [[files]]
-file = "mods/bngore-1.0.0.jar"
-hash = "5a629598d53abfb215037d3cb31a8d48fd34784ef2cc033798462f94cd5b5688"
-
-[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "902f58c6daa3adab75d47c81b0b227eca3bd265ef6a2f56608efd1f5f99779f0"
 metafile = true
@@ -2728,6 +4242,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c9f5811e9b12ef54fe3bca7ec48f4d3a792b74a6d58c50c8a00194af6dfe5fae"
+metafile = true
+
+[[files]]
+file = "mods/clutter-no-more.pw.toml"
+hash = "0424729e2d1df4f2d03bf4bcbd23b8bfa05ab8a5ebd9decd211a9adf50f35363"
 metafile = true
 
 [[files]]
@@ -2777,7 +4296,7 @@ metafile = true
 
 [[files]]
 file = "mods/cpmoscc.pw.toml"
-hash = "88eed82dea9fbc2ae6a907fd12aa2c45dbffdd7711b3e397b36cf45618f0024b"
+hash = "2d76510ba2ba757190a7dc7994232ba90c5dd4101ebdfd56aac8ca15d9db7a5b"
 metafile = true
 
 [[files]]
@@ -2797,12 +4316,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons-going-ballistic.pw.toml"
-hash = "46ebac82db4dec64126de2c1024ef07d51d7eaecd4f952ae7112c98a45fc6919"
+hash = "ff8e536b18adfa934fbd334c1a2b239a683c0edfd805ee8d4187749200148796"
 metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "41b6fd03f19b3fd2b0cb81669f1591308693e4a87c0d74fc6e9201a3e399de47"
+hash = "9fe11c92d87d146abe85e170b8dfdd927e79a03dcd617e56de821c38b3828ddc"
 metafile = true
 
 [[files]]
@@ -2822,7 +4341,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "4b2377b2395e82eef2dea3b12e0730f8e27c861be6b46506de9ae028544de4d1"
+hash = "7bdb9bc1ea61ff6abceab169dac26c93eb5d041c0cf39e8b741a6a00687b143c"
 metafile = true
 
 [[files]]
@@ -2861,8 +4380,8 @@ hash = "6cc616e1d13d27940b447328f20cf65a734e9dea63e031e2e39cfaf1ad094ac0"
 metafile = true
 
 [[files]]
-file = "mods/create-tracks.pw.toml"
-hash = "edbd99b7dc0f6f828292c6436f17d3a31227e0a8880ac6e6f7beca34d41c128a"
+file = "mods/create-tracks+.pw.toml"
+hash = "58977be59242bea2aa2a7ffb80cf14856ea529c6d75af27744f1eaf608a65b98"
 metafile = true
 
 [[files]]
@@ -2872,7 +4391,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "0489ddc462dafc206a4623d2f16e63df3ee1a1c0efea21a5887d97d8abf51c10"
+hash = "c1305c1760a72de49e1005057e6c91355eaa8c5b4724b165bbdaf7649f04b8dc"
 metafile = true
 
 [[files]]
@@ -3052,7 +4571,7 @@ metafile = true
 
 [[files]]
 file = "mods/gallery.pw.toml"
-hash = "04e36c3158e3f900d73ba14f5d26976273e761d2a212fc2b02199a4cd6a3537a"
+hash = "09cddc7888163c3fa0d4b6a9c5a01ca3d93b875bde4bcb792dd4b8cda7b7060d"
 metafile = true
 
 [[files]]
@@ -3151,13 +4670,23 @@ hash = "555970008e5ee09295457d9b6e113a1a08310b9bceb709837042dfbb535ed9e0"
 metafile = true
 
 [[files]]
+file = "mods/labels.pw.toml"
+hash = "53b6d0489d9084521933553d633c5d1f26fabaa24a68d81dd5499ead235f3973"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "5948fc402cfbeaacbcf56d67a6118dfd1c4307903f0d7a736c604783ed1dca1b"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-furniture-another-furniture-handcrafted-create-sable.pw.toml"
+hash = "58f04177158b1907f7fd63637a3073fa6489494f136c9f4bcc2dca799e71de32"
+metafile = true
+
+[[files]]
 file = "mods/lever-drugster.pw.toml"
-hash = "913aa894bde835660ca38ecd8c67fc7e5bfc15a73c4edcb630578dece0ba799b"
+hash = "4e31b99fb5d8dbc035c1a956fac6d7269450434ff78124a8389ab88e18d8bccf"
 metafile = true
 
 [[files]]
@@ -3167,7 +4696,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "5afe6535ca36df0aefe9f97cb7aa817bc90e47c5fd1b1e8282d5514a57113a08"
+hash = "f7b984e331db00d1352f1a7dcf96d137c21c92f6be61afa4a822afe623cb36de"
 metafile = true
 
 [[files]]
@@ -3211,6 +4740,11 @@ hash = "7c7f5dd3fea382417fd261504c8d8b4a9b115bd0e8b048c1d99bfe989b21d687"
 metafile = true
 
 [[files]]
+file = "mods/mcqoy.pw.toml"
+hash = "49c5f6f73331b359eff900aeec91e27078e1217834ea8a7e98cceb4f993a49cc"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "6a0024397c35a471a2bb8a90099aa97638d1cfda36f46788e9d87bcc17c6276b"
 metafile = true
@@ -3232,7 +4766,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-mans-land.pw.toml"
-hash = "1c5893f239b7615e3a867db6ecc231d8f6deffefe3004cf17ad1087ea88dd661"
+hash = "8a517d54aee06428714ec971b3c73c4ae0f035cae9339cb86a85b3c441851de8"
 metafile = true
 
 [[files]]
@@ -3311,12 +4845,17 @@ hash = "b5d40071cb8511343078786fada0e0a7a913ead85ddb63267bd272e1ca19e329"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps-x-sable.pw.toml"
+hash = "599cd66fec584ec1addf89e7dc2868b7be759740e731cde82e36902946bf12a1"
+metafile = true
+
+[[files]]
 file = "mods/prospectingpicks-1.2.2.jar"
 hash = "143ed9eb070c1b260c96c7bbf746029e3b80fb7e713b7d4be8d70b8aa95311a0"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "fc7fdb908a67a3bda869ef57fa5c3461c195464c3828bbf3398b8bd610cce643"
+hash = "f6a82ac3171c3296b82b5b0de7dbdb4e83aa9696efb2bfe26defe5710a8f50c0"
 metafile = true
 
 [[files]]
@@ -3326,12 +4865,22 @@ metafile = true
 
 [[files]]
 file = "mods/redomesticate.pw.toml"
-hash = "876282386bc085e2150752d23e82ca66165a9c3cf13ca572d72d2c9cb70ad13a"
+hash = "8d869dc0bdb62ee97050291e6de66e0771f83582b8fd6db018d7794292e4d9e3"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "8ddf2f412f98c9d35a5ae6b9485369e2a4621c3581e938bde1a253d82ee2720b"
+hash = "b49ebc8501789bbeb82cc8e68e207c702132bb13e93d8e8f912c17d17df0a246"
+metafile = true
+
+[[files]]
+file = "mods/reliable-recipes.pw.toml"
+hash = "3cf6fa99a55dd6f74fb4bb1df5063675ac414a99cd40285fe831f79a2413c2b6"
+metafile = true
+
+[[files]]
+file = "mods/reliable-remover.pw.toml"
+hash = "641633a756a292c39ecc5f38ab93350e4e7613eda861bb8cf052514db2a9fdd0"
 metafile = true
 
 [[files]]
@@ -3366,7 +4915,7 @@ metafile = true
 
 [[files]]
 file = "mods/scorched-guns-neoforged.pw.toml"
-hash = "8a9db4480c4b09fe5bdceab575f8b7847383b4e7a70356938cacc210b46182af"
+hash = "4cc75629853d34ba944aa05fdc0bcbcf0d484f2c11d81a2ff4fcc129c1807f54"
 metafile = true
 
 [[files]]
@@ -3421,7 +4970,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-perfected.pw.toml"
-hash = "423cbce82194c5595b29ea7e770364a32db46d9c28fd6ea0e9db33b13c11ae5e"
+hash = "c451281dc84391d5ad43afa65bbf589cf959152da42c580163de6a7733be98c5"
 metafile = true
 
 [[files]]
@@ -3431,7 +4980,7 @@ metafile = true
 
 [[files]]
 file = "mods/spelunkery.pw.toml"
-hash = "06d71b679272a70a6b3cbe4d274e2ca2c9f91ae660871a44aea7edc15afdc6d8"
+hash = "e4259171acaae66a45df1ae79f750ea1fe61284dff132c5ad4f54bc400f99954"
 metafile = true
 
 [[files]]
@@ -3481,7 +5030,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "af47bb95cf1c486e0ca0fed81cc927218f0d8ff1e79e0b0ac91aea8c3c06e048"
+hash = "32b96bc552f2b8d618c6f08c0e839499ba29817510410a0adf747d52e0bffa0c"
+metafile = true
+
+[[files]]
+file = "mods/surveyor.pw.toml"
+hash = "c96b737c0c0b556607f286b2a4e323b8c05bf0e5e1993d3b729f6f351d93645e"
 metafile = true
 
 [[files]]
@@ -3511,7 +5065,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "b709e8defff9cb74132ad1c6736105af95cf86e88b79f984572454757cfb6b72"
+hash = "b9c8d6f56b2695cc5643c5ffb788057291d4ca01d82fef0537e51b85cb649a5c"
 metafile = true
 
 [[files]]

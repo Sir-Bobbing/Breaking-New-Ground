@@ -16,7 +16,9 @@
 	shortcutDirectionality: true,
 	maxSounds: 100,
 	debug: "OFF",
-	soundBlacklist: [],
+	soundBlacklist: [
+		"nomansland:entity.friend_moon.offering_loop"
+	],
 	soundTickBlacklist: [],
 	reverb: true,
 	reverbTuning: "OFF",

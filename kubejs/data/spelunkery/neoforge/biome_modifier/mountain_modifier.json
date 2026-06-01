@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "replace": "true",
+  "biomes": "#spelunkery:has_salt_noise",
+  "features": [
+    "spelunkery:noise_salt",
+    "spelunkery:rock_salt",
+    "spelunkery:large_emerald_vein"
+  ],
+  "step": "raw_generation"
+}
