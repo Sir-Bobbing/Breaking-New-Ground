@@ -589,10 +589,6 @@ file = "config/itemphysic-client.json"
 hash = "c95dbf16c9345d732a033abf1a6ff79d2313447ce823b69d4d47049c191f8679"
 
 [[files]]
-file = "config/itemphysic.json"
-hash = "c94085d83817aa5ab1cf8273413a9aaeba032a791ad9f64311398639877b6b10"
-
-[[files]]
 file = "config/jei-server.toml"
 hash = "57d741871716e29b3a318b625e740d590598f001c362b6a4a95e3ee628c5cbc3"
 
@@ -1025,10 +1021,6 @@ file = "config/zeta-common.toml"
 hash = "ea1fa91de03d8f6f3c36b0c6cef77375a8365790ac0acb63fd558643d54d677f"
 
 [[files]]
-file = "kubejs/README.txt"
-hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
-
-[[files]]
 file = "kubejs/assets/bagofholding/lang/en_us.json"
 hash = "305708d140c42cc2ac8dad96f2a1bdfa0acd973ad34749af11e398cea3cda314"
 
@@ -1227,6 +1219,18 @@ hash = "13ff2e041598f8b12e44fbf8d63b25f088c43d025193b0062863113559ac73eb"
 [[files]]
 file = "kubejs/data/artifacts/neoforge/biome_modifier/add_campsite.json"
 hash = "a24568552832f1f2e90e48450c7f0f6472ee2b3e61e1b0360a6713e97f9fa593"
+
+[[files]]
+file = "kubejs/data/bagofholding/recipe/golden_bag_of_holding.json"
+hash = "c59ffe6a60f8bcb461d01e924bab65e83edd89cc3fe9ddfcb4a0f8faeb193ce8"
+
+[[files]]
+file = "kubejs/data/bagofholding/recipe/iron_bag_of_holding.json"
+hash = "951f69954461dd15f036a21e5a553632a864ba68ffdfd8e0635fb6d615ca8948"
+
+[[files]]
+file = "kubejs/data/bagofholding/recipe/leather_bag_of_holding.json"
+hash = "a1529847d7b5569eaa0ca1858ff6123aec44b24db17c25dc41857605eb0ce1d4"
 
 [[files]]
 file = "kubejs/data/breakingnewground/function/load.mcfunction"
