@@ -1,0 +1,157 @@
+{
+  "config_version": "2.0.25",
+  "config_datetime": "2026-06-02_15-17-44",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structure_namespaces": [],
+  "structures": [
+    {
+      "name": "immersiveenchanting:ancient_library_desert",
+      "is_disabled": true
+    },
+    {
+      "name": "immersiveenchanting:ancient_library_end",
+      "is_disabled": true
+    },
+    {
+      "name": "immersiveenchanting:ancient_library_jungle",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:firewatch_tower_birch",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:firewatch_tower_cherry",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:firewatch_tower_dark_oak",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:firewatch_tower_forest",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:firewatch_tower_jungle",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:firewatch_tower_mangrove",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:firewatch_tower_savanna",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:firewatch_tower_swamp",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:firewatch_tower_taiga",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:illager_camp",
+      "blacklisted_biomes": [
+        "minecraft:river"
+      ]
+    },
+    {
+      "name": "nova_structures:tavern_acacia",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_birch",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_cherry",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_dark_oak",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_desert",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_jungle",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_mangrove",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_oak",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_snowy",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_spruce",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_swamp",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:village_birch",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:village_jungle",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:village_swamp",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:well_birch",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:well_dark_oak",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:well_jungle",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:well_oak",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:well_savana",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:well_spruce",
+      "is_disabled": true
+    },
+    {
+      "name": "scguns:asgharian_citadel",
+      "is_disabled": true
+    },
+    {
+      "name": "scguns:asgharian_tower",
+      "is_disabled": true
+    }
+  ],
+  "structure_sets": [],
+  "structure_template_pools": []
+}

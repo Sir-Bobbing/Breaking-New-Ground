@@ -1,17 +1,8 @@
 #Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
 [types]
 
-		[types.cake.nomansland]
-			fruit_cake = true
-
 		[types.wood_type.architects_palette]
 			twisted = true
-
-		[types.wood_type.nomansland]
-			pine = true
-			maple = true
-			walnut = true
-			willow = true
 
 		[types.wood_type.quark]
 			azalea = true
@@ -22,21 +13,14 @@
 			runewood = true
 			soulwood = true
 
-		[types.leaves_type.architects_palette]
-			twisted = true
-
-		[types.leaves_type.nomansland]
-			yellow_birch = true
-			autumnal_oak = true
-			pale_cherry = true
-			frosted = true
+		[types.wood_type.nomansland]
 			pine = true
 			maple = true
-			red_maple = true
 			walnut = true
 			willow = true
-			apple_fruit = true
-			pear_fruit = true
+
+		[types.leaves_type.architects_palette]
+			twisted = true
 
 		[types.leaves_type.quark]
 			ancient = true
@@ -50,6 +34,19 @@
 			runewood = true
 			azure_runewood = true
 			soulwood = true
+
+		[types.leaves_type.nomansland]
+			yellow_birch = true
+			autumnal_oak = true
+			pale_cherry = true
+			frosted = true
+			pine = true
+			maple = true
+			red_maple = true
+			walnut = true
+			willow = true
+			apple_fruit = true
+			pear_fruit = true
 
 		[types.stone_type.create]
 			limestone = true
@@ -90,6 +87,9 @@
 		[types.stone_type.nomansland]
 			silt = true
 			siltstone = true
+
+		[types.cake.nomansland]
+			fruit_cake = true
 
 #Disables specific entries
 [entries]
@@ -137,10 +137,6 @@
 			window_pane = true
 			window = true
 
-		[entries.wood_type.nomansland]
-			trimmed_planks = true
-			bookshelf = true
-
 		[entries.wood_type.farmersdelight]
 			cabinet = true
 
@@ -158,6 +154,10 @@
 		[entries.wood_type.dramaticdoors]
 			short_door = true
 			tall_door = true
+
+		[entries.wood_type.nomansland]
+			bookshelf = true
+			trimmed_planks = true
 
 		[entries.leaves_type.quark]
 			hedge = true

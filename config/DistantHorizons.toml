@@ -488,7 +488,7 @@ _version = 4
 				#
 				# At what Y value should cave culling start? 
 				# Lower this value if you get walls for areas with 0 light.
-				caveCullingHeight = 60
+				caveCullingHeight = 0
 				#
 				# A comma separated list of block resource locations that shouldn't be rendered 
 				# if they are in a 0 sky light underground area. 
@@ -577,7 +577,7 @@ _version = 4
 				# Note: Due to current limitations, the min value is [50] 
 				# and the max value is 5000. Any values outside this range 
 				# will be set to 0 (disabled).
-				earthCurveRatio = 0
+				earthCurveRatio = 100
 
 			[client.advanced.graphics.genericRendering]
 				#
@@ -729,7 +729,7 @@ _version = 4
 				# 0.0: Fog starts at the player's position. 
 				# 1.0: Fog starts at the closest edge of the vanilla render distance. 
 				# 1.414: Fog starts at the corner of the vanilla render distance.
-				farFogStart = "0.4"
+				farFogStart = "0.05"
 				#
 				# What is the minimum fog thickness? 
 				# 
@@ -748,7 +748,7 @@ _version = 4
 				# LINEAR: Linear based on distance (will ignore 'density')
 				# EXPONENTIAL: 1/(e^(distance*density)) 
 				# EXPONENTIAL_SQUARED: 1/(e^((distance*density)^2)
-				farFogFalloff = "EXPONENTIAL_SQUARED"
+				farFogFalloff = "EXPONENTIAL"
 				#
 				# Used in conjunction with the Fog Falloff.
 				farFogDensity = "2.5"
@@ -758,7 +758,7 @@ _version = 4
 				# 0.0: Fog ends at player's position.
 				# 1.0: Fog ends at the closest edge of the vanilla render distance. 
 				# 1.414: Fog ends at the corner of the vanilla render distance.
-				farFogEnd = "1.0"
+				farFogEnd = "0.8"
 
 				[client.advanced.graphics.fog.heightFog]
 					#
@@ -811,7 +811,7 @@ _version = 4
 					# MULTIPLY_ADDITION: farFog + farFog * heightFog 
 					# INVERSE_MULTIPLY_ADDITION: farFog + 1 - (1-heightFog) * (1-farFog) 
 					# AVERAGE: farFog*0.5 + heightFog*0.5
-					heightFogMixMode = "SPHERICAL"
+					heightFogMixMode = "CYLINDRICAL"
 					#
 					# Should the start of the height fog be offset? 
 					# 

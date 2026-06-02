@@ -1,8 +1,7 @@
 {
-  "type": "kobolds:kobold_den",
+  "type": "minecraft:jigsaw",
   "start_pool": "kobolds:kobold_den",
-  "biomes": "#minecraft:is_overworld",
-  "surface_biomes": "#kobolds:kobold_den_biomes",
+  "biomes": "#breakingnewground:has_kobold_dens",
   "step": "underground_structures",
   "terrain_adaptation": "encapsulate",
   "liquid_settings": "ignore_waterlogging",
@@ -15,5 +14,9 @@
       "absolute": 32
     }
   },
-  "spawn_overrides": {}
+  "spawn_overrides": {},
+  "use_expansion_hack": false,
+  "max_distance_from_center": 50,
+  "dimension_padding": 10,
+  "size": 10
 }

@@ -94,18 +94,10 @@
         "dndecor:dark_metal_block": [
             "dndecor:dark_metal_plating"
         ],
-      "/(?<ns>[^:]+):(?<stem>.+)_post/": [
-      "quark:${stem}_post",
-      "quark:stripped_${stem}_post"
-    ],
 
     "/(?<ns>[^:]+):(?<stem>.+?)(?<end>_planks|_block)/": [
       "nomansland:trimmed_${stem}_planks",
       "everycomp:nml/${ns}/trimmed_${stem}_planks"
-    ],
-    "/everycomp:q/(?<ns>[^:]+)/(?<stem>.*)_post/": [
-      "everycomp:q/${ns}/${stem}_post",
-      "everycomp:q/${ns}/stripped_${stem}_post"
     ]
     }
 }

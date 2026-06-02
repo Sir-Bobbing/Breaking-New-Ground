@@ -1,27 +1,31 @@
-filename = 'createfurnitureseats-4.7.8.jar'
-name = 'Furniture with create and sable compat'
+filename = 'createfurnitureseats-4.8.10.jar'
+name = '[Furniture] Create/Sable Compat'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9', '1.21.10', '1.21.11' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '4.8.8'
+x-prismlauncher-version-number = '4.8.10'
 
 [download]
-hash = '7383d0122aabbf69b53041531bffa8180145055835bf363efc88e89a3c8bbd581caf7b9fbaa5308e66784cf6364c6a2e1e3e7bbcca4b407fbbfd6b49cd5110ed'
+hash = '98cb1d375c59b6585ac37180ac7c70522f9aadb4f5a19721fd8fc62ac3bc19071b18014639183fce904c1d402e90935af824d653c46f1d807b7149d82429d5e1'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/W2K5jx3j/versions/xdaoSGuV/createfurnitureseats-4.7.8.jar'
+url = 'https://cdn.modrinth.com/data/W2K5jx3j/versions/2H0xTzVD/createfurnitureseats-4.8.10.jar'
 
 [update.modrinth]
 mod-id = 'W2K5jx3j'
-version = 'xdaoSGuV'
+version = '2H0xTzVD'
 
 [[x-prismlauncher-dependencies]]
-addonId = '3JQDJrYW'
+addonId = 'oWaK0Q19'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'ulloLmqG'
+addonId = 'qnQsVE2z'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '3JQDJrYW'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
@@ -29,13 +33,9 @@ addonId = 'LNytGWDc'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'qnQsVE2z'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'oWaK0Q19'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
 addonId = 'pJmCFF0p'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ulloLmqG'
 type = 'OPTIONAL'
