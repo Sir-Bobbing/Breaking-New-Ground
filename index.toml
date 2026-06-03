@@ -3386,11 +3386,6 @@ hash = "7bdb9bc1ea61ff6abceab169dac26c93eb5d041c0cf39e8b741a6a00687b143c"
 metafile = true
 
 [[files]]
-file = "mods/create-extra-gauges.pw.toml"
-hash = "7787875afafa0de9ffa20755f28b59f541ef91462ae96204df555ac9a5699c2a"
-metafile = true
-
-[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "56b9b267f152e599260a7563d75a8080a04896fe8068ab94ea03c2d7ffa7b87e"
 metafile = true
@@ -3676,11 +3671,6 @@ hash = "870eeaa7d6ca74829d014c4aed23d1d5f316201469291deec3a28a0d393d2099"
 metafile = true
 
 [[files]]
-file = "mods/itemphysic.pw.toml"
-hash = "0b6fcbb8c69e55ea7910f105695f1f18ef6ee370bf870cc56e8b8781724313b4"
-metafile = true
-
-[[files]]
 file = "mods/items-displayed-neoforge-lite-edition.pw.toml"
 hash = "899bcd3ddf7ee1bf1cdd7e8d31b3d442097e546dd6e9eedb75a5b7a1d0fc3ad9"
 metafile = true
@@ -3906,7 +3896,7 @@ metafile = true
 
 [[files]]
 file = "mods/redomesticate.pw.toml"
-hash = "4eea83b811765364e22aa39ec3685116a4725032c0ff55020d61de3fcf80bce4"
+hash = "5c10859b5c1b8bc8fd85598bdeb7294d768fe8285a31dd55a9afdf834d5dc4be"
 metafile = true
 
 [[files]]
