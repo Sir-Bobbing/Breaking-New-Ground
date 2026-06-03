@@ -3276,11 +3276,6 @@ hash = "902f58c6daa3adab75d47c81b0b227eca3bd265ef6a2f56608efd1f5f99779f0"
 metafile = true
 
 [[files]]
-file = "mods/cbc-fuze-sable-fix.pw.toml"
-hash = "dffb68787523c57d1097301ab78ed6df5c48ea117e10e338de09a72bc7dd013a"
-metafile = true
-
-[[files]]
 file = "mods/chalk-mod.pw.toml"
 hash = "5176868992824c59bf90188cb64604963c000acc65bdc0dc4b8d9b6e082651f9"
 metafile = true
@@ -3366,11 +3361,6 @@ hash = "11658263aac10d20e68725c1814fa8f59698eed809c8f7af41855f1b79256171"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons-equally-opposite.pw.toml"
-hash = "66a62e3d20b780a40871ffd1d210211dae34895a29b963e2881d5ea3f9806fa4"
-metafile = true
-
-[[files]]
 file = "mods/create-big-cannons-going-ballistic.pw.toml"
 hash = "ff8e536b18adfa934fbd334c1a2b239a683c0edfd805ee8d4187749200148796"
 metafile = true
@@ -3391,18 +3381,13 @@ hash = "89b7bb679a8447c6c4c2ead012588e4abc5fb7ebe0aeac6f05f33840aa8ad026"
 metafile = true
 
 [[files]]
-file = "mods/create-deco.pw.toml"
-hash = "d232fcd0146fe483381d87c1ce4a6ebba6a9282a81b0e3ad048c5af2cc08b704"
-metafile = true
-
-[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "7bdb9bc1ea61ff6abceab169dac26c93eb5d041c0cf39e8b741a6a00687b143c"
 metafile = true
 
 [[files]]
-file = "mods/create-nowheel.pw.toml"
-hash = "8ac2d2844c75546963bce8776c07c07cdf860c1f382ef3ef1c72acc0e94dc266"
+file = "mods/create-extra-gauges.pw.toml"
+hash = "7787875afafa0de9ffa20755f28b59f541ef91462ae96204df555ac9a5699c2a"
 metafile = true
 
 [[files]]
@@ -3531,11 +3516,6 @@ hash = "03a4a61a3706b3941e8fca2fcaddf001543a6735101346a9217b737607f4321f"
 metafile = true
 
 [[files]]
-file = "mods/dungeoncrawl.pw.toml"
-hash = "ecf40049d8915760beaca9d40f0f23f39ba9296b269a47e5d31b87007029aa10"
-metafile = true
-
-[[files]]
 file = "mods/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
 hash = "032a39c60fd481c056d9282848af4f477dc47fce3ee6d348af8301cf438e1ea7"
 metafile = true
@@ -3556,13 +3536,13 @@ hash = "f6dba26447fef46f0b7d65ce8a6acded51ce176166b85850149e92014d6df36f"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-ore-veins.pw.toml"
-hash = "78fbc999983ca61daa9bc33863cf8246862a6b46e2c0449dcd549bcf66b6ed87"
+file = "mods/easy-anvils.pw.toml"
+hash = "b5d48ae059b24373c2cea6ac8c67cddd8ba28dbab66a393990bd33c3fe3392d7"
 metafile = true
 
 [[files]]
-file = "mods/easy-anvils.pw.toml"
-hash = "b5d48ae059b24373c2cea6ac8c67cddd8ba28dbab66a393990bd33c3fe3392d7"
+file = "mods/emi.pw.toml"
+hash = "54588a6b7f6a9ea789f683c9f351d9dbe50d0363a6e24f8539b71d2bb0a63955"
 metafile = true
 
 [[files]]
@@ -3696,6 +3676,11 @@ hash = "870eeaa7d6ca74829d014c4aed23d1d5f316201469291deec3a28a0d393d2099"
 metafile = true
 
 [[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "0b6fcbb8c69e55ea7910f105695f1f18ef6ee370bf870cc56e8b8781724313b4"
+metafile = true
+
+[[files]]
 file = "mods/items-displayed-neoforge-lite-edition.pw.toml"
 hash = "899bcd3ddf7ee1bf1cdd7e8d31b3d442097e546dd6e9eedb75a5b7a1d0fc3ad9"
 metafile = true
@@ -3768,11 +3753,6 @@ metafile = true
 [[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "6c88896c4206997314753b3e371d5688e4da568c477d968508d76e436a7c0c00"
-metafile = true
-
-[[files]]
-file = "mods/lootjs.pw.toml"
-hash = "6efb1b6448e477917459dfe5e7189892c91ac869bb715502cbd05343b166b10b"
 metafile = true
 
 [[files]]
@@ -3881,8 +3861,8 @@ hash = "1ae1abaa9a879b2cee7248631d0d557ae4b53d0adaaee2c87a6a4f9666ef30ec"
 metafile = true
 
 [[files]]
-file = "mods/philips-ruins.pw.toml"
-hash = "905b019b1955fc280427d257f38932952ebc8b53f74b33bbb7cd7a605a5a2935"
+file = "mods/picture-mode.pw.toml"
+hash = "0a64502c3e470d743df78b130d51fa735c7cf4988dfd49a4a725667fbcdcbe72"
 metafile = true
 
 [[files]]
@@ -3906,6 +3886,11 @@ hash = "599cd66fec584ec1addf89e7dc2868b7be759740e731cde82e36902946bf12a1"
 metafile = true
 
 [[files]]
+file = "mods/prospecting-picks.pw.toml"
+hash = "8fdf673ef06947ccf0969b9a0b1483694828899530f7288d61518db7831b6601"
+metafile = true
+
+[[files]]
 file = "mods/prospectingpicks-1.2.2.jar"
 hash = "143ed9eb070c1b260c96c7bbf746029e3b80fb7e713b7d4be8d70b8aa95311a0"
 
@@ -3921,7 +3906,7 @@ metafile = true
 
 [[files]]
 file = "mods/redomesticate.pw.toml"
-hash = "5c10859b5c1b8bc8fd85598bdeb7294d768fe8285a31dd55a9afdf834d5dc4be"
+hash = "4eea83b811765364e22aa39ec3685116a4725032c0ff55020d61de3fcf80bce4"
 metafile = true
 
 [[files]]
@@ -4105,11 +4090,6 @@ hash = "7762d514869988c672f3675a5ad0fb321ddaebcb1350a03accde39485d6d78b1"
 metafile = true
 
 [[files]]
-file = "mods/trash-cans.pw.toml"
-hash = "40da7d55b8bc42b92284f81932a916c3779e29f25147264d56c021162c8cb878"
-metafile = true
-
-[[files]]
 file = "mods/underground-rivers.pw.toml"
 hash = "bf2ec8fc2f127aa27b17382ca2a9e3d461055fe0e0ddd595e4e830b0c8511be4"
 metafile = true
@@ -4127,16 +4107,6 @@ metafile = true
 [[files]]
 file = "mods/void-water.pw.toml"
 hash = "2b51d720c00deeb58e4f54f4467a9795089caf402429ec9c369d1c204e3122e5"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "e94b29c9f23ce22a8e0a1f8dbc495b2c0fb668983bc9ba2ebf2560aa184e6d3e"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "ed20e4c805302f23c05968ab85ba1b4ae2f27f4060a16e58f5705854542dc225"
 metafile = true
 
 [[files]]
