@@ -913,14 +913,6 @@ file = "config/spark/tmp-client/about.txt"
 hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
 
 [[files]]
-file = "config/spark/tmp-client/spark-12112e86c0985-libasyncProfiler.so.tmp"
-hash = "63311a249bcd85288de44a98274525058f1215f812c02d1adef07e5eee96ad7a"
-
-[[files]]
-file = "config/spark/tmp-client/spark-122c40f242518-profile-data.jfr.tmp"
-hash = "ef1c2a2ede1c49390c1d156cf27e41c4d7757b32ec4ace3bf93798bb2bb9601e"
-
-[[files]]
 file = "config/spark/tmp/about.txt"
 hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
 
