@@ -3,19 +3,18 @@
 
 # Notes and Known Issues
 ## Notes
-## Issues
-- Oxide & Dramatic doors incompatibility (temporary fix: disable one or the other until an update is pushed)
+- Iris May be incompatible
+- modlist is still in progress and things may change
+## Known Issues
+#### Incompatability
 - Amendments fireballs don't hit Sublevels
 - Armourer's Workshop has overall rendering issues with Sable present
-- Brewin & Chewin incompatible with latest Farmer's Delight Update
 - Comforts sleeping bags and hammocks are too far away on sublevels
-- Crayfish Refurbished Furniture cannot sit and make wire connections with active sublevels
-- Cannot sit in handcrafted seats on sublevels
-- Scorched Guns 2 projectiles cannot hit sublevels and custom inventories duplicate items
-- Storage drawers don't work on sublevels (find replacement?) 
+#### Bugs
+Nomnansland dungeons spawn in the water
+Something Breaks the Moon friend’s item dialogue (Item Physic)
+SSRD break Sundogs when in Motion
+Something is breaking Vista Viewfinders 
+Spelunkery parachute rendering
+Something causes audio to cut out (latest Sound Physics Update)
 
-# Installation
-
-Main: [Main Branch](https://github.com/Sir-Bobbing/Breaking-New-Ground/releases/download/0.0.1/BNG-Main.zip)
-
-Dev: 
