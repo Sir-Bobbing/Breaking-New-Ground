@@ -2,25 +2,25 @@
   "levels": {
     "1": [
       {
-        "item": "minecraft:breeze_rod",
+        "item": "minecraft:tnt",
         "amount": 1
       }
     ],
     "2": [
       {
-        "item": "minecraft:blaze_rod",
+        "item": "spelunkery:obsidian_hammer_and_chisel",
         "amount": 1
       }
     ],
     "3": [
       {
-        "item": "minecraft:echo_shard",
+        "item": "supplementaries:cannonball",
         "amount": 1
       }
     ],
     "4": [
       {
-        "item": "minecraft:end_rod",
+        "item": "createbigcannons:ap_autocannon_round",
         "amount": 1
       }
     ]
