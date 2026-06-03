@@ -1389,6 +1389,10 @@ file = "kubejs/data/bagofholding/recipe/leather_bag_of_holding.json"
 hash = "a1529847d7b5569eaa0ca1858ff6123aec44b24db17c25dc41857605eb0ce1d4"
 
 [[files]]
+file = "kubejs/data/bng_ore.zip"
+hash = "97a38841d72b118275e601c5332a62dfd496069f3ec0aff6cc8e0e7b63ab905a"
+
+[[files]]
 file = "kubejs/data/breakingnewground/function/load.mcfunction"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 

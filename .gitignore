@@ -3,7 +3,6 @@
 hs_err_pid*
 *.bak
 *.tmp
-*.zip
 # Files
 packwiz
 .index
@@ -21,7 +20,7 @@ sodium-mixins.properites
 sodium-options.json
 sodiumdynamiclights-client.toml
 # Other
-resourcepacks/Tom's Metal Storage v1.2 (1.21.1).zip
+/resourcepacks/*.zip
 # Folders
 /kubejs/assets/testmod
 /config/structurify
