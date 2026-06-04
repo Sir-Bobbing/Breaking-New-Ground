@@ -698,7 +698,7 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/assets/breakingnewground.zip"
-hash = "e4609e3e31eba64023c5e48a387a43a49fee937ea844525e14e3b8fe98e2ac01"
+hash = "dc3a34af2672abba223094be124ef6fe5a71fa7ee896c03779c8a79ba5eeaaee"
 
 [[files]]
 file = "kubejs/assets/toms-metal-storage.pw.toml"
@@ -2944,7 +2944,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "25567515272f83715ec616e27d9ef98c71349413833717a570a40e0690aaf00e"
+hash = "078d8438a8f5c472e3b8513ba07e97765c60596c20bf98876cf716fa965b32b4"
 metafile = true
 
 [[files]]
@@ -3374,6 +3374,11 @@ metafile = true
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "9e9ca998574108abdff88d1b08f0705cd7924964f063e583fef5eac137034e76"
+metafile = true
+
+[[files]]
+file = "mods/ssrd.pw.toml"
+hash = "31da6f629343973a0659a27c12e00113591e35ebddb2ebd2495a688d1136be98"
 metafile = true
 
 [[files]]
