@@ -1918,14 +1918,6 @@ file = "kubejs/data/kobolds/worldgen/structure_set/kobold_den.json"
 hash = "b6a06d83e035777728604de0be162e7b41a51c0ec9a4f8647f3fc392ea09ac84"
 
 [[files]]
-file = "kubejs/data/lootintegrations/loot/dungeoncrawl_dungeonloot_easy.json"
-hash = "e9ff71f83f6351c13d57a282c7bf8004626e7072923a60244c193d0bb1071f10"
-
-[[files]]
-file = "kubejs/data/lootintegrations/loot/dungeoncrawl_dungeonloot_medium.json"
-hash = "e0d44844c77fcd0e45013780ef999184539e630f31b2b769a29fd7c86838af5f"
-
-[[files]]
 file = "kubejs/data/lootintegrations/loot/dungeoncrawl_villageloot_house.json"
 hash = "20181e29be665f77fbaabe21046454f9074d2b0b579345d5a479a7eabfffe55b"
 
@@ -1952,26 +1944,6 @@ hash = "b1b08de532574b142828b8abc4a6fd5ce5cc7ed67f06e9a9874b708193741e1e"
 [[files]]
 file = "kubejs/data/lootintegrations/loot/loot_dnt_water.json"
 hash = "6a4a17d93bd1c10f728fd279de09824cfa227d22910e597c99e21b1206dc3a8a"
-
-[[files]]
-file = "kubejs/data/lootintegrations/loot/loot_pruins_easy.json"
-hash = "4e5c9face31d6887fac54c8f9e61bd3efb4ab6c572429da6d6e91ef00974e805"
-
-[[files]]
-file = "kubejs/data/lootintegrations/loot/loot_pruins_hard.json"
-hash = "8e69ba34bd517524a1f9158c35323893627e2504d621e19047dc7493be2a9154"
-
-[[files]]
-file = "kubejs/data/lootintegrations/loot/loot_pruins_medium.json"
-hash = "c6987b5d3f8069847bc6d566297881071bcd8bf260601216396a5936c87ca991"
-
-[[files]]
-file = "kubejs/data/lootintegrations/loot/loot_pruins_nether.json"
-hash = "cad1c2e08ff3770b700df5913a89b40420da0835f2a88ed6ddb8fad37e97e24e"
-
-[[files]]
-file = "kubejs/data/lootintegrations/loot/loot_pruins_water.json"
-hash = "504f7c3d7a430611f8b7f33149c87636ca5bbdeb1b20ae6fa035235dda2c56f8"
 
 [[files]]
 file = "kubejs/data/malum/recipe/spirit_infusion/brilliant_obelisk.json"
@@ -2749,7 +2721,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
-hash = "fd8d54aca56cd05fe9217e2a770a68a51d0f736096d66288ba4186874af6c419"
+hash = "aa20057f5d4a776f69df8410b87b3f5d30519510996011e2e7ee1853b223f4d5"
 metafile = true
 
 [[files]]

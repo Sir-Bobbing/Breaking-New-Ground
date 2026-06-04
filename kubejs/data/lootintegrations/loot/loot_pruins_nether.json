@@ -1,8 +1,0 @@
-{
-  "loot_table": "lootintegrations:chests/nether",
-  "max_result_itemcount": 9,
-  "integrated_loot_tables": {
-    "philipsruins:chest/nether_lava_ruins_loot": 2,
-    "philipsruins:chest/nether_ruins_low": 2
-  }
-}
