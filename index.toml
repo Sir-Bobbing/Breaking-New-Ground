@@ -786,7 +786,7 @@ hash = "774274e780bee5bf90b8114e59429b5b3a26222b4dca7d8df8b1dd438b33a003"
 
 [[files]]
 file = "config/prospectingpicks-common.toml"
-hash = "ea557776ec7705158d6d618f36b9f1797f86c5d49811e43f54ba438525e1ba86"
+hash = "f2e9c7c8fbc5e7faa2e8fe3516c4bd1cbe48f0d11c6a7dbe3f45e9646f195d79"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -881,12 +881,24 @@ file = "config/sodium-extra-options.json"
 hash = "275ff06eade375f0c759d8bd2e7d8291f4c340e6402a1c2444cfb105fc9a556a"
 
 [[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
 file = "config/sodium-fingerprint.json"
 hash = "c8c6a87177b70d8008e4e7ff74cfdea43743e3b3101e3d10c13d69032bdeba4a"
 
 [[files]]
 file = "config/sodium-mixins.properties"
 hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "00c7dd465e12693baeb0f9844848eb087f627d98827df51111b080af462d7d73"
+
+[[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "5b36aeb152da44539b205ccf3e87f0edf46079f7be97aa677bf53c2f370d62d9"
 
 [[files]]
 file = "config/solonion-client.json"
@@ -927,6 +939,10 @@ hash = "6afdbf7a8be9e2c467e0b0edb8f00065447c3214a027798a286a09160a26e56a"
 [[files]]
 file = "config/spyglass-improvements/settings.json"
 hash = "0a19036936420b0045fab196758eacb65f31e8560d41b858a6afebe63208f4a0"
+
+[[files]]
+file = "config/stepup.json"
+hash = "eecc0c57024075596e5a426df2ce5b035ef6fd4ba95379b65d152269e612e699"
 
 [[files]]
 file = "config/stonezone-common.toml"
@@ -1463,6 +1479,14 @@ hash = "5433d5da9f3157bef401efa03a4d1ec769c037c8f3790bd9427f9733fde47425"
 [[files]]
 file = "kubejs/data/breakingnewground/recipe/crafting/deed_of_ownership.json"
 hash = "9fae832f9140cb26045c43d78cce5e0b52a6fac7073bb6d5ff73003aa38d35cf"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/guide.json"
+hash = "540c42bc27a7af3444b442c332d79a5575609cb515f5ba3e500708f23344147d"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/saddle.json"
+hash = "daf3e7e30face039fabd3c975e68bef1e742fcc760d21c0f5a001adb8bbcedda"
 
 [[files]]
 file = "kubejs/data/breakingnewground/recipe/crafting/steel_autocannon_barrel.json"
@@ -2238,7 +2262,7 @@ hash = "0d0cb5760f382829a7cfafd5191f40b6c866bfc7d239857d6529e8774cd2cd85"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/breach.json"
-hash = "faaeb4cce6af5f270d17e65990b8fc832582252581b9bccf7c12b1eb8be1d7d6"
+hash = "ffc0a8f6b8d9e215ae36b520e1845603833606ea3b33f46032f41be2c57db3e3"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/channeling.json"
@@ -2763,6 +2787,70 @@ hash = "6a2efb900f3e6866eb0ad0baa8c97724933478961f1784c6cf2615da810ee9bf"
 [[files]]
 file = "kubejs/data/quark/recipe/building/crafting/cobblestone_bricks.json"
 hash = "e6bfc1405d9c15b50997fd9155e160b93af9d3bad6d87879a5e611b8bba36dcb"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/black_stool.json"
+hash = "5f4b7420bd86d0adf6617668aa451b47379e085f8cd10ba667b0771d32f34f63"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/blue_stool.json"
+hash = "b459d18b68c2c127483ab2ce635f045b904dec91515964258f565cfea4b502c1"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/brown_stool.json"
+hash = "d108450f0bc6fd0ad40c99bcf5c342aa3ee4a82a637b2d470deed890157e1ebd"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/cyan_stool.json"
+hash = "a0bb238739611b9f6f9fce17cc5aba08d22972fd7466769f898a359696da7ec2"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/gray_stool.json"
+hash = "d56693822031a753f899e525960f8ce7fc1105f9e54ea73949ce52ae28e6df9b"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/green_stool.json"
+hash = "0c2954e45c9a891e7a0b6a090fdd702269ba8d0c2c1d85af972d9f3fe300797b"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/light_blue_stool.json"
+hash = "6ed5054971ebda166c11e0b47fd340f4cb2d29b64f1d3eb38adc75941e0a082b"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/light_gray_stool.json"
+hash = "f4a5e954a257866ae577737f7bd3ac49f69b748c8da795017db0f6f96c219826"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/lime_stool.json"
+hash = "7da24702dd399be71cb92dba7b6d206164875e163b4e53db5cc4eba5258d5f1f"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/magenta_stool.json"
+hash = "b59b165eca1e45885b159f439a316c15903994f0753b1c7e6ab0b4e98d69826f"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/orange_stool.json"
+hash = "3497ee4a9fda17aa15e557c02bea8930f7fd429ad7a52440e76e4be1aa7c3831"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/pink_stool.json"
+hash = "b58e1059af608481f4602609f74d58073e2196f1c1747d835a898df6ab246631"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/purple_stool.json"
+hash = "a47926edf8c2a3309b7748cdfe68cad9bb8d14c6a30dad1bfd8eacf32a0e6701"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/red_stool.json"
+hash = "0c99e1f1122b3f0a2becfe6e089c145d078ff1f0370f20ba1ba385e60bb12095"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/white_stool.json"
+hash = "d8a8d94eab084b04fbb225345d4c5890764e8950652342a3694242fe51d3f337"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/yellow_stool.json"
+hash = "f13ed37215d88598ee85923e0335b9a17eeba11d5eac896dcea6372a975822b5"
 
 [[files]]
 file = "kubejs/data/quark/worldgen/biome/glimmering_weald.json"
@@ -3885,8 +3973,8 @@ hash = "8fdf673ef06947ccf0969b9a0b1483694828899530f7288d61518db7831b6601"
 metafile = true
 
 [[files]]
-file = "mods/prospectingpicks-1.2.2.jar"
-hash = "143ed9eb070c1b260c96c7bbf746029e3b80fb7e713b7d4be8d70b8aa95311a0"
+file = "mods/prospectingpicks-1.3.1.jar"
+hash = "887c03a89cc2461b775a8d6e034db4eb278c620f0218e41908949d3c76fe10be"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
