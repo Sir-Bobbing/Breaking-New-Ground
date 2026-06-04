@@ -105,7 +105,7 @@ ServerEvents.tags('fluid', event => {
         event.add('supplementaries:cage_catchable', 'endermanoverhaul:scarab')
         event.add('supplementaries:cage_catchable', 'minecraft:wolf')
         event.add('supplementaries:cage_catchable', 'nomansland:goose')
-        event.add('supplementaries:cage_catchable', 'envelope:pidgeon')
+        event.add('supplementaries:cage_catchable', 'envelope:pigeon')
         event.add('supplementaries:cage_baby_catchable', 'minecraft:camel')
         event.add('supplementaries:cage_baby_catchable', 'nomansland:deer')
         event.add('supplementaries:cage_baby_catchable', 'minecraft:panda')

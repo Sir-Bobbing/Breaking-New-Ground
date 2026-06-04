@@ -3334,7 +3334,7 @@ hash = "f2432b2ae1d81e8ad2008b3c9f7a93eefc9942c0ec2389433f32e7e6190cdcbf"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "7e0f41be521bd8a207bedcee1686e711ed1af792e354f3f4cfe81c2cb56e255a"
+hash = "2605da46bf868b4ce531e65c877cfb28456543c0c6e2566c39344923cb33b3eb"
 
 [[files]]
 file = "kubejs/startup_scripts/startup_item_tweaks.js"
