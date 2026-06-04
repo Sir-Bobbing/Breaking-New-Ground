@@ -1389,6 +1389,50 @@ file = "kubejs/config/web_server.json"
 hash = "13ff2e041598f8b12e44fbf8d63b25f088c43d025193b0062863113559ac73eb"
 
 [[files]]
+file = "kubejs/data/another_furniture/recipe/acacia_shutter.json"
+hash = "213873c498ac63f62b39ff55e7975777cd08ec259419e2357707ec40cee79067"
+
+[[files]]
+file = "kubejs/data/another_furniture/recipe/bamboo_shutter.json"
+hash = "526a7cdf9b49c663ccfbaf0a2b17c045ab5f534188827972ce8fca83607e6a6e"
+
+[[files]]
+file = "kubejs/data/another_furniture/recipe/birch_shutter.json"
+hash = "bb9a13240f8a6b03eb99eaead441fea33175b3dd7c0b41ff6d8614e67226c352"
+
+[[files]]
+file = "kubejs/data/another_furniture/recipe/cherry_shutter.json"
+hash = "168f46e350bd9625c77dd63c2a535f2154f214cd39c86eb4aa35bb54e67a5adf"
+
+[[files]]
+file = "kubejs/data/another_furniture/recipe/crimson_shutter.json"
+hash = "aeafb32360d1310a416be02fcadd09432420e2ad3b8313760ec072f7daa9e93e"
+
+[[files]]
+file = "kubejs/data/another_furniture/recipe/dark_oak_shutter.json"
+hash = "02a15b29c5400ea1013b23fa209a41be7e4b7f687f92dde8d4e111840e77f88e"
+
+[[files]]
+file = "kubejs/data/another_furniture/recipe/jungle_shutter.json"
+hash = "062ecdf6ffa5a32621efb6365f6b67afc4792edb03a45048d07ab3137f5e7697"
+
+[[files]]
+file = "kubejs/data/another_furniture/recipe/mangrove_shutter.json"
+hash = "0373b1440b2bd6159bd27122ce7c216e1d8433292634b40feb420f6936d6c7c2"
+
+[[files]]
+file = "kubejs/data/another_furniture/recipe/oak_shutter.json"
+hash = "328e0d97befd8241a65b0aa48ccc62d48425f46b9eca8bacda03765323239c79"
+
+[[files]]
+file = "kubejs/data/another_furniture/recipe/spruce_shutter.json"
+hash = "d06d35a4d1209adfddf5c44f6e75c5eacb0856eb20736c46962de6d9ae1a7a76"
+
+[[files]]
+file = "kubejs/data/another_furniture/recipe/warped_shutter.json"
+hash = "7f09ddaec1500e7e6abb0e06e0db4175c19aa6b25993c6d37d3f1e54e0f585e2"
+
+[[files]]
 file = "kubejs/data/artifacts/neoforge/biome_modifier/add_campsite.json"
 hash = "a24568552832f1f2e90e48450c7f0f6472ee2b3e61e1b0360a6713e97f9fa593"
 
@@ -2201,6 +2245,38 @@ file = "kubejs/data/decorative_blocks/recipe/lattice.json"
 hash = "3b94cf8e00acc0a079c455f761c766cc3ce9643f11ba2b76b4805781fb127e65"
 
 [[files]]
+file = "kubejs/data/everycomp/recipe/af/architects_palette/twisted_shutter/architects_palette/twisted.json"
+hash = "a0d0a3570351dfcba478f3547eac83e65c30b10f6cb9a6081275ea92e03cfce8"
+
+[[files]]
+file = "kubejs/data/everycomp/recipe/af/malum/runewood_shutter/malum/runewood.json"
+hash = "f6de5a661661e6311b70d0f97f2f8600c77229de41de5e0706b221d403535f02"
+
+[[files]]
+file = "kubejs/data/everycomp/recipe/af/malum/soulwood_shutter/malum/soulwood.json"
+hash = "ea6f2e8149bd7d4bc5127c82c8737f585004d54189f128f819199157ccd09a4e"
+
+[[files]]
+file = "kubejs/data/everycomp/recipe/af/nomansland/maple_shutter/nomansland/maple.json"
+hash = "b40f52333273f01767deef34f9a64ffb17677058a8c3fe51ac69f263001584df"
+
+[[files]]
+file = "kubejs/data/everycomp/recipe/af/nomansland/pine_shutter/nomansland/pine.json"
+hash = "d8b50965e53b21cd99542a8e5ed5f078ee8a8c72fe8fef1b2a2737c76dea59d3"
+
+[[files]]
+file = "kubejs/data/everycomp/recipe/af/nomansland/walnut_shutter/nomansland/walnut.json"
+hash = "66c031c4333f7f058bc20952be246549df182e083098e915475f02645dab9f66"
+
+[[files]]
+file = "kubejs/data/everycomp/recipe/af/nomansland/willow_shutter/nomansland/willow.json"
+hash = "e872b48c2c7f27a69b983a03cbf3dd007e2359c9f7facc7e156bd270bfa40712"
+
+[[files]]
+file = "kubejs/data/everycomp/recipe/af/quark/ancient_shutter/quark/ancient.json"
+hash = "013198264ab87db05eabf21e157fa0e2d0ef46b2e5f1fcf30b9c64913decaf6c"
+
+[[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/immersiveenchanting/enchanting_fuels.json"
 hash = "ca8c1e80fb6507e20000cd2bba2aecd1a9b794060ed29e7ab09b1cd67174417b"
 
@@ -2773,6 +2849,14 @@ file = "kubejs/data/minecraft/worldgen/noise_settings/nether.json"
 hash = "a08cf455570b69b556e42fdf7194a154d9a5887fe959d3aadbb991ae761d70ed"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_clay.json"
+hash = "f1512f63f4de80c4fd5e7bfbf24059018a8521447c9b6663d72fb24efd8a78a4"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gravel.json"
+hash = "dc299db28d6473efb88c511b61fd4960a2fb9f7ed082066029265f120246bec3"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/structure_set/ruined_portals.json"
 hash = "ffd2d8633a38d739d65029257d522b81a0b6f71562d2068ce413104c71cbb968"
 
@@ -3133,16 +3217,24 @@ file = "kubejs/data/spelunkery/neoforge/biome_modifier/add_nephrite_geodes.json"
 hash = "cd8bb1c962a0700cdc57ee9fd5e2c466a6c8e3560abcdf91c892355029191d94"
 
 [[files]]
+file = "kubejs/data/spelunkery/neoforge/biome_modifier/deep_dark_modifier.json"
+hash = "33346809e96503815c81cb2f25a6fe72f8e8a3c3389304a73122cf768bd7d3a5"
+
+[[files]]
 file = "kubejs/data/spelunkery/neoforge/biome_modifier/mountain_modifier.json"
 hash = "1c6f69e22806f8705871938965b3f97a252d30039400d637e5080bd30cabae87"
 
 [[files]]
 file = "kubejs/data/spelunkery/neoforge/biome_modifier/overworld_modifier.json"
-hash = "077c6f3e6d05f70bd11b3ba887081d36d1b81ede6927674d10f624b994703f7b"
+hash = "b0c742cd85a343c78ad709e3215e811020b3e693bd9a56ec9c14e886246871f6"
+
+[[files]]
+file = "kubejs/data/spelunkery/worldgen/placed_feature/deep_dark_fossil.json"
+hash = "9e36a18a563fcd0a375a50f825bc73f584cc8b1810eb1c3360b465433247b7b3"
 
 [[files]]
 file = "kubejs/data/spelunkery/worldgen/placed_feature/nephrite_geode.json"
-hash = "5efd1113967bb55ed2a103b652f061887b7621e2dde2ab191cc0cffcaa83295b"
+hash = "110ac986743697ce8b4e4cc14fd599ff8779438192aa79952f50741e623aedb1"
 
 [[files]]
 file = "kubejs/data/spelunkery/worldgen/placed_feature/spring_water_pool.json"
