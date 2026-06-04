@@ -3230,7 +3230,7 @@ hash = "b0c742cd85a343c78ad709e3215e811020b3e693bd9a56ec9c14e886246871f6"
 
 [[files]]
 file = "kubejs/data/spelunkery/worldgen/placed_feature/deep_dark_fossil.json"
-hash = "9e36a18a563fcd0a375a50f825bc73f584cc8b1810eb1c3360b465433247b7b3"
+hash = "719e97194deeb8d9c428924ed4ba01438daccb3fe0f70b611a1b4efc05d7fd30"
 
 [[files]]
 file = "kubejs/data/spelunkery/worldgen/placed_feature/nephrite_geode.json"
