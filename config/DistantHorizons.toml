@@ -577,7 +577,7 @@ _version = 4
 				# Note: Due to current limitations, the min value is [50] 
 				# and the max value is 5000. Any values outside this range 
 				# will be set to 0 (disabled).
-				earthCurveRatio = 100
+				earthCurveRatio = 250
 
 			[client.advanced.graphics.genericRendering]
 				#

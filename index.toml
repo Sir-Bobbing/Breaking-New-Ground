@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "1aa5519fdb735cb52cdde171624c4fecba684db0b8049960114d63dc9bc7c8e8"
+hash = "2cfc4244999450fbe5e0befd3fdbcbc1afbea1d6b01749eea73959222323d808"
 
 [[files]]
 file = "config/Luminous Monsters Configuration.toml"
@@ -237,10 +237,6 @@ file = "config/createpropulsion-common.toml"
 hash = "400dc9e864d539bf6754bb8b490d0dd0781ba2467af394aba90575ad80720a8b"
 
 [[files]]
-file = "config/creativecore-client.json"
-hash = "acb6c8c1394d4d6f2d0c98d5c314c5ef8ad34b8a76f0a420fc596733bcbc51ac"
-
-[[files]]
 file = "config/creeperoverhaul.jsonc"
 hash = "d8088bd461dd7666552c4174bac6549e55112728e07aa3addd0e32a805c230fc"
 
@@ -341,16 +337,8 @@ file = "config/farmersdelight-common.toml"
 hash = "1eecc5b541b94652f11619de138f2f958a71034e3466a7d7096f1b739060dce6"
 
 [[files]]
-file = "config/ferritecore-mixin.toml"
-hash = "b6c85cb392f799ed932ffe8d6051f48a283a0df3f8674acf4f8d89341836e686"
-
-[[files]]
 file = "config/flywheel-client.toml"
 hash = "9a8019a2819cf8f27a30c0788b458ed7e9b6d749faea23d8feafa0424c4bb568"
-
-[[files]]
-file = "config/fml.toml"
-hash = "cc127c6067eb9e23289edc1c774afd71456456eef06c688af6731a72d3bba5e5"
 
 [[files]]
 file = "config/fzzy_config/keybinds.toml"
@@ -413,16 +401,8 @@ file = "config/jei-server.toml"
 hash = "57d741871716e29b3a318b625e740d590598f001c362b6a4a95e3ee628c5cbc3"
 
 [[files]]
-file = "config/labels-client.toml"
-hash = "c50dc7a616e00da93b906ae3fa65c9872c6bc925e8bb1358ab6e6cbd5cbaed25"
-
-[[files]]
 file = "config/letmedespawn.json"
 hash = "6af411644e22ede34383135509cb96b2a636d8ed45494b28976514a95537105e"
-
-[[files]]
-file = "config/lithostitched.json"
-hash = "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df"
 
 [[files]]
 file = "config/lodestone-client.toml"
@@ -445,24 +425,12 @@ file = "config/malum-common.toml"
 hash = "7dc9ec79cb6fc3032d8f2a4e3e5b96dfb65b8912915397083dcec1b6d05ace20"
 
 [[files]]
-file = "config/mcqoy.toml"
-hash = "5ded9a920b11f1d4cab63993bc52dad330c6c2f2172356b964953e502c655937"
-
-[[files]]
 file = "config/mixed_litter-startup.toml"
 hash = "d59b44501c85488fe1765710c5d1550c93621650188fd8ae034be0ab1d6e3c39"
 
 [[files]]
 file = "config/modernfix-common.toml"
 hash = "ee24e2b1bc100942a1c605f996255742cd6a5bb3662877aa906bc301100ccf27"
-
-[[files]]
-file = "config/modernfix-mixins.properties"
-hash = "32bbaa6f573b612b92653fc2814365cd8aa423d39fcab4fa5dcfcb5f31121874"
-
-[[files]]
-file = "config/moonlight-common.toml"
-hash = "ce17e22174f8d796e792c87dbe7c2cff8360686edfb59080adf905e26df144ea"
 
 [[files]]
 file = "config/neoforge-server.toml"
