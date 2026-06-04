@@ -6,22 +6,8 @@ hs_err_pid*
 # Files
 packwiz
 .index
-# Configs
-config/jei/world/*
-config/fabric/*
-config/spark/activity.json
-stepup.json
-ssrd-common.toml
-cpm.json
-lookupHistory.json
-sodium-extra.properties
-sodium-fingerpring.json
-sodium-mixins.properites
-sodium-options.json
-sodiumdynamiclights-client.toml
-# Other
-/resourcepacks/*.zip
 # Folders
 /kubejs/assets/testmod
 /config/structurify
 /guide
+kubejs/assets/TMS.zip

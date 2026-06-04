@@ -1,3 +1,2 @@
 autoJump:false
 operatorItemsTab:true
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","file/Tom\u0027s Metal Storage v1.2 (1.21.1).zip"]

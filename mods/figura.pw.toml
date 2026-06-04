@@ -1,5 +1,5 @@
-name = "figura"
 filename = "figura-0.1.5+1.21.1-neoforge-patched.jar"
+name = "figura"
 side = "client"
 
 [download]

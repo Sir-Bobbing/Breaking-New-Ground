@@ -2,23 +2,10 @@ README.md
 LICENSE
 modlist.csv
 /.git
-sodium-extra.properties
-sodium-fingerpring.json
-sodium-mixins.properites
-sodium-options.json
-sodiumdynamiclights-client.toml
-stepup.json
-indigo-renderer.properties
-*.tmpssrd-common.toml
 config/cpm.json
 .index
 *.bak
-lookupHistory.json
-activity.json
-bookmarks.json
-# Folders
-/guide
 /kubejs/assets/testmod
 /config/structurify
-
-/resourcepacks/*.zip
+/guide
+/kubejs/assets/TMS.zip
