@@ -5,6 +5,7 @@
 ## Notes
 - Iris May be incompatible
 - modlist is still in progress and things may change
+- If you disable the pre-launch command it will clear. The pre-launch command is `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://sir-bobbing.github.io/Breaking-New-Ground/pack.toml` if you need it.
 ## Known Issues
 #### Incompatability
 - Amendments fireballs don't hit Sublevels
