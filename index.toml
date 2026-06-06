@@ -2522,11 +2522,6 @@ hash = "2de72a067c618a855af01239c1dd665e99bd9987a9f1301fcf499dd61669df02"
 metafile = true
 
 [[files]]
-file = "mods/armourers-workshop.pw.toml"
-hash = "52045cd4721fffc405702615b008a297177b3b5e6de188b7746ec310dfcc3ca7"
-metafile = true
-
-[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "5d6dd84018f5dd119024f0dff7fe1e2cbc20362f390cc7b4b6bc05fbe474b4f9"
 metafile = true
@@ -3313,11 +3308,6 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-onion.pw.toml"
 hash = "dfb4cc71c28de5005bbb452e27ba1f7802f4319266cd88c93870cff076ca129d"
-metafile = true
-
-[[files]]
-file = "mods/spyglass-improvements.pw.toml"
-hash = "9e9ca998574108abdff88d1b08f0705cd7924964f063e583fef5eac137034e76"
 metafile = true
 
 [[files]]
