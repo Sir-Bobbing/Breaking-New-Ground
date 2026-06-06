@@ -86,7 +86,7 @@
 		#Changes the volume of engines.
 		# Default: 1.0
 		# Range: 0.0 ~ 3.4028234663852886E38
-		engineLoudness = 1.0
+		engineLoudness = 4.0
 
 	#.
 	#Generators

@@ -622,7 +622,7 @@ hash = "6df130fe21550eef513805d6a33dd0241a800c3a6be171c31b2ec98cca9d84cc"
 
 [[files]]
 file = "config/tfmg-common.toml"
-hash = "59aa4c66b0533991c42f4e1305ed7ab3f54621679be86bd8f7362b91a8517d46"
+hash = "6759d6c77e34d67a7b61df2c18e4503eb0c14a238b214c0019461865094850cd"
 
 [[files]]
 file = "config/tfmg-server.toml"
@@ -667,6 +667,10 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 [[files]]
 file = "kubejs/assets/breakingnewground.zip"
 hash = "dc3a34af2672abba223094be124ef6fe5a71fa7ee896c03779c8a79ba5eeaaee"
+
+[[files]]
+file = "kubejs/assets/tfmg/sounds.json"
+hash = "37c2e2fb1dd894161d804575935337adf0d4b44252abe0d902234c165831a712"
 
 [[files]]
 file = "kubejs/assets/toms-metal-storage.pw.toml"
@@ -2574,7 +2578,7 @@ metafile = true
 
 [[files]]
 file = "mods/chalk-mod.pw.toml"
-hash = "5176868992824c59bf90188cb64604963c000acc65bdc0dc4b8d9b6e082651f9"
+hash = "ecf500a371af001850501944189fa01f8b42423608632d6c0847a5d3f415eda4"
 metafile = true
 
 [[files]]
@@ -2724,7 +2728,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "c1305c1760a72de49e1005057e6c91355eaa8c5b4724b165bbdaf7649f04b8dc"
+hash = "c6ff5b784501ac71bd77660e72ad27758875d9f0536c7df80cb0dd6938d052e5"
 metafile = true
 
 [[files]]
@@ -2949,7 +2953,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "508ede1ad54184276f151da8ed4ece6881b9572357febab4b2d54e37d11f8f72"
+hash = "00f847512616fbbf5e7d56ba2ac0ac3f0ecd1ad3e9ed27bcaafe0a79eb1010f2"
 metafile = true
 
 [[files]]
@@ -2979,7 +2983,7 @@ metafile = true
 
 [[files]]
 file = "mods/kobolds.pw.toml"
-hash = "4a2ccc31e62da4b728da00c929111656137a15d224c7dcfc2049cbe475ffb9ce"
+hash = "848bab9c4ec55ecde2354ee9a7014dcc62dbab07b2d1063ad094b6cc1c6d9d55"
 metafile = true
 
 [[files]]
@@ -3203,7 +3207,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "641633a756a292c39ecc5f38ab93350e4e7613eda861bb8cf052514db2a9fdd0"
+hash = "1d5ff4226642388d470c9353ee49730ecd39174c82d588c9e47d322eac619f18"
 metafile = true
 
 [[files]]
@@ -3318,7 +3322,7 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "31da6f629343973a0659a27c12e00113591e35ebddb2ebd2495a688d1136be98"
+hash = "702e6c17e32e7037089a2c96359f73d7276ef004437112f8abd21e74b320ebe3"
 metafile = true
 
 [[files]]
@@ -3358,7 +3362,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "32b96bc552f2b8d618c6f08c0e839499ba29817510410a0adf747d52e0bffa0c"
+hash = "8f57802f09e1ce71d754aaf9636acf566eadd775285185600ef7e762d46d8a33"
 metafile = true
 
 [[files]]
@@ -3388,7 +3392,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "b9c8d6f56b2695cc5643c5ffb788057291d4ca01d82fef0537e51b85cb649a5c"
+hash = "53a81852a42a2ac52e0b39f087dc515ad841a7729ace562b31ab0dafb816b319"
 metafile = true
 
 [[files]]
