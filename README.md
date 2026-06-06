@@ -15,7 +15,7 @@
 - Nomnansland dungeons spawn in the water
 - Something Breaks the Moon friend’s item dialogue (Item Physic)
 - SSRD break Sundogs when in Motion
-- Something is breaking Vista Viewfinders 
+- Something is breaking Vista Viewfinders (Spyglass Improvements and Armourer's Workshop)
 - Spelunkery parachute rendering
 - Something causes audio to cut out (latest Sound Physics Update)
 
