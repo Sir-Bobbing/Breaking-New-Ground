@@ -14,7 +14,7 @@
 #### Bugs
 - Item Physic Broke the Moon friend’s item dialogue
 - SSRD break Sundogs when in Motion
-- Something is breaking Vista Viewfinders (Spyglass Improvements and ) - IM LOSING MY MIND!
+- Aeronautics End Sea Breaks Vista Viewfinders
 - Spelunkery parachute rendering
 - Latest Sound Physics Update causes audio to cut out
 
