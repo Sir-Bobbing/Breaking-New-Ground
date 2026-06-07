@@ -2522,6 +2522,11 @@ hash = "2de72a067c618a855af01239c1dd665e99bd9987a9f1301fcf499dd61669df02"
 metafile = true
 
 [[files]]
+file = "mods/armourers-workshop.pw.toml"
+hash = "52045cd4721fffc405702615b008a297177b3b5e6de188b7746ec310dfcc3ca7"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "5d6dd84018f5dd119024f0dff7fe1e2cbc20362f390cc7b4b6bc05fbe474b4f9"
 metafile = true
@@ -2932,11 +2937,6 @@ hash = "2325bebaa5858614d20b06fd3f8173d655b4d2ec52b4318067971cd408d0c43a"
 metafile = true
 
 [[files]]
-file = "mods/im-fast.pw.toml"
-hash = "7a024561243c546ca9ed7ba0af185cba471422b32c41b9f5dc645eea58fe6fcd"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "746db9896d80197afb46d88b8fbe9c6a1d1cfff7f4195527a9fc766e99f7459e"
 metafile = true
@@ -2984,11 +2984,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "e7bd002c8ff9c45a99e48a2c7116e29e00efaa5cde194e97739a840498b2725b"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-create.pw.toml"
-hash = "b76fe807aa10bdc3fcf1474a1d2733362eaf5bf6bf607beac7fb129cc298a3a3"
 metafile = true
 
 [[files]]
