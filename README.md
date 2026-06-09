@@ -12,7 +12,6 @@
 - Armourer's Workshop has overall rendering issues with Sable present
 - Comforts sleeping bags and hammocks are too far away on sublevels
 #### Bugs
-- Item Physic Broke the Moon friend’s item dialogue
 - SSRD break Sundogs when in Motion
 - Aeronautics End Sea Breaks Vista Viewfinders
 - Spelunkery parachute rendering
