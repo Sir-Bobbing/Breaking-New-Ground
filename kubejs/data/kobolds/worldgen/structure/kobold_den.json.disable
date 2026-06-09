@@ -1,16 +1,20 @@
 {
   "type": "minecraft:jigsaw",
   "start_pool": "kobolds:kobold_enter",
-  "biomes": "#kobolds:has_structure/kobold_den",
+  "biomes": "#breakingnewground:has_kobold_dens",
   "step": "surface_structures",
+  "terrain_adaptation": "encapsulate",
   "liquid_settings": "ignore_waterlogging",
   "start_height": {
-    "absolute": -5
+    "type": "minecraft:uniform",
+    "min_inclusive": {
+      "absolute": 12
+    },
+    "max_inclusive": {
+      "absolute": 32
+    }
   },
-  "project_start_to_heightmap": "WORLD_SURFACE_WG",
-  "use_expansion_hack": false,
-  "spawn_overrides": {}
-  ,
+  "spawn_overrides": {},
   "use_expansion_hack": false,
   "max_distance_from_center": 50,
   "dimension_padding": 10,

@@ -397,6 +397,10 @@ file = "config/iteminteractions-client.toml"
 hash = "9b103676394b63103bcbfc391dca66e65693ac788f7cfbc63a1940d8c61d96db"
 
 [[files]]
+file = "config/itemphysic-client.json"
+hash = "4a54b91e90490fec1af0cfb386bd9b4997256c13b5ee03630a97ee7c9b355eeb"
+
+[[files]]
 file = "config/jei-server.toml"
 hash = "57d741871716e29b3a318b625e740d590598f001c362b6a4a95e3ee628c5cbc3"
 
@@ -1567,11 +1571,15 @@ hash = "d55b15c50ae09962e91cdb3e95b4ec0712aa2053a3656e4de609400e27581381"
 
 [[files]]
 file = "kubejs/data/kobolds/worldgen/structure/kobold_den.json"
-hash = "2ad1b069cc831d960a29f06d76d8bd07e54e77ad0ba344369d7fa1fcda9eef73"
+hash = "4985ebeffe2b0cccb84eeb10e72220fb0a447d3483c276ebd16c43ad7712a021"
+
+[[files]]
+file = "kubejs/data/kobolds/worldgen/structure/kobold_den.json.disable"
+hash = "22a0924336ec8b20066b07e381341ee1df004e65d17e4a17d9a925a908e9ec7e"
 
 [[files]]
 file = "kubejs/data/kobolds/worldgen/structure_set/kobold_den.json"
-hash = "b6a06d83e035777728604de0be162e7b41a51c0ec9a4f8647f3fc392ea09ac84"
+hash = "c220bf75e12ef51e7511b4f766bd7f38474095a4f70ffa2196febf0f8a4a81ee"
 
 [[files]]
 file = "kubejs/data/lootintegrations/loot/dungeoncrawl_villageloot_house.json"
@@ -2362,12 +2370,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "9fe11c92d87d146abe85e170b8dfdd927e79a03dcd617e56de821c38b3828ddc"
+hash = "46a25bb2da62670a13018a38756b4b6041f1b9663bc46998e578bf5baef644a3"
 metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "d39fff0c96590f36d575f23e1b45b49b218e87fedc7929ad255b381697d52836"
+hash = "4728051a4b73a297bdac3723ef57db6c8c8927d74dd523a2007283e34c35ccfb"
 metafile = true
 
 [[files]]
@@ -2437,7 +2445,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "bf3a32ccc16ba6c2f628425a374b7c89540beee0b5c833bac70fe018835163ed"
+hash = "c7c3cc9b9ad8a818edbffad9cf15c80f99b2a588f29f379df4bb75d4083f06d7"
 metafile = true
 
 [[files]]
@@ -2557,17 +2565,17 @@ metafile = true
 
 [[files]]
 file = "mods/envelope.pw.toml"
-hash = "fde322dfd80d812da311221683bcb207351a33d9c60e5df59ea8bdd8cb8e302e"
+hash = "c23aed60177f68e8ed114b7a82546def78086977d3f4fe3966e7189bc3b1a983"
 metafile = true
 
 [[files]]
 file = "mods/etched.pw.toml"
-hash = "3398af4cfcc8e20ad345a1fc832c18f6db50caa547e448bf0a33b8b7eb878c46"
+hash = "880770f8a6b1d93d998e7e54dde0da450058970eb07774ebe20467eea56e5768"
 metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "0854c06692991f7bd4120b90beda3400fab1f5e92bf676bb9c7c61f422c093f4"
+hash = "2f690e42bcf352565819f6454f1352777e42fcd784e6d698c825ada206be6fd3"
 metafile = true
 
 [[files]]
@@ -2663,6 +2671,11 @@ metafile = true
 [[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "870eeaa7d6ca74829d014c4aed23d1d5f316201469291deec3a28a0d393d2099"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "96d04b39c002de4c9d2bf980020a1cd1f05e3cfd7b7b2d5f74e9a09d073854be"
 metafile = true
 
 [[files]]
@@ -2772,7 +2785,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "7052ef698c4c5ce659fad989dde810f1a4dfc275a563bd8f38173ed71201f0e2"
+hash = "d7218af22c6f64ece975a2e1af3931c5b5309b1b27d2f5f1c880058b9c748509"
 metafile = true
 
 [[files]]
@@ -2782,7 +2795,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-mans-land.pw.toml"
-hash = "7549e5e81ba0c0964dd8ed291d2c142975eced4db235b744ad3ddf79741e2dbb"
+hash = "394882789ea589643f345f0582f9625ba31af42d160d97ad29d22e76e1d817dc"
 metafile = true
 
 [[files]]
@@ -2886,7 +2899,7 @@ metafile = true
 
 [[files]]
 file = "mods/redomesticate.pw.toml"
-hash = "5c10859b5c1b8bc8fd85598bdeb7294d768fe8285a31dd55a9afdf834d5dc4be"
+hash = "67d95a2b0719ab2cf960bb1a1a7cc4c45cc57a85c5921c08e126cf7f27cca647"
 metafile = true
 
 [[files]]
@@ -2916,7 +2929,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "eb7e61380a3f4e5ae05fcb9a9f4e285447694e41879728e8b66ded14ebe33884"
+hash = "71c2250807920ea2028eae9d9dd50a43782f1d78d942818acb83a2d8e05d0184"
 metafile = true
 
 [[files]]
@@ -3011,7 +3024,7 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "702e6c17e32e7037089a2c96359f73d7276ef004437112f8abd21e74b320ebe3"
+hash = "55cc9befca13dd88ccfc9edfb79753b35e1df39f2cc52ad526d33349b3baa4b3"
 metafile = true
 
 [[files]]
