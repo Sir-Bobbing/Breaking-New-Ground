@@ -1,0 +1,11 @@
+{
+  "type": "malum:unchained_transmutation",
+  "group": "ore_stones",
+  "input": {
+    "item": "create:veridium"
+  },
+  "result": {
+    "count": 1,
+    "id": "create:asurine"
+  }
+}
