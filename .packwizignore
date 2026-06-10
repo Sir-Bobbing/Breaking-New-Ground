@@ -2,12 +2,10 @@ README.md
 LICENSE
 modlist.csv
 /.git
+config/cpm.json
 .index
 *.bak
-# Folders
-/guide
 /kubejs/assets/testmod
 /config/structurify
-
-/resourcepacks/*.zip
+/guide
 /kubejs/assets/TMS.zip
