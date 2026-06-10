@@ -55,6 +55,36 @@
     "action": "replace_input",
     "target": "createbigcannons:nitropowder",
     "replacement": "createbigcannons:packed_gunpowder"
+  },
+// TFMG
+  {
+    "action": "replace_input",
+    "target": "tfmg:magnet",
+    "replacement": "powergrid:magnet"
+  },
+  {
+    "action": "replace_input",
+    "target": "tfmg:capacitor_item",
+    "replacement": "powergrid:capacitor"
+  },
+  {
+    "action": "replace_input",
+    "target": "tfmg:resistor",
+    "replacement": "powergrid:resistor"
+  },
+  {
+    "action": "replace_input",
+    "target": "tfmg:transistor_item",
+    "replacement": "powergrid:vfet"
+  },
+// Power Grid
+  {
+    "action": "replace_input",
+    "target": "powergrid:acid",
+    "replacement": "tfmg:sulfuric_acid"
+  },
+  {
+    "action": "remove_recipe",
+    "output": "powergrid:acid"
   }
-
 ]

@@ -597,6 +597,10 @@ file = "config/spyglass-improvements/settings.json"
 hash = "0a19036936420b0045fab196758eacb65f31e8560d41b858a6afebe63208f4a0"
 
 [[files]]
+file = "config/stepup.json"
+hash = "eecc0c57024075596e5a426df2ce5b035ef6fd4ba95379b65d152269e612e699"
+
+[[files]]
 file = "config/stonezone-common.toml"
 hash = "7030c4327882a865fff6f2cd56e7f85dfd06046ead5a29fed91d6b00b8d02710"
 
@@ -1190,6 +1194,38 @@ file = "kubejs/data/decorative_blocks/recipe/lattice.json"
 hash = "3b94cf8e00acc0a079c455f761c766cc3ce9643f11ba2b76b4805781fb127e65"
 
 [[files]]
+file = "kubejs/data/everycomp/recipe/af/architects_palette/twisted_shutter/architects_palette/twisted.json"
+hash = "a0d0a3570351dfcba478f3547eac83e65c30b10f6cb9a6081275ea92e03cfce8"
+
+[[files]]
+file = "kubejs/data/everycomp/recipe/af/malum/runewood_shutter/malum/runewood.json"
+hash = "f6de5a661661e6311b70d0f97f2f8600c77229de41de5e0706b221d403535f02"
+
+[[files]]
+file = "kubejs/data/everycomp/recipe/af/malum/soulwood_shutter/malum/soulwood.json"
+hash = "ea6f2e8149bd7d4bc5127c82c8737f585004d54189f128f819199157ccd09a4e"
+
+[[files]]
+file = "kubejs/data/everycomp/recipe/af/nomansland/maple_shutter/nomansland/maple.json"
+hash = "b40f52333273f01767deef34f9a64ffb17677058a8c3fe51ac69f263001584df"
+
+[[files]]
+file = "kubejs/data/everycomp/recipe/af/nomansland/pine_shutter/nomansland/pine.json"
+hash = "d8b50965e53b21cd99542a8e5ed5f078ee8a8c72fe8fef1b2a2737c76dea59d3"
+
+[[files]]
+file = "kubejs/data/everycomp/recipe/af/nomansland/walnut_shutter/nomansland/walnut.json"
+hash = "66c031c4333f7f058bc20952be246549df182e083098e915475f02645dab9f66"
+
+[[files]]
+file = "kubejs/data/everycomp/recipe/af/nomansland/willow_shutter/nomansland/willow.json"
+hash = "e872b48c2c7f27a69b983a03cbf3dd007e2359c9f7facc7e156bd270bfa40712"
+
+[[files]]
+file = "kubejs/data/everycomp/recipe/af/quark/ancient_shutter/quark/ancient.json"
+hash = "013198264ab87db05eabf21e157fa0e2d0ef46b2e5f1fcf30b9c64913decaf6c"
+
+[[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/immersiveenchanting/enchanting_fuels.json"
 hash = "ca8c1e80fb6507e20000cd2bba2aecd1a9b794060ed29e7ab09b1cd67174417b"
 
@@ -1738,6 +1774,14 @@ file = "kubejs/data/minecraft/worldgen/noise_settings/nether.json"
 hash = "a08cf455570b69b556e42fdf7194a154d9a5887fe959d3aadbb991ae761d70ed"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_clay.json"
+hash = "f1512f63f4de80c4fd5e7bfbf24059018a8521447c9b6663d72fb24efd8a78a4"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gravel.json"
+hash = "dc299db28d6473efb88c511b61fd4960a2fb9f7ed082066029265f120246bec3"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/structure_set/ruined_portals.json"
 hash = "ffd2d8633a38d739d65029257d522b81a0b6f71562d2068ce413104c71cbb968"
 
@@ -1752,6 +1796,70 @@ hash = "6a2efb900f3e6866eb0ad0baa8c97724933478961f1784c6cf2615da810ee9bf"
 [[files]]
 file = "kubejs/data/quark/recipe/building/crafting/cobblestone_bricks.json"
 hash = "e6bfc1405d9c15b50997fd9155e160b93af9d3bad6d87879a5e611b8bba36dcb"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/black_stool.json"
+hash = "5f4b7420bd86d0adf6617668aa451b47379e085f8cd10ba667b0771d32f34f63"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/blue_stool.json"
+hash = "b459d18b68c2c127483ab2ce635f045b904dec91515964258f565cfea4b502c1"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/brown_stool.json"
+hash = "d108450f0bc6fd0ad40c99bcf5c342aa3ee4a82a637b2d470deed890157e1ebd"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/cyan_stool.json"
+hash = "a0bb238739611b9f6f9fce17cc5aba08d22972fd7466769f898a359696da7ec2"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/gray_stool.json"
+hash = "d56693822031a753f899e525960f8ce7fc1105f9e54ea73949ce52ae28e6df9b"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/green_stool.json"
+hash = "0c2954e45c9a891e7a0b6a090fdd702269ba8d0c2c1d85af972d9f3fe300797b"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/light_blue_stool.json"
+hash = "6ed5054971ebda166c11e0b47fd340f4cb2d29b64f1d3eb38adc75941e0a082b"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/light_gray_stool.json"
+hash = "f4a5e954a257866ae577737f7bd3ac49f69b748c8da795017db0f6f96c219826"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/lime_stool.json"
+hash = "7da24702dd399be71cb92dba7b6d206164875e163b4e53db5cc4eba5258d5f1f"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/magenta_stool.json"
+hash = "b59b165eca1e45885b159f439a316c15903994f0753b1c7e6ab0b4e98d69826f"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/orange_stool.json"
+hash = "3497ee4a9fda17aa15e557c02bea8930f7fd429ad7a52440e76e4be1aa7c3831"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/pink_stool.json"
+hash = "b58e1059af608481f4602609f74d58073e2196f1c1747d835a898df6ab246631"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/purple_stool.json"
+hash = "a47926edf8c2a3309b7748cdfe68cad9bb8d14c6a30dad1bfd8eacf32a0e6701"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/red_stool.json"
+hash = "0c99e1f1122b3f0a2becfe6e089c145d078ff1f0370f20ba1ba385e60bb12095"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/white_stool.json"
+hash = "d8a8d94eab084b04fbb225345d4c5890764e8950652342a3694242fe51d3f337"
+
+[[files]]
+file = "kubejs/data/quark/recipe/building/crafting/stools/yellow_stool.json"
+hash = "f13ed37215d88598ee85923e0335b9a17eeba11d5eac896dcea6372a975822b5"
 
 [[files]]
 file = "kubejs/data/quark/worldgen/biome/glimmering_weald.json"
@@ -2034,16 +2142,24 @@ file = "kubejs/data/spelunkery/neoforge/biome_modifier/add_nephrite_geodes.json"
 hash = "cd8bb1c962a0700cdc57ee9fd5e2c466a6c8e3560abcdf91c892355029191d94"
 
 [[files]]
+file = "kubejs/data/spelunkery/neoforge/biome_modifier/deep_dark_modifier.json"
+hash = "33346809e96503815c81cb2f25a6fe72f8e8a3c3389304a73122cf768bd7d3a5"
+
+[[files]]
 file = "kubejs/data/spelunkery/neoforge/biome_modifier/mountain_modifier.json"
 hash = "1c6f69e22806f8705871938965b3f97a252d30039400d637e5080bd30cabae87"
 
 [[files]]
 file = "kubejs/data/spelunkery/neoforge/biome_modifier/overworld_modifier.json"
-hash = "077c6f3e6d05f70bd11b3ba887081d36d1b81ede6927674d10f624b994703f7b"
+hash = "b0c742cd85a343c78ad709e3215e811020b3e693bd9a56ec9c14e886246871f6"
+
+[[files]]
+file = "kubejs/data/spelunkery/worldgen/placed_feature/deep_dark_fossil.json"
+hash = "719e97194deeb8d9c428924ed4ba01438daccb3fe0f70b611a1b4efc05d7fd30"
 
 [[files]]
 file = "kubejs/data/spelunkery/worldgen/placed_feature/nephrite_geode.json"
-hash = "5efd1113967bb55ed2a103b652f061887b7621e2dde2ab191cc0cffcaa83295b"
+hash = "110ac986743697ce8b4e4cc14fd599ff8779438192aa79952f50741e623aedb1"
 
 [[files]]
 file = "kubejs/data/spelunkery/worldgen/placed_feature/spring_water_pool.json"
@@ -2143,7 +2259,7 @@ hash = "f2432b2ae1d81e8ad2008b3c9f7a93eefc9942c0ec2389433f32e7e6190cdcbf"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "7e0f41be521bd8a207bedcee1686e711ed1af792e354f3f4cfe81c2cb56e255a"
+hash = "2605da46bf868b4ce531e65c877cfb28456543c0c6e2566c39344923cb33b3eb"
 
 [[files]]
 file = "kubejs/startup_scripts/startup_item_tweaks.js"
