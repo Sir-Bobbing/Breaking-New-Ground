@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "scguns:anthralite_ingot"
+    },
+    "B": {
+      "item": "minecraft:redstone_block"
+    },
+    "C": {
+      "item": "minecraft:copper_block"
+    },
+    "D": {
+      "item": "tfmg:constantan_block"
+    },
+    "E": {
+      "item": "tfmg:hardened_planks"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EBE"
+  ],
+  "result": {
+    "id": "scguns:lightning_battery",
+    "count": 1
+  }
+}

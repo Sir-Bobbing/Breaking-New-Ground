@@ -1,0 +1,31 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "C": {
+      "tag": "c:plates/copper"
+    },
+    "E": {
+      "item": "powergrid:conductive_casing"
+    },
+    "R": {
+      "item": "powergrid:resistive_coil"
+    },
+    "B": {
+      "item": "tfmg:circuit_board"
+    },
+    "A": {
+      "tag": "c:plates/aluminum"
+    }
+  },
+  "pattern": [
+    "RRRRR",
+    " CBC ",
+    " AEA "
+  ],
+  "result": {
+    "count": 1,
+    "id": "powergrid:basin_heater"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:wires/constantan"
+    },
+    {
+      "tag": "c:wires/constantan"
+    },
+    {
+      "tag": "c:wires/constantan"
+    },
+    {
+      "tag": "c:wires/constantan"
+    },
+    {
+      "tag": "c:wires/constantan"
+    },
+    {
+      "tag": "c:wires/constantan"
+    },
+    {
+      "tag": "c:wires/constantan"
+    },
+    {
+      "tag": "c:wires/constantan"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "powergrid:resistive_coil"
+  }
+}

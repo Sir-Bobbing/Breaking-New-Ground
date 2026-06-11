@@ -1,0 +1,101 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "c:plates/zinc"
+  },
+  "results": [
+    {
+      "chance": 75.0,
+      "id": "powergrid:electrical_gizmo"
+    },
+    {
+      "chance": 20.0,
+      "id": "powergrid:integrated_circuit"
+    },
+    {
+      "chance": 2,
+      "id": "create:electron_tube"
+    },
+    {
+      "chance": 1.5,
+      "id": "powergrid:copper_coil"
+    },
+    {
+      "chance": 1,
+      "id": "powergrid:magnet"
+    },
+        {
+      "chance": 0.5,
+      "id": "powergrid:zinc_sheet"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "powergrid:incomplete_electrical_gizmo"
+        },
+        {
+          "tag": "c:copper_coils"
+        }
+      ],
+      "results": [
+        {
+          "id": "powergrid:incomplete_electrical_gizmo"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "powergrid:incomplete_electrical_gizmo"
+        },
+        {
+          "item": "powergrid:magnet"
+        }
+      ],
+      "results": [
+        {
+          "id": "powergrid:incomplete_electrical_gizmo"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "powergrid:incomplete_electrical_gizmo"
+        },
+        {
+          "item": "powergrid:integrated_circuit"
+        }
+      ],
+      "results": [
+        {
+          "id": "powergrid:incomplete_electrical_gizmo"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "powergrid:incomplete_electrical_gizmo"
+        },
+        {
+          "item": "create:electron_tube"
+        }
+      ],
+      "results": [
+        {
+          "id": "powergrid:incomplete_electrical_gizmo"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "powergrid:incomplete_electrical_gizmo"
+  }
+}
