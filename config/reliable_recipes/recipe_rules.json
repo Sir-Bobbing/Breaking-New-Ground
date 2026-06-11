@@ -77,6 +77,16 @@
     "target": "tfmg:transistor_item",
     "replacement": "powergrid:vfet"
   },
+  {
+    "action": "replace_input",
+    "target": "minecraft:leather",
+    "replacement": "#c:leathers"
+  },
+  {
+    "action": "replace_input",
+    "target": "minecraft:string",
+    "replacement": "#c:strings"
+  },
 // Power Grid
   {
     "action": "replace_input",
