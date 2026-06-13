@@ -1,0 +1,11 @@
+{
+  "type": "malum:unchained_transmutation",
+  "group": "obsidian",
+  "input": {
+    "item": "minecraft:crying_obsidian"
+  },
+  "result": {
+    "count": 1,
+    "id": "malum:scarstone"
+  }
+}

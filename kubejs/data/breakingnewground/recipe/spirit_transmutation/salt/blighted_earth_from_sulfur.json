@@ -1,0 +1,11 @@
+{
+  "type": "malum:unchained_transmutation",
+  "group": "salt",
+  "input": {
+    "item": "spelunkery:sulfur_block"
+  },
+  "result": {
+    "count": 1,
+    "id": "malum:blighted_earth"
+  }
+}
