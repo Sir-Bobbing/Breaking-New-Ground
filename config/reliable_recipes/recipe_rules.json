@@ -77,6 +77,16 @@
     "target": "tfmg:transistor_item",
     "replacement": "powergrid:vfet"
   },
+  {
+    "action": "replace_input",
+    "target": "minecraft:leather",
+    "replacement": "#c:leathers"
+  },
+  {
+    "action": "replace_input",
+    "target": "minecraft:string",
+    "replacement": "#c:strings"
+  },
 // Power Grid
   {
     "action": "replace_input",
@@ -84,7 +94,25 @@
     "replacement": "tfmg:sulfuric_acid"
   },
   {
+    "action": "replace_input",
+    "target": "#minecraft:coals",
+    "mod": "powergrid",
+    "replacement": "tfmg:coal_coke"
+  },
+  {
+    "action": "replace_input",
+    "target": "minecraft:coal_block",
+    "mod": "powergrid",
+    "replacement": "tfmg:coal_coke_block"
+  },
+  {
     "action": "remove_recipe",
     "output": "powergrid:acid"
+  },
+  {
+    "action": "remove_recipe",
+    "id" :[
+      "powergrid:mechanical_crafting/electric_motor"
+    ]
   }
 ]

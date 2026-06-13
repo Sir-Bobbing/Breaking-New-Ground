@@ -514,7 +514,7 @@ hash = "2fc8333ddc190d44d555f49da8857a5464d1b5fafe8844bb9a4b8f2688b9ab02"
 
 [[files]]
 file = "config/reliable_recipes/recipe_rules.json"
-hash = "5d7500bfa045314d31f0cfabede1b22d5ed2a779655ad1c1e569fe351e285207"
+hash = "0c5754aa3405f4ebd931118085a4eafc74cc67ab82a4f4dc8257dcdc03c98556"
 
 [[files]]
 file = "config/reliable_remover.json"
@@ -838,6 +838,14 @@ file = "kubejs/data/breakingnewground/recipe/crafting/deed_of_ownership.json"
 hash = "9fae832f9140cb26045c43d78cce5e0b52a6fac7073bb6d5ff73003aa38d35cf"
 
 [[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/electric_motor.json"
+hash = "f746e42d324654d3973d47be941bad94d1fc1146909e389f7f10eab3ec5daf91"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/electric_pump.json"
+hash = "3b8038c3fe3eb306ab43ff57aabddbbb44110ea53b79ef86b831595681d2104d"
+
+[[files]]
 file = "kubejs/data/breakingnewground/recipe/crafting/guide.json"
 hash = "540c42bc27a7af3444b442c332d79a5575609cb515f5ba3e500708f23344147d"
 
@@ -906,24 +914,48 @@ file = "kubejs/data/breakingnewground/recipe/mixing/soap.json"
 hash = "103eb4cd26528d7cda8f395676679af11b418fed9c3473b453975f808d4dedc0"
 
 [[files]]
-file = "kubejs/data/breakingnewground/recipe/spirit_transmutation/asurine_from_veridium.json"
+file = "kubejs/data/breakingnewground/recipe/spirit_transmutation/create_stones/asurine_from_veridium.json"
 hash = "13b966dc667b96eab873f1990f0f9de09ca878fe26ca7177b909329d0bf8cff8"
 
 [[files]]
-file = "kubejs/data/breakingnewground/recipe/spirit_transmutation/blighted_earth_from_galena.json"
+file = "kubejs/data/breakingnewground/recipe/spirit_transmutation/create_stones/blighted_earth_from_galena.json"
 hash = "b1e7511fbd164bc150d119a3a909875456407906e771612febde398bea5ee4eb"
 
 [[files]]
-file = "kubejs/data/breakingnewground/recipe/spirit_transmutation/galena_from_ochrum.json"
+file = "kubejs/data/breakingnewground/recipe/spirit_transmutation/create_stones/galena_from_ochrum.json"
 hash = "fa25f157b594580b7a9e0fcb4552cf243f7cb65e8b121115365abfe1c482af2c"
 
 [[files]]
-file = "kubejs/data/breakingnewground/recipe/spirit_transmutation/ochrum_from_asurine.json"
+file = "kubejs/data/breakingnewground/recipe/spirit_transmutation/create_stones/ochrum_from_asurine.json"
 hash = "285daa086c1e4195fdf37c4eeec9419db321d1d3f0006482d159237ea5e948cc"
 
 [[files]]
-file = "kubejs/data/breakingnewground/recipe/spirit_transmutation/veridium_from_crimsite.json"
+file = "kubejs/data/breakingnewground/recipe/spirit_transmutation/create_stones/veridium_from_crimsite.json"
 hash = "22f52085b5d86fbbd374abba195ab0b5ece3755054f59feaa1eeacc4082c65a0"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/spirit_transmutation/obsidian/blighted_earth_from_scarstone.json"
+hash = "62d9254fcbdcec87c3dbd3091406b73e87bbe3e73155c980498b3e1bbd29ea3e"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/spirit_transmutation/obsidian/crying_from_obsidian.json"
+hash = "4d1122888a632dabc65a67ef94c18922c659ee9125411bc18aa12a25c8e42648"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/spirit_transmutation/obsidian/scarstone_from_crying.json"
+hash = "36d9563fcdafb80737399db17538aa8f101a4a1164a8124dc9cb949f59f00084"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/spirit_transmutation/salt/blighted_earth_from_sulfur.json"
+hash = "f7cfefaa9ad7bdd63ef03cd0d8a74cd0764ee7c283d22cd2829e4491cb960ca6"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/spirit_transmutation/salt/saltpeter_from_salt.json"
+hash = "290e2f245775d31c6e75eb12c43984bf4ab19449798770e044f7ba1ec196a6f7"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/spirit_transmutation/salt/sulfur_from_saltpeter.json"
+hash = "3c5b7ebd1db02c04dd2f8922b2c08121010c3d266aff5a17034b7eaf512d046c"
 
 [[files]]
 file = "kubejs/data/breakingnewground/tags/worldgen/biome/has_cog_chambers.json"
@@ -940,6 +972,10 @@ hash = "54d2a7c8d9149e09adb10a9fc210057853ce15921b4da03a5c7e42bd3825328b"
 [[files]]
 file = "kubejs/data/breakingnewground/tags/worldgen/biome/spawns_scguns_mobs.json"
 hash = "54d2a7c8d9149e09adb10a9fc210057853ce15921b4da03a5c7e42bd3825328b"
+
+[[files]]
+file = "kubejs/data/breakingnewground/tags/worldgen/structure/adventure_map_destinations.json"
+hash = "355adde1e6c65825baec8c59c66428e0a2ad3a1f622e9bf2f62e07a66e879e08"
 
 [[files]]
 file = "kubejs/data/chunkloaders/recipe/advanced_chunk_loader.json"
@@ -1718,8 +1754,16 @@ file = "kubejs/data/malum/recipe/spirit_infusion/brilliant_obelisk.json"
 hash = "366fa3c150b52629d2b76088a9d1110edced76aacfa4127c77a3cdac87dcacb6"
 
 [[files]]
+file = "kubejs/data/malum/recipe/spirit_infusion/complete_design.json"
+hash = "3e282979118a857441bdf59afe428b6ec5579b8de3a7bd08ea4ba20eec785d05"
+
+[[files]]
 file = "kubejs/data/malum/recipe/spirit_infusion/ring_of_arcane_prowess.json"
 hash = "21f62b2d8b3cb2d6497357bd8409e2dda2a74e50aa63a3a53627890d52562ffc"
+
+[[files]]
+file = "kubejs/data/malum/recipe/void_favor/anomalous_design.json"
+hash = "0b7b642cf0cfe34c265252195e1a97bd74d8a51631baf19cdcef6cc8353c9e2c"
 
 [[files]]
 file = "kubejs/data/malum/recipe/void_favor/mnemonic_fragment_from_cluster.json"
@@ -1772,6 +1816,22 @@ hash = "c38278b5161a2b3f7f1b6014da354f1932524e747d82e883a12f6a5c66a135a5"
 [[files]]
 file = "kubejs/data/minecraft/loot_table/entities/iron_golem.json"
 hash = "ff800229bcbadf21c73e4f4fa4b06b8fb3fc08c7cf5148d25aabebb53137523e"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/cartographer/weeping_map_2.json"
+hash = "69c436dfc573602d95e134ea695de4076de2cd96b5050f3d35a488f4608d12df"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/cartographer/weeping_map_3.json"
+hash = "7f6af13d46e47efd3bde75337772e270ab140d755b34606022f4659f8790983b"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/cartographer/weeping_map_4.json"
+hash = "b3113c984837cae16efa7d914b46d3d22b3d6097dfd3a8a112ceda5fbe36d004"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/wandering_trader/weeping_map.json"
+hash = "d114878e9acb8b5770995b1ddf9a58c63fb3d465d95fd35a4f904f8ba79971f2"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/block/enderman_holdable.json"
@@ -1860,6 +1920,78 @@ hash = "1bd9fe4dbc0c84563cb1bc8af62a45595aa53343e8c75d95b3594b87bc68ee39"
 [[files]]
 file = "kubejs/data/particlemimicry/recipe/particle_emitter.json"
 hash = "6a2efb900f3e6866eb0ad0baa8c97724933478961f1784c6cf2615da810ee9bf"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/crafting/circuit_design_table.json"
+hash = "b917922fdad14ac9bd5bc9dc7c993e20443724c9d1cf49b47465f6b453e978a9"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/crafting/copper_coil.json"
+hash = "35e79e3ccff9e4319ca16b561c79e6825ea99e94821cdcda2c6359d6ea3fd3d4"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/crafting/cord_junction.json"
+hash = "e7a021c197567d796193e724e4fd6acd6ddb80eb29310e9b3cc2922e29ec9fea"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/crafting/device_connector.json"
+hash = "4140f248f0afc6643043fb5b11c3c93de84fb3a17adb83d5ad83a207fadc40ae"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/crafting/heating_coil.json"
+hash = "8ed9e821248bffc15d2dd531f16f9df12536339af1971786fe0cd441dafa45c7"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/crafting/heavy_wire_connector.json"
+hash = "a16fa2ef824c6989cf47c175f55c8c33dd0dec047f2f9a79b1fa83a56c760631"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/crafting/hv_breaker.json"
+hash = "727a89a19ca47252d38e4724908e48e025eaa03d3837ae78f391843771c7511c"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/crafting/hv_switch.json"
+hash = "b1f2fe27fc4d41c61df7d3622193619c436c374c70d708d6dd80f445b23c6d31"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/crafting/multimeter.json"
+hash = "d612dfa451511699a8a02b8b3bc580326a4ad8eb7c2820c7889625b48382643d"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/crafting/resistive_coil.json"
+hash = "d8918115e06038addd81edc32d73295e18fb79e796662db2354309f87420a146"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/crafting/wire_connector.json"
+hash = "cde6372b9a8158445bcad6820a5d2158fcb169815a48b3d38c176c0dfe42afca"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/cutting/copper_wire_cutting.json"
+hash = "49add66d300bbf920a60a28591cb3431ba71aaf486a78a108f69c808bdd6498a"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/cutting/gold_wire_cutting.json"
+hash = "cc61eb9852a7f482d1b6b1265501c19d7fe25c5c7eb4eef79e76aaef63928dcb"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/cutting/iron_wire_cutting.json"
+hash = "3a142816ae5ba2a9ec6e8f0de3b351150f7cefee03ce1dfe05210bb7eb1968d6"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/item_application/conductive_casing.json"
+hash = "792c694b603688dc7ecc067d69afc6b4e51a04187ce3e1b9f20b592722e9fa0a"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/mechanical_crafting/basin_heater.json"
+hash = "b6ecf2aae9fef1a16059c571aa3b04d93741abfee999473c8efb011fd4504e8f"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/mechanical_crafting/integrated_circuit.json"
+hash = "64406548bafceb75991948b23126c7e6e76a1809e33e48c836c0a2b6f6d74f3f"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/sequenced_assembly/electrical_gizmo.json"
+hash = "c44c403e1f61c3add8316b4058daea9014e6a890038f635736d891fcebda036e"
 
 [[files]]
 file = "kubejs/data/quark/recipe/building/crafting/cobblestone_bricks.json"
@@ -2146,12 +2278,20 @@ file = "kubejs/data/scguns/recipe/disc/powered_music_disc_ward.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "kubejs/data/scguns/recipe/lightning_battery.json"
+hash = "72e0afc63b48dae961127ad0ae69eb638bffa52cb80a53f3b3b9865cb9751532"
+
+[[files]]
 file = "kubejs/data/scguns/recipe/mech_press/antique_flare.json"
 hash = "1d7a39917a1c153a1467e83d8c205a9ce257cf8694823732b2ea50b5373de40b"
 
 [[files]]
 file = "kubejs/data/scguns/recipe/mech_press/depleted_diamond_steel.json"
 hash = "bb363b90e00f37de1b3407ec71d0c125a1e6f65900b6401533e8f1e6c81586e5"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/polar_generator.json"
+hash = "0fab73159473b1c3b04417e27504eeef0165271742d85f216bbf10af220746a0"
 
 [[files]]
 file = "kubejs/data/scguns/recipe/powered_mech_press/powered_antique_flare.json"
@@ -2234,8 +2374,20 @@ file = "kubejs/data/spelunkery/worldgen/placed_feature/spring_water_pool.json"
 hash = "59af875d79489ee0c83448144812c05464e04f9faf2cf1a777487bafb79c78da"
 
 [[files]]
+file = "kubejs/data/supplementaries/tags/worldgen/structure/adventure_map_destinations.json"
+hash = "aae24e912dc9dc3c41057f3f8496f6e776b6e9cfd7d59010d47219dfd1b5add6"
+
+[[files]]
+file = "kubejs/data/tfmg/recipe/filling/hardened_planks.json"
+hash = "3cd39e290dd645cfd97ec28c96d4bfce728556dcf92e32ee0f9a3bfb59053e3c"
+
+[[files]]
 file = "kubejs/data/tfmg/recipe/mixing/gunpowder.json"
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+
+[[files]]
+file = "kubejs/data/tfmg/recipe/sequenced_assembly/unfinished_circuit_board.json"
+hash = "1c3202354aa566338a1d296a56a3bedb001287421046001dde5de1eeba850df2"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/vat_machine_recipe/rubber.json"

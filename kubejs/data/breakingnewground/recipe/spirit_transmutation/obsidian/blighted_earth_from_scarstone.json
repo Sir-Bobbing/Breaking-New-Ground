@@ -1,0 +1,11 @@
+{
+  "type": "malum:unchained_transmutation",
+  "group": "obsidian",
+  "input": {
+    "item": "malum:scarstone"
+  },
+  "result": {
+    "count": 1,
+    "id": "malum:blighted_earth"
+  }
+}

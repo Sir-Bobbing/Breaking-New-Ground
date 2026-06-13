@@ -1,0 +1,29 @@
+{
+  "replace": true,
+  "values": [
+    "#minecraft:mineshaft",
+    "#minecraft:ancient_city",
+    "#minecraft:fortress",
+
+    "minecraft:swamp_hut",
+    "minecraft:bastion_remnant",
+    "minecraft:end_city",
+
+    "nomansland:small_dungeon",
+
+    "malum:weeping_well",
+
+    "scguns:cog_chambers",
+
+    "kobolds:kobold_den",
+
+    "#nova_structures:badlands_miner_outpost",
+    "#nova_structures:conduit_ruin",
+    "#nova_structures:creeping_crypt",
+    "#nova_structures:illager_hideout",
+    "#nova_structures:nether_skeleton_structures",
+    "#nova_structures:piglin_structures",
+    "#nova_structures:shrine",
+    "#nova_structures:undead_crypt"
+  ]
+}
