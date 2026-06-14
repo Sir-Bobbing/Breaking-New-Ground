@@ -25,6 +25,10 @@ function getIngotID( metalInfo ) {
     return metalInfo[2] + ":" + metalInfo[0] + "_ingot"
 }
 
+function getNodeID( metalInfo ) {
+    return "malum:" + metalInfo[0] + "_node"
+}
+
 function registerCasting( event, metalInfo ) {
     event.custom({
         type: 'tfmg:casting',
@@ -164,6 +168,30 @@ function registerSlurry(event, metalInfo) {
     })
 }
 
+function registerNodeConversion(event, metalInfo) {
+    event.custom({
+        type: "malum:spirit_infusion",
+        "extraInputs": [{
+            "count": 1,
+            "item": "minecraft:clay_ball"
+        }],
+        "input": {
+            "count": 2,
+            "item": getNodeID(metalInfo)
+        },
+        "result": {
+            "count": 1,
+            "id": getCrushedID(metalInfo)
+        },
+        "spirits": [
+            {
+            "type": "malum:aqueous",
+            "count": 2
+            }
+        ]
+    })
+}
+
 ServerEvents.recipes(event => {
     let len = moltenMetals.length
     for (let i = 0; i < len; i++) {
@@ -173,6 +201,9 @@ ServerEvents.recipes(event => {
         registerVatLow(event, metalInfo)
         registerVatHigh(event, metalInfo)
         registerSlurry(event, metalInfo)
+        if (metalInfo[0] != "anthralite") {
+            registerNodeConversion(event, metalInfo)
+        }
     }
 })
 
