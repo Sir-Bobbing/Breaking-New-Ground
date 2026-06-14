@@ -33,7 +33,7 @@ function registerCasting( event, metalInfo ) {
             "amount": 144,
             "fluid": getMoltenID( metalInfo )
         }],
-        "processing_time": 200,
+        "processing_time": 50,
         "results": [{
             "id": getIngotID(metalInfo)
         }]
@@ -78,7 +78,7 @@ function registerVatLow( event, metalInfo ) {
             "tfmg:electrode",
             "tfmg:mixing"
         ],
-        "min_size": 2,
+        "min_size": 8,
         "processing_time": 40,
         "ingredients": [
             {
@@ -114,7 +114,7 @@ function registerVatHigh( event, metalInfo ) {
             "tfmg:graphite_electrode",
             "tfmg:mixing"
         ],
-        "min_size": 2,
+        "min_size": 9,
         "processing_time": 20,
         "ingredients": [
             {
