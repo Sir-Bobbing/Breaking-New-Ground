@@ -13,6 +13,9 @@
       "tag": "c:ingots/iron"
     },
     {
+      "tag": "c:ingots/lead"
+    },
+    {
       "item": "minecraft:redstone"
     },
     {
@@ -24,7 +27,7 @@
   ],
   "results": [
     {
-      "count": 3,
+      "count": 2,
       "id": "scguns:treated_iron_ingot"
     }
   ]

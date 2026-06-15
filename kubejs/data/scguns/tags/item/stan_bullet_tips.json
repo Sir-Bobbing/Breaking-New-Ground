@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "scguns:standard_bullet",
+    "#c:nuggets/lead"
+    ]
+}

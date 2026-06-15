@@ -1,0 +1,39 @@
+{
+  "type": "scguns:gun_bench",
+  "result": {
+    "id": "scguns:exo_suit_chestplate",
+    "count": 1
+  },
+  "ingredients": {
+    "blueprint": {
+      "item": "scguns:exo_suit_blueprint"
+    },
+    "gun_internal_1": {
+      "tag": "c:ingots/steel"
+    },
+    "gun_top_internal_1": {
+      "item": "scguns:anthralite_ingot"
+    },
+    "gun_top_internal_2": {
+      "item": "tfmg:plastic_sheet"
+    },
+    "gun_barrel_1": {
+      "tag": "c:ingots/steel"
+    },
+    "gun_barrel_2": {
+      "item": "powergrid:electrical_gizmo"
+    },
+    "gun_top_barrel_1": {
+      "item": "scguns:anthralite_ingot"
+    },
+    "gun_internal_2": {
+      "item": "tfmg:steel_mechanism"
+    },
+    "gun_grip": {
+      "item": "scguns:anthralite_ingot"
+    },
+    "gun_magazine": {
+      "item": "scguns:anthralite_ingot"
+    }
+  }
+}

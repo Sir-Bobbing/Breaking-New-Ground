@@ -8,7 +8,8 @@ const moltenMetals = [
     ["zinc", 0xB7E6BF],
     ["lead", 0x7d9292],
     ["nickel", 0xcfd0c7],
-    ["anthralite", 0x8A5F21]
+    ["anthralite", 0x8A5F21],
+    ["debris", 0x593B15]
 ]
 
 function capitalizeFirstLetter(val) {
