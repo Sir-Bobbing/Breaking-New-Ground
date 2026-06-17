@@ -1,0 +1,20 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "glow:glowstone_prism"
+    }
+  ],
+  "processing_time": 150,
+  "results": [
+    {
+      "count": 12,
+      "id": "minecraft:glowstone_dust"
+    },
+    {
+      "chance": 0.3,
+      "count": 9,
+      "id": "minecraft:glowstone_dust"
+    }
+  ]
+}
