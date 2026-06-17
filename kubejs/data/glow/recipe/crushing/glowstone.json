@@ -8,12 +8,7 @@
   "processing_time": 150,
   "results": [
     {
-      "count": 12,
-      "id": "minecraft:glowstone_dust"
-    },
-    {
-      "chance": 0.5,
-      "count": 9,
+      "count": 3,
       "id": "minecraft:glowstone_dust"
     }
   ]
