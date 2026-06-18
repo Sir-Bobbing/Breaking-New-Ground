@@ -50,6 +50,14 @@
       "scguns:create/gunpowder_from_mixing"
     ]
   },
+// SC Guns
+  {
+    "action": "remove_recipe",
+    "id": [
+      "scguns:mech_press/exo_suit_core",
+      "scguns:powered_mech_press/powered_exo_suit_core"
+    ]
+  },
 // CBC
   {
     "action": "replace_input",

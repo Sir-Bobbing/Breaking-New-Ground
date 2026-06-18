@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "scguns:treated_iron_ingot"
+    },
+    {
+      "item": "artifacts:snorkel"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scguns:rebreather_module"
+  }
+}

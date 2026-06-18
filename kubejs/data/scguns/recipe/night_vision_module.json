@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "type": "neoforge:components",
+      "items": "minecraft:lingering_potion",
+      "components": {
+        "minecraft:potion_contents":{"potion":"minecraft:long_night_vision"}
+      }
+    },
+    "B": {
+      "item": "powergrid:copper_cord"
+    },
+    "C": {
+      "item": "scguns:treated_iron_ingot"
+    },
+    "D": {
+      "item": "minecraft:lime_stained_glass"
+    },
+    "E": {
+      "item": "minecraft:spyglass"
+    },
+    "F": {
+      "item": "tfmg:circuit_board"
+    }
+  },
+  "pattern": [
+    "ABC",
+    "DEF"
+  ],
+  "result": {
+    "id": "scguns:night_vision_module"
+  }
+}
