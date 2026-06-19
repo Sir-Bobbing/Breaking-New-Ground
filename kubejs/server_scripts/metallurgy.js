@@ -207,7 +207,6 @@ ServerEvents.recipes(event => {
     let len = moltenMetals.length
     for (let i = 0; i < len; i++) {
         let metalInfo = moltenMetals[i]
-        console.log("FIND_ME", metalInfo)
         registerCasting(event, metalInfo)
         registerBlasting(event, metalInfo)
         registerVatLow(event, metalInfo)
