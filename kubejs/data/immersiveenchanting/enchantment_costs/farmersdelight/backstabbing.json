@@ -1,0 +1,22 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "nomansland:spike_trap",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "scguns:nail_bomb",
+        "amount": 1
+      }
+    ],
+    "3": [
+      {
+        "item": "redomesticate:sinister_carrot",
+        "amount": 1
+      }
+    ]
+  }
+}

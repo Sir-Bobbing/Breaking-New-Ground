@@ -1,0 +1,22 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "create:fluid_tank",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "scguns:empty_tank",
+        "amount": 2
+      }
+    ],
+    "3": [
+      {
+        "item": "tfmg:air_bucket",
+        "amount": 1
+      }
+    ]
+  }
+}

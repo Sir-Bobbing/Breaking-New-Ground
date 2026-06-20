@@ -1,0 +1,34 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "farmersdelight:cake_slice",
+        "amount": 1
+      },
+      {
+        "item": "farmersdelight:apple_pie_slice",
+        "amount": 1
+      },
+      {
+        "item": "farmersdelight:sweet_berry_cheesecake_slice",
+        "amount": 1
+      },
+      {
+        "item": "farmersdelight:pumpkin_pie_slice",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "farmersdelight:chocolate_pie_slice",
+        "amount": 1
+      }
+    ],
+    "3": [
+      {
+        "item": "brewinandchewin:cocoa_fudge",
+        "amount": 1
+      }
+    ]
+  }
+}

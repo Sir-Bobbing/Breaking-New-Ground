@@ -1,0 +1,22 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "quark:bottled_cloud",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "malum:wind_nucleus",
+        "amount": 1
+      }
+    ],
+    "3": [
+      {
+        "item": "aeronautics:music_disc_cloud_skipper",
+        "amount": 1
+      }
+    ]
+  }
+}

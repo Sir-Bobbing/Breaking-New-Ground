@@ -1,0 +1,22 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "minecraft:emerald",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "spelunkery:rough_emerald_block",
+        "amount": 1
+      }
+    ],
+    "3": [
+      {
+        "item": "malum:intricate_assembly",
+        "amount": 1
+      }
+    ]
+  }
+}

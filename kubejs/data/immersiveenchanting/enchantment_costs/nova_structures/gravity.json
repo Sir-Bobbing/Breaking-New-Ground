@@ -1,0 +1,22 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "minecraft:sand",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "minecraft:gravel",
+        "amount": 1
+      }
+    ],
+    "3": [
+      {
+        "item": "supplementaries:slidy_block",
+        "amount": 1
+      }
+    ]
+  }
+}

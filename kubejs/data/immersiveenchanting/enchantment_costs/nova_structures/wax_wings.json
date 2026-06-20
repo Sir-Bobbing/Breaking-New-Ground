@@ -1,0 +1,10 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "minecraft:honeycomb_block",
+        "amount": 6
+      }
+    ]
+  }
+}

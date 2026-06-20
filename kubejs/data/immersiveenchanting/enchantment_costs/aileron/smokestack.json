@@ -1,0 +1,22 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "minecraft:campfire",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "aeronautics:adjustable_burner",
+        "amount": 1
+      }
+    ],
+    "3": [
+      {
+        "item": "minecraft:firework_rocket",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item": "minecraft:poisonous_potato",
+        "amount": 1
+      }
+    ],
+    "2": [
+      {
+        "item": "powergrid:potato_battery",
+        "amount": 1
+      }
+    ],
+    "3": [
+      {
+        "item": "farmersdelight:stuffed_potato",
+        "amount": 1
+      }
+    ]
+  }
+}

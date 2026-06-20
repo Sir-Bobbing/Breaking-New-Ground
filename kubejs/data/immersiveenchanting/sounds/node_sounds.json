@@ -339,6 +339,96 @@
       "sound": "minecraft:item.honeycomb.wax_on",
       "volume": 0.5,
       "pitch": 1.0
+    },
+    "farmersdelight:backstabbing": {
+      "sound": "nomansland:block.spike_trap.extend",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "create:potato_recovery": {
+      "sound": "create:fwoomp",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "create:capacity": {
+      "sound": "aeronautics:entity.gust",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "aileron:smokestack": {
+      "sound": "supplementaries:block.bellows.blow",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "aileron:cloudskipper": {
+      "sound": "aeronautics:item.cloud_skipper_transform",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "kobolds:prospector": {
+      "sound": "kobolds:kobold_yip",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "supplementaries:stasis": {
+      "sound": "supplementaries:block.clock.tick_1",
+      "volume": 1,
+      "pitch": 1.0
+    },
+    "nova_structures:antidote": {
+      "sound": "minecraft:entity.cow.milk",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "nova_structures:outreach": {
+      "sound": "create:cardboard_bonk",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "nova_structures:traveler": {
+      "sound": "entity.generic.eat",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "nova_structures:ghasted": {
+      "sound": "minecraft:entity.ghast.shoot",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "nova_structures:gravity": {
+      "sound": "minecraft:entity.enderman.teleport",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "nova_structures:wither_coated": {
+      "sound": "minecraft:entity.wither.shoot",
+      "volume": 0.2,
+      "pitch": 1.0
+    },
+    "nova_structures:wax_wings": {
+      "sound": "minecraft:item.honeycomb.wax_on",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "nova_structures:illagers_bane": {
+      "sound": "minecraft:entity.pillager.ambient",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "nova_structures:power": {
+      "sound": "minecraft:entity.arrow.hit",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "nova_structures:multishot": {
+      "sound": "minecraft:item.trident.hit_ground",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
+    "nova_structures:piercing": {
+      "sound": "minecraft:entity.firework_rocket.launch",
+      "volume": 0.5,
+      "pitch": 1.0
     }
   }
 }
