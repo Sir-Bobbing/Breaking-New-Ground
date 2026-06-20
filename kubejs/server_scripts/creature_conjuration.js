@@ -33,9 +33,11 @@ ServerEvents.recipes(event => {
         "endermanoverhaul:windswept_hills_enderman":{"item": 'endermanoverhaul:summoner_pearl', "hostile":true},
 
         "minecraft:cow":{"item": 'minecraft:beef'},
+        "minecraft:mooshroom":{"item": 'minecraft:beef'},
         "minecraft:horse":{"item": 'nomansland:raw_horse'},
         "minecraft:pig":{"item": 'minecraft:porkchop'},
         "minecraft:sheep":{"item": 'minecraft:mutton'},
+        "minecraft:goat":{"item": 'minecraft:mutton'},
         "minecraft:chicken":{"item": 'minecraft:chicken'},
         "minecraft:parrot":{"item": 'minecraft:feather'},
         "minecraft:rabbit":{"item": 'minecraft:rabbit'},
@@ -46,6 +48,7 @@ ServerEvents.recipes(event => {
         "minecraft:tropical_fish":{"item": 'minecraft:tropical_fish'},
         "minecraft:glow_squid":{"item": 'minecraft:glow_ink_sac'},
         "minecraft:strider":{"item": 'minecraft:string'},
+        "minecraft:cat":{"item": 'minecraft:string'},
         "minecraft:villager":{"item": 'spelunkery:rough_emerald_block'},
         "minecraft:wandering_trader":{"item": 'spelunkery:rough_emerald_block'},
         "nomansland:deer":{"item": 'nomansland:raw_venison'},
@@ -59,8 +62,11 @@ ServerEvents.recipes(event => {
         "minecraft:ghast":{"item": 'minecraft:ghast_tear', "hostile":true},
         "minecraft:shulker":{"item": 'minecraft:shulker_shell', "hostile":true},
         "minecraft:skeleton":{"item": 'minecraft:bone', "hostile":true},
+        "minecraft:stray":{"item": 'minecraft:bone', "hostile":true},
         "minecraft:slime":{"item": 'minecraft:slime_ball', "hostile":true},
         "minecraft:zombie":{"item": 'minecraft:rotten_flesh', "hostile":true},
+        "minecraft:drowned":{"item": 'minecraft:rotten_flesh', "hostile":true},
+        "minecraft:husk":{"item": 'minecraft:rotten_flesh', "hostile":true},
         "minecraft:zombified_piglin":{"item": 'minecraft:rotten_flesh', "hostile":true},
         "minecraft:breeze":{"item": 'minecraft:breeze_rod', "hostile":true},
         "minecraft:creeper":{"item": 'minecraft:gunpowder', "hostile":true},
@@ -94,7 +100,8 @@ ServerEvents.recipes(event => {
         }
         result.components = {
             "minecraft:custom_data": {"creature_conjuration": 1},
-            "entity_data": {"id": id}
+            "entity_data": {"id": id},
+            "lore": ['{"text":"Will spawn immediately when craft is done ","italic":false}']
         }
         return result
     }
