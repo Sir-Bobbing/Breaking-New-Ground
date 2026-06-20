@@ -2,7 +2,7 @@
   "levels": {
     "1": [
       {
-        "item": "minecraft:writable_book",
+        "item": "malum:encyclopedia_arcana",
         "amount": 1,
         "xp_levels": 10
       }

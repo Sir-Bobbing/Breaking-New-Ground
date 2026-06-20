@@ -2,9 +2,9 @@
   "levels": {
     "1": [
       {
-        "item": "minecraft:air",
+        "item": "malum:convoluted_lens",
         "amount": 1,
-        "xp_levels": 10
+        "xp_levels": 20
       }
     ]
   }
