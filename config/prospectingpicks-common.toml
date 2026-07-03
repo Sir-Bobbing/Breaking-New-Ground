@@ -1,5 +1,5 @@
 enableTierSilver = false
-enableTierBronze = false
+enableTierBronze = true
 enableTierSteel = true
 #Display ore count numerically instead of descriptively
 displayNumericCount = false
