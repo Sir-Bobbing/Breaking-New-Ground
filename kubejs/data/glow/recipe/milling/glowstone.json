@@ -12,7 +12,7 @@
       "id": "minecraft:glowstone_dust"
     },
     {
-      "chance": 0.5,
+      "chance": 0.1,
       "count": 1,
       "id": "minecraft:glowstone_dust"
     }

@@ -1,14 +1,14 @@
 ServerEvents.recipes(event => {
 
     const spiritCatalysts = {
-        "malum:sacred": 'minecraft:quartz',
-        "malum:wicked": 'minecraft:flint',
-        "malum:arcane": 'minecraft:amethyst_shard',
-        "malum:eldritch": 'architects_palette:unobtanium',
-        "malum:aerial": 'minecraft:pointed_dripstone',
-        "malum:aqueous": 'minecraft:clay_ball',
-        "malum:earthen": 'spelunkery:stone_pebble',
-        "malum:infernal": 'minecraft:glowstone_dust'
+        "malum:sacred": {"tag":'breakingnewground:sacred_spirit_catalyst'},
+        "malum:wicked": {"tag":'breakingnewground:wicked_spirit_catalyst'},
+        "malum:arcane": {"tag":'breakingnewground:arcane_spirit_catalyst'},
+        "malum:eldritch": {"item":'architects_palette:unobtanium'},
+        "malum:aerial": {"tag":'breakingnewground:aerial_spirit_catalyst'},
+        "malum:aqueous": {"item":'minecraft:clay_ball'},
+        "malum:earthen": {"item":'spelunkery:stone_pebble'},
+        "malum:infernal": {"item":'minecraft:glowstone_dust'}
     }
 
     const spawnableCreatures = {
@@ -49,6 +49,8 @@ ServerEvents.recipes(event => {
         "minecraft:glow_squid":{"item": 'minecraft:glow_ink_sac'},
         "minecraft:strider":{"item": 'minecraft:string'},
         "minecraft:cat":{"item": 'minecraft:string'},
+        "minecraft:squid":{"item": 'minecraft:ink_sac'},
+        "minecraft:glow_squid":{"item": 'minecraft:glow_ink_sac'},
         "minecraft:villager":{"item": 'spelunkery:rough_emerald_block'},
         "minecraft:wandering_trader":{"item": 'spelunkery:rough_emerald_block'},
         "nomansland:deer":{"item": 'nomansland:raw_venison'},
@@ -76,15 +78,74 @@ ServerEvents.recipes(event => {
         "minecraft:vindicator":{"item": 'minecraft:emerald', "hostile":true},
         "minecraft:witch":{"item": 'minecraft:redstone', "hostile":true},
         "minecraft:hoglin":{"item": 'minecraft:porkchop', "hostile":true},
+
+        "artifacts:mimic":{
+            "input": {
+                "tag": "artifacts:artifacts"
+            },
+            "result": {
+                "count": 1,
+                "id": "artifacts:mimic_spawn_egg",
+                "components": {
+                    "minecraft:custom_data": {"creature_conjuration": 1},
+                    "minecraft:enchantments": {
+                        "levels":{"malum:haunted": 10},
+                        "show_in_tooltip": false
+                    },
+                    "entity_data": {
+                        "id": "artifacts:mimic",
+                        "attributes": [
+                            {"id": "minecraft:generic.movement_speed", "base": 1.25},
+                            {"id": "minecraft:generic.jump_strength", "base": 0.6},
+                            {"id": "lodestone:magic_resistance", "base": 2},
+                            {"id": "malum:malignant_aegis_recovery_rate", "base": 4},
+                            {"id": "malum:malignant_aegis_recovery_gain", "base": 1},
+                            {"id": "malum:malignant_aegis_capacity", "base": 3}
+                        ],
+                        "neoforge:attachments": {
+                            "malum:geas_soul_info": {
+                                "geasEffects": [
+                                    "malum:pact_of_the_berserker",
+                                    "malum:pact_of_patience_repaid",
+                                ]
+                            }
+                        },
+                        "active_effects": [
+                            {"amplifier": 3, "id": "minecraft:regeneration", "duration": -1, "show_icon": 0},
+                            {"amplifier": 3, "id": "minecraft:resistance", "duration": -1, "show_icon": 0}
+                        ]
+                    },
+                    "lore": [
+                        '{"text":"Will spawn immediately when craft is done","italic":false}',
+                        '{"text":"Requires extra spirits to conjure","italic":false}',
+                        '{"text":"Prepare. For it is formidable to even the strongest...","underlined":true,"color":"dark_red"}'
+                    ]
+                }
+            },
+            "spirits": [
+                {
+                    "type": "malum:eldritch",
+                    "count": 24
+                },
+                {
+                    "type": "malum:arcane",
+                    "count": 24
+                }
+            ],
+            "hostile":true
+        },
     }
 
     function getCatalysts(info, spirits) {
         const catalysts = [info.extra]
         spirits.forEach((spirit) => {
-            catalysts.push({
-                "count": spirit["count"],
-                "item": spiritCatalysts[spirit["spirit"]]
-            })
+            let cat = {
+                "count": spirit["count"]
+            }
+            let inputType = spiritCatalysts[spirit["type"]]
+            if (inputType.item) {cat.item = inputType.item}
+            if (inputType.tag) {cat.tag = inputType.tag}
+            catalysts.push(cat)
         })
         return catalysts
     }
@@ -95,13 +156,13 @@ ServerEvents.recipes(event => {
             let idInfo = id.split(":")
             result = {
                 "count": 1,
-                "id": idInfo[0] + ":" + idInfo[1] + "_spawn_egg"
+                "id": idInfo[0] + ":" + idInfo[1] + "_spawn_egg",
+                "components": {
+                    "minecraft:custom_data": {"creature_conjuration": 0},
+                    "entity_data": {"id": id},
+                    "lore": ['{"text":"Will spawn immediately when craft is done","italic":false}']
+                }
             }
-        }
-        result.components = {
-            "minecraft:custom_data": {"creature_conjuration": 1},
-            "entity_data": {"id": id},
-            "lore": ['{"text":"Will spawn immediately when craft is done ","italic":false}']
         }
         return result
     }
@@ -122,7 +183,13 @@ ServerEvents.recipes(event => {
     }
 
     function registerRecipe(event, id, info) {
-        let spirits = getEntitySpirits(id)
+        let spirits = null
+        if (!info.spirits) {
+            spirits = getEntitySpirits(id)
+        }
+        else {
+            spirits = info.spirits
+        }
 
         if (!info.input) {
             info.input = {
@@ -172,9 +239,16 @@ EntityEvents.spawned(event => {
         let customData = c.get("custom_data")
         if (customData != null && customData.contains("creature_conjuration")) {
             let entityData = c.get("entity_data").copyTag()
-            console.log(event.entity.position.toString())
-            event.level.runCommandSilent('summon '+entityData.getString("id")+' '+positionString(event.entity))
-            event.cancel()
+            let cd = customData.copyTag()
+            console.log(cd.getByte("creature_conjuration"))
+            if (cd.getByte("creature_conjuration") == 1) {
+                event.level.runCommandSilent('summon '+entityData.getString("id")+' '+positionString(event.entity)+' '+entityData.toString())
+                event.cancel()
+            }
+            else {
+                event.level.runCommandSilent('summon '+entityData.getString("id")+' '+positionString(event.entity))
+                event.cancel()
+            }
         }
     }
 })

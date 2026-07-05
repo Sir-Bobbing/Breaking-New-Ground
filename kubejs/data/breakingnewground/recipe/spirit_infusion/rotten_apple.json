@@ -1,0 +1,23 @@
+{
+  "type": "malum:spirit_infusion",
+  "extraInputs": [
+    {
+      "count": 1,
+      "item": "farmersdelight:organic_compost"
+    }
+  ],
+  "input": {
+    "count": 1,
+    "item": "minecraft:golden_apple"
+  },
+  "result": {
+    "count": 1,
+    "id": "redomesticate:rotten_apple"
+  },
+  "spirits": [
+    {
+      "type": "malum:wicked",
+      "count": 6
+    }
+  ]
+}
