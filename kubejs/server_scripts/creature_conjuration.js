@@ -5,7 +5,7 @@ ServerEvents.recipes(event => {
         "malum:wicked": {"tag":'breakingnewground:wicked_spirit_catalyst'},
         "malum:arcane": {"tag":'breakingnewground:arcane_spirit_catalyst'},
         "malum:eldritch": {"item":'architects_palette:unobtanium'},
-        "malum:aerial": {"tag":'breakingnewground:aerial_spirit_catalyst'},
+        "malum:aerial": {"item":'minecraft:pointed_dripstone'},
         "malum:aqueous": {"item":'minecraft:clay_ball'},
         "malum:earthen": {"item":'spelunkery:stone_pebble'},
         "malum:infernal": {"item":'minecraft:glowstone_dust'}
