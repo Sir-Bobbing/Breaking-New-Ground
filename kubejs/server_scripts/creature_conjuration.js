@@ -136,6 +136,14 @@ ServerEvents.recipes(event => {
         },
     }
 
+    function spiritCount(info, spirits) {
+        let total = 0
+        spirits.forEach((spirit) => {
+            total += spirit["count"]
+        })
+        return Math.max(Math.floor(total / 1.2),1)
+    }
+
     function getCatalysts(info, spirits) {
         const catalysts = [info.extra]
         spirits.forEach((spirit) => {
@@ -201,13 +209,13 @@ ServerEvents.recipes(event => {
         if (!info.extra) {
             if (info.hostile) {
                 info.extra = {
-                    "count": 1,
+                    "count": spiritCount(info, spirits),
                     "item": 'malum:mnemonic_fragment'
                 }
             }
             else {
                 info.extra = {
-                    "count": 1,
+                    "count": spiritCount(info, spirits),
                     "item": 'malum:refined_brilliance'
                 }
             }
