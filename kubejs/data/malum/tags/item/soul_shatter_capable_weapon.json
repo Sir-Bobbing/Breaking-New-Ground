@@ -2,6 +2,10 @@
   "values": [
     "#scguns:deep_dark_gun_tier",
     "#scguns:end_gun_tier",
-    "#scguns:ocean_gun"
+    "#scguns:ocean_gun",
+    "minecraft:trident",
+    "archeological:rusty_sword",
+    "archeological:rusty_axe",
+    "minecraft:mace"
   ]
 }

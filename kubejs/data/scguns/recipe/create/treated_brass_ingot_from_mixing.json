@@ -13,18 +13,18 @@
       "tag": "c:ingots/brass"
     },
     {
-      "item": "minecraft:redstone"
+      "item": "spelunkery:cinnabar"
     },
     {
-      "item": "minecraft:blaze_powder"
+      "item": "scguns:sheol_dust"
     },
     {
-      "item": "malum:blazing_quartz"
+      "item": "malum:blazing_quartz_fragment"
     }
   ],
   "results": [
     {
-      "count": 3,
+      "count": 1,
       "id": "scguns:treated_brass_ingot"
     }
   ]
