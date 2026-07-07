@@ -5,11 +5,11 @@
       "item": "spelunkery:saltpeter"
     },
     {
-      "item": "minecraft:calcite"
+      "item": "supplementaries:ash"
     }
   ],
   "result": {
     "id": "minecraft:bone_meal",
-    "count": 4
+    "count": 3
   }
 }
