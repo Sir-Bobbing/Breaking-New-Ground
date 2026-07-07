@@ -1,4 +1,31 @@
 [
+  // Alternative tagging
+  {
+    "action": "replace_input",
+    "target": "minecraft:leather",
+    "replacement": "#c:leathers"
+  },
+  {
+    "action": "replace_input",
+    "target": "minecraft:string",
+    "replacement": "#c:strings"
+  },
+  {
+    "action": "replace_input",
+    "target": "minecraft:slime_ball",
+    "replacement": "#c:slime_balls"
+  },
+  {
+    "action": "replace_input",
+    "target": "#c:slimeballs",
+    "replacement": "#c:slime_balls"
+  },
+  {
+    "action": "replace_input",
+    "target": "minecraft:enderpearl",
+    "replacement": "#c:enderpearls"
+  },
+  // Big cannons
   {
     "action": "remove_recipe",
     "type": "createbigcannons:melting"
@@ -44,6 +71,11 @@
     "replacement": "#c:dusts/niter"
   },
   {
+    "action": "replace_input",
+    "target": "scguns:pebbles",
+    "replacement": "nomansland:pebbles"
+  },
+  {
     "action": "remove_recipe",
     "id": [
       "scguns:create/heavy_gunpowder_from_mixing",
@@ -84,16 +116,6 @@
     "action": "replace_input",
     "target": "tfmg:transistor_item",
     "replacement": "powergrid:vfet"
-  },
-  {
-    "action": "replace_input",
-    "target": "minecraft:leather",
-    "replacement": "#c:leathers"
-  },
-  {
-    "action": "replace_input",
-    "target": "minecraft:string",
-    "replacement": "#c:strings"
   },
 // Power Grid
   {
