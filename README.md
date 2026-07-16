@@ -9,7 +9,6 @@
 ## Known Issues
 #### Incompatability
 - Amendments fireballs don't hit Sublevels
-- Comforts sleeping bags and hammocks are too far away on sublevels
 #### Bugs
 - Latest Sound Physics Update causes minecart sounds???
 
