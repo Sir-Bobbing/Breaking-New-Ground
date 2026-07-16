@@ -11,8 +11,5 @@
 - Amendments fireballs don't hit Sublevels
 - Comforts sleeping bags and hammocks are too far away on sublevels
 #### Bugs
-- SSRD break Sundogs when in Motion
-- Aeronautics End Sea Breaks Vista Viewfinders
-- Spelunkery parachute rendering
 - Latest Sound Physics Update causes minecart sounds???
 
