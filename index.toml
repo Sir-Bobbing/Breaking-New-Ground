@@ -349,8 +349,12 @@ file = "config/gallery-common.toml"
 hash = "166ee45e1a1592251dbcd025e97cd201446904878c3ac49e3f823e8a89b3277c"
 
 [[files]]
+file = "config/grassier-grass.json"
+hash = "7eda2ec965fe5d315ffab86bc3cbac0647ef45b10fb39e6d36e6886974ca9713"
+
+[[files]]
 file = "config/grassiergrass-client.toml"
-hash = "a86893b55ec15ac73911019f42e537183bb8c18323c5cb2de6b12939758ae84f"
+hash = "14a36131d30333636873a5898c2ca9d898a5033f9e2588ecccf8b5665757f90c"
 
 [[files]]
 file = "config/guideme.toml"

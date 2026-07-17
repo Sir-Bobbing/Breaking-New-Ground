@@ -22,7 +22,7 @@
 	#How far (in blocks) grass renders around you. Cached per chunk, so distance is cheap.
 	# Default: 100
 	# Range: 16 ~ 160
-	renderRadius = 100
+	renderRadius = 160
 	#Blade look: TAPERED (smooth gradient) or SEGMENTED (vanilla-like banded blades).
 	#Allowed Values: TAPERED, SEGMENTED
 	grassStyle = "SEGMENTED"
