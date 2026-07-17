@@ -522,7 +522,7 @@ hash = "5b9399eea3ff127d808f4debfaf3eae7513817cd63b36225e550daf9f8054e88"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
-hash = "864156b47a9bdcb8a37b480cfc307196c6cc2aa23ff3ecb61913d7ee62c5888d"
+hash = "eefcdb9832b9398b2fe7579a2c51a479f0e8db97cd7458b4506fa799f30d888b"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -789,6 +789,58 @@ hash = "d06d35a4d1209adfddf5c44f6e75c5eacb0856eb20736c46962de6d9ae1a7a76"
 [[files]]
 file = "kubejs/data/another_furniture/recipe/warped_shutter.json"
 hash = "7f09ddaec1500e7e6abb0e06e0db4175c19aa6b25993c6d37d3f1e54e0f585e2"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/blocks/armourer.json"
+hash = "9c528dedb48c888f3f54bcae76905b07045eb165bacbfce32afe34fbf43207d3"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/blocks/colour-mixer.json"
+hash = "61e16a372a203fcea3c58fe42f7cc8d4a91d6e054444f66f241547b001168a6f"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/blocks/dye-table.json"
+hash = "17fc212f70c34bf0f1debb7e3db2ed0159f4b3954c85608af03ae7b6dc743de4"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/blocks/hologram-projector.json"
+hash = "3e03659218d005ae4d496f0fa3d1c38c005566b3a5c558c0267164bc86ea4bc1"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/blocks/outfit-maker.json"
+hash = "f4ffa93eb842b6b9d6deba58bf30b91baa30d1861d46e6687cd37d1d464b2c7e"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/blocks/skin-library-global.json"
+hash = "b82e2f13d0c8e1109d236f59525e88259ce8da3530f9f3c4b4f9efc1ccca5fb8"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/blocks/skin-library.json"
+hash = "89af3d7c659bd66f43f29aa7c568fc8f9934dc69753e090f8b4b496ddc27de39"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/blocks/skinning-table.json"
+hash = "a9c6fa2dfa0c65613050378ed4a0120e5c13559294e1e296e9c340687d4f14ec"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/items/armourers-hammer.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/items/dye-bottle.json"
+hash = "025fe0759e402ebdc705d163e766e20e88b6d425617d2d77b38306f0329bd639"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/items/mannequin.json"
+hash = "ae2e6bd17601ee975db762026bbee2610620a19ff1f38dead71f4da8d328203c"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/items/skin-template.json"
+hash = "706d1172bb59bdd3ff40104b7460a0c1ec7e5d5c48d55738d77d3ec7dd402d05"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/items/soap.json"
+hash = "00f560b07ba9f6b9e5f9dfa7701b8e41175c8ca0662ec7a8fb52fd166f3d7226"
 
 [[files]]
 file = "kubejs/data/artifacts/neoforge/biome_modifier/add_campsite.json"
@@ -2623,10 +2675,6 @@ file = "kubejs/data/immersiveenchanting/worldgen/structure_set/ancient_library_j
 hash = "03cd15e15f66b336867cee7b8cdef0ae17ad89f372c819bdfeabe1c075502689"
 
 [[files]]
-file = "kubejs/data/kobolds/loot_table/gameplay/enchanter_loot.json"
-hash = "d55b15c50ae09962e91cdb3e95b4ec0712aa2053a3656e4de609400e27581381"
-
-[[files]]
 file = "kubejs/data/kobolds/worldgen/structure/kobold_den.json"
 hash = "4985ebeffe2b0cccb84eeb10e72220fb0a447d3483c276ebd16c43ad7712a021"
 
@@ -3942,6 +3990,11 @@ hash = "7bdb9bc1ea61ff6abceab169dac26c93eb5d041c0cf39e8b741a6a00687b143c"
 metafile = true
 
 [[files]]
+file = "mods/create-extra-gauges.pw.toml"
+hash = "147ac96d7c13923ff214e2905b765b3010f92c7a25adacc2764599752d011f5d"
+metafile = true
+
+[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "56b9b267f152e599260a7563d75a8080a04896fe8068ab94ea03c2d7ffa7b87e"
 metafile = true
@@ -3959,11 +4012,6 @@ metafile = true
 [[files]]
 file = "mods/create-redstone-link-gui.pw.toml"
 hash = "7c96435052c20a8d121ca1c997bc82fbffc5b2e0acf60a88bdbd88b25635c203"
-metafile = true
-
-[[files]]
-file = "mods/create-sable-dynamic-lights.pw.toml"
-hash = "15b4fcffb80496bda79e4bfc30efbb2a81605bd62d2b20000b3fb02c939e0b44"
 metafile = true
 
 [[files]]
@@ -4184,6 +4232,11 @@ metafile = true
 [[files]]
 file = "mods/glows.pw.toml"
 hash = "71cab604dbb897585ee1ceb6eafb295690a2d78ab43ae4cb0013414745ab816a"
+metafile = true
+
+[[files]]
+file = "mods/grassier-grass.pw.toml"
+hash = "9973127a51f79aac9578b4bde72d1f8b59eb0507f84d715f8d93e7d845cf4fe7"
 metafile = true
 
 [[files]]

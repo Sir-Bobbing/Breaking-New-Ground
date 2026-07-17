@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BXB",
+    "PPP",
+    "R R"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:book"
+    },
+    "X": {
+      "tag": "armourers_workshop:skin_cubes"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "R": {
+      "tag": "c:rods/wooden"
+    }
+  },
+  "result": {
+    "id": "armourers_workshop:skin-library"
+  }
+}

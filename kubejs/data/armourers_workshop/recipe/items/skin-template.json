@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X#X",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "tag": "forge:rods/wooden"
+    },
+    "#": {
+      "tag": "armourers_workshop:skin_cubes"
+    }
+  },
+  "result": {
+    "id": "armourers_workshop:skin-template"
+  }
+}
