@@ -1,0 +1,50 @@
+{
+  "type": "malum:spirit_infusion",
+  "extraInputs": [
+    {
+      "count": 4,
+      "item": "minecraft:ender_eye"
+    },
+    {
+      "count": 4,
+      "item": "quark:soul_bead"
+    },
+    {
+      "count": 1,
+      "item": "immersiveenchanting:ancient_book"
+    },
+    {
+      "count": 1,
+      "item": "malum:paracausal_flame"
+    }
+  ],
+  "input": {
+    "count": 1,
+    "item": "supplementaries:cartographers_quill"
+  },
+  "result": {
+    "count": 1,
+    "id": "supplementaries:cartographers_quill",
+    "components": {
+      "supplementaries:quill_structure": "malum:weeping_well",
+      "custom_name": "\"Sub-terranian Arcane Anomaly\"",
+      "supplementaries:quill_search_radius": 1000,
+      "supplementaries:quill_color": 2660215295,
+      "supplementaries:quill_decoration": "supplementaries:waystone"
+    }
+  },
+  "spirits": [
+    {
+      "type": "malum:eldritch",
+      "count": 16
+    },
+    {
+      "type": "malum:arcane",
+      "count": 24
+    },
+    {
+      "type": "malum:aqueous",
+      "count": 24
+    }
+  ]
+}

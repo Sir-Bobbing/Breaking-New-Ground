@@ -1,10 +1,12 @@
 {
-  "levels": {
-    "1": [
-      {
-        "item": "create:andesite_tunnel",
-        "amount": 3
-      }
-    ]
-  }
+    "levels": {
+        "1": [
+            {
+                "item_cost": {
+                    "item": "create:andesite_tunnel",
+                    "count": 3
+                }
+            }
+        ]
+    }
 }
