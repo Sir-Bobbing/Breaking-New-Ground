@@ -9,6 +9,4 @@
 ## Known Issues
 #### Incompatability
 - Amendments fireballs don't hit Sublevels
-#### Bugs
-- Latest Sound Physics Update causes minecart sounds???
 
