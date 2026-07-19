@@ -3762,7 +3762,7 @@ metafile = true
 
 [[files]]
 file = "mods/alfinolib.pw.toml"
-hash = "9a2008c08c6aec7ed0190808448fe87565ebd7489f806384aa2eb03506eb6135"
+hash = "b54bdd6fcc76821e19f3542158f8842b6e5c8c9b043855056a14416b9a6a6d61"
 metafile = true
 
 [[files]]
@@ -3992,7 +3992,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-extra-gauges.pw.toml"
-hash = "147ac96d7c13923ff214e2905b765b3010f92c7a25adacc2764599752d011f5d"
+hash = "beb8919e8eff63df6a3098959595a3bad04caacb6d2288defd19bbcf0d9d0c95"
 metafile = true
 
 [[files]]
@@ -4601,7 +4601,7 @@ metafile = true
 
 [[files]]
 file = "mods/sleep-tight.pw.toml"
-hash = "55608615699eba2eaa9d938f22c7bb79c5f5508ca12ead4500b15ea7bf2ddf3c"
+hash = "124a3e3d33d8858f658806fec1e88f78c2230b3d87f901a1b814e19c3b96237b"
 metafile = true
 
 [[files]]

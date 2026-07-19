@@ -1,20 +1,20 @@
-filename = 'sleep_tight-fabric-1.21-1.5.2.jar'
+filename = 'sleep_tight-neoforge-1.21-1.5.2.jar'
 name = 'Sleep Tight'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 x-prismlauncher-version-number = '1.21-1.5.2'
 
 [download]
-hash = '10e313a668365c609b2fb7ea654522d3321b7e0dd00bd2b7b3493d43105fa0db37ef49d63f856fb1e2aba1509abc60cb97f5df1106a3efdba4a4a8adbdfc8f69'
+hash = 'd22f1f3c1370a88c2d93cd05f93e263cc8aab3dba810a994fa75a93b9f9fb058c9e0923b284feb67f9e8b6a38ce57b36f0a4a090e088baab5e7d8f5c7411dcb9'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/tNai0h2Y/versions/y5cw963q/sleep_tight-fabric-1.21-1.5.2.jar'
+url = 'https://cdn.modrinth.com/data/tNai0h2Y/versions/eaAxOO7D/sleep_tight-neoforge-1.21-1.5.2.jar'
 
 [update.modrinth]
 mod-id = 'tNai0h2Y'
-version = 'y5cw963q'
+version = 'eaAxOO7D'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'twkfQtEc'

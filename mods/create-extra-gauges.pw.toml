@@ -10,7 +10,7 @@ x-prismlauncher-version-number = 'Create: Extra Gauges [2.1.2]'
 hash = 'd6bc0896c33213d6b5623dba053dab2df9502bd4'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+url = 'https://www.curseforge.com/minecraft/mc-mods/create-extra-gauges/download/7979870'
 
 [update.curseforge]
 file-id = 7979870
