@@ -1,31 +1,35 @@
-filename = 'lever-drugster-1.5.2.jar'
-name = 'Analog Lever Drag Control'
+filename = 'lever-drugster-1.8.8.jar'
+name = 'lever drugster'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.5.2'
+x-prismlauncher-version-number = '1.8.8'
 
 [download]
-hash = '3e71cee4a0193cc6e9cc154f44c040709d28b0c9f3d9af233351b4959f8384aacfae8e7a4a5e747802186a839f2f17546f3a3ed553a0c056eaab25b31aee2b09'
+hash = 'e2e5c645bc88636a33eba02c02c3f40617b81585875243f1c543d637de4ac703c610f4d55dc68e90eddc480f267e55b844e949773cb44856d59af2bca0dcb947'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/GQNtImhh/versions/CBOri7n8/lever-drugster-1.5.2.jar'
+url = 'https://cdn.modrinth.com/data/GQNtImhh/versions/epR68IoB/lever-drugster-1.8.8.jar'
 
 [update.modrinth]
 mod-id = 'GQNtImhh'
-version = 'CBOri7n8'
+version = 'epR68IoB'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'oWaK0Q19'
+addonId = 'x49wilh8'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Vg5TIO6d'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'KsqvI0hD'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'fFEIiSDQ'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'x49wilh8'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]

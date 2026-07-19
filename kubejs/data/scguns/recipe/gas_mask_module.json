@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "scguns:treated_iron_ingot"
+    },
+    "B": {
+      "item": "tfmg:rubber_sheet"
+    },
+    "C": {
+      "item": "scguns:composite_filter"
+    }
+  },
+  "pattern": [
+    "A A",
+    "BCB"
+  ],
+  "result": {
+    "id": "scguns:gas_mask_module"
+  }
+}

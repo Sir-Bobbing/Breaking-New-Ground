@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ESE",
+    "PPP",
+    "R R"
+  ],
+  "key": {
+    "E": {
+      "item": "armourers_workshop:dye-bottle"
+    },
+    "S": {
+      "tag": "armourers_workshop:skin_cubes"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "R": {
+      "tag": "c:rods/wooden"
+    }
+  },
+  "result": {
+    "id": "armourers_workshop:dye-table"
+  }
+}

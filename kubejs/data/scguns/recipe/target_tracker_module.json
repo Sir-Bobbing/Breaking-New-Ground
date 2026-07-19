@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "scguns:charged_amethyst_shard"
+    },
+    "B": {
+      "item": "powergrid:copper_cord"
+    },
+    "C": {
+      "item": "scguns:treated_iron_ingot"
+    },
+    "D": {
+      "item": "minecraft:tinted_glass"
+    },
+    "E": {
+      "item": "simulated:optical_sensor"
+    },
+    "F": {
+      "item": "tfmg:circuit_board"
+    }
+  },
+  "pattern": [
+    "ABC",
+    "DEF"
+  ],
+  "result": {
+    "id": "scguns:target_tracker_module"
+  }
+}

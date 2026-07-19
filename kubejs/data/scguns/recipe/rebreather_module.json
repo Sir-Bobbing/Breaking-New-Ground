@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "tfmg:copper_electrode"
+    },
+    "B": {
+      "item": "create:copper_diving_helmet"
+    },
+    "C": {
+      "item": "tfmg:rubber_sheet"
+    },
+    "D": {
+      "item": "tfmg:air_bucket"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "CDC"
+  ],
+  "result": {
+    "id": "scguns:rebreather_module"
+  }
+}

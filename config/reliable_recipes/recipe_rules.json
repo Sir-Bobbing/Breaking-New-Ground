@@ -1,4 +1,31 @@
 [
+  // Alternative tagging
+  {
+    "action": "replace_input",
+    "target": "minecraft:leather",
+    "replacement": "#c:leathers"
+  },
+  {
+    "action": "replace_input",
+    "target": "minecraft:string",
+    "replacement": "#c:strings"
+  },
+  {
+    "action": "replace_input",
+    "target": "minecraft:slime_ball",
+    "replacement": "#c:slime_balls"
+  },
+  {
+    "action": "replace_input",
+    "target": "#c:slimeballs",
+    "replacement": "#c:slime_balls"
+  },
+  {
+    "action": "replace_input",
+    "target": "minecraft:enderpearl",
+    "replacement": "#c:enderpearls"
+  },
+  // Big cannons
   {
     "action": "remove_recipe",
     "type": "createbigcannons:melting"
@@ -44,10 +71,23 @@
     "replacement": "#c:dusts/niter"
   },
   {
+    "action": "replace_input",
+    "target": "scguns:pebbles",
+    "replacement": "nomansland:pebbles"
+  },
+  {
     "action": "remove_recipe",
     "id": [
       "scguns:create/heavy_gunpowder_from_mixing",
       "scguns:create/gunpowder_from_mixing"
+    ]
+  },
+// SC Guns
+  {
+    "action": "remove_recipe",
+    "id": [
+      "scguns:mech_press/exo_suit_core",
+      "scguns:powered_mech_press/powered_exo_suit_core"
     ]
   },
 // CBC
@@ -77,16 +117,6 @@
     "target": "tfmg:transistor_item",
     "replacement": "powergrid:vfet"
   },
-  {
-    "action": "replace_input",
-    "target": "minecraft:leather",
-    "replacement": "#c:leathers"
-  },
-  {
-    "action": "replace_input",
-    "target": "minecraft:string",
-    "replacement": "#c:strings"
-  },
 // Power Grid
   {
     "action": "replace_input",
@@ -114,5 +144,19 @@
     "id" :[
       "powergrid:mechanical_crafting/electric_motor"
     ]
+  },
+  /// Infinite Metal Removal
+  {
+    "action": "remove_recipe",
+    "id": [
+    "create:splashing/gravel",
+    "create:splashing/red_sand",
+    "create:splashing/soul_sand",
+    "spelunkery:splashing/red_sand",
+    "spelunkery:splashing/soul_sand",
+    "spelunkery:splashing/gravel",
+    "scguns:create/soul_soil"
+    ]
   }
+
 ]

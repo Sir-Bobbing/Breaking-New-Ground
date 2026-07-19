@@ -3,19 +3,16 @@
   "category": "equipment",
   "key": {
     "A": {
-      "item": "c:leathers"
+      "item": "minecraft:leather"
     },
     "B": {
-      "item": "minecraft:iron_ingot"
-    },
-    "C": {
       "item": "minecraft:iron_nugget"
     }
   },
   "pattern": [
-    "AAA",
-    "ABA",
-    "C C"
+    "AA ",
+    "BB ",
+    "   "
   ],
   "result": {
     "count": 1,

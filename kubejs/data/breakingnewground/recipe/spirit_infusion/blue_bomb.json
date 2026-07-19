@@ -1,0 +1,35 @@
+{
+  "type": "malum:spirit_infusion",
+  "extraInputs": [
+    {
+      "count": 4,
+      "item": "tfmg:copper_sulfate"
+    },
+    {
+      "count": 4,
+      "item": "minecraft:prismarine_crystals"
+    }
+  ],
+  "input": {
+    "count": 1,
+    "item": "supplementaries:bomb"
+  },
+  "result": {
+    "count": 1,
+    "id": "supplementaries:bomb_blue"
+  },
+  "spirits": [
+    {
+      "type": "malum:wicked",
+      "count": 8
+    },
+    {
+      "type": "malum:arcane",
+      "count": 8
+    },
+    {
+      "type": "malum:infernal",
+      "count": 8
+    }
+  ]
+}

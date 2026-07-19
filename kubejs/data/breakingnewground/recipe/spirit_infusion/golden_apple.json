@@ -1,0 +1,35 @@
+{
+  "type": "malum:spirit_infusion",
+  "extraInputs": [
+    {
+      "count": 4,
+      "item": "malum:block_of_cthonic_gold"
+    },
+    {
+      "count": 32,
+      "tag": "neoforge:enchanting_fuels"
+    }
+  ],
+  "input": {
+    "count": 1,
+    "item": "minecraft:golden_apple"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:enchanted_golden_apple"
+  },
+  "spirits": [
+    {
+      "type": "malum:earthen",
+      "count": 24
+    },
+    {
+      "type": "malum:arcane",
+      "count": 24
+    },
+    {
+      "type": "malum:sacred",
+      "count": 24
+    }
+  ]
+}
