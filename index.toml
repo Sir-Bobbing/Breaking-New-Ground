@@ -518,7 +518,7 @@ hash = "2fc8333ddc190d44d555f49da8857a5464d1b5fafe8844bb9a4b8f2688b9ab02"
 
 [[files]]
 file = "config/reliable_recipes/recipe_rules.json"
-hash = "94aacb3e0a1e6a2b8454923187434c2cb51ae7f08690139cc2570e01062da41a"
+hash = "f9e611793b97bae178c88f73a0bf98e963f2698b7d2e96a029173382538f98ad"
 
 [[files]]
 file = "config/reliable_remover.json"
@@ -614,7 +614,7 @@ hash = "fc0bcc406e60714376c56716a061f92f887b165a0867fec6183a6074211f6db1"
 
 [[files]]
 file = "config/structurify.json"
-hash = "6e661b5ea1e6564f65659c12af7c0fb740dfe8fc24eabf883ba0c526164a6850"
+hash = "2af82f22cd8639f4ae9cc147139bf9c7eb3654ceee04c0a1db757e10d1a2d49b"
 
 [[files]]
 file = "config/styled-nicknames.json"
@@ -872,7 +872,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/data/breakingnewground/function/tick.mcfunction"
-hash = "a6216ed85b11302042e10c5f0a68f9bda8aa9bc5d628dd62a032bb7bc9afc873"
+hash = "71643ef28497b0ef27b6993ed907d86efed87b139c0289460560aefd925c8d8e"
 
 [[files]]
 file = "kubejs/data/breakingnewground/predicate/nether_to_over.json"
@@ -881,6 +881,10 @@ hash = "1011f58a044f45f3dd4c90995a3a9ed4b64fd45f38917b9b6685ae51e334ad72"
 [[files]]
 file = "kubejs/data/breakingnewground/predicate/over_to_nether.json"
 hash = "a1bdfe8a98cd5e56814784d3ada0a42832daafd384321cd9af766e70a8d9c949"
+
+[[files]]
+file = "kubejs/data/breakingnewground/predicate/over_to_nether_dismount.json"
+hash = "46577abfe051008371e420079547916729056771e68f3867f0bbc64ed3151498"
 
 [[files]]
 file = "kubejs/data/breakingnewground/recipe/crafting/andesite_alloy_from_copper.json"
@@ -3643,6 +3647,10 @@ file = "kubejs/data/tfmg/recipe/vat_machine_recipe/sulfuric_acid.json"
 hash = "b624273b113bf92828615348d17f70002bd351908f18ccdf0d728024198af82d"
 
 [[files]]
+file = "kubejs/data/tfmg/worldgen/placed_feature/oil_well.json"
+hash = "4c9805438cae7418956148ed013b3c2cfa1653e2eeb631a50c7e603a5cd739e8"
+
+[[files]]
 file = "kubejs/data/toms_storage/recipe/basic_inventory_hopper.json"
 hash = "a498183ea707de651cbb3408a19b46fc17ccd5398aecf3cddd743f240cadc1f6"
 
@@ -3871,6 +3879,11 @@ metafile = true
 [[files]]
 file = "mods/blueprint.pw.toml"
 hash = "d4c8002f20471b945e073abf0d4025a239b5be96f422bd3cdcb113a2d909f186"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "ba3081449d58c1d0b3438c1fa238c6de65067bb1f00b42c22604321e26ecf1fc"
 metafile = true
 
 [[files]]
@@ -4161,6 +4174,11 @@ metafile = true
 [[files]]
 file = "mods/emoji-type.pw.toml"
 hash = "0232129374fc4ad9f43b3ca6a8beffce4f12b0bd2bebe5b718350ce6e848637f"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "e95c9cfc26600c9e1cf66409c3c9198cdb9e49be257219a21bc37ef85b9b5ca9"
 metafile = true
 
 [[files]]
@@ -4496,6 +4514,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps-x-sable.pw.toml"
 hash = "599cd66fec584ec1addf89e7dc2868b7be759740e731cde82e36902946bf12a1"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "4930361828dbdbb889e87900c50730c9e1fca24d59a5cf22a4f8ff24a268eba0"
 metafile = true
 
 [[files]]

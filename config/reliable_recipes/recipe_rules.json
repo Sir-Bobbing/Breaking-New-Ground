@@ -144,5 +144,19 @@
     "id" :[
       "powergrid:mechanical_crafting/electric_motor"
     ]
+  },
+  /// Infinite Metal Removal
+  {
+    "action": "remove_recipe",
+    "id": [
+    "create:splashing/gravel",
+    "create:splashing/red_sand",
+    "create:splashing/soul_sand",
+    "spelunkery:splashing/red_sand",
+    "spelunkery:splashing/soul_sand",
+    "spelunkery:splashing/gravel",
+    "scguns:create/soul_soil"
+    ]
   }
+
 ]
