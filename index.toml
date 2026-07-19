@@ -2495,6 +2495,11 @@ hash = "5fb48d28ea4dc10a77c90aa507e6b52d26a1f5794b9990f7fb0b0b962ef3230b"
 metafile = true
 
 [[files]]
+file = "mods/alfinolib.pw.toml"
+hash = "88bc2d3fb81a369774e935f862c1bde5a5cf5fe855b8fc6b82100395d3d80b11"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "67bb26b4cad2deef914332ec879600824719ea48c84cd67a183eaf6ad34849f8"
 metafile = true
@@ -2597,6 +2602,11 @@ metafile = true
 [[files]]
 file = "mods/blueprint.pw.toml"
 hash = "17f6dc669018b4450ccb3a5eafbc7b681b92336d189cf98d6df9ee726da28804"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "ba3081449d58c1d0b3438c1fa238c6de65067bb1f00b42c22604321e26ecf1fc"
 metafile = true
 
 [[files]]
@@ -2890,6 +2900,11 @@ hash = "0232129374fc4ad9f43b3ca6a8beffce4f12b0bd2bebe5b718350ce6e848637f"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "e95c9cfc26600c9e1cf66409c3c9198cdb9e49be257219a21bc37ef85b9b5ca9"
+metafile = true
+
+[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "da45c49ac355b99afedfe04aa2eccb570fcc2437dafe45521c8f5ec126ec3637"
 metafile = true
@@ -2916,7 +2931,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-gauges.pw.toml"
-hash = "f18c32e2e7ee01bbc3bff611c21ada838be934389f2241273a0f51c092ea46c1"
+hash = "906d83e625fa1b779df01b6562fcca7bd82745a832f3b2ca484e966c4d1c83e6"
 metafile = true
 
 [[files]]
@@ -3215,6 +3230,11 @@ hash = "599cd66fec584ec1addf89e7dc2868b7be759740e731cde82e36902946bf12a1"
 metafile = true
 
 [[files]]
+file = "mods/prickle.pw.toml"
+hash = "4930361828dbdbb889e87900c50730c9e1fca24d59a5cf22a4f8ff24a268eba0"
+metafile = true
+
+[[files]]
 file = "mods/prospectingpicks-1.3.1.jar"
 hash = "887c03a89cc2461b775a8d6e034db4eb278c620f0218e41908949d3c76fe10be"
 
@@ -3301,6 +3321,11 @@ metafile = true
 [[files]]
 file = "mods/simulated-gauges.pw.toml"
 hash = "699e2bd29a8cdee267f0db39079babf0fade1f51c548b5ecefb382530bb2349c"
+metafile = true
+
+[[files]]
+file = "mods/sleep-tight.pw.toml"
+hash = "124a3e3d33d8858f658806fec1e88f78c2230b3d87f901a1b814e19c3b96237b"
 metafile = true
 
 [[files]]
