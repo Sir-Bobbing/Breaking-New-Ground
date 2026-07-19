@@ -1,0 +1,27 @@
+{
+  "type": "malum:spirit_infusion",
+  "extraInputs": [
+    {
+      "count": 1,
+      "item": "minecraft:sculk_catalyst"
+    },
+    {
+      "count": 1,
+      "item": "malum:refined_brilliance"
+    }
+  ],
+  "input": {
+    "count": 1,
+    "item": "vista:cassette"
+  },
+  "result": {
+    "count": 1,
+    "id": "vista:hollow_cassette"
+  },
+  "spirits": [
+    {
+      "type": "malum:eldritch",
+      "count": 6
+    }
+  ]
+}

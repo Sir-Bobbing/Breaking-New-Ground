@@ -1,0 +1,55 @@
+{
+  "type": "malum:spirit_infusion",
+  "extraInputs": [
+    {
+      "count": 3,
+      "item": "endermanoverhaul:soul_pearl"
+    },
+    {
+      "count": 3,
+      "item": "endermanoverhaul:warped_pearl"
+    },
+    {
+      "count": 3,
+      "item": "endermanoverhaul:crimson_pearl"
+    },
+    {
+      "count": 3,
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "count": 8,
+      "item": "glow:glowstone_prism"
+    }
+  ],
+  "input": {
+    "count": 1,
+    "item": "create:empty_blaze_burner"
+  },
+  "result": {
+    "count": 1,
+    "id": "create:blaze_burner"
+  },
+  "spirits": [
+    {
+      "type": "malum:aerial",
+      "count": 6
+    },
+    {
+      "type": "malum:sacred",
+      "count": 6
+    },
+    {
+      "type": "malum:arcane",
+      "count": 10
+    },
+    {
+      "type": "malum:eldritch",
+      "count": 10
+    },
+    {
+      "type": "malum:infernal",
+      "count": 30
+    }
+  ]
+}

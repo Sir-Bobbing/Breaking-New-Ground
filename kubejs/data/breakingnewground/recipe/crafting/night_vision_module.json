@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "scguns:treated_iron_ingot"
+    },
+    {
+      "item": "artifacts:night_vision_goggles"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scguns:night_vision_module"
+  }
+}

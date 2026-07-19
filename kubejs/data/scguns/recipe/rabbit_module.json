@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "scguns:tension_spring"
+    },
+    "B": {
+      "item": "powergrid:servo"
+    },
+    "C": {
+      "item": "tfmg:rubber_sheet"
+    }
+  },
+  "pattern": [
+    "A A",
+    "B B",
+    "C C"
+  ],
+  "result": {
+    "id": "scguns:rabbit_module"
+  }
+}

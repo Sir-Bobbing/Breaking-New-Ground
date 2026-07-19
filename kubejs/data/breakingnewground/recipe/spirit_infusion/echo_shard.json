@@ -1,0 +1,39 @@
+{
+  "type": "malum:spirit_infusion",
+  "extraInputs": [
+    {
+      "count": 1,
+      "item": "minecraft:echo_shard"
+    },
+    {
+      "count": 8,
+      "item": "minecraft:sculk_catalyst"
+    },
+    {
+      "count": 8,
+      "item": "malum:block_of_mnemonic_fragment"
+    }
+  ],
+  "input": {
+    "count": 2,
+    "item": "scguns:charged_amethyst_shard"
+  },
+  "result": {
+    "count": 2,
+    "id": "minecraft:echo_shard"
+  },
+  "spirits": [
+    {
+      "type": "malum:eldritch",
+      "count": 16
+    },
+    {
+      "type": "malum:arcane",
+      "count": 16
+    },
+    {
+      "type": "malum:aqueous",
+      "count": 32
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "scguns:hardened_bullet",
+    "scguns:treated_iron_nugget",
+    "#c:nuggets/steel"
+  ]
+}

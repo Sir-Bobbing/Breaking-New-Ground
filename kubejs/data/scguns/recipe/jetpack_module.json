@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "scguns:anthralite_ingot"
+    },
+    "B": {
+      "item": "scguns:treated_brass_ingot"
+    },
+    "C": {
+      "item": "tfmg:turbine_engine"
+    },
+    "D": {
+      "item": "simulated:gyroscopic_mechanism"
+    },
+    "E": {
+      "item": "createpropulsion:ion_thruster"
+    },
+    "F": {
+      "item": "tfmg:circuit_board"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EFE"
+  ],
+  "result": {
+    "id": "scguns:jetpack_module"
+  }
+}

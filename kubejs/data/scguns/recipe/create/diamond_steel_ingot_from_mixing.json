@@ -34,7 +34,13 @@
       ]
     },
     {
-      "item": "minecraft:lapis_lazuli"
+      "tag": "c:ingots/steel"
+    },
+    {
+      "tag": "c:ingots/steel"
+    },
+    {
+      "tag": "neoforge:enchanting_fuels"
     }
   ],
   "results": [

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B",
+    "X"
+  ],
+  "key": {
+    "B": {
+      "item": "vista:television"
+    },
+    "X": {
+      "item": "armourers_workshop:skin-library"
+    }
+  },
+  "result": {
+    "id": "armourers_workshop:skin-library-global"
+  }
+}

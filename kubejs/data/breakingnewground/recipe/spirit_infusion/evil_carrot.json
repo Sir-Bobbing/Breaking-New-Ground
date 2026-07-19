@@ -1,0 +1,23 @@
+{
+  "type": "malum:spirit_infusion",
+  "extraInputs": [
+    {
+      "count": 1,
+      "item": "malum:living_flesh"
+    }
+  ],
+  "input": {
+    "count": 1,
+    "item": "minecraft:golden_carrot"
+  },
+  "result": {
+    "count": 1,
+    "id": "redomesticate:sinister_carrot"
+  },
+  "spirits": [
+    {
+      "type": "malum:wicked",
+      "count": 6
+    }
+  ]
+}

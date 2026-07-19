@@ -1,20 +1,20 @@
-filename = 'drivebywire-typewriter-1.0.2.jar'
+filename = 'drivebywire-typewriter-1.1.0-beta.2.jar'
 name = 'Drive By Wire - Typewriter'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'alpha'
-x-prismlauncher-version-number = '1.0.2'
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.1.0-beta.2'
 
 [download]
-hash = 'b5f0fd8a8bf7b02a71a21543665349fb0534bc0ed4810ebc3cc70e592e8db939f8a4681cce4fcd9b6d024c5e5269463ae0ed1c20fbe88ba1ade24a6da6072477'
+hash = 'be2e34f84c2c31273be5282d3582f29ff16a4d53c38eaf197f7e49998e51e5a01eadad2962a1eb75e278084251373b433b74629943318438aae36360d67384e7'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/lDYpnxit/versions/px0T1v29/drivebywire-typewriter-1.0.2.jar'
+url = 'https://cdn.modrinth.com/data/lDYpnxit/versions/cPM0cfwo/drivebywire-typewriter-1.1.0-beta.2.jar'
 
 [update.modrinth]
 mod-id = 'lDYpnxit'
-version = 'px0T1v29'
+version = 'cPM0cfwo'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'oWaK0Q19'
@@ -24,4 +24,4 @@ version = '1sv6OtSz'
 [[x-prismlauncher-dependencies]]
 addonId = 'KsqvI0hD'
 type = 'REQUIRED'
-version = 'c9Usu0Mo'
+version = 'RjtgTIzm'

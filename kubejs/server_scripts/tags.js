@@ -31,10 +31,19 @@ ServerEvents.tags('item', event => {
 ServerEvents.tags('fluid', event => {
     event.add('c:fuel', 'nomansland:resin_oil')
     event.add('c:fuel', 'nomansland:resin_oil_bottle')
-
 })
 
     ServerEvents.tags('block', event => {
+
+// Molten Metals
+    event.add('kubejs:molten_metals', 'kubejs:molten_iron')
+    event.add('kubejs:molten_metals', 'kubejs:molten_gold')
+    event.add('kubejs:molten_metals', 'kubejs:molten_copper')
+    event.add('kubejs:molten_metals', 'kubejs:molten_zinc')
+    event.add('kubejs:molten_metals', 'kubejs:molten_lead')
+    event.add('kubejs:molten_metals', 'kubejs:molten_nickel')
+    event.add('kubejs:molten_metals', 'kubejs:molten_anthralite')
+
 // Carver Tweaks
     event.remove('minecraft:overworld_carver_replaceables', 'minecraft:obsidian')
     event.remove('minecraft:overworld_carver_replaceables', 'minecraft:crying_obsidian')

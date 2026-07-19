@@ -13,18 +13,21 @@
       "tag": "c:ingots/iron"
     },
     {
-      "item": "minecraft:redstone"
+      "tag": "c:ingots/lead"
+    },
+    {
+      "item": "spelunkery:cinnabar"
     },
     {
       "tag": "c:dusts/niter"
     },
     {
-      "item": "minecraft:charcoal"
+      "tag": "c:coal"
     }
   ],
   "results": [
     {
-      "count": 3,
+      "count": 2,
       "id": "scguns:treated_iron_ingot"
     }
   ]

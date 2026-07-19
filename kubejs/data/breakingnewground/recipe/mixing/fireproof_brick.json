@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    { "item": "tfmg:fireclay_ball" },
+    { "item": "tfmg:fireclay_ball" },
+    { "item": "tfmg:fireclay_ball" },
+    { "item": "tfmg:fireclay_ball" },
+    { "item": "minecraft:blaze_powder" }
+  ],
+  "results": [
+    {
+      "id": "tfmg:fireproof_brick",
+      "count": 4
+    }
+  ]
+}
