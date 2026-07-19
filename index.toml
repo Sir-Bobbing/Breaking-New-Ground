@@ -3992,7 +3992,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-extra-gauges.pw.toml"
-hash = "8fcd50dcd5529702a98766572dac96901f5474cf281f197f288ba8528f9bb15b"
+hash = "beb8919e8eff63df6a3098959595a3bad04caacb6d2288defd19bbcf0d9d0c95"
 metafile = true
 
 [[files]]

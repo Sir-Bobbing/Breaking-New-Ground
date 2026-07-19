@@ -1,6 +1,6 @@
 filename = 'extra_gauges-2.1.2.jar'
 name = 'Create: Extra Gauges'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
