@@ -1,6 +1,6 @@
 {
   "config_version": "2.0.28",
-  "config_datetime": "2026-07-19_08-46-22",
+  "config_datetime": "2026-07-19_12-35-37",
   "general": {
     "disable_all_structures": false,
     "prevent_structure_overlap": false,
@@ -40,6 +40,34 @@
     }
   ],
   "structures": [
+    {
+      "name": "minecraft:ruined_portal",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:ruined_portal_desert",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:ruined_portal_jungle",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:ruined_portal_mountain",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:ruined_portal_nether",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:ruined_portal_ocean",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:ruined_portal_swamp",
+      "is_disabled": true
+    },
     {
       "name": "minecraft:trail_ruins",
       "whitelisted_biomes": [

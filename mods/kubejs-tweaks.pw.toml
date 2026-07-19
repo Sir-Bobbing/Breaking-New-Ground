@@ -10,7 +10,7 @@ x-prismlauncher-version-number = 'kubejstweaks-1.0.6.jar'
 hash = '6548ec47aa6b0498c3018cde40d9d0a203b67446'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+url = 'https://www.curseforge.com/minecraft/mc-mods/kubejs-tweaks/download/7516288'
 
 [update.curseforge]
 file-id = 7516288

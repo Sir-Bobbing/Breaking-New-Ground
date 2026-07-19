@@ -614,7 +614,7 @@ hash = "fc0bcc406e60714376c56716a061f92f887b165a0867fec6183a6074211f6db1"
 
 [[files]]
 file = "config/structurify.json"
-hash = "2af82f22cd8639f4ae9cc147139bf9c7eb3654ceee04c0a1db757e10d1a2d49b"
+hash = "bb25bc087f3c99ebe198188f6628e67be49465432b523a496ee0f01876fd37fb"
 
 [[files]]
 file = "config/styled-nicknames.json"
@@ -2671,18 +2671,6 @@ file = "kubejs/data/immersiveenchanting/sounds/node_sounds.json"
 hash = "db4ee73cf457c8809c7a9289b5defd7cdfdcff2bdf1a52431cf05e76fe5d91e2"
 
 [[files]]
-file = "kubejs/data/immersiveenchanting/worldgen/structure_set/ancient_library_desert.json"
-hash = "0a75d6f94acf172e4354ec0b34c136459196cc916b662ba7655845c4003919f8"
-
-[[files]]
-file = "kubejs/data/immersiveenchanting/worldgen/structure_set/ancient_library_end.json"
-hash = "f858030efdb3ad4d3f062aff153e96a6fa25e89e2f7f0d570d714cae1c3ae8a4"
-
-[[files]]
-file = "kubejs/data/immersiveenchanting/worldgen/structure_set/ancient_library_jungle.json"
-hash = "03cd15e15f66b336867cee7b8cdef0ae17ad89f372c819bdfeabe1c075502689"
-
-[[files]]
 file = "kubejs/data/kobolds/worldgen/structure/kobold_den.json"
 hash = "4985ebeffe2b0cccb84eeb10e72220fb0a447d3483c276ebd16c43ad7712a021"
 
@@ -3011,10 +2999,6 @@ file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gravel.json"
 hash = "dc299db28d6473efb88c511b61fd4960a2fb9f7ed082066029265f120246bec3"
 
 [[files]]
-file = "kubejs/data/minecraft/worldgen/structure_set/ruined_portals.json"
-hash = "ffd2d8633a38d739d65029257d522b81a0b6f71562d2068ce413104c71cbb968"
-
-[[files]]
 file = "kubejs/data/neoforge/tags/item/enchanting_fuels.json"
 hash = "f62b11eeb3402e1639b038209916069f0dd3091a38e8f764f91c16a448bc4aaa"
 
@@ -3024,7 +3008,7 @@ hash = "1bd9fe4dbc0c84563cb1bc8af62a45595aa53343e8c75d95b3594b87bc68ee39"
 
 [[files]]
 file = "kubejs/data/particlemimicry/recipe/particle_emitter.json"
-hash = "6a2efb900f3e6866eb0ad0baa8c97724933478961f1784c6cf2615da810ee9bf"
+hash = "a1f3df7036e96ef96db7fa8a1cfefaff1b7cc945b746b2b7fd95d862509be8ab"
 
 [[files]]
 file = "kubejs/data/powergrid/recipe/crafting/circuit_design_table.json"
@@ -3778,7 +3762,7 @@ metafile = true
 
 [[files]]
 file = "mods/alfinolib.pw.toml"
-hash = "e85e72f980d7b0120c40d9c2c815ce4780f0cc361409e023bc815d60fe1c7d9b"
+hash = "9a2008c08c6aec7ed0190808448fe87565ebd7489f806384aa2eb03506eb6135"
 metafile = true
 
 [[files]]
@@ -4068,7 +4052,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "e5ca74d31682732fd7e5ff222ddf0c4d30d79d0bc0c8490909965d31b57c54d5"
+hash = "dd100dd8393318883bd11d4ca63acafbcbd479b0c498d17a792193fe8502d506"
 metafile = true
 
 [[files]]
@@ -4333,7 +4317,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-tweaks.pw.toml"
-hash = "ea7a00e0813aa9383220ff7cffb25f925596011096971f26755ea6958eb131f1"
+hash = "9d73131b4ac05b03ee7f10e35aa075e55beb14165de216b869c0920aec358efc"
 metafile = true
 
 [[files]]
