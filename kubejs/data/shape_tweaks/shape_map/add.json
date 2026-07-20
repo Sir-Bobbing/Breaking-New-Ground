@@ -1,4 +1,5 @@
 {
+    "priority": 400,
     "add": {
         "create:speedometer": [
             "create:stressometer"
@@ -31,7 +32,6 @@
         "dndecor:metal_support": [
             "dndecor:diagonal_metal_support"
         ],
-
         "/.*:(?!shaftless|hollow)(?<size>large_)?(?<material>.*_)?(?<name>cogwheel|gear|cogstone)/": [
             "gnkinetics:shaftless_${size}${material}${name}",
             "gnkinetics:hollow_${size}${material}${name}"
@@ -51,7 +51,6 @@
         "simulated:auger_shaft": [
             "simulated:auger_cog"
         ],
-
         "/minecraft:stripped_(?<wood>.*)_(log|stem)/": [
             "decorative_blocks:${wood}_beam",
             "everycomp:db/minecraft/${wood}_beam"
@@ -62,7 +61,6 @@
         "minecraft:iron_bars": [
             "decorative_blocks:bar_panel"
         ],
-
         "copycats:copycat_block": [
             "copycats:copycat_slab",
             "copycats:copycat_stairs",
@@ -87,17 +85,15 @@
             "railways:split_knuckle_coupler",
             "railways:screwlink_coupler"
         ],
-
         "create:industrial_iron_block": [
             "dndecor:industrial_plating_block"
         ],
         "dndecor:dark_metal_block": [
             "dndecor:dark_metal_plating"
         ],
-
-    "/(?<ns>[^:]+):(?<stem>.+?)(?<end>_planks|_block)/": [
-      "nomansland:trimmed_${stem}_planks",
-      "everycomp:nml/${ns}/trimmed_${stem}_planks"
-    ]
+        "/(?<ns>[^:]+):(?<stem>.+?)(?<end>_planks)/": [
+            "nomansland:trimmed_${stem}_planks",
+            "everycomp:nml/${ns}/trimmed_${stem}_planks"
+        ]
     }
 }
