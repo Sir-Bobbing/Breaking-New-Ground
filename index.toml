@@ -82,7 +82,7 @@ hash = "93c798010330bc4712fe561cde3f2746cffbc2f0eab0bc721107193343df60e0"
 
 [[files]]
 file = "config/bagofholding-server.toml"
-hash = "9c40a8e477ec9607961d1c0db0fd770f30f846841f8f81e92a54da90827b40be"
+hash = "1633094b884ef08214b37e4d68e46b90fdfad479caeb9a48a50cd3cfe224ebb5"
 
 [[files]]
 file = "config/better-advanced-tooltips-client.toml"
