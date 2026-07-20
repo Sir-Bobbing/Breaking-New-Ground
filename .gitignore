@@ -1,15 +1,13 @@
 # File Types
+*.jar
 hs_err_pid*
-*.gitignore
 *.bak
 *.tmp
-*.py
 # Files
 packwiz
 .index
 # Folders
 /kubejs/assets/testmod
-/kubejs/assets/breakingnewground/guides/breakingnewground/guide
 /config/structurify
 /guide
 kubejs/assets/TMS.zip
