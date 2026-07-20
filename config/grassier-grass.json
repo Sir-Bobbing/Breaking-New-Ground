@@ -23,7 +23,10 @@
   "plantBlacklist": [
     "minecraft:sea_pickle",
     "minecraft:seagrass",
-    "minecraft:tall_seagrass"
+    "minecraft:tall_seagrass",
+    "nomansland:cave_weeds",
+    "quark:glow_lichen_growth",
+    "quark:glowshroom"
   ],
   "plantWhitelist": []
 }

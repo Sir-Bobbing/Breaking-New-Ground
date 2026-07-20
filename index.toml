@@ -350,7 +350,7 @@ hash = "166ee45e1a1592251dbcd025e97cd201446904878c3ac49e3f823e8a89b3277c"
 
 [[files]]
 file = "config/grassier-grass.json"
-hash = "7eda2ec965fe5d315ffab86bc3cbac0647ef45b10fb39e6d36e6886974ca9713"
+hash = "5a95d5b3ebb7a310467425bd8ede0bd4bcad50a849c41f9df539a206a698a942"
 
 [[files]]
 file = "config/grassiergrass-client.toml"
@@ -702,6 +702,18 @@ file = "kubejs/assets/breakingnewground.zip"
 hash = "dc3a34af2672abba223094be124ef6fe5a71fa7ee896c03779c8a79ba5eeaaee"
 
 [[files]]
+file = "kubejs/assets/create/textures/block/deepslate_zinc_ore.png"
+hash = "1ed13c9b1b0fcd21f04191ee5da2b4b1413cb431e74ca602ffba6174d87be133"
+
+[[files]]
+file = "kubejs/assets/create/textures/block/zinc_ore.png"
+hash = "1ed13c9b1b0fcd21f04191ee5da2b4b1413cb431e74ca602ffba6174d87be133"
+
+[[files]]
+file = "kubejs/assets/malum/lang/en_us.json"
+hash = "7aa60be51cdee8deef9a0b81ffeaccd6d4edbb3b8499fe79352fb5c10e97781a"
+
+[[files]]
 file = "kubejs/assets/malum/sounds/totem/spark/spark_direct1.ogg"
 hash = "19f2e1871a0a94876b2e7bf4e4d9346d60f867bf1d9134aecbfd429891b48768"
 
@@ -714,8 +726,148 @@ file = "kubejs/assets/malum/sounds/totem/spark/spark_direct3.ogg"
 hash = "bc93ae882405b8d667fee1a63ccf6a723607a7153e2040f8f30b1abbec87c3f1"
 
 [[files]]
+file = "kubejs/assets/malum/textures/block/ores/cthonic_gold_ore.png"
+hash = "732d174c31b37f2f9303f1c24ae3d08e364f63847c531ea0905687f965a0fee1"
+
+[[files]]
+file = "kubejs/assets/malum/textures/block/ores/deepslate_soulstone_ore.png"
+hash = "ecd2b2cae57c5e34a532751d50c586491826a992af9eb2ac446504b966a29040"
+
+[[files]]
+file = "kubejs/assets/minecraft/lang/en_us.json"
+hash = "47a1a9a456afb8fc7e6e3c7ee84e6d9a09cccfcb5105571af0d21e5ab2316a96"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/coal_ore.png"
+hash = "f0c5bcd76149483bceea5de6bf500c3271a056aa93e9720b3f4e7abd78d1abc9"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/deepslate_gold_ore.png"
+hash = "cb89c32401c0dab3a37b10233df5860624762e99b2ed8d62ab34e493383df92b"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/deepslate_iron_ore.png"
+hash = "d3b5793937600fcda62da919e2922a7a6ea860e39ad9b954aa83db5bbc8e862e"
+
+[[files]]
+file = "kubejs/assets/scguns/lang/en_us.json"
+hash = "a3a360379d84e4b8931d9b930bef95844b21c5a8730888e07220796cd362ab8b"
+
+[[files]]
+file = "kubejs/assets/scguns/textures/block/deepslate_anthralite_ore.png"
+hash = "813b5a48bf757a4a14b9c7c53780925f5c1567924b47f35029fb910102103c06"
+
+[[files]]
+file = "kubejs/assets/spelunkery/lang/en_us.json"
+hash = "7daaa496c036658e3218a878f8b0337206b5b9b851435e83d3a777e754a56540"
+
+[[files]]
+file = "kubejs/assets/spelunkery/textures/block/diorite_gold_ore.png"
+hash = "fa4f55caaf2e3b252324a3a6cb74a9956d760e8f5b3a0f16efc4b49b65ef6b3e"
+
+[[files]]
+file = "kubejs/assets/spelunkery/textures/block/diorite_lapis_ore.png"
+hash = "1c47575503652d1ce49ebcd2d9a925dc8dfc9f86625dfaaf259b5146edefbdf8"
+
+[[files]]
+file = "kubejs/assets/spelunkery/textures/block/granite_iron_ore.png"
+hash = "4d791771cf9ff54212accb22460f800fd4875d59a292496f8b42a20d1a7d7f78"
+
+[[files]]
+file = "kubejs/assets/spelunkery/textures/block/tuff_copper_ore.png"
+hash = "3de4c03376966a9d67ce865b069bcfe0da5f1413d861c664168940946dd79775"
+
+[[files]]
+file = "kubejs/assets/tfmg/lang/en_us.json"
+hash = "f337a27d9294e45835181ec336e8667d75cfe2f0aadd45cef7d632bebff547ea"
+
+[[files]]
 file = "kubejs/assets/tfmg/sounds.json"
 hash = "37c2e2fb1dd894161d804575935337adf0d4b44252abe0d902234c165831a712"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/deepslate_nickel_ore.png"
+hash = "22cc0200422022a160336da6e63eaf2d572b098e910c7b5680c297ecd9438ae4"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/lead_ore.png"
+hash = "e5b58697f7aa0307fda5c3c837b98b21bbfb25a5cfc8b175928a06284af6292e"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/oil_deposit.png"
+hash = "cc99584549b64b25a223d4c422a6eff6afa078fc67276bac1c768cc27cef2c59"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/palettes/stone_types/alternatives/galena_cut_herring.png"
+hash = "1095ee25f894a1852ee2c4b73a05426b45894d2a8c8f48c2a39519169b84d5cd"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/palettes/stone_types/alternatives/galena_cut_indented.png"
+hash = "35706988e4f11589a7ceb037c63127902f2e47afe6fa421d62bc8c61d84ece30"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/palettes/stone_types/brick/bauxite_cut_brick.png"
+hash = "aaadb0795fb6d573cfc3267f4e84e3925ec6de6e20a2c046bc3e4364046e2fba"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/palettes/stone_types/brick/galena_cut_brick.png"
+hash = "b81aa45d9c936abc8d84d2af2e6de5462bfc7ef596440d06ad45998759f07d4d"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/palettes/stone_types/cap/galena_cut_cap.png"
+hash = "05729d000d441b25c63c7916f800e6c77a3a46f147a98ea399cd8080b49f80e6"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/palettes/stone_types/cap/galena_cut_cap_connected.png"
+hash = "88b6ab2036cc27bf6d6ca1cff9a170d001881fdc60bc9f32bbc5ac170ac07644"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/palettes/stone_types/cut/galena_cut.png"
+hash = "018999a68f78d0c48681c40676ed6cc0f5d27450837af0ef22e72050860cab89"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/palettes/stone_types/layered/galena_cut_layered.png"
+hash = "88937902258d5a95ae2fd542c337881108cc05bebfdec578ecdbcc432648309f"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/palettes/stone_types/layered/galena_cut_layered_connected.png"
+hash = "42f5f7a6a7d246cf1e3dd09a8203db74d61d380ffc411b3c5760f6d52b4f58d1"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/palettes/stone_types/natural/galena_0.png"
+hash = "6d55f74f83eb315b1967a439435b51420128677d25d2bb78c36b2d5e8a0c86e4"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/palettes/stone_types/natural/galena_1.png"
+hash = "e1f81fc92790e98abea612ecd45278caaf31a362cf523cf48f9a8e8bc45f0545"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/palettes/stone_types/natural/galena_2.png"
+hash = "b2314fd15d5c0622702a603643e46546e6f0b79acdd64fedca45f9d631bce304"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/palettes/stone_types/natural/galena_3.png"
+hash = "5ce7e0dc0931d880ea83394c0e84189247a43a159254548827b766a8790b4c01"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/palettes/stone_types/pillar/galena_cut_pillar.png"
+hash = "aa0ad0e90cda50910bcc4808f61e788ee564889b22ef918e8f8fdbfc435e27b5"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/palettes/stone_types/pillar/galena_cut_pillar_connected.png"
+hash = "4b83d26d809e72c8933139a20655f50b1488efccba4e2c5737b5711671782cdf"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/palettes/stone_types/polished/galena_cut_polished.png"
+hash = "dad686cca87dae5b6376384427be587f0d0e8218519071e954ea3e6d6f2b443c"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/palettes/stone_types/slab/galena_cut_slab.png"
+hash = "06cfecb6d6ea051e0c1746ee3fcdb99c5407dd163aa43bde1337bebb78aed4e6"
+
+[[files]]
+file = "kubejs/assets/tfmg/textures/block/palettes/stone_types/small_brick/galena_cut_small_brick.png"
+hash = "0e85a1a30ce8447d7a5369cdab3ea96f4eaaa1240be8c0402b309cb2d26e4d5a"
 
 [[files]]
 file = "kubejs/assets/toms-metal-storage.pw.toml"
@@ -4331,6 +4483,11 @@ hash = "53b6d0489d9084521933553d633c5d1f26fabaa24a68d81dd5499ead235f3973"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a0287d88a8e5bff420878c3f3c6cb25caf99a15f7e1b5b6752c434a7c0acbed5"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "5948fc402cfbeaacbcf56d67a6118dfd1c4307903f0d7a736c604783ed1dca1b"
 metafile = true
@@ -4562,6 +4719,11 @@ metafile = true
 [[files]]
 file = "mods/sable-cleanup.pw.toml"
 hash = "855f420a37514259be42124e53ea42c1527ad2ae7bfcba983eeca6669c57f7f5"
+metafile = true
+
+[[files]]
+file = "mods/sable-dynamic-lights.pw.toml"
+hash = "6f0843b340087ebf3a21fd1f748c3215ef9535930d744482b599f543a6117108"
 metafile = true
 
 [[files]]
