@@ -89,10 +89,6 @@ file = "config/better-advanced-tooltips-client.toml"
 hash = "167486d8ac09ab9959c9b98c97c169365eaa9e5be0488b9ff8e6a04695d456e0"
 
 [[files]]
-file = "config/betteradvancements-client.toml"
-hash = "5b965898d5b13c5557b603c68ed4ac79a4f850f3a7205eb3dbfc6116f2caf19a"
-
-[[files]]
 file = "config/betterf3.toml"
 hash = "6463b61a1b1588cde1e0a11a1d16f37969a9cca8f529464c57ea9320921ad3e8"
 
@@ -526,7 +522,7 @@ hash = "5b9399eea3ff127d808f4debfaf3eae7513817cd63b36225e550daf9f8054e88"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
-hash = "eefcdb9832b9398b2fe7579a2c51a479f0e8db97cd7458b4506fa799f30d888b"
+hash = "1d69425060f24336457c196ea4ed05a5e1bc19c793d7ff36370301aaaddf567a"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -675,11 +671,6 @@ hash = "ea1fa91de03d8f6f3c36b0c6cef77375a8365790ac0acb63fd558643d54d677f"
 [[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
-
-[[files]]
-file = "kubejs/assets/better-drive-by-wire.pw.toml"
-hash = "da773d9dbda24ff26d3f4950755f09668017a811dec99a79bc358ff62d2bc88c"
-metafile = true
 
 [[files]]
 file = "kubejs/assets/bng/textures/block/molten_flow.png"
@@ -3992,11 +3983,6 @@ hash = "c5446051515995f48a50c715058f4edd562b4a77d7ca89d1b6b8f0868fbef2c4"
 metafile = true
 
 [[files]]
-file = "mods/better-advancements.pw.toml"
-hash = "6028884732652d13ec993d6f06ab2bc0f03134105648c1370e1ace51e7647b8f"
-metafile = true
-
-[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "6d49e453fead55672e5acdbcdf2627f226f08500f86360f15084f287ff8184a5"
 metafile = true
@@ -4267,13 +4253,8 @@ hash = "5b8614354f6ec3f34bc3ed6c5adcb03754e05da03473f97e097eff2a6db813ea"
 metafile = true
 
 [[files]]
-file = "mods/drive-by-wire-sable.pw.toml"
-hash = "7e22b9a56b580bb9b2fc1476fb164402cf43b626fcf05a1114335d48250814c9"
-metafile = true
-
-[[files]]
-file = "mods/drive-by-wiretypewriter.pw.toml"
-hash = "d5e0e040bf529db083c253dea94a89672bb3299c21ca544d36e4414385dbf1fc"
+file = "mods/drive-by-sable.pw.toml"
+hash = "3cda18a9cbd4b9d3a8c041d218a1831a70f0d736e5d4a158e89ffa2a02d49478"
 metafile = true
 
 [[files]]
@@ -4683,6 +4664,11 @@ metafile = true
 [[files]]
 file = "mods/redomesticate.pw.toml"
 hash = "bcd6c35e3104861b16b22b3efcb7d1753601c6fd2a00f915d50e25682727aa66"
+metafile = true
+
+[[files]]
+file = "mods/reliable-advancements.pw.toml"
+hash = "74cb175facb8aa5f6bea192eba569392caa77eadcc1009eeb4ba11bdb08e51ea"
 metafile = true
 
 [[files]]
