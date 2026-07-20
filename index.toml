@@ -4347,11 +4347,6 @@ hash = "0b792c6538de3950ca3fdd98797bbb740239f108e021a77cf1012713eecd3e52"
 metafile = true
 
 [[files]]
-file = "mods/extra-gauges.pw.toml"
-hash = "f18c32e2e7ee01bbc3bff611c21ada838be934389f2241273a0f51c092ea46c1"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "c03f7fb679748b4c8beb2197a25141d6e222798ef9f1af66b1e17b91452fd316"
 metafile = true
@@ -4473,7 +4468,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-tweaks.pw.toml"
-hash = "9d73131b4ac05b03ee7f10e35aa075e55beb14165de216b869c0920aec358efc"
+hash = "084c39907472cd521d38c248aa6518a8a0021314288e82971a3ce3f333d43b47"
 metafile = true
 
 [[files]]
