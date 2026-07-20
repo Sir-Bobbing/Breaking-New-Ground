@@ -883,6 +883,10 @@ file = "kubejs/client_scripts/jsconfig.json"
 hash = "074d0711e4acb8ad4f0421127c8df1e8eb73c060bf0417bb159fc05239dbdcb8"
 
 [[files]]
+file = "kubejs/client_scripts/tooltips.js"
+hash = "126cfc80ece46a5682d72ed08357d887b6da76f60c103b4b7c03249a1e2ae03f"
+
+[[files]]
 file = "kubejs/config/client.json"
 hash = "112e9a8c8e8082733196113c1d7d65cd9a6518888cf997a229f37862040b13ce"
 
@@ -3887,6 +3891,10 @@ file = "kubejs/server_scripts/tags.js"
 hash = "71d3711a4c483f10e2221c08c642db0172967f8951a016268bfff0af5759e807"
 
 [[files]]
+file = "kubejs/startup_scripts/block_modification.js"
+hash = "e28138f90e13b48cd7bba8ab85f3ed6e64135bdfb756c573dc638ed749983d70"
+
+[[files]]
 file = "kubejs/startup_scripts/fluid_registry.js"
 hash = "21bf944048897ed87f6ca1944ae2af5a7dd44c5d3131ffeb23a5c086b4bba297"
 
@@ -3897,10 +3905,6 @@ hash = "9a75b8dd95ef5b2dd64998a78ef9c621b0d8e5578c9fd3e3bc268b1853258ca9"
 [[files]]
 file = "kubejs/startup_scripts/startup_item_tweaks.js"
 hash = "a1968c284ed1b95ca9dbd3a5a109be4e60a4da490f6c160a80e5f7a9e57b32f7"
-
-[[files]]
-file = "kubejs/startup_scripts/toms_storage.js"
-hash = "3287ea80de8edbda8163fcc6964ec695a62588a98b4ae09250c7ea4baafa66d2"
 
 [[files]]
 file = "mods/aeronautics-wind-sound.pw.toml"
