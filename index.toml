@@ -4586,11 +4586,6 @@ hash = "ba8a8ac1bfa36486c89f0c099bb46b26337c79682a75944b1417d28cbd131d1a"
 metafile = true
 
 [[files]]
-file = "mods/packet-fixer.pw.toml"
-hash = "9ede83065f7559416dfeee333ace687d9b933557802d06af3007a292ba485e81"
-metafile = true
-
-[[files]]
 file = "mods/particle-mimicry.pw.toml"
 hash = "350fa3219381414c0e256a308946bad2dd21507499374e7200fd6ddfbf4b6b62"
 metafile = true
