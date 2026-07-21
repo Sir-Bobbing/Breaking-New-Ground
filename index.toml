@@ -1019,7 +1019,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/data/breakingnewground/function/tick.mcfunction"
-hash = "995dbf51e1da3de7ad32747f1dc16ed9d2044363c08c2ff04d298770037424a6"
+hash = "c64964042cc2d15c3e50a95f6347004e8a0df95eb5c71f1d36265c2466330eba"
 
 [[files]]
 file = "kubejs/data/breakingnewground/predicate/nether_to_over.json"
