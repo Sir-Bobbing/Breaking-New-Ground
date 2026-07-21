@@ -4556,11 +4556,6 @@ hash = "f27c172588de9e6ea3bc930ff562e7dfc37aecec505031e404ce56cf84c616a4"
 metafile = true
 
 [[files]]
-file = "mods/no-telemetry.pw.toml"
-hash = "923def4909acadafbead5ba22438b4490654bc6675fec1ea13ef9348c507f280"
-metafile = true
-
-[[files]]
 file = "mods/no_explode_items.pw.toml"
 hash = "18f7fae4b754e3ee3d776541c450bc6512bfaf421f5b86170af36194c5a471d4"
 metafile = true
@@ -4588,6 +4583,11 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "ba8a8ac1bfa36486c89f0c099bb46b26337c79682a75944b1417d28cbd131d1a"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "9ede83065f7559416dfeee333ace687d9b933557802d06af3007a292ba485e81"
 metafile = true
 
 [[files]]
