@@ -152,6 +152,18 @@ ServerEvents.tags('fluid', event => {
         event.add('scguns:bullet', 'scguns:shotball_projectile')
         event.add('scguns:bullet', 'scguns:shulkshot_projectile')
         event.add('scguns:bullet', 'scguns:syringe_projectile')
+        event.add('scguns:bullet', 'scguns:fire_grenade_round')
+        event.add('scguns:bullet', 'scguns:bouncy_grenade_round')
+        event.add('scguns:bullet', 'scguns:gas_grenade_round')
+        event.add('scguns:bullet', 'scguns:he_grenade_round')
+        event.add('scguns:bullet', 'scguns:microjet')
+        event.add('scguns:bullet', 'scguns:rocket')
+        event.add('scguns:bullet', 'scguns:scamp_rocket')
+        event.add('scguns:bullet', 'scguns:')
+        event.add('scguns:bullet', 'scguns:')
+        event.add('scguns:bullet', 'scguns:')
+        event.add('scguns:bullet', 'scguns:')
+        event.add('scguns:bullet', 'scguns:')
 
 
 })
