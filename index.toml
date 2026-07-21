@@ -3675,7 +3675,11 @@ hash = "936fec40d959ebc62d90fd651d391b6ac713ba092083f04980354a74264bae4e"
 
 [[files]]
 file = "kubejs/data/shape_tweaks/shape_map/add.json"
-hash = "76e5697c894098c15c27b4c477ac52beff71e148270b6d6082a10aec867c892d"
+hash = "48d13348b1caf5ab9384210ce207692964a168c854d0325299874b8a24fe0f1b"
+
+[[files]]
+file = "kubejs/data/shape_tweaks/shape_map/remove.json"
+hash = "16218add28f29cd1a69c41dc4ae625b05a6b88bf6bd4a68e5b087b0ec5ab9258"
 
 [[files]]
 file = "kubejs/data/simulated/end_sea/overworld.json"
