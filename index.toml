@@ -4136,11 +4136,6 @@ hash = "7bdb9bc1ea61ff6abceab169dac26c93eb5d041c0cf39e8b741a6a00687b143c"
 metafile = true
 
 [[files]]
-file = "mods/create-extra-gauges.pw.toml"
-hash = "beb8919e8eff63df6a3098959595a3bad04caacb6d2288defd19bbcf0d9d0c95"
-metafile = true
-
-[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "56b9b267f152e599260a7563d75a8080a04896fe8068ab94ea03c2d7ffa7b87e"
 metafile = true
@@ -4328,6 +4323,11 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "0b792c6538de3950ca3fdd98797bbb740239f108e021a77cf1012713eecd3e52"
+metafile = true
+
+[[files]]
+file = "mods/extra-gauges.pw.toml"
+hash = "f18c32e2e7ee01bbc3bff611c21ada838be934389f2241273a0f51c092ea46c1"
 metafile = true
 
 [[files]]
@@ -4671,7 +4671,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-advancements.pw.toml"
-hash = "a62c1f1372b953ae30c388ad42f3d1d680a451085d403233ad7819ca389e6766"
+hash = "740996e1d9d56e5b6e47ac8fe7c39acac5465ad419782035516089b6581c26f1"
 metafile = true
 
 [[files]]
