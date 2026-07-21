@@ -350,7 +350,7 @@ hash = "5a95d5b3ebb7a310467425bd8ede0bd4bcad50a849c41f9df539a206a698a942"
 
 [[files]]
 file = "config/grassiergrass-client.toml"
-hash = "14a36131d30333636873a5898c2ca9d898a5033f9e2588ecccf8b5665757f90c"
+hash = "d92dc6aacc14abf305331dcaeb96e9a76701d2d25cf1d60c2e68ea6f2bf83b7d"
 
 [[files]]
 file = "config/guideme.toml"
@@ -3722,6 +3722,10 @@ file = "kubejs/data/spelunkery/worldgen/placed_feature/spring_water_pool.json"
 hash = "59af875d79489ee0c83448144812c05464e04f9faf2cf1a777487bafb79c78da"
 
 [[files]]
+file = "kubejs/data/stoat/tags/block/rubbery.json"
+hash = "6ed215aa075f34bbbab0b6b678d90cfc3ec1ab7fd506ea77c4b24ebe73809a61"
+
+[[files]]
 file = "kubejs/data/supplementaries/tags/worldgen/structure/adventure_map_destinations.json"
 hash = "aae24e912dc9dc3c41057f3f8496f6e776b6e9cfd7d59010d47219dfd1b5add6"
 
@@ -3950,11 +3954,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1b0d73dab03fa3b432542ad65dc94bba4aa3b41e8f8c1cb452276f616aeb09c5"
-metafile = true
-
-[[files]]
-file = "mods/archeologicalmod.pw.toml"
-hash = "15f139e77ba03d415755a359027d6926754d941c78205e3a7b881bab35bb2508"
 metafile = true
 
 [[files]]
