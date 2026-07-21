@@ -1019,7 +1019,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/data/breakingnewground/function/tick.mcfunction"
-hash = "71643ef28497b0ef27b6993ed907d86efed87b139c0289460560aefd925c8d8e"
+hash = "995dbf51e1da3de7ad32747f1dc16ed9d2044363c08c2ff04d298770037424a6"
 
 [[files]]
 file = "kubejs/data/breakingnewground/predicate/nether_to_over.json"
@@ -3887,7 +3887,7 @@ hash = "f2432b2ae1d81e8ad2008b3c9f7a93eefc9942c0ec2389433f32e7e6190cdcbf"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "71d3711a4c483f10e2221c08c642db0172967f8951a016268bfff0af5759e807"
+hash = "31d0e78bc2836bc371f84cb97337a14fa2cae36ca92e62d372018dfa3f59f144"
 
 [[files]]
 file = "kubejs/startup_scripts/block_modification.js"

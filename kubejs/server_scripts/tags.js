@@ -132,5 +132,26 @@ ServerEvents.tags('fluid', event => {
         event.add('supplementaries:cage_baby_catchable', 'minecraft:husk')
         event.add('supplementaries:cage_baby_catchable', 'minecraft:zombified_piglin')
 
+// Bullet Projectiles
+        event.add('scguns:bullet', 'scguns:advanced_round_projectile')
+        event.add('scguns:bullet', 'scguns:basic_bullet_projectile')
+        event.add('scguns:bullet', 'scguns:bearpack_shell_projectile')
+        event.add('scguns:bullet', 'scguns:beowulf_projectile')
+        event.add('scguns:bullet', 'scguns:blaze_rod_projectile')
+        event.add('scguns:bullet', 'scguns:buckshot_projectile')
+        event.add('scguns:bullet', 'scguns:fire_round_projectile')
+        event.add('scguns:bullet', 'scguns:gibbs_round_projectile')
+        event.add('scguns:bullet', 'scguns:hardened_bullet_projectile')
+        event.add('scguns:bullet', 'scguns:hog_round_projectile')
+        event.add('scguns:bullet', 'scguns:krahg_round_projectile')
+        event.add('scguns:bullet', 'scguns:osborne_slug_projectile')
+        event.add('scguns:bullet', 'scguns:plasma_projectile')
+        event.add('scguns:bullet', 'scguns:projectile')
+        event.add('scguns:bullet', 'scguns:ramrod_projectile')
+        event.add('scguns:bullet', 'scguns:shatter_round_projectile')
+        event.add('scguns:bullet', 'scguns:shotball_projectile')
+        event.add('scguns:bullet', 'scguns:shulkshot_projectile')
+        event.add('scguns:bullet', 'scguns:syringe_projectile')
+
 
 })
