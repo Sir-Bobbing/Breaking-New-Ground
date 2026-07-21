@@ -4027,7 +4027,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-loaders.pw.toml"
-hash = "54471ae319c8abf5c07901698e4cf4f1c2d5b58e5e1bb966f8b795a5a2d738d7"
+hash = "4d2ae3e82147d6ff25080403326583b6b8927b1c40f2a4ae1e3e522baea8cc15"
 metafile = true
 
 [[files]]
@@ -4437,7 +4437,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "577277028dbe2dea32c7ea2ef3f96aef842ee67a5767e50bc90e48a1089a0288"
+hash = "e2f94b69647c4db5ff3eda803b0b7bfc6849cae3c0eb54f8ddb26ab8e320f48c"
 metafile = true
 
 [[files]]
@@ -4537,7 +4537,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0434456d2b5110edc996d7ec5ac8132af0938a8fd7150ce8ca6e1260f7b336f6"
+hash = "0e2aa88048063abb3f7740c6575dbbfc59a074f09e06405c4061ed751d3e2a35"
 metafile = true
 
 [[files]]
@@ -4671,7 +4671,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-advancements.pw.toml"
-hash = "74cb175facb8aa5f6bea192eba569392caa77eadcc1009eeb4ba11bdb08e51ea"
+hash = "a62c1f1372b953ae30c388ad42f3d1d680a451085d403233ad7819ca389e6766"
 metafile = true
 
 [[files]]
@@ -4681,7 +4681,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "ba5ee5eed88e1a1bf86a025cfeef72bc4fb514372ee4586cc4563908ae605397"
+hash = "adc6597578147a58a78fde86a71ec326d93c5f20850a529a39ed6051c8eb3de2"
 metafile = true
 
 [[files]]
@@ -4696,7 +4696,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "71c2250807920ea2028eae9d9dd50a43782f1d78d942818acb83a2d8e05d0184"
+hash = "83677fd0931987eb06f298d9e8bcb01b357238f54e6250f3f2ca67187981069a"
 metafile = true
 
 [[files]]
@@ -4796,7 +4796,7 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "912364f005303a7f897597d92a7db93bbbf1e99f119b619d077454cdd1d53ac3"
+hash = "bc666479737dafdd1a1f2955b4fcebfe79ac367ca213b89a8b781b1b7b9413f1"
 metafile = true
 
 [[files]]
@@ -4836,7 +4836,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "9244feb27c03ad33ba13403a0c7ead221250118f3cb5b54d0041bf59bb5f5a85"
+hash = "66ed0b416d58e937464b75e0af9202a806ec674a28c8d7a7dc08c280de942b80"
 metafile = true
 
 [[files]]
