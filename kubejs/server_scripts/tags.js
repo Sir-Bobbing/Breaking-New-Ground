@@ -96,6 +96,9 @@ ServerEvents.tags('fluid', event => {
     event.add('create:wrench_pickup', 'toms_storage:basic_inventory_hopper')
     event.add('create:wrench_pickup', 'toms_storage:open_crate')
     event.add('create:wrench_pickup', 'toms_storage:filing_cabinet')
+    // Fix break
+    event.remove('minecraft:mineable/pickaxe', 'drivebysable:advanced_cable_hub')
+
 
 })
     ServerEvents.tags('entity_type', event => {
@@ -159,11 +162,6 @@ ServerEvents.tags('fluid', event => {
         event.add('scguns:bullet', 'scguns:microjet')
         event.add('scguns:bullet', 'scguns:rocket')
         event.add('scguns:bullet', 'scguns:scamp_rocket')
-        event.add('scguns:bullet', 'scguns:')
-        event.add('scguns:bullet', 'scguns:')
-        event.add('scguns:bullet', 'scguns:')
-        event.add('scguns:bullet', 'scguns:')
-        event.add('scguns:bullet', 'scguns:')
 
 
 })
