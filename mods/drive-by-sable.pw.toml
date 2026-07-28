@@ -1,25 +1,32 @@
-filename = 'drivebysable-r1.2.0-beta.jar'
+filename = 'drivebysable-r1.2.2-beta.jar'
 name = 'Drive-By-Sable'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'r1.2.0-beta'
+x-prismlauncher-version-number = 'r1.2.2-beta'
 
 [download]
-hash = '39ae218b3231024a8820fd3ea0d54c0512c699623eb7a1d2bfd72e5902c93091dfb8925191bcdc36f8a63f3c01c2cbf64e79b7e76b35257b3dcb2517a88a7093'
+hash = '37c878ab39571d50eee5cbbbf10b494510bc90bda938371c5ebc955b72cb8287325941bba18830078f7408349101c8ba02afda10a1a0926900945cc6477d4952'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/rrNGnYXg/versions/jXThZuwQ/drivebysable-r1.2.0-beta.jar'
+url = 'https://cdn.modrinth.com/data/rrNGnYXg/versions/hGr6aXO5/drivebysable-r1.2.2-beta.jar'
 
 [update.modrinth]
 mod-id = 'rrNGnYXg'
-version = 'jXThZuwQ'
+version = 'hGr6aXO5'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'LNytGWDc'
 type = 'REQUIRED'
-version = 'UjX6dr61'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'H6bJ8Ju4'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'xZJfGh82'
+type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'E8eHF2Yl'
@@ -28,17 +35,11 @@ type = 'OPTIONAL'
 [[x-prismlauncher-dependencies]]
 addonId = 'T9PomCSv'
 type = 'REQUIRED'
-version = 'EV0eDTeG'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'oWaK0Q19'
-type = 'REQUIRED'
-version = 'YhZLrAFC'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'gu7yAYhd'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'H6bJ8Ju4'
-type = 'OPTIONAL'
+addonId = 'oWaK0Q19'
+type = 'REQUIRED'
