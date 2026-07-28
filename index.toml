@@ -4671,12 +4671,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "945bbe08e177e85f7118493b7375d4e2a5fa24c2c56e1f03ec4d8e7e7638edef"
+hash = "cec8e664c0f19f8d7873a29a2c269268b062bd12aca2f762fb4dcef0b049184d"
 metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "3b37680573428d947b38d46d531b091808d2c4c6d4568b188bf0e9391a1f15f4"
+hash = "d58ed98f5908649f7e1874c3c76dcf1adc9627072b07332b81db836b9818b7ba"
 metafile = true
 
 [[files]]
@@ -4706,7 +4706,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable-dynamic-lights.pw.toml"
-hash = "6f0843b340087ebf3a21fd1f748c3215ef9535930d744482b599f543a6117108"
+hash = "6ba107a7f69a966e83890fd332b1a95f0d69fa38775a9c993ade139ebd81f49e"
 metafile = true
 
 [[files]]
@@ -4826,7 +4826,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "8e79251a5a92e70066c8b75c1e42dd5750fa75d65070cab5b69271bb6223628f"
+hash = "eebb6e9efb7609635b9c62ef03656fdf7bc147894cc5153ad3e3bd901c7bce37"
 metafile = true
 
 [[files]]
