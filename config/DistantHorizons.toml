@@ -862,7 +862,7 @@ _version = 4
 				# 
 				# 0.0: No fog. 
 				# 1.0: Fully opaque fog.
-				farFogMin = "0.0"
+				farFogMin = "0.05"
 				#
 				# What color should fog use? 
 				# 
@@ -878,14 +878,14 @@ _version = 4
 				farFogFalloff = "EXPONENTIAL"
 				#
 				# Used in conjunction with the Fog Falloff.
-				farFogDensity = "2.5"
+				farFogDensity = "5.0"
 				#
 				# Where should the far fog end? 
 				# 
 				# 0.0: Fog ends at player's position.
 				# 1.0: Fog ends at the closest edge of the vanilla render distance. 
 				# 1.414: Fog ends at the corner of the vanilla render distance.
-				farFogEnd = "0.6"
+				farFogEnd = "1.0"
 
 				[client.advanced.graphics.fog.heightFog]
 					#

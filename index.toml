@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "6f83b9bba43adf27acbcefb42a198f601b03f07aecbb32a93856e661fb72f980"
+hash = "48c9dd6cc6fb871acf4232def15f510c2d8a91a10a8ac2dd23915ad09f7d8e58"
 
 [[files]]
 file = "config/SoundPhysicsPerfected.json5"
@@ -509,6 +509,10 @@ file = "config/redomesticate.json"
 hash = "ec03394fe81793bd4b341cc95527f3cf54393bdc68bb6f5a2bfd0d2ee120be72"
 
 [[files]]
+file = "config/reliable_advancements_layout.json"
+hash = "bafbb2bd4d1565c56fd94b0f7ce5a2201e105ce3c4a85230d077f71340e1e3f2"
+
+[[files]]
 file = "config/reliable_recipes.json"
 hash = "2fc8333ddc190d44d555f49da8857a5464d1b5fafe8844bb9a4b8f2688b9ab02"
 
@@ -691,6 +695,170 @@ hash = "12828c353d886511363c99ef8915548ddf08422d5b70594e01c02e89250f5356"
 [[files]]
 file = "kubejs/assets/breakingnewground.zip"
 hash = "dc3a34af2672abba223094be124ef6fe5a71fa7ee896c03779c8a79ba5eeaaee"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/amethyst_geode.nbt"
+hash = "8f347391d4be4f5dd7d0a538dac50b4ab238438e0ea4906023536172425c0918"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/arcane.md"
+hash = "d9bf71a987b22dfd08b2b8bbc1a4fa4765a4059df99ef52c0d0ff28b3897bddd"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/arcane_alchemists.md"
+hash = "b5ba44af7eda22ace48e62c22792efb63a1e0127a9fe081e01f8c764a195dc7c"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/arcane_artifacts.md"
+hash = "52857ebb075f9d71875f159984a352e2aa372d06169c5c96a988abfc245cd91b"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/arcane_enchanting.md"
+hash = "c1f60295de314f630f4c877e00365cf45b2464559e8e7d7b78f759a7b29df207"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/arcane_known_enchantments.md"
+hash = "aa2333e11421f004b44b2befe2e6a22881978e3fc1145af9e05ff3bf615979ab"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/arcane_malum.md"
+hash = "3b8e653178892deaa37496aa1bc52bcdc996d0ef6855d1a8856b0edb399b609b"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/enchanting_example.nbt"
+hash = "99a59438391930319fb6896a679ff81a4d794d685583c25e19255b27d0b22483"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/index.md"
+hash = "19953a91db91bb7a5797d4e1815a5fb394ae071e99b6f07d15466ba682c0b458"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/industrial.md"
+hash = "a5a65bc48f3cfb8378aac322c0d96975cd75357c1ccb3ab4c4e53fca46d22dd5"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/industrial_chunk_loaders.md"
+hash = "926764d156f985ccd73ca169150c6987f6a266b47d2304410f0569009a3e7cd4"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/industrial_create.md"
+hash = "af22a68e3d6abfe3ff3c44c5f48c492e972848510849b92c52d3d114a3e12535"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/industrial_guns_cannons.md"
+hash = "7541105bc1457f8b6e7eab28f8f8b9b8e5491efde888dda82614f32420af0da1"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/industrial_prospecting.md"
+hash = "f6c17ce36425fb80bc8e10aeab7e92a89f52940bd9084e6b00462ae636ada318"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/industrial_simple_storage.md"
+hash = "956f9192723ef29673b8f689cfc48aebc717a135acdaddb7147c7cef3b8106fa"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/industrial_tfmg.md"
+hash = "237d95f3ad5f960fe19fe37a198ff4d18d4b6f19cfa43aa413a685e3a94b654f"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/industrial_transport.md"
+hash = "f81f7bd255b173779ecfb16558563fe403d54390682db21e347c4bda1e062a73"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/inventory_proxy_example.nbt"
+hash = "ae1798733573d987a54e138c18c5cc42d03b4c676e0d94921bb34401145810fa"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/minutiae.md"
+hash = "d5c7a2a953e7977c68d60887fb9a8b29716546380caf971c845707e232923359"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/minutiae_decoration.md"
+hash = "6a93ef4937d33ac4ce051a31355b9617a267bd8344cef61a5d6708b0b0021ff9"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/minutiae_envelope.md"
+hash = "acb5a33d0db8c9094372a5a295bbec26db34eb7a51ae7f1e8ab8a277aea524ea"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/minutiae_etched.md"
+hash = "d7f3818fc6a7ce4b52c4864150bb727a13491dd098b91517114713f9e7edc0e5"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/minutiae_paintings.md"
+hash = "2db5151b4a9a12d30f6c9e96b440ab3e8e10cf9a25112c17c0adfb84ff193f64"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/minutiae_utilities.md"
+hash = "8c5c90c93df6405ae7e109140045b376810f0c25b99ad5b2c0d4eb384295b341"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/minutiae_vista.md"
+hash = "60823c0bfc4c938f58f7d6f24c78101bd1bd63cf0442b950470ce0d67b7b60f7"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/nephrite_geode.nbt"
+hash = "4a266c0b0e0b7436fe0a1aa89715c61ddda7fe35abc1bedd98fab2031c0d829b"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/prospecting_visualizer.nbt"
+hash = "c86d2094cb99b14ed02971505525ec22950dd7cdcc993b45fc6e0d35b591b351"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/quartz_geode_1.nbt"
+hash = "7cceca3d18957388861da32c892d16ebed8b6a340541c0a2ccbf4fbf0a60327c"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/secret.md"
+hash = "0fe01946144e71085abd1115afd29cd502095bb8336270ab3c760c2bec756a0a"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/secret_cassettes.md"
+hash = "c08b3c7257b55cafc6ac75c9fe7840648c32dec4e7c18062353c96f233524f7b"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/secret_flutes.md"
+hash = "11911738eb7592f7e33b69f4e12e200c0882fae5390e14008ad8b4e73cdfe405"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/secret_globes.md"
+hash = "27a197315c5358946677670190c3b12308d4f73f8b939bcbbdcfb86440b57624"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/spring_1.nbt"
+hash = "bf83dde7fffe047a6a5cbb419211665c8f89b22f6a5d45207f3b19613051b0bd"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/world.md"
+hash = "57e481cb83f1ec9d259005efdf1139d2e9dd295102cafec9abbfe5906df54e6a"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/world_food.md"
+hash = "a5af24bad78abae5bca1656200f096b21bd4c321a0b6c1f6e862e4a945d68edc"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/world_pets.md"
+hash = "7bdf3ee35179e565e73531619e01941654544a9a0cdec256dddd0dd3d86577d1"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/world_the_nether.md"
+hash = "69faa9272d259c2ec06323402e3fb074000cadda110bdbe3f321ba488c5be21b"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/world_the_overworld.md"
+hash = "fe3942a068ef9d2993511ebd6b46bd0fb9647fcda8c6c57b4d1c6ae9c4e9b7ff"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/world_villagers_kobolds.md"
+hash = "ed52d89f900c8b425fd4a3fe23a6d8a7a7dedd3dfe8662ba257c2f43ee07ddd0"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/z_other_resources.md"
+hash = "cd6b92dd5cbcd827c308305b47a34a2b0a960f67c56d9a5e5ccced2030fef5fe"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guides/breakingnewground/guide/z_social.md"
+hash = "56297e21cca207da51704f73cb2d4a4d7e16c3064830a86ac454fc9f4f430585"
 
 [[files]]
 file = "kubejs/assets/create/textures/block/deepslate_zinc_ore.png"
@@ -896,6 +1064,10 @@ hash = "391b3871de85e96ea20c55f5506c5c1f6b63674ae821dd4dfa5b375252df1b45"
 [[files]]
 file = "kubejs/config/web_server.json"
 hash = "13ff2e041598f8b12e44fbf8d63b25f088c43d025193b0062863113559ac73eb"
+
+[[files]]
+file = "kubejs/data/aeronautics/advancement/root.json"
+hash = "7c6af25bd0b9a885e2ec974548df3a0c3e877081d2d6cfd976ae3da4f7174849"
 
 [[files]]
 file = "kubejs/data/another_furniture/recipe/acacia_shutter.json"
@@ -1350,8 +1522,28 @@ file = "kubejs/data/chunkloaders/recipe/ultimate_chunk_loader.json"
 hash = "1caa7f2e35b8542a1ee7e314b7824ee0ddc617d0d56264fc4808e22b38d53ef1"
 
 [[files]]
+file = "kubejs/data/create/advancement/train_portal.json"
+hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
+
+[[files]]
 file = "kubejs/data/create/recipe/milling/bone_meal.json"
 hash = "67c9c5485fb1bca8005a97bf93baa462361c0ab0537ff8bde53672ca9320665d"
+
+[[files]]
+file = "kubejs/data/create_connected/advancement/control_chip.json"
+hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
+
+[[files]]
+file = "kubejs/data/create_connected/advancement/kinetic_battery.json"
+hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
+
+[[files]]
+file = "kubejs/data/create_connected/advancement/root.json"
+hash = "f18895526dbc90c0dc80ff69cf58b70e8ce181120c85f389890b67a00635afb0"
+
+[[files]]
+file = "kubejs/data/create_connected/advancement/sequenced_pulse_generator.json"
+hash = "db5c530c18bc28054c26fd88536043ed27f5ccda6cb75d8dabd6e16f50a040b5"
 
 [[files]]
 file = "kubejs/data/create_connected/recipe/crafting/kinetics/sequenced_pulse_generator.json"
@@ -1636,6 +1828,10 @@ hash = "9a82c5939d93376a35d3ef2ab26fd8616f2c7aa34f9544168ea945119bd95922"
 [[files]]
 file = "kubejs/data/createbigcannons/tags/item/stone.json"
 hash = "c78f1984cf8d76a4f5a1219ceb6e8ae8612ef345c0afcc35306126c445394f7b"
+
+[[files]]
+file = "kubejs/data/createpropulsion/advancement/fuel_propulsion.json"
+hash = "346db3f97c667d8525c1ac256dac13489f26ed1f7c642180ce6ebc596ab3a86f"
 
 [[files]]
 file = "kubejs/data/createpropulsion/recipe/crafting/coral_generator.json"
@@ -3022,6 +3218,10 @@ file = "kubejs/data/malum/worldgen/placed_feature/runewood_tree.json"
 hash = "ca03c0e78b3cac1939e37fc0b3487d643b0e2b42535317b76fc8a601fa903332"
 
 [[files]]
+file = "kubejs/data/minecraft/advancement/end/levitate.json"
+hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
+
+[[files]]
 file = "kubejs/data/minecraft/advancement/story/whats_this.json"
 hash = "1cf96cbc7c98ebbd207553e41086154e46d9beac7eb7cfc5a92666a151e5aa77"
 
@@ -3154,6 +3354,18 @@ file = "kubejs/data/nomansland/recipe/pebbles.json"
 hash = "1bd9fe4dbc0c84563cb1bc8af62a45595aa53343e8c75d95b3594b87bc68ee39"
 
 [[files]]
+file = "kubejs/data/nova_structures/advancement/adventure/find_shrine.json"
+hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
+
+[[files]]
+file = "kubejs/data/nova_structures/advancement/adventure/find_tavern.json"
+hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
+
+[[files]]
+file = "kubejs/data/nova_structures/advancement/adventure/tavern_quest.json"
+hash = "b29aa9037227b339b84481a9ad423f7cc59e5eecce628b5336c75f345878be94"
+
+[[files]]
 file = "kubejs/data/particlemimicry/recipe/particle_emitter.json"
 hash = "a1f3df7036e96ef96db7fa8a1cfefaff1b7cc945b746b2b7fd95d862509be8ab"
 
@@ -3228,6 +3440,10 @@ hash = "64406548bafceb75991948b23126c7e6e76a1809e33e48c836c0a2b6f6d74f3f"
 [[files]]
 file = "kubejs/data/powergrid/recipe/sequenced_assembly/electrical_gizmo.json"
 hash = "c44c403e1f61c3add8316b4058daea9014e6a890038f635736d891fcebda036e"
+
+[[files]]
+file = "kubejs/data/quark/advancement/content/tatami_gaeshi.json"
+hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
 
 [[files]]
 file = "kubejs/data/quark/recipe/building/crafting/cobblestone_bricks.json"
@@ -3688,6 +3904,18 @@ hash = "f390a92a94ed876ebebfc98f817238fb4bfaacc04a634a734bc796b5362ce715"
 [[files]]
 file = "kubejs/data/simulated/end_sea/the_nether.json"
 hash = "6be82413398c48257d0f5824367dd7e6b80de5bdf32026600f1069e97b156fa5"
+
+[[files]]
+file = "kubejs/data/spelunkery/advancement/spelunkery/compression_blast_miner.json"
+hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
+
+[[files]]
+file = "kubejs/data/spelunkery/advancement/spelunkery/every_ore.json"
+hash = "a7be25d4cce71b3acec5fe8fb2b1a49e5b47e8d36a2d728757c2ece45f029a3b"
+
+[[files]]
+file = "kubejs/data/spelunkery/advancement/spelunkery/true_north.json"
+hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
 
 [[files]]
 file = "kubejs/data/spelunkery/neoforge/biome_modifier/add_hot_springs.json"
