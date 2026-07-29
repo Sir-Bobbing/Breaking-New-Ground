@@ -12,12 +12,14 @@
 	maxBlocksPermeated: 3.0,
 	permeationAbsorption: 0.4,
 	barrierAsAir: true,
-	disableFXOnUI: false,
+	disableFXOnUI: true,
 	bounceAbsorptionMultiplier: 0.9,
 	shortcutDirectionality: true,
 	maxSounds: 100,
 	debug: "OFF",
-	soundBlacklist: ["nomansland:entity.friend_moon.offering_loop"],
+	soundBlacklist: [
+		"nomansland:entity.friend_moon.offering_loop"
+	],
 	soundTickBlacklist: [],
 	reverb: true,
 	reverbTuning: "OFF",
