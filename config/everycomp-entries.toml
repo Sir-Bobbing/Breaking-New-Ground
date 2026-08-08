@@ -1,11 +1,8 @@
-#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
-[types]
-
 		[types.wood_type.architects_palette]
 			twisted = true
 
 		[types.wood_type.quark]
-			azalea = true
+			azalea = false
 			ancient = true
 			blossom = true
 
@@ -48,26 +45,6 @@
 			apple_fruit = true
 			pear_fruit = true
 
-		[types.stone_type.create]
-			limestone = true
-			asurine = true
-			crimsite = true
-			ochrum = true
-			veridium = true
-			scoria = true
-			scorchia = true
-
-		[types.stone_type.quark]
-			soul_sandstone = true
-			limestone = false
-			jasper = false
-			shale = false
-			myalite = false
-			permafrost = false
-
-		[types.stone_type.spelunkery]
-			nephrite = true
-
 		[types.stone_type.architects_palette]
 			abyssaline = true
 			hadaline = true
@@ -78,21 +55,47 @@
 			moonshale = true
 			nebulite = true
 
-		[types.stone_type.dndecor]
-			cut_stone = false
+		[types.stone_type.create]
+			limestone = true
+			asurine = true
+			crimsite = true
+			ochrum = true
+			veridium = true
+			scoria = true
+			scorchia = true
 
-		[types.stone_type.scguns]
-			phosphorite = true
+		[types.stone_type.dndecor]
+			cut_stone = true
 
 		[types.stone_type.nomansland]
 			silt = true
 			siltstone = true
 
+		[types.stone_type.quark]
+			soul_sandstone = true
+			limestone = true
+			jasper = true
+			shale = true
+			myalite = true
+			permafrost = true
+
+		[types.stone_type.scguns]
+			phosphorite = true
+
+		[types.stone_type.spelunkery]
+			nephrite = true
+
+		[types.stone_type.supplementaries]
+			brittlestone = true
+
 		[types.cake.nomansland]
 			fruit_cake = true
 
-#Disables specific entries
-[entries]
+		[types.lantern.architects_palette]
+			nether_brass_lantern = true
+
+		[types.lantern.scguns]
+			plasma_lantern = true
 
 		[entries.wood_type.handcrafted]
 			counter = true
@@ -164,33 +167,33 @@
 			leaf_carpet = true
 
 		[entries.stone_type.create]
-			small_brick_wall = true
-			cut_wall = true
-			small_bricks = true
-			cut_brick_slab = true
-			polished_cut_slab = true
-			small_brick_stairs = true
-			cut_bricks = true
-			cut = true
-			polished_cut = true
-			small_brick_slab = true
-			layered = true
-			polished_cut_stairs = true
-			cut_brick_wall = true
-			pillar = true
-			cut_stairs = true
-			cut_brick_stairs = true
-			polished_cut_wall = true
-			cut_slab = true
+			small_brick_wall = false
+			cut_wall = false
+			small_bricks = false
+			cut_brick_slab = false
+			polished_cut_slab = false
+			small_brick_stairs = false
+			cut_bricks = false
+			cut = false
+			polished_cut = false
+			small_brick_slab = false
+			layered = false
+			polished_cut_stairs = false
+			cut_brick_wall = false
+			pillar = false
+			cut_stairs = false
+			cut_brick_stairs = false
+			polished_cut_wall = false
+			cut_slab = false
 
 		[entries.stone_type.handcrafted]
 			corner_trim = true
 			pillar_trim = true
 
 		[entries.stone_type.quark]
-			polished_vertical_slab = false
+			polished_vertical_slab = true
 			pillar = true
-			vertical_slab = false
+			vertical_slab = true
 
 		[entries.mud_type.quark]
 			carved_bricks = true
