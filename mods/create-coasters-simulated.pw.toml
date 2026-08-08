@@ -1,29 +1,24 @@
-filename = 'simulatedcoasters-0.1.1.jar'
+filename = 'simulatedcoasters-0.1.4.jar'
 name = 'Create: Coasters Simulated'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.1.1'
+x-prismlauncher-version-number = '0.1.4'
 
 [download]
-hash = '88875765a078e446ef911943b7d3ea47021977db145667a349cddda960295bc92a8a4911192adda27652f451a8778424f3de12aa2a32d84a83b4dcc706afdfe7'
+hash = 'b0432abef09615d0f15e4105e2113c97b88e45b18a305834e6db80a29c5951e8603a80830ef44de1427e43460283284eb58f03bba572d45c52b30fadec205a56'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/W1ZUfWdr/versions/iOm9m3BL/simulatedcoasters-0.1.1.jar'
+url = 'https://cdn.modrinth.com/data/W1ZUfWdr/versions/RIBBfVi3/simulatedcoasters-0.1.4.jar'
 
 [update.modrinth]
 mod-id = 'W1ZUfWdr'
-version = 'iOm9m3BL'
+version = 'RIBBfVi3'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'LNytGWDc'
 type = 'REQUIRED'
-version = 'UjX6dr61'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'oWaK0Q19'
-type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'T9PomCSv'
