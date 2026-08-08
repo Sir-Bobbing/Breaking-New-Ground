@@ -1034,10 +1034,6 @@ file = "kubejs/data/breakingnewground/function/tick.mcfunction"
 hash = "c64964042cc2d15c3e50a95f6347004e8a0df95eb5c71f1d36265c2466330eba"
 
 [[files]]
-file = "kubejs/data/breakingnewground/loot_table/reward/guide.json"
-hash = "fae123241ee686441a5b3dcf9ee3a8bc1286320057b52f08615a29becf37c621"
-
-[[files]]
 file = "kubejs/data/breakingnewground/predicate/nether_to_over.json"
 hash = "1011f58a044f45f3dd4c90995a3a9ed4b64fd45f38917b9b6685ae51e334ad72"
 
@@ -1704,6 +1700,70 @@ hash = "246208555d8ac93b0686c16724248bfca37b81b07381cc960a421103555cc75c"
 [[files]]
 file = "kubejs/data/decorative_blocks/recipe/lattice.json"
 hash = "3b94cf8e00acc0a079c455f761c766cc3ce9643f11ba2b76b4805781fb127e65"
+
+[[files]]
+file = "kubejs/data/envelope/structure/collapsed_mail_hub/balloon_large_red.nbt"
+hash = "138f1894e9f145c609da537a862105971b32933dc34ddab237e7cdee602d0d3e"
+
+[[files]]
+file = "kubejs/data/envelope/structure/collapsed_mail_hub/balloon_small_red_1.nbt"
+hash = "2c2618210e989dbf3631eeec3abbda93035de7a1843130380e8f1ba41d1db4ce"
+
+[[files]]
+file = "kubejs/data/envelope/structure/collapsed_mail_hub/balloon_small_red_2.nbt"
+hash = "489834fb64f62e69448aabd2c2b897bdbd569e452c81175337ec45d7e22a37aa"
+
+[[files]]
+file = "kubejs/data/envelope/structure/collapsed_mail_hub/balloon_small_red_3.nbt"
+hash = "cea903def55ef3345408712f1e724352464439b2379c367f8ac12483be53031d"
+
+[[files]]
+file = "kubejs/data/envelope/structure/collapsed_mail_hub/balloon_small_red_4.nbt"
+hash = "3b71a15712739371c5fb0d2eaabd0610f4113ead9c59ad9bbf6066f2c0a5cfe2"
+
+[[files]]
+file = "kubejs/data/envelope/structure/collapsed_mail_hub/platform_balloon.nbt"
+hash = "f2cb6a57343143a65843adf40395aba1bd2321dcb63da3f2883d027aecf63577"
+
+[[files]]
+file = "kubejs/data/envelope/structure/collapsed_mail_hub/platform_construction_1.nbt"
+hash = "f6cc517a684599d656fd9501ba283ae030f42ba2d1be4e07a5dff654e0d5a4d0"
+
+[[files]]
+file = "kubejs/data/envelope/structure/collapsed_mail_hub/platform_construction_2.nbt"
+hash = "54068908f8b9c74f4f15c535a412d641c1dcd571eed5798b2237e047cfb84af3"
+
+[[files]]
+file = "kubejs/data/envelope/structure/collapsed_mail_hub/platform_dispatchery_1.nbt"
+hash = "0c3b1d4cf8aad07ec7e41851ebd3e8577c22b747526cf875b124223235f79d42"
+
+[[files]]
+file = "kubejs/data/envelope/structure/collapsed_mail_hub/platform_dispatchery_2.nbt"
+hash = "c70d113de52d72bd3be428d35e5067f319b6f30d0ea51c057eff36afe378d888"
+
+[[files]]
+file = "kubejs/data/envelope/structure/collapsed_mail_hub/platform_dock.nbt"
+hash = "2de427b4007b9d15dce8ddedc5058f8a5a5acf83abda8b0d21e4eeb9eb2047d5"
+
+[[files]]
+file = "kubejs/data/envelope/structure/collapsed_mail_hub/platform_dovecote.nbt"
+hash = "b4a4ec0102a007644a77437831d800e81b64480c3e6b31f204a04f7a0ef06829"
+
+[[files]]
+file = "kubejs/data/envelope/structure/collapsed_mail_hub/platform_end.nbt"
+hash = "58fa33f50fb4b2062125508cfee957b4dfa500fd239ed1404db433a4c96c1853"
+
+[[files]]
+file = "kubejs/data/envelope/structure/collapsed_mail_hub/platform_manufactory.nbt"
+hash = "a7ad1e02f453488a5c051b7df4c0240fcc4842967f165f0f5120c3d88dcd3e01"
+
+[[files]]
+file = "kubejs/data/envelope/structure/collapsed_mail_hub/platform_storage_1.nbt"
+hash = "5efc411b1d4d8f1d0ab869f04ce7a33f1dca888fc47e09708b50cc8923ed8b6a"
+
+[[files]]
+file = "kubejs/data/envelope/structure/collapsed_mail_hub/platform_storage_2.nbt"
+hash = "ea1f43d741e46d4ddcd69504d292df89e1a96f2fcd76abcaad861c91a3cff03b"
 
 [[files]]
 file = "kubejs/data/everycomp/recipe/af/architects_palette/twisted_shutter/architects_palette/twisted.json"
@@ -2907,7 +2967,7 @@ hash = "40eaab2f83f94fa7c53397f483f10b52b689e2cba389c1935cbaf8db9146e491"
 
 [[files]]
 file = "kubejs/data/lootr/advancement/root.json"
-hash = "07382448574026345e1bb84cead76bec8b0766847e4ea04ab80cd42ecbe8315b"
+hash = "43bcdfceef92fd8146176174062a58abc818746e5e034a185906daee66639d6c"
 
 [[files]]
 file = "kubejs/data/malum/recipe/malum/spirit_repair/common/aluminum.json"
@@ -3104,6 +3164,10 @@ hash = "39a6e6aa24e2fb916910bb6120b4864879a5f378831d15cb319c43632fd3bf69"
 [[files]]
 file = "kubejs/data/minecraft/dimension_type/the_nether.json"
 hash = "360731697a58adc00f8055ad3cf9fd1d2652e1313c24bd05aa71eaae5f852bfe"
+
+[[files]]
+file = "kubejs/data/minecraft/function/guide/guide.mcfunction"
+hash = "2054d39dffeba601dc08d0a90848acf94fdbc09e5bb771c2b30c1372db6c59bc"
 
 [[files]]
 file = "kubejs/data/minecraft/function/whats_this/dementia.mcfunction"
@@ -3716,6 +3780,22 @@ hash = "908e7affded8ebbdc15478e5507358b2fdff65f874f4034a0215621a9f8fd830"
 [[files]]
 file = "kubejs/data/scguns/recipe/vicious_acid.json"
 hash = "dba3262cc5d0f0db790dc296ae88944bb0c9822eef2e335d7665759fd9599984"
+
+[[files]]
+file = "kubejs/data/scguns/structure/chambers/chamber_smith.nbt"
+hash = "eb9fe30bab2a33400613223273deb9d33545b34eb8db258f803fa115c8c8a53a"
+
+[[files]]
+file = "kubejs/data/scguns/structure/chambers/chamber_water.nbt"
+hash = "cdc80fd7591912de70d11786732116a5f0308ec0e46170391fb274dc2fa74410"
+
+[[files]]
+file = "kubejs/data/scguns/structure/chambers/chamber_water_2.nbt"
+hash = "973181751dbbf56569e47078d633dae47920137fde51c8f4e678f2289beb11b3"
+
+[[files]]
+file = "kubejs/data/scguns/structure/osgood_lab.nbt"
+hash = "487300d336cb223037383d13891e20bf8c6a47a715ccad54e7d06245f4ff86a5"
 
 [[files]]
 file = "kubejs/data/scguns/tags/item/advanced_bullet_material.json"
