@@ -10,7 +10,7 @@ x-prismlauncher-version-number = 'immersiveenchanting-beta-6.0.1-neoforge-1.21.1
 hash = 'd76ee256cb5d559446d78ded1692def6ae569ae1'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+url = 'https://www.curseforge.com/minecraft/mc-mods/immersive-enchanting/download/8598337'
 
 [update.curseforge]
 file-id = 8598337

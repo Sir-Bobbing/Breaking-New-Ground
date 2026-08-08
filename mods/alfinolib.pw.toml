@@ -11,7 +11,7 @@ x-prismlauncher-version-number = 'alfinolib-1.2.0-neoforge-1.21.1.jar'
 hash = '534ec2d4319f7aed36809e60430b501f7451ac39'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+url = 'https://www.curseforge.com/minecraft/mc-mods/alfinolib/download/8596074'
 
 [update.curseforge]
 file-id = 8596074

@@ -4022,7 +4022,7 @@ metafile = true
 
 [[files]]
 file = "mods/alfinolib.pw.toml"
-hash = "fd614657086a93d30d14431ff9ad7e418bbf193aa5a086223bc9faae28bf59e5"
+hash = "06c9f383149e5c98efcec2dadcd9613dcd065c933061ab812e64b8a3ffac2341"
 metafile = true
 
 [[files]]
@@ -4302,7 +4302,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "46d87403f5755e2ffcad5d2a29a06f37db1d7f93db781834755b2bb9bca1de6b"
+hash = "fa85ae367083c6748a40c9ed7ac7c87562a563d264998ab98112488c51677109"
 metafile = true
 
 [[files]]
@@ -4512,7 +4512,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-enchanting.pw.toml"
-hash = "497453879671b263dac7aa04be408b56050a9967c6c9cb835e0beda10ef8b977"
+hash = "4bc15e35a096e1eb3152e3ba44e8c0bd63ebaf6f3f7d9202abe0f3ca33b0b56d"
 metafile = true
 
 [[files]]
