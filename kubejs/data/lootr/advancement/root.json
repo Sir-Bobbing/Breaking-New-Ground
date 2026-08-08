@@ -4,30 +4,30 @@
       "trigger": "minecraft:tick"
     }
   },
-  "display": {
-    "announce_to_chat": false,
-    "background": "minecraft:textures/block/dark_oak_log.png",
-    "description": {
-      "translate": "lootr.advancements.root.description"
-    },
-    "icon": {
-      "count": 1,
-      "id": "minecraft:chest"
-    },
-    "show_toast": false,
-    "title": {
-      "translate": "lootr.advancements.root.title"
-    }
-  },
   "requirements": [
     [
       "always_true"
     ]
   ],
-  "rewards": {
-    "loot": [
-      "breakingnewground:reward/guide"
-    ]
+  "sends_telemetry_event": true,
+  "display": {
+    "show_toast": false,
+    "announce_to_chat": false,
+    "icon": {
+      "id": "minecraft:chest",
+      "count": 1
+    },
+    "title": {
+      "text": "Lootr"
+    },
+    "description": {
+      "text": "It belongs in a museum! Bring instanced loot to your world."
+    },
+    "background": "minecraft:textures/block/dark_oak_log.png",
+    "frame": "task",
+    "hidden": false
   },
-  "sends_telemetry_event": true
+  "rewards": {
+    "function": "minecraft:guide/guide"
+  }
 }
