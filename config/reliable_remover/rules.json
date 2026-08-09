@@ -9,7 +9,7 @@
 {
 "action": "remove",
 "items":
-["createpropulsion:platinum_ore", "createpropulsion:deepslate_platinum_ore", "createpropulsion:platinum_block", "createpropulsion:raw_platinum_block", "createpropulsion:platinum_casing", "createpropulsion:platinum_fluid_tank", "createpropulsion:platinum_ingot", "createpropulsion:platinum_nugget", "createpropulsion:platinum_sheet", "createpropulsion:raw_platinum", "create:crushed_raw_platinum", "tfmg:lithium_ore", "tfmg:deepslate_lithium_ore", "tfmg:raw_lithium_block", "tfmg:lithium_block", "tfmg:lithium_torch", "tfmg:lithium_ingot", "tfmg:lithium_nugget", "tfmg:raw_lithium", "tfmg:crushed_raw_lithium", "tfmg:lithium_charge", "tfmg:lithium_blade", "tfmg:lit_lithium_blade","createpropulsion:cable", "createpropulsion:cable_relay","createpropulsion:platinum_fluid_vessel"]
+["createpropulsion:platinum_ore", "createpropulsion:deepslate_platinum_ore", "createpropulsion:platinum_block", "createpropulsion:raw_platinum_block", "createpropulsion:platinum_casing", "createpropulsion:platinum_fluid_tank", "createpropulsion:platinum_ingot", "createpropulsion:platinum_nugget", "createpropulsion:platinum_sheet", "createpropulsion:raw_platinum", "create:crushed_raw_platinum", "tfmg:lithium_ore", "tfmg:deepslate_lithium_ore", "tfmg:raw_lithium_block", "tfmg:lithium_block", "tfmg:lithium_torch", "tfmg:lithium_ingot", "tfmg:lithium_nugget", "tfmg:raw_lithium", "tfmg:crushed_raw_lithium", "tfmg:lithium_charge", "createpropulsion:cable", "createpropulsion:cable_relay","createpropulsion:platinum_fluid_vessel"]
 }
 // Other
 {
