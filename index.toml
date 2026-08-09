@@ -146,7 +146,7 @@ hash = "2d5233abbb0c0bf7014ee8b16f29bad036c0f708956643d9c6ddad054b8f0e01"
 
 [[files]]
 file = "config/combatnouveau-server.toml"
-hash = "2e4b3bfac041fcf2e581176004ad6f4c9c5851fe444b73d08ee9fc96638bb878"
+hash = "32ad6274655b13638ecbc0291bdf49eae4a667f8568e177f5020efefa99037bd"
 
 [[files]]
 file = "config/connector.json"
@@ -526,7 +526,7 @@ hash = "5b9399eea3ff127d808f4debfaf3eae7513817cd63b36225e550daf9f8054e88"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
-hash = "4d0395353329dad1e46b4c89e1982a830e2febc04b3770528ae4346b8d5a9578"
+hash = "541a81d7b93a566b813dbf8ee4fc6de9051e84160a67c0a21dbbc5a1988d6691"
 
 [[files]]
 file = "config/resourceful-config-web.json"
