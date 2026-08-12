@@ -7,8 +7,6 @@ RecipeViewerEvents.removeEntries('item', event => {
 })
 // Fluids
 RecipeViewerEvents.removeEntries('fluid', event => {
-    event.remove('createbigcannons:molten_steel')
-    event.remove('createbigcannons:molten_nethersteel')
     event.remove('createpropulsion:turpentine')
 
 })
