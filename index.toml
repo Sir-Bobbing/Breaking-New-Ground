@@ -971,7 +971,7 @@ hash = "00f560b07ba9f6b9e5f9dfa7701b8e41175c8ca0662ec7a8fb52fd166f3d7226"
 
 [[files]]
 file = "kubejs/data/artifacts/neoforge/biome_modifier/add_campsite.json"
-hash = "a24568552832f1f2e90e48450c7f0f6472ee2b3e61e1b0360a6713e97f9fa593"
+hash = "b6dd47ba9b6c3dc0ea93f17e8dd84c7dba5ba678d5f2918580ca257db7d15680"
 
 [[files]]
 file = "kubejs/data/bagofholding/recipe/golden_bag_of_holding.json"
@@ -987,7 +987,7 @@ hash = "a1529847d7b5569eaa0ca1858ff6123aec44b24db17c25dc41857605eb0ce1d4"
 
 [[files]]
 file = "kubejs/data/bng_ore.zip"
-hash = "872cfc42c813a0f23392dddfe6e6377832a1d622f912858491f569c5e0f0247e"
+hash = "c6be0ec3e1ca32c1c39f8b98782342ac3573e2a0bf2e29a0226418c6a3a2d72a"
 
 [[files]]
 file = "kubejs/data/breakingnewground/function/load.mcfunction"
