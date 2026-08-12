@@ -1,6 +1,6 @@
 filename = 'CutThrough-v21.1.0-1.21.1-NeoForge.jar'
 name = 'Cut Through'
-side = 'client'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
