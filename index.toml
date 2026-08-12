@@ -4008,6 +4008,11 @@ hash = "47828db0b7abdb2bf322d081b1efd00a9a0e16946db52a5fbd19d726f0f03bea"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "75dec16b9d33f8f9aa6d783dae505117690998aeb126a0ba742f13fd4f67d941"
+metafile = true
+
+[[files]]
 file = "mods/antiportals.pw.toml"
 hash = "aea5f2368a9ccfa3835323a189ecea6130525ab187996690a8a7f7848a0c7862"
 metafile = true
@@ -4418,6 +4423,11 @@ hash = "3b5f17975c3b0f999b016ff015fa73b2aecd7652df73652c6b07ca28b98cafa2"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "d4699836c7d65541ad60d61fd90777796b85b2fe046a7673357b6a8ff14e7cb9"
+metafile = true
+
+[[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "2325bebaa5858614d20b06fd3f8173d655b4d2ec52b4318067971cd408d0c43a"
 metafile = true
@@ -4500,11 +4510,6 @@ metafile = true
 [[files]]
 file = "mods/lets-do-furniture-another-furniture-handcrafted-create-sable.pw.toml"
 hash = "7e2dd57cbe6098f0731ad1650d1c0f4afb75f390fd217ca771c56cf802f931f1"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-furniture.pw.toml"
-hash = "b384a84fe06f0136e3e1743dc639c5028a63819a209fa6a8b8d94fc03a4d8c77"
 metafile = true
 
 [[files]]
@@ -4880,7 +4885,3 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "2c3c1a470e0aadb71f40f2eade67760b9452b3d6c23e039239aeeded0e72c5ca"
 metafile = true
-
-[[files]]
-file = "polymorph-conflicts.log"
-hash = "db1f2a2831d69770e68aed891e493a7e477623c9ce6033064da5e288d840717d"
