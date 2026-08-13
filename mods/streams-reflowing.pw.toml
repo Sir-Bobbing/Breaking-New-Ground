@@ -1,18 +1,18 @@
-filename = 'StreamsReflowing-1.21.1-neoforge-2.12.1.jar'
+filename = 'StreamsReflowing-1.21.1-neoforge-2.12.6.jar'
 name = 'StreamsReflowing'
 side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.12.1'
+x-prismlauncher-version-number = '2.12.6'
 
 [download]
-hash = 'c88bf6d2d3072409b83bed9a6555a7f0fba14055c7daa9cefc8e30b1e2929df85d3b056e995520871bf78e01c1ed69727c1b9ecaef22af03286c3d59349d1870'
+hash = 'd904c4b5b1295185a64a7f2f7b6ff781e60ba793686dfd17f303df3d4c5b711cf7903dcdc8f7bc42c80a01489cb1221d1cd16c8b048aa7155675659f3777a941'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/oLS8HdJ1/versions/dtrU7iXO/StreamsReflowing-1.21.1-neoforge-2.12.1.jar'
+url = 'https://cdn.modrinth.com/data/oLS8HdJ1/versions/DcgPMrvF/StreamsReflowing-1.21.1-neoforge-2.12.6.jar'
 
 [update.modrinth]
 mod-id = 'oLS8HdJ1'
-version = 'dtrU7iXO'
+version = 'DcgPMrvF'

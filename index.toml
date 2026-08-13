@@ -4104,7 +4104,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "6453ffd342988627b47f449e9d886cad26dd993662ce7d37cad33d63273855f6"
+hash = "1871cbc9d385dafbbd4975d8298b458f67cc8f00ad6c0b88cc28ded6b37ed0fc"
 metafile = true
 
 [[files]]
@@ -4523,12 +4523,12 @@ metafile = true
 
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
-hash = "bb13d43c6e9749dc1d6eaa1be7d8aa32164b1cd48396b86cea73ad93b26b3e2d"
+hash = "fe7ebd6b28b3c08538f53afba3198d978a54ef8afbed3ebe355cade1750918b6"
 metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "3dd025245e6ca9be1cc310814ea3ab4295064006982cd0e9295e173d47c54acf"
+hash = "49fab21cd12791359035070c1da37d8bd0be637a5dc6ffa297042ba604119839"
 metafile = true
 
 [[files]]
@@ -4588,7 +4588,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "3747e649d9e5007d9bbd1c8b85b0bf1b5dfcc94a00447cad8c6387145d3b6fae"
+hash = "296895d21af5b98a4affc09ef984b109afd9be6db9a3c461fdc083cbb3400d7b"
 metafile = true
 
 [[files]]
