@@ -85,6 +85,10 @@ file = "config/better-advanced-tooltips-client.toml"
 hash = "167486d8ac09ab9959c9b98c97c169365eaa9e5be0488b9ff8e6a04695d456e0"
 
 [[files]]
+file = "config/betterdays-common.toml"
+hash = "59dc4f8e695154864bd01431c0b5b5af71aa48a8d7c7078feee225c9b1f6cdce"
+
+[[files]]
 file = "config/betterf3.toml"
 hash = "6463b61a1b1588cde1e0a11a1d16f37969a9cca8f529464c57ea9320921ad3e8"
 
@@ -3783,6 +3787,11 @@ hash = "6d49e453fead55672e5acdbcdf2627f226f08500f86360f15084f287ff8184a5"
 metafile = true
 
 [[files]]
+file = "mods/betterdays.pw.toml"
+hash = "5745adcc65ee12f0486b987d9380914eab7f8003f2015f1a5767e52bc19f78c8"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "ac0bb6a6660040c6f1990a17176a8a62937e34fd74a310eb574b345a23257b33"
 metafile = true
@@ -3805,6 +3814,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "ba3081449d58c1d0b3438c1fa238c6de65067bb1f00b42c22604321e26ecf1fc"
+metafile = true
+
+[[files]]
+file = "mods/borninchaos.pw.toml"
+hash = "bb5c586842deeb702565ba5108a95886397af442b2dbf239513bfdeb11cca967"
 metafile = true
 
 [[files]]
@@ -3959,12 +3973,17 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "41b4e887e00f2ee56742b241a70eb1e7a8fe3c5819229fd95e091efbc23011aa"
+hash = "ea85a2ee0ac019ab16434dae86ebc7d8062016ab3c1c531d5e813c47f9fcd346"
 metafile = true
 
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "ec9e1510cecbb3cbe48c12e00300cf551f226343040980b2194d0ac0633666b7"
+metafile = true
+
+[[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "629d3806ec5fbed2d352c3f2d13b263054b66669ae5e05b7de1e7d34adc2e09e"
 metafile = true
 
 [[files]]
@@ -4084,7 +4103,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "26af723990f294a552a5895cf05839f018d7377f0e27dd3e5f6b404104fdf915"
+hash = "4fe4af0d5373f80495dcf19c9c8307d8bafd0aaa8725ce437eed49fbce354099"
 metafile = true
 
 [[files]]
@@ -4145,6 +4164,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "d4699836c7d65541ad60d61fd90777796b85b2fe046a7673357b6a8ff14e7cb9"
+metafile = true
+
+[[files]]
+file = "mods/history-stages.pw.toml"
+hash = "78c9e0a1194ad5cac5a5bdb709f03aecf220f52f173fe5a2db46ecf8098fc870"
 metafile = true
 
 [[files]]
@@ -4364,7 +4388,7 @@ metafile = true
 
 [[files]]
 file = "mods/power-grid.pw.toml"
-hash = "6ceff212ff1ae519a474bb7d53c7b5c4e311699d52f5b91ed39c48c9281b86d9"
+hash = "bc3f25e05c6fda195312e94eccdf11dc4db1007ba11b1c98196284b5d77bb509"
 metafile = true
 
 [[files]]
