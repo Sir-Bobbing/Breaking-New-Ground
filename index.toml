@@ -3817,11 +3817,6 @@ hash = "ba3081449d58c1d0b3438c1fa238c6de65067bb1f00b42c22604321e26ecf1fc"
 metafile = true
 
 [[files]]
-file = "mods/borninchaos.pw.toml"
-hash = "bb5c586842deeb702565ba5108a95886397af442b2dbf239513bfdeb11cca967"
-metafile = true
-
-[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "910afec6c30c7f68956bfa4e8fdaaad4d156b08534cf25128870053e26545f0c"
 metafile = true
