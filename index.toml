@@ -3982,11 +3982,6 @@ hash = "ec9e1510cecbb3cbe48c12e00300cf551f226343040980b2194d0ac0633666b7"
 metafile = true
 
 [[files]]
-file = "mods/critters-and-companions.pw.toml"
-hash = "629d3806ec5fbed2d352c3f2d13b263054b66669ae5e05b7de1e7d34adc2e09e"
-metafile = true
-
-[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "fa85ae367083c6748a40c9ed7ac7c87562a563d264998ab98112488c51677109"
 metafile = true
