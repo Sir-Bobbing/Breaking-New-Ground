@@ -991,7 +991,7 @@ hash = "a1529847d7b5569eaa0ca1858ff6123aec44b24db17c25dc41857605eb0ce1d4"
 
 [[files]]
 file = "kubejs/data/bng_ore.zip"
-hash = "c6be0ec3e1ca32c1c39f8b98782342ac3573e2a0bf2e29a0226418c6a3a2d72a"
+hash = "35e26bd609a0e090f9fc2f123b4b4ac982d72069c135dcc11e511daae9036242"
 
 [[files]]
 file = "kubejs/data/breakingnewground/function/load.mcfunction"
@@ -3699,7 +3699,7 @@ hash = "9a75b8dd95ef5b2dd64998a78ef9c621b0d8e5578c9fd3e3bc268b1853258ca9"
 
 [[files]]
 file = "kubejs/startup_scripts/startup_item_tweaks.js"
-hash = "e691934a270a5c7765a6d8e6c02d02d06d0e7af634733a74192fda8bff9c5bc6"
+hash = "8c2a2c0a5839d4817780ead53dcc056f719886171e0a93fc98fe4dc50115a28d"
 
 [[files]]
 file = "mods/aeronautics-propeller-blur.pw.toml"
@@ -4483,6 +4483,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "4b583593c8bc81a19e6f099755a0dd0b15876c78eafc1a3426ecab959adfc408"
+metafile = true
+
+[[files]]
+file = "mods/smart-particles.pw.toml"
+hash = "08bfcea08c4c6af2fb462af8243c66c889ddcb7c5dcb54f69c2b3baab692bf83"
 metafile = true
 
 [[files]]

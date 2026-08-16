@@ -9,7 +9,7 @@ ItemEvents.modification(event => {
         item.maxStackSize = 1
     })
     event.modify('tfmg:lignite', item => {
-        item.burnTime = 800
+        item.burnTime = 400
     })
 })
 StartupEvents.registry('sound_event', event => {
