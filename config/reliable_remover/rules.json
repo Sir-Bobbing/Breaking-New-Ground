@@ -41,3 +41,16 @@
 "items":
 ["powergrid:acid_bucket"]
 }
+// SCguns Raids
+{
+"action": "remove",
+"items":
+["scguns:white_flag", "scguns:antique_flare", "scguns:iron_flare", "scguns:labor_trophy", "scguns:diamond_steel_flare", "scguns:ceremonial_cod", "scguns:sculk_flare", "scguns:sculk_tome", "scguns:flare_pistol", "scguns:frontier_flare", "scguns:copper_flare", "scguns:rusty_medal", "scguns:gold_flare", "scguns:gold_idol", "scguns:ocean_flare", "scguns:leviathan_tooth", "scguns:blueprint_scrap", "scguns:wrecker_flare", "scguns:snapped_cogwheel", "scguns:treated_brass_flare", "scguns:cog_heart"]
+}
+
+// Handcrafted
+{
+"action": "remove",
+"items":
+["handcrafted:berry_jam_jar", "handcrafted:stackable_book", "handcrafted:bear_trophy", "handcrafted:blaze_trophy", "handcrafted:goat_trophy", "handcrafted:salmon_trophy", "handcrafted:pufferfish_trophy", "handcrafted:fox_trophy", "handcrafted:fancy_painting", "handcrafted:witch_trophy", "handcrafted:vindicator_trophy", "handcrafted:pillager_trophy", "handcrafted:evoker_trophy", "handcrafted:skeleton_horse_trophy", "handcrafted:spider_trophy", "handcrafted:tropical_fish_trophy", "handcrafted:wither_skeleton_trophy", "handcrafted:wolf_trophy", "handcrafted:phantom_trophy", "handcrafted:creeper_trophy", "handcrafted:skeleton_trophy", "handcrafted:oven", "handcrafted:kitchen_hood_pipe", "handcrafted:silverfish_trophy", "handcrafted:kitchen_hood"]
+}

@@ -213,10 +213,6 @@ file = "config/creeperoverhaul.jsonc"
 hash = "d8088bd461dd7666552c4174bac6549e55112728e07aa3addd0e32a805c230fc"
 
 [[files]]
-file = "config/deeper_oceans.json"
-hash = "e5475653bb95893e20d3cec5bbe41bb89208293461b03f81f6d37ed3463f887f"
-
-[[files]]
 file = "config/dimthread-common.toml"
 hash = "d54a316dda5a1955935e6c6d99626288b479884869e45887e0a6eb80c9c16ccc"
 
@@ -309,10 +305,6 @@ file = "config/gallery-common.toml"
 hash = "166ee45e1a1592251dbcd025e97cd201446904878c3ac49e3f823e8a89b3277c"
 
 [[files]]
-file = "config/guideme.toml"
-hash = "86ad6c16f2290267eb51f3654ebd8410921118450617154f337bdd442af53c28"
-
-[[files]]
 file = "config/gun_scaling/main.toml"
 hash = "3b604a89c13efec98d72baaedc786c3f26a33896d2553dbc9007482f200a909f"
 
@@ -351,10 +343,6 @@ hash = "4a54b91e90490fec1af0cfb386bd9b4997256c13b5ee03630a97ee7c9b355eeb"
 [[files]]
 file = "config/jei-server.toml"
 hash = "57d741871716e29b3a318b625e740d590598f001c362b6a4a95e3ee628c5cbc3"
-
-[[files]]
-file = "config/letmedespawn.json"
-hash = "6af411644e22ede34383135509cb96b2a636d8ed45494b28976514a95537105e"
 
 [[files]]
 file = "config/lithium.properties"
@@ -462,7 +450,7 @@ hash = "26c46f8843632aa02b86ee3444a8f15e36a64147496a6f7f82b57fdb4895fdec"
 
 [[files]]
 file = "config/reliable_advancements_layout.json"
-hash = "6834a0f972b2fbb727739d7fbc3946bca002aeb2e8875a7b3485aa8abe173b27"
+hash = "6fe64745a7e35ee25a26558b4de3b1555c68c443a432e37bf0dc390ffa6fd071"
 
 [[files]]
 file = "config/reliable_recipes.json"
@@ -478,7 +466,7 @@ hash = "5b9399eea3ff127d808f4debfaf3eae7513817cd63b36225e550daf9f8054e88"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
-hash = "44cf89ed8d5f5cab8a90a1a66792ec7c1163257a9e782d15b54026e2aa52ac51"
+hash = "9760a68229d6f2a8d841937f15faee9f9192cd5979f2c305b2ea2e7ffba01fb9"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -1407,7 +1395,7 @@ hash = "c4bfff3c5042979c39be9418cb28f24ed775d228c65e3db5949197ff314d5c87"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/aileron/cloudskipper.json"
-hash = "ac18f13ab699dec98ee526f334b8927e295ccdce6a26eb99379df4e576ae60fe"
+hash = "7438a078e356122906e01129ba53bca7a1616ea18c0f359ffae31c279f5989ca"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/aileron/smokestack.json"
@@ -1415,7 +1403,7 @@ hash = "865ab9246724cb16a73be5ca09f032011dc3b982ec5607bebf221bb7da0caa26"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/bagofholding/preservation.json"
-hash = "e20ed101439f31f9fb7480f05c3ee23837e7fa34ca9f6511939ef03afdbd6e86"
+hash = "675d745db95e3c1acae55fcdbadf40bc73cc9e81f8d40160e333fd182f3ae974"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/create/capacity.json"
@@ -1495,7 +1483,7 @@ hash = "fab42166f410316b3ae038da61d5228c0f46429128237137ccf8f10d9b0a5fce"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/breach.json"
-hash = "34ae0f803b7adfc5fb97af2e5a7883c7a205f78bbb4df3e013d744f68a8c3e41"
+hash = "0a9a7d81b335e4ef519e1ab3c2dd747c67de2c47de4460b9bb5f509c135137ae"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/channeling.json"
@@ -1563,7 +1551,7 @@ hash = "d20da3223b5e291137f2635a0394afce3e13dad04bd0af4ec25e6cecde924880"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/lure.json"
-hash = "453eb16c94a7cde851a8ee55c4f81f19819cac1c8568ee4b6ca886cb7ce914b7"
+hash = "5d173300f30637372e15e3fe3917d7409fb60102742942de24db2b01de15161b"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/mending.json"
@@ -1671,7 +1659,7 @@ hash = "5f8a13ca093b8fad265eeba25181677530190214aa5030e0480d6fa7ec4e9496"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/nova_structures/outreach.json"
-hash = "b323c992d966843e69dbde2e6c6a615d8dd2ba804d7bc31779f6b45d2df62887"
+hash = "352618fdcbe99fd4e7797e4c0fd3701871b9b712984e3a0cb45e06e18228357c"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/nova_structures/photosynthesis.json"
@@ -1847,7 +1835,7 @@ hash = "4e2bf3d68f362669342d77b4bdf5e5db6e8507c2cf7357c84b78228882f4d1f2"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/accelerator.json"
-hash = "be77672e2f0251590bd1c5c7563cf5791b20662e878f08fcd6163923184ab121"
+hash = "99f2d2146dd14fc314f1a69f2d9c8565294d37bec2e0c5a01793895c32ae898c"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/banzai.json"
@@ -1883,7 +1871,7 @@ hash = "f3410d27da8280a8bb6e9005c8823986868c5322316ce6331d745f27a0731a89"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/puncturing.json"
-hash = "3aa5e3d333fe6f85b7f7458aa75de44407a30317324bea2573861bdfb1294db9"
+hash = "6fc66b2319fc713d0dab9ea0f3b03cd3fdda5724846bc7003f091dce6511b185"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/quick_hands.json"
@@ -3386,10 +3374,6 @@ file = "kubejs/data/spelunkery/advancement/spelunkery/true_north.json"
 hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
 
 [[files]]
-file = "kubejs/data/spelunkery/neoforge/biome_modifier/add_hot_springs.json"
-hash = "a3a16f62e91af17855a28f84d1821e7d2dbffaff609a094f3f715e15f752bcee"
-
-[[files]]
 file = "kubejs/data/spelunkery/neoforge/biome_modifier/add_nephrite_geodes.json"
 hash = "cd8bb1c962a0700cdc57ee9fd5e2c466a6c8e3560abcdf91c892355029191d94"
 
@@ -3416,10 +3400,6 @@ hash = "719e97194deeb8d9c428924ed4ba01438daccb3fe0f70b611a1b4efc05d7fd30"
 [[files]]
 file = "kubejs/data/spelunkery/worldgen/placed_feature/nephrite_geode.json"
 hash = "110ac986743697ce8b4e4cc14fd599ff8779438192aa79952f50741e623aedb1"
-
-[[files]]
-file = "kubejs/data/spelunkery/worldgen/placed_feature/spring_water_pool.json"
-hash = "59af875d79489ee0c83448144812c05464e04f9faf2cf1a777487bafb79c78da"
 
 [[files]]
 file = "kubejs/data/stoat/tags/block/rubbery.json"

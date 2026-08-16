@@ -11,7 +11,7 @@
         "2": [
             {
                 "item_cost": {
-                    "item": "createbigcannons:ap_shell",
+                    "item": "scguns:advanced_round",
                     "count": 1
                 }
             }
