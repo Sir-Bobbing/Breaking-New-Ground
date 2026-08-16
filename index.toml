@@ -1018,54 +1018,6 @@ file = "kubejs/data/breakingnewground/recipe/crafting/andesite_alloy_from_copper
 hash = "94c457be997a99c88502270b283f5e41fa18b13e3e12d1c2fae3325c3bf80c33"
 
 [[files]]
-file = "kubejs/data/breakingnewground/recipe/crafting/bronze_autocannon_barrel.json"
-hash = "2bb75fc74dc658f76bb16aee212d88c4e5126d1780409618633452e0d4a4fd73"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/crafting/bronze_autocannon_breech.json"
-hash = "c090f21c5108f851e13f1e94b36da5773b1d6dbd346ce288cc44d2731c322588"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/crafting/bronze_autocannon_recoil_spring.json"
-hash = "f42fe3bdf5fbc3d3f391a0efd723ca6a556bb27cba599669a5c7779aecac140d"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/crafting/bronze_cannon_end.json"
-hash = "e87d6ce22521dbc11b479b2709d20646ca9ae339f24f7d3b425b96313c45f975"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/crafting/bronze_sliding_breech.json"
-hash = "be8740f3d67641878bf515b15874b42b4d0252444974099616fe54df6af3089d"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/crafting/built_up_steel_cannon_barrel.json"
-hash = "846ef2b75829dd817612cce17ac40cda0c90dcfb8476072353d5c3f7366e3e36"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/crafting/built_up_steel_cannon_chamber.json"
-hash = "d65071f3b7e20197e01e3c5079145a81786f709f9bed0cf0866e7a63e2e70fe5"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/crafting/cast_iron_autocannon_barrel.json"
-hash = "62aba87a960977f40dab0eb205be306a5555972c117c849904600cb61853e77c"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/crafting/cast_iron_autocannon_breech.json"
-hash = "93e804e4a0a40f811d7969e17491067231a182142d1b1b8b11f95837bcb75bfd"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/crafting/cast_iron_autocannon_recoil_spring.json"
-hash = "dbc5231452d93819ba209ef01d87fa79cd47d30bce6157b130e033c7048b0a5e"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/crafting/cast_iron_cannon_end.json"
-hash = "9b6de1df1999103f23d7efc24e5f186e3b546fbc20ab9e1dfaef4a1ade6af2fd"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/crafting/cast_iron_sliding_breech.json"
-hash = "5433d5da9f3157bef401efa03a4d1ec769c037c8f3790bd9427f9733fde47425"
-
-[[files]]
 file = "kubejs/data/breakingnewground/recipe/crafting/deed_of_ownership.json"
 hash = "9fae832f9140cb26045c43d78cce5e0b52a6fac7073bb6d5ff73003aa38d35cf"
 
@@ -1102,32 +1054,8 @@ file = "kubejs/data/breakingnewground/recipe/crafting/saddle.json"
 hash = "f8ec55785413ba7a99180792edbcddc4d136199d22501eae0b169469034cd7e7"
 
 [[files]]
-file = "kubejs/data/breakingnewground/recipe/crafting/steel_autocannon_barrel.json"
-hash = "c05ad364b6bd4949624abdb06e1f8581b0096a4541aef389c408e73d11a27abf"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/crafting/steel_autocannon_breech.json"
-hash = "4b2069fae92687d412f1139554ad604183839a3ad56ab77012e5aa846a6bf1d8"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/crafting/steel_autocannon_recoil_spring.json"
-hash = "7277c56935bf5aaa5319b279df5e66ccb6358e843700ef7d32c0431cbd9125e6"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/crafting/steel_scew_breech.json"
-hash = "8d21bc2b39aaa2ce050da4dc7d2bfd509faea1dce7c0c7de8d11b12bef86ad65"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/crafting/steel_sliding_breech.json"
-hash = "77f6b774b43214f761900385c822b824dccdbb6ed78f75353e080b013835bdf2"
-
-[[files]]
 file = "kubejs/data/breakingnewground/recipe/crafting/target_tracker_module.json"
 hash = "7dbe2b5dafae134eed5734d5cb8b7ace5a4224b3a5fbee48866a881f1cf3342c"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/crafting/thick_steel_cannon_chamber.json"
-hash = "260404619be46e294e262ecac28b84b9b60d060e43ae1790db218a6fb31b8bed"
 
 [[files]]
 file = "kubejs/data/breakingnewground/recipe/crushing/crush_rock_salt.json"
@@ -1136,30 +1064,6 @@ hash = "bc44a56d390ae7f6a3d6abc30af89057aed4db0d4a2a01e7b05a0c3abba139f6"
 [[files]]
 file = "kubejs/data/breakingnewground/recipe/filling/air_tank.json"
 hash = "22249453837c3ec7938d7fe4cc5d777e790ed2d0539fcb09a4cb72cfd7721c80"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/mechanical_crafting/bronze_cannon_barrel.json"
-hash = "eeed7fb0318210f76e24e4bc4dea7d012127e947ee62f5cf75c97ab92de37a07"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/mechanical_crafting/bronze_cannon_chamber.json"
-hash = "39b94c5b86899d33dda57b303bc3ff6bc6225a81a689db33eacd3b1cd2dc92b3"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/mechanical_crafting/cast_iron_cannon_barrel.json"
-hash = "d7af3d994732b37f8cea5bb8fc050c5c07a583ec202f1fb6e424febf57eeeee5"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/mechanical_crafting/cast_iron_cannon_chamber.json"
-hash = "ce7ac50737e3e361f0eba67e1ce50085a0c2a7b0155377e3f8f9bf02e8e12ac9"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/mechanical_crafting/steel_cannon_barrel.json"
-hash = "150acf479c22f3a4eb92ae40648abbd233eeecb37118ccd5e05077fed9bac88f"
-
-[[files]]
-file = "kubejs/data/breakingnewground/recipe/mechanical_crafting/steel_cannon_chamber.json"
-hash = "126a0ae4a342462d34c5e3b1596ba8beb1a223d479fed16aa8ff5d56403641c1"
 
 [[files]]
 file = "kubejs/data/breakingnewground/recipe/milling/mill_rock_salt.json"
