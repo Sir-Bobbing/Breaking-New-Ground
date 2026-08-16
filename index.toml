@@ -3800,6 +3800,11 @@ hash = "07d4a4e17176f56e21f6714a1706384dad8f596d09edcb750c17c6f9d93b8786"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-automated-logistics.pw.toml"
+hash = "ec4a650f09f4dedb05ac30c88736197bcdf7b2b3411d8d069027afd290719874"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-compatability.pw.toml"
 hash = "aa12b9347675c1dba8a3567b90fdd3a5749abde2503c423c9188f2743d07b640"
 metafile = true
@@ -4516,6 +4521,11 @@ metafile = true
 [[files]]
 file = "mods/vs-hose-connectors.pw.toml"
 hash = "d80932d882af2b6cfd6e989b757b2e2f8d9973d0dded29b819e23a1ecacc2375"
+metafile = true
+
+[[files]]
+file = "mods/wither-reincarnated.pw.toml"
+hash = "6b2d195b4ad6ad6a7b67051775644248b144bb878cf2e7f14ee6a66515b75969"
 metafile = true
 
 [[files]]
