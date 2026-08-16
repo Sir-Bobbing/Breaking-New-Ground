@@ -2958,6 +2958,30 @@ file = "kubejs/data/scguns/loot_modifiers/pebbles_from_gravel.json"
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
 
 [[files]]
+file = "kubejs/data/scguns/loot_table/entities/cog_knight.json"
+hash = "762fb524ae728bad2656f534f4c39fc1c050d54069e4b069c05f56d355fde5d8"
+
+[[files]]
+file = "kubejs/data/scguns/loot_table/entities/cog_minion.json"
+hash = "5824236fabbfc52f208b9969d462fe9ae37b6fe690f0e844e34531f0df3e2b1c"
+
+[[files]]
+file = "kubejs/data/scguns/loot_table/entities/scamp_tank.json"
+hash = "0b82d4658c1d31d92350f2e43ebd872cbc997b6c94999e728b5cb47858a187c6"
+
+[[files]]
+file = "kubejs/data/scguns/loot_table/entities/sky_carrier.json"
+hash = "31e46c6c519040c67168fb5d806ef63a2bfc69f5e4e0f6f57af39fb1f70c44b9"
+
+[[files]]
+file = "kubejs/data/scguns/loot_table/entities/supply_scamp.json"
+hash = "d3fc49f703537f4ac40e1cd88856a68deb6ea1810b2b96e24a768729db249717"
+
+[[files]]
+file = "kubejs/data/scguns/loot_table/entities/trauma_unit.json"
+hash = "93e239289324083283f0d6270f82fb8f3bbf2ee7d7b352cd5c2d228ece193985"
+
+[[files]]
 file = "kubejs/data/scguns/neoforge/biome_modifier/cog_knight_biome_modifier.json"
 hash = "f081637c8ffdf95b9c7f5c2d79e22b39c45d5efbfe62cc01020b1c2c5c7c2e1e"
 
