@@ -4429,11 +4429,6 @@ hash = "dfb4cc71c28de5005bbb452e27ba1f7802f4319266cd88c93870cff076ca129d"
 metafile = true
 
 [[files]]
-file = "mods/ssrd.pw.toml"
-hash = "1a99a56db66ae089c171cffd9ed741cd6756e8f88488b92cfb082da1186b6a3b"
-metafile = true
-
-[[files]]
 file = "mods/stepupagain.pw.toml"
 hash = "393c3f266e979441dc22bdc2fe4b8bf7ec94b957dc359ca41fb62bfcda365392"
 metafile = true
