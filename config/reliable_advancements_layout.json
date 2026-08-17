@@ -1819,6 +1819,62 @@
     "powergrid:electric_motor": [
       109,
       169
+    ],
+    "exposure:adventure/exposure": [
+      25,
+      280
+    ],
+    "exposure:adventure/family_portrait": [
+      -19,
+      288
+    ],
+    "exposure:adventure/piercing_gaze": [
+      68,
+      318
+    ],
+    "exposure:adventure/splitting_the_photon": [
+      -4,
+      247
+    ],
+    "exposure:adventure/moment_in_time": [
+      17,
+      322
+    ],
+    "exposure:adventure/complex_composite_compound": [
+      -34,
+      216
+    ],
+    "exposure:adventure/wildlife_archivist": [
+      77,
+      276
+    ],
+    "exposure:adventure/spotlight": [
+      37,
+      246
+    ],
+    "exposure:adventure/lights_up": [
+      54,
+      214
+    ],
+    "exposure:adventure/spooky_silly_skeletons": [
+      6,
+      353
+    ],
+    "exposure:adventure/void": [
+      70,
+      186
+    ],
+    "exposure:adventure/exposed_paparazzi": [
+      84,
+      233
+    ],
+    "exposure:adventure/unforeseen_consequences": [
+      107,
+      205
+    ],
+    "exposure:adventure/photos_of_spider_man": [
+      131,
+      234
     ]
   },
   "tab_properties": {
@@ -2044,6 +2100,17 @@
     },
     "powergrid:root": {
       "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5,
+      "background_rules": "[]"
+    },
+    "exposure:adventure/exposure": {
+      "title": "Exposure",
+      "background": "minecraft:textures/block/smithing_table_top.png",
       "static_background": false,
       "bg_width": 16,
       "bg_height": 16,

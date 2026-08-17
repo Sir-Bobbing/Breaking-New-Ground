@@ -450,7 +450,7 @@ hash = "26c46f8843632aa02b86ee3444a8f15e36a64147496a6f7f82b57fdb4895fdec"
 
 [[files]]
 file = "config/reliable_advancements_layout.json"
-hash = "6fe64745a7e35ee25a26558b4de3b1555c68c443a432e37bf0dc390ffa6fd071"
+hash = "7f1cdf431145e1b02d9b5e1337bd769f8d9f98d6bafa9b3f6f03c9bcfe3497ed"
 
 [[files]]
 file = "config/reliable_recipes.json"
@@ -1376,6 +1376,10 @@ hash = "e872b48c2c7f27a69b983a03cbf3dd007e2359c9f7facc7e156bd270bfa40712"
 [[files]]
 file = "kubejs/data/everycomp/recipe/af/quark/ancient_shutter/quark/ancient.json"
 hash = "013198264ab87db05eabf21e157fa0e2d0ef46b2e5f1fcf30b9c64913decaf6c"
+
+[[files]]
+file = "kubejs/data/exposure/advancement/adventure/exposure.json"
+hash = "689bad61ad56c6b367924862344691f6cf545da710a1c241ca55769893cd3496"
 
 [[files]]
 file = "kubejs/data/glow/loot_table/blocks/glowstone_prism.json"
@@ -2882,6 +2886,10 @@ file = "kubejs/data/particlemimicry/recipe/particle_emitter.json"
 hash = "a1f3df7036e96ef96db7fa8a1cfefaff1b7cc945b746b2b7fd95d862509be8ab"
 
 [[files]]
+file = "kubejs/data/powergrid/advancement/acid.json"
+hash = "0439fcb342588124844bbc49b4f20058e6b913c8665e2326c1f3b2ef57cc8d30"
+
+[[files]]
 file = "kubejs/data/powergrid/recipe/crafting/circuit_design_table.json"
 hash = "b917922fdad14ac9bd5bc9dc7c993e20443724c9d1cf49b47465f6b453e978a9"
 
@@ -3816,7 +3824,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "a45d7b57b66782660bd8962d13b5f8ca5ace81870ac0e8260cf8995b83f481d2"
+hash = "314a99487db7292a751661bbc33830663f7fc0a51cdbf99dfbca8703c54a462a"
 metafile = true
 
 [[files]]
@@ -4076,7 +4084,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ee4e79b3cefee5646d1cb477055b85f660367d01307c9d96b4f25a46c7288e7d"
+hash = "f0467913b9efa5f94a2f4f5896536c929a4a147a53b706be9f2573271ed8e61d"
 metafile = true
 
 [[files]]
@@ -4350,7 +4358,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "254816737cffe549618dfc7b6c8f0a0b73c25647ab75b4db05001532b0eb875a"
+hash = "557a027bae6019f1b4cb6f8496a7491ff33ae1e38256632d077411bac27c0c9d"
 metafile = true
 
 [[files]]
