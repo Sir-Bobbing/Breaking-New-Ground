@@ -562,7 +562,7 @@ hash = "785ab788071e693bb98203519fb5d093fd1cd95e9235e6e897bf5734d0b24e39"
 
 [[files]]
 file = "config/supplementaries-client.toml"
-hash = "1a72034740e1f1fe59ea846c7cb6293adbb9db9982d2ff800d1e153aa9daecdd"
+hash = "27206847a0ed66f615e7b1291db29ebe8facd7f928e4a63fa017d7aceaa14e0d"
 
 [[files]]
 file = "config/supplementaries-common.toml"
@@ -679,6 +679,14 @@ hash = "732d174c31b37f2f9303f1c24ae3d08e364f63847c531ea0905687f965a0fee1"
 [[files]]
 file = "kubejs/assets/malum/textures/block/ores/deepslate_soulstone_ore.png"
 hash = "ecd2b2cae57c5e34a532751d50c586491826a992af9eb2ac446504b966a29040"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
+hash = "8a8a6d6325c5391079a56dc9a9185ef79618a784232a529db8b9809d3260e4cb"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/edition.png"
+hash = "97914b96a3ee48c31541969f81b095459826aace69e893403347d1a2695feaf7"
 
 [[files]]
 file = "kubejs/assets/scguns/lang/en_us.json"
