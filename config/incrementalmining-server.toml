@@ -1,4 +1,4 @@
-#Enable/Disable the mod
+#Enable or disable the mod
 enabled = true
 #Base ticks between each swing
 # Default: 12
@@ -8,8 +8,37 @@ swingInterval = 12
 # Default: 1.0
 # Range: 0.1 ~ 10.0
 damageMultiplier = 1.2
-#Use vanilla-style rapid breaking for foliage blocks
-vanillaFoliageBreaking = false
+#Use vanilla-style rapid breaking for foliage
+vanillaFoliageBreaking = true
+#Swing-speed bonus per Efficiency level
+# Default: 0.25
+# Range: 0.0 ~ 2.0
+efficiencyTierStep = 0.25
+#Swing-speed bonus per Haste level
+# Default: 0.25
+# Range: 0.0 ~ 2.0
+hasteTierStep = 0.25
+#Efficiency/Haste boost damage per swing instead of swing speed
+miningSpeedBonusesBoostDamage = false
+#Block IDs or #tags to mine with vanilla/modded behavior instead
+vanillaMiningBlocks = []
+#Tool IDs or #tags to mine with vanilla behavior while held
+vanillaMiningTools = ["powergrid:portable_drill", "powergrid:portable_saw"]
+#Block IDs or #tags to always treat as unbreakable
+forceUnbreakableBlocks = []
+#Use Incremental Mining sounds or vanilla block sounds
+#Allowed Values: INCREMENTAL, VANILLA
+blockImpactSoundMode = "INCREMENTAL"
+#Per-block/#tag impact sound overrides (block=sound)
+blockImpactSoundOverrides = []
+#Auto-break blocks that get stuck instead of freezing them
+autoVanillaFallback = true
+#Splash effects when swinging at or under water
+waterSplashEffects = true
+#Respect mining-speed changes from other mods
+respectExternalBreakSpeed = true
+#Restore Multi Mine crack progress gradually instead of all at once
+multiMineGradualRestore = true
 
 [sounds]
 	#Metal block sound
