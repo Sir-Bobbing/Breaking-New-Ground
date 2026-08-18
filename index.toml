@@ -910,6 +910,82 @@ file = "kubejs/data/another_furniture/recipe/warped_shutter.json"
 hash = "7f09ddaec1500e7e6abb0e06e0db4175c19aa6b25993c6d37d3f1e54e0f585e2"
 
 [[files]]
+file = "kubejs/data/architects_palette/recipe/abyssaline_pillar.json"
+hash = "508ed89bba2cbb98ee4cdedb04921100113e5aacd8f5a900279479e038f2a055"
+
+[[files]]
+file = "kubejs/data/architects_palette/recipe/calcite_pillar.json"
+hash = "740d14baff32578eacc527050a6d0b6c5e48212f96040609d0b2661e81dcb1de"
+
+[[files]]
+file = "kubejs/data/architects_palette/recipe/cerebral_pillar.json"
+hash = "71d437972ee376f01cdbb09b723c2e9ef35ffebdfd3273aaeb4d7903ef8ef222"
+
+[[files]]
+file = "kubejs/data/architects_palette/recipe/dripstone_pillar.json"
+hash = "913cd2d7d9dd948bb5a62977362c8a633a6eb48310611acacc320d9a99c21564"
+
+[[files]]
+file = "kubejs/data/architects_palette/recipe/entwine_pillar.json"
+hash = "6a49247ce2aa1e0783f0bb18feaaa8bdbe45d7aa8000250a0fc7d344157fb96f"
+
+[[files]]
+file = "kubejs/data/architects_palette/recipe/esoterrack_pillar.json"
+hash = "458a074a319adaf0489fe6be138cf7d66cfdbdbbfb4550bc5c8c8797fc15a140"
+
+[[files]]
+file = "kubejs/data/architects_palette/recipe/flint_pillar.json"
+hash = "b2247e0964a85daaa3ac9b941b9276837b23ddafe9501ffd2b787e45ebb62b5f"
+
+[[files]]
+file = "kubejs/data/architects_palette/recipe/gilded_sandstone_pillar.json"
+hash = "03fd1367eca30e5709015d44adaa76510d9e09f64ecc26a893b2b1aa109709aa"
+
+[[files]]
+file = "kubejs/data/architects_palette/recipe/hadaline_pillar.json"
+hash = "16370089057d83b3fe1f9121a1eaf38b10f609eedc220111e87ed76b677fc4fd"
+
+[[files]]
+file = "kubejs/data/architects_palette/recipe/nether_brass_pillar.json"
+hash = "3097144e6cee1fcfa6e5aa8fc78fd1a3841f138d9ce99781b76b1a344f4f94ed"
+
+[[files]]
+file = "kubejs/data/architects_palette/recipe/olivestone_pillar.json"
+hash = "109a5d667660b0cc10e819ccb9d78d5c16bb8faad7de34320335801d24966b91"
+
+[[files]]
+file = "kubejs/data/architects_palette/recipe/onyx_pillar.json"
+hash = "d1d17518e497cb84d240249d8adf0974a10a65442a871a4f1ac13cdeeaf8aad2"
+
+[[files]]
+file = "kubejs/data/architects_palette/recipe/oracle_pillar.json"
+hash = "e7ab78ee40f51bbdcb33e1b165e2793b4df793fee1a0ce6917aac59d39f5a9f7"
+
+[[files]]
+file = "kubejs/data/architects_palette/recipe/osseous_pillar.json"
+hash = "eeee4314579691a8d5052a8445afec237c3ec6e3d83afc665d068f389e04880f"
+
+[[files]]
+file = "kubejs/data/architects_palette/recipe/packed_ice_pillar.json"
+hash = "942886f40973769f49a286d236b82c08d64cf66a4052095f6e09293fb79596ec"
+
+[[files]]
+file = "kubejs/data/architects_palette/recipe/sunmetal_pillar.json"
+hash = "1f279e3ea3642cf6d7a2f34c7edcb716d424b6dcaf8246ea14e90d195a17df66"
+
+[[files]]
+file = "kubejs/data/architects_palette/recipe/tuff_pillar.json"
+hash = "33434642eac8bc3977db71a0b433ba1054e0d563098a6da39007dc2b02db5b11"
+
+[[files]]
+file = "kubejs/data/architects_palette/recipe/wardstone_pillar.json"
+hash = "c0174fabd086d420d8fbde624f1c2e8070f21bfb3dfcdd0320698f81eb1aa324"
+
+[[files]]
+file = "kubejs/data/architects_palette/recipe/withered_osseous_pillar.json"
+hash = "0103d245b5f20111818e6c61092ef254e8d9fdd709540aa78acffb24f96ac5b8"
+
+[[files]]
 file = "kubejs/data/armourers_workshop/recipe/blocks/armourer.json"
 hash = "9c528dedb48c888f3f54bcae76905b07045eb165bacbfce32afe34fbf43207d3"
 
@@ -1407,7 +1483,7 @@ hash = "c4bfff3c5042979c39be9418cb28f24ed775d228c65e3db5949197ff314d5c87"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/acacia_chair.json"
-hash = "72ead8ef1d4bdcee2d9e36777d38aa4a4f6104cdb976e62872332c7782846309"
+hash = "15101394e57152e27cbe7c129ae0a4e780d7670e88dfc05c011795eb6dfef22e"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/acacia_desk.json"
@@ -1423,7 +1499,7 @@ hash = "2e755260908e35dc331a1e2207035b5cd68252b8590fcf95fa54d4cdae83c2d3"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/bamboo_chair.json"
-hash = "ef74413c48971b0b398d543e0ecabc2596f4e5af6ab3618f179d6c62f23304bc"
+hash = "e9617b2dc9393fe84db4ef42d7645b1edac8b004d12b8ec3d864b22cfe34628c"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/bamboo_desk.json"
@@ -1439,7 +1515,7 @@ hash = "b4e63e5f4b33ba7afadcbaa8405cafa19774a6006f3f95916c19dd80d56ce600"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/birch_chair.json"
-hash = "7981bec4436fd154f49d6b9f3879114ba1f555a77b84b9dc206638bffbb528f2"
+hash = "f1c72c50c632989fbf1a4c1cda5e118bcb8e74089dd02ab62a9080041afe94b0"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/birch_desk.json"
@@ -1459,7 +1535,7 @@ hash = "b301891e59c71d82d778e04e943291c10a882d978b2a7260dea9dcb226e43ace"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/cherry_chair.json"
-hash = "df2ebb1bc6ed36add43e5fbf568cb18d8581f1bd202662f4e845009e9e1d9047"
+hash = "9a7b68a6f57be267a3771dd12babd82c4c7589579877bf6a61720c078314d377"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/cherry_desk.json"
@@ -1475,7 +1551,7 @@ hash = "71d3e0a308ed52eb6e0643089112e82a4d4945d13560c64119a8858851f6f531"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/crimson_chair.json"
-hash = "906c1ac75b96bec6d703ad0faf36f684c3efc9511d88ad9cd3f8fb9a8f2b12b8"
+hash = "718999dcf8a1b00dbbbc71d54926163c4086af06381847c8bc7e74813c389078"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/crimson_desk.json"
@@ -1491,7 +1567,7 @@ hash = "d8018e2a06612893b9a33fdf0de84db7ec38d0c70759eb3a2bcc2101f7b2aa1f"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/dark_oak_chair.json"
-hash = "354d30ca95d5f6300e4ae1b75ef26944b7d38f0d8a3f8efe99f191b6f5fe575c"
+hash = "d78f70ecd06ae0c442110b4673dd7b518232e5c66ffb907068806957530ffa69"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/dark_oak_desk.json"
@@ -1511,7 +1587,7 @@ hash = "26621392700f0bfea3e0d97c92f287420d546457c3c7dba0153cb54d27ba42c7"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/jungle_chair.json"
-hash = "419527964a5eabc13017b84803ecaeed5b6733d91c62ea6ae536fc1adf45ade9"
+hash = "e9d247e993a7e795fb6e02061085df3343de9faba26a1710715caf2a4be6a00a"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/jungle_desk.json"
@@ -1527,7 +1603,7 @@ hash = "07307b40b339ac6ab73ae824a6ab6501f5c7ce1046bee3490934b3e991aadcc3"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/mangrove_chair.json"
-hash = "d7e5dc78bd1f105f3a4ed82fd370415583a13f5c3e7ef8ba33beb0cc9ec5d6c7"
+hash = "e5c3eca52f0ab1ebac11aba62192782b4efa6190b7fa5eaa472891584dae29e9"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/mangrove_desk.json"
@@ -1543,7 +1619,7 @@ hash = "cc122dc3ea936ef74b29347266ce7be29619dcfb7ebc04593836835ac26ddbb6"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/oak_chair.json"
-hash = "d31de090c741a65bfdf516277671180bcad3a8ce6cc79f5b02699e3b0203cebd"
+hash = "b24a864baee6dd6da0851bb04223cac6fbda0885c23f625eda1ecf2d45bc2758"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/oak_desk.json"
@@ -1559,7 +1635,7 @@ hash = "8b7f06b7190df60ffb27905378d38cc700a84d06a60d52e4b740656264f1f1d7"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/spruce_chair.json"
-hash = "58832ae36efff89bc0ff1af8cf7b5cd56d2eda68443b7c81c7fd3be9a003d946"
+hash = "f2f3d9125e004bfd64f7b3eec8c2d18acc0c2643a42264a9684c2a3980c24827"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/spruce_desk.json"
@@ -1575,7 +1651,7 @@ hash = "545d7521b15ac1de22684d6b91b8a9fd4f9d53a4218219171bee186881e97dfd"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/warped_chair.json"
-hash = "ebe831b66ef1ea98ed985dac1698f2dd5543239062171e46227ca32ca93bf99e"
+hash = "f2bd2ecb03f8506b6aa726740280defd7887a9c988120c7a6f01bee2501d7812"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/warped_desk.json"
@@ -1588,6 +1664,10 @@ hash = "27b7aefe49d915742bb40f233d1bc0c63f653d6711efb45870af24675710774f"
 [[files]]
 file = "kubejs/data/handcrafted/recipe/warped_table.json"
 hash = "b671d77cb9e5aad1594e60e3644e294f837f02bca155becb74d7cea731821105"
+
+[[files]]
+file = "kubejs/data/handcrafted/recipe/wood_plate.json"
+hash = "b492560f82a8fdc004215cd727916a175a54e446902746a3661fcec443833cbf"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/aileron/cloudskipper.json"
