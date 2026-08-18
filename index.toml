@@ -458,7 +458,7 @@ hash = "2fc8333ddc190d44d555f49da8857a5464d1b5fafe8844bb9a4b8f2688b9ab02"
 
 [[files]]
 file = "config/reliable_recipes/recipe_rules.json"
-hash = "f9e611793b97bae178c88f73a0bf98e963f2698b7d2e96a029173382538f98ad"
+hash = "1ad20a28e49d8b2dff7a0c06aae071b56b060f2eed8a0a93b7c016c6b08315f2"
 
 [[files]]
 file = "config/reliable_remover.json"
@@ -466,7 +466,7 @@ hash = "5b9399eea3ff127d808f4debfaf3eae7513817cd63b36225e550daf9f8054e88"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
-hash = "9760a68229d6f2a8d841937f15faee9f9192cd5979f2c305b2ea2e7ffba01fb9"
+hash = "f5409c9bacd57d119404f964165cbdc3f992d95c5c35defd626c0746271ee2d2"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -534,7 +534,7 @@ hash = "e0aeff91f102a5150a756893de6298e6d768b21aed33fea3100acd61444ab100"
 
 [[files]]
 file = "config/spelunkery-common.toml"
-hash = "6afdbf7a8be9e2c467e0b0edb8f00065447c3214a027798a286a09160a26e56a"
+hash = "64e5e385a9220317b769904615af9d6fc7b952c5831cca6eef6672b6b50c6753"
 
 [[files]]
 file = "config/spyglass-improvements/settings.json"
@@ -1023,7 +1023,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "kubejs/data/armourers_workshop/recipe/items/dye-bottle.json"
-hash = "025fe0759e402ebdc705d163e766e20e88b6d425617d2d77b38306f0329bd639"
+hash = "3c6b03d19e6aae588b9363a34061e9e911e2685651c0e425dae4099e5de42bba"
 
 [[files]]
 file = "kubejs/data/armourers_workshop/recipe/items/mannequin.json"
@@ -1031,7 +1031,7 @@ hash = "ae2e6bd17601ee975db762026bbee2610620a19ff1f38dead71f4da8d328203c"
 
 [[files]]
 file = "kubejs/data/armourers_workshop/recipe/items/skin-template.json"
-hash = "706d1172bb59bdd3ff40104b7460a0c1ec7e5d5c48d55738d77d3ec7dd402d05"
+hash = "2a31dcaad343773d040c8a4541923133c9a16edff6d6bc2f73a8c49ece67586b"
 
 [[files]]
 file = "kubejs/data/armourers_workshop/recipe/items/soap.json"
@@ -1430,38 +1430,6 @@ file = "kubejs/data/envelope/structure/collapsed_mail_hub/platform_storage_2.nbt
 hash = "ea1f43d741e46d4ddcd69504d292df89e1a96f2fcd76abcaad861c91a3cff03b"
 
 [[files]]
-file = "kubejs/data/everycomp/recipe/af/architects_palette/twisted_shutter/architects_palette/twisted.json"
-hash = "a0d0a3570351dfcba478f3547eac83e65c30b10f6cb9a6081275ea92e03cfce8"
-
-[[files]]
-file = "kubejs/data/everycomp/recipe/af/malum/runewood_shutter/malum/runewood.json"
-hash = "f6de5a661661e6311b70d0f97f2f8600c77229de41de5e0706b221d403535f02"
-
-[[files]]
-file = "kubejs/data/everycomp/recipe/af/malum/soulwood_shutter/malum/soulwood.json"
-hash = "ea6f2e8149bd7d4bc5127c82c8737f585004d54189f128f819199157ccd09a4e"
-
-[[files]]
-file = "kubejs/data/everycomp/recipe/af/nomansland/maple_shutter/nomansland/maple.json"
-hash = "b40f52333273f01767deef34f9a64ffb17677058a8c3fe51ac69f263001584df"
-
-[[files]]
-file = "kubejs/data/everycomp/recipe/af/nomansland/pine_shutter/nomansland/pine.json"
-hash = "d8b50965e53b21cd99542a8e5ed5f078ee8a8c72fe8fef1b2a2737c76dea59d3"
-
-[[files]]
-file = "kubejs/data/everycomp/recipe/af/nomansland/walnut_shutter/nomansland/walnut.json"
-hash = "66c031c4333f7f058bc20952be246549df182e083098e915475f02645dab9f66"
-
-[[files]]
-file = "kubejs/data/everycomp/recipe/af/nomansland/willow_shutter/nomansland/willow.json"
-hash = "e872b48c2c7f27a69b983a03cbf3dd007e2359c9f7facc7e156bd270bfa40712"
-
-[[files]]
-file = "kubejs/data/everycomp/recipe/af/quark/ancient_shutter/quark/ancient.json"
-hash = "013198264ab87db05eabf21e157fa0e2d0ef46b2e5f1fcf30b9c64913decaf6c"
-
-[[files]]
 file = "kubejs/data/exposure/advancement/adventure/exposure.json"
 hash = "689bad61ad56c6b367924862344691f6cf545da710a1c241ca55769893cd3496"
 
@@ -1528,10 +1496,6 @@ hash = "e6dc205f8aae81f2eeaf6b83733f28ebcb1a89842e8cc04bb8b42b01bb849a30"
 [[files]]
 file = "kubejs/data/handcrafted/recipe/birch_table.json"
 hash = "90cfec2e82df0b0555c5487db8cfaa42ba8c001e2b1b3401ecff63f726087f37"
-
-[[files]]
-file = "kubejs/data/handcrafted/recipe/blue_bowl.json"
-hash = "b301891e59c71d82d778e04e943291c10a882d978b2a7260dea9dcb226e43ace"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/cherry_chair.json"
@@ -1664,6 +1628,14 @@ hash = "27b7aefe49d915742bb40f233d1bc0c63f653d6711efb45870af24675710774f"
 [[files]]
 file = "kubejs/data/handcrafted/recipe/warped_table.json"
 hash = "b671d77cb9e5aad1594e60e3644e294f837f02bca155becb74d7cea731821105"
+
+[[files]]
+file = "kubejs/data/handcrafted/recipe/wood_bowl.json"
+hash = "7409e15ea62ba47a45416b8770a0f3d6a7288593e7309d38ce7eaf7cea38e5f7"
+
+[[files]]
+file = "kubejs/data/handcrafted/recipe/wood_cup.json"
+hash = "d0ecfdf9641d91728c910da3686993fa8964c55123074dce49b57ce019418782"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/wood_plate.json"
@@ -2854,6 +2826,22 @@ file = "kubejs/data/malum/recipe/malum/spirit_repair/farmers_delight/skillet.jso
 hash = "eec4d976aa5aa10dc931fd6cd786e72d5021dab6de622dc70f6a960423b0eb99"
 
 [[files]]
+file = "kubejs/data/malum/recipe/runewood_beam.json"
+hash = "2b6ef4f045038b606601781a152f1446f019b4b32f81ff3432bcde01eab1f6ec"
+
+[[files]]
+file = "kubejs/data/malum/recipe/runewood_item_stand.json"
+hash = "6fb3ba22866e2dd2a3a50bcc310ac1115e6d11b01b57b6370484b99df41ec89c"
+
+[[files]]
+file = "kubejs/data/malum/recipe/soulwood_beam.json"
+hash = "7bc8763dfdb96d877e23098ab1f360af9732e94e2e860d1b14e1a0f7b1653b40"
+
+[[files]]
+file = "kubejs/data/malum/recipe/soulwood_item_stand.json"
+hash = "ccb7d0ea6c7e9e1fdea05d4c8192ed88b405d248dd01900f070d68bd9bf61b5f"
+
+[[files]]
 file = "kubejs/data/malum/recipe/spirit_infusion/brilliant_obelisk.json"
 hash = "366fa3c150b52629d2b76088a9d1110edced76aacfa4127c77a3cdac87dcacb6"
 
@@ -3050,6 +3038,10 @@ file = "kubejs/data/minecraft/moonlight/villager_trade/cartographer/weeping_map_
 hash = "b3113c984837cae16efa7d914b46d3d22b3d6097dfd3a8a112ceda5fbe36d004"
 
 [[files]]
+file = "kubejs/data/minecraft/recipe/bamboo_mosaic.json"
+hash = "5b05190e006e6bb4eb517876ec35357c3a5c26b08b09f921d6765dfa64450398"
+
+[[files]]
 file = "kubejs/data/minecraft/tags/block/enderman_holdable.json"
 hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
 
@@ -3160,6 +3152,10 @@ hash = "a1f3df7036e96ef96db7fa8a1cfefaff1b7cc945b746b2b7fd95d862509be8ab"
 [[files]]
 file = "kubejs/data/powergrid/advancement/acid.json"
 hash = "0439fcb342588124844bbc49b4f20058e6b913c8665e2326c1f3b2ef57cc8d30"
+
+[[files]]
+file = "kubejs/data/powergrid/advancement/nether_transformer.json"
+hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
 
 [[files]]
 file = "kubejs/data/powergrid/recipe/crafting/circuit_design_table.json"
@@ -3698,6 +3694,10 @@ file = "kubejs/data/spelunkery/recipe/bone_meal.json"
 hash = "f9a6c8df9dae6c05f7e0af1616c27a9ae50f900471b902f9cb78a6b669024bc9"
 
 [[files]]
+file = "kubejs/data/spelunkery/recipe/lapis_lazuli_shard.json"
+hash = "b631811ece6655188dc94be83f5febfdfc02d75e4faeb75566352de5aebe5d96"
+
+[[files]]
 file = "kubejs/data/spelunkery/worldgen/placed_feature/deep_dark_fossil.json"
 hash = "719e97194deeb8d9c428924ed4ba01438daccb3fe0f70b611a1b4efc05d7fd30"
 
@@ -3708,6 +3708,10 @@ hash = "110ac986743697ce8b4e4cc14fd599ff8779438192aa79952f50741e623aedb1"
 [[files]]
 file = "kubejs/data/stoat/tags/block/rubbery.json"
 hash = "6ed215aa075f34bbbab0b6b678d90cfc3ec1ab7fd506ea77c4b24ebe73809a61"
+
+[[files]]
+file = "kubejs/data/supplementaries/recipe/flower_box.json"
+hash = "dc0859004ee58a5911b6ccb9bfcdd3cc3644d45fe005698d098fd67fbd07c05b"
 
 [[files]]
 file = "kubejs/data/supplementaries/tags/worldgen/structure/adventure_map_destinations.json"
