@@ -554,7 +554,7 @@ hash = "8babc8d0c8464e529ded796a3b7e9d502f306be1f402c736786fe8b14071507e"
 
 [[files]]
 file = "config/structurify.json"
-hash = "bb25bc087f3c99ebe198188f6628e67be49465432b523a496ee0f01876fd37fb"
+hash = "af4a348f2bbeffc4dbd923ec89c6d57d987e12f1e6ee0c11ddeee23e2d24a69d"
 
 [[files]]
 file = "config/styled-nicknames.json"
@@ -627,14 +627,6 @@ hash = "12828c353d886511363c99ef8915548ddf08422d5b70594e01c02e89250f5356"
 [[files]]
 file = "kubejs/assets/breakingnewground.zip"
 hash = "34412ea9d827cbfcf413429a5f46a6c85a38b788e5a3d54443d4e8b1a06f9052"
-
-[[files]]
-file = "kubejs/assets/create/textures/block/deepslate_zinc_ore.png"
-hash = "1ed13c9b1b0fcd21f04191ee5da2b4b1413cb431e74ca602ffba6174d87be133"
-
-[[files]]
-file = "kubejs/assets/create/textures/block/zinc_ore.png"
-hash = "1ed13c9b1b0fcd21f04191ee5da2b4b1413cb431e74ca602ffba6174d87be133"
 
 [[files]]
 file = "kubejs/assets/createpropulsion/sounds.json"
@@ -725,16 +717,8 @@ file = "kubejs/assets/tfmg/sounds.json"
 hash = "37c2e2fb1dd894161d804575935337adf0d4b44252abe0d902234c165831a712"
 
 [[files]]
-file = "kubejs/assets/tfmg/textures/block/deepslate_lead_ore.png"
-hash = "5663b644f0ee3826c680e0dc188104c319778f21d23e6adc517ad1b3ca65e1a6"
-
-[[files]]
 file = "kubejs/assets/tfmg/textures/block/deepslate_nickel_ore.png"
 hash = "22cc0200422022a160336da6e63eaf2d572b098e910c7b5680c297ecd9438ae4"
-
-[[files]]
-file = "kubejs/assets/tfmg/textures/block/lead_ore.png"
-hash = "5663b644f0ee3826c680e0dc188104c319778f21d23e6adc517ad1b3ca65e1a6"
 
 [[files]]
 file = "kubejs/assets/tfmg/textures/block/oil_deposit.png"
@@ -3953,7 +3937,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "5d6dd84018f5dd119024f0dff7fe1e2cbc20362f390cc7b4b6bc05fbe474b4f9"
+hash = "935283cf00bf040d485ebe6ab0881137b3a3803e5a7606851c705e57b73b69b7"
 metafile = true
 
 [[files]]
@@ -4073,7 +4057,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-automated-logistics.pw.toml"
-hash = "ec4a650f09f4dedb05ac30c88736197bcdf7b2b3411d8d069027afd290719874"
+hash = "74f06daeb954e5f44a78e6330f5c1d192d9af2e9c1d9d539ea85882e213cb550"
 metafile = true
 
 [[files]]
@@ -4283,7 +4267,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "c03f7fb679748b4c8beb2197a25141d6e222798ef9f1af66b1e17b91452fd316"
+hash = "4ba059a6740e8f45fd6003c3740ecbc90c113b58103b0f3609c1ba108137ce9b"
 metafile = true
 
 [[files]]
@@ -4473,7 +4457,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "ae4e76c76562f5ffb483473b2dd39e19c23fb612eb099739ca06f0be13e6f143"
+hash = "73cf2d5d74658fd4990ba01082475c6283599b1abe188041d22b812c7d35aab2"
 metafile = true
 
 [[files]]
@@ -4582,7 +4566,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-advancements.pw.toml"
-hash = "436c3f75185a4e54eaac72d32003e2da2822aec9f96a2689c31979b3fc50c6b3"
+hash = "570787ffc2d6acb9203361dae49989519a5b318f47db02b9acaea4953d996ce9"
 metafile = true
 
 [[files]]
@@ -4622,7 +4606,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "557a027bae6019f1b4cb6f8496a7491ff33ae1e38256632d077411bac27c0c9d"
+hash = "c86b134c50fbe117fe89cc0116b5e1c1c437e40613d16d1fbd53cf3850f7c435"
 metafile = true
 
 [[files]]
@@ -4772,7 +4756,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "296895d21af5b98a4affc09ef984b109afd9be6db9a3c461fdc083cbb3400d7b"
+hash = "0c99482d136773ed56f84329ac0363f64dfa3b44affddb992b9f5898e2b17f2d"
 metafile = true
 
 [[files]]
