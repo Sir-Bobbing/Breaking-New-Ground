@@ -27,7 +27,7 @@
         "4": [
             {
                 "item_cost": {
-                    "item": "createbigcannons:ap_autocannon_round",
+                    "item": "scguns:advanced_round",
                     "count": 1
                 }
             }

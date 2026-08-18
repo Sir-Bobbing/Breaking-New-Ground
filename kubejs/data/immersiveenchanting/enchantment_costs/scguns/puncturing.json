@@ -3,7 +3,7 @@
         "1": [
             {
                 "item_cost": {
-                    "item": "quark:redstone_randomizer",
+                    "item": "minecraft:dropper",
                     "count": 1
                 }
             }

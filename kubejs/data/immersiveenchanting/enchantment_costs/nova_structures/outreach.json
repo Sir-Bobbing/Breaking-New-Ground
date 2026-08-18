@@ -3,15 +3,15 @@
         "1": [
             {
                 "item_cost": {
-                    "item": "create:deployer",
-                    "count": 1
+                    "item": "create:piston_extension_pole",
+                    "count": 8
                 }
             }
         ],
         "2": [
             {
                 "item_cost": {
-                    "item": "malum:rune_of_flowing_grasp",
+                    "item": "create:deployer",
                     "count": 1
                 }
             }
@@ -19,7 +19,7 @@
         "3": [
             {
                 "item_cost": {
-                    "item": "create:extendo_grip",
+                    "item": "malum:rune_of_flowing_grasp",
                     "count": 1
                 }
             }
@@ -27,7 +27,7 @@
         "4": [
             {
                 "item_cost": {
-                    "item": "quark:crab_shell",
+                    "item": "create:extendo_grip",
                     "count": 1
                 }
             }

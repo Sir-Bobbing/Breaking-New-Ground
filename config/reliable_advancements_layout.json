@@ -17,28 +17,28 @@
       33
     ],
     "spelunkery:spelunkery/wooden_rail": [
-      -79,
-      0
+      -43,
+      31
     ],
     "createpropulsion:im_vectoring_it": [
       -66,
       0
     ],
     "spelunkery:spelunkery/coal_lump": [
-      1,
-      101
+      10,
+      76
     ],
     "spelunkery:spelunkery/rock_salt": [
-      -63,
-      83
+      -27,
+      69
     ],
     "minecraft:story/upgrade_tools": [
       48,
       34
     ],
     "minecraft:story/whats_this": [
-      -86,
-      38
+      -42,
+      -5
     ],
     "createpropulsion:feed_the_fire_621": [
       -87,
@@ -1739,6 +1739,142 @@
     "envelope:husbandry/its_filthy_in_there": [
       -178,
       265
+    ],
+    "powergrid:root": [
+      0,
+      155
+    ],
+    "powergrid:lightning": [
+      -24,
+      215
+    ],
+    "powergrid:acid": [
+      -37,
+      128
+    ],
+    "powergrid:wire_cut": [
+      -30,
+      176
+    ],
+    "powergrid:conductive_casing": [
+      32,
+      128
+    ],
+    "powergrid:transformer": [
+      55,
+      79
+    ],
+    "powergrid:electrical_gizmo": [
+      58,
+      186
+    ],
+    "powergrid:sheep_cut": [
+      -59,
+      198
+    ],
+    "powergrid:blow_up": [
+      -7,
+      83
+    ],
+    "powergrid:solar_panel": [
+      24,
+      60
+    ],
+    "powergrid:potato_battery": [
+      7,
+      227
+    ],
+    "powergrid:circuit_board": [
+      -72,
+      100
+    ],
+    "powergrid:nether_transformer": [
+      75,
+      50
+    ],
+    "powergrid:fe_inverter": [
+      96,
+      131
+    ],
+    "powergrid:energy_meter_rollover": [
+      25,
+      192
+    ],
+    "powergrid:electric_damage": [
+      91,
+      96
+    ],
+    "powergrid:magnet": [
+      74,
+      159
+    ],
+    "powergrid:boosting_chip": [
+      95,
+      205
+    ],
+    "powergrid:zapper": [
+      65,
+      226
+    ],
+    "powergrid:electric_motor": [
+      109,
+      169
+    ],
+    "exposure:adventure/exposure": [
+      25,
+      280
+    ],
+    "exposure:adventure/family_portrait": [
+      -19,
+      288
+    ],
+    "exposure:adventure/piercing_gaze": [
+      68,
+      318
+    ],
+    "exposure:adventure/splitting_the_photon": [
+      -4,
+      247
+    ],
+    "exposure:adventure/moment_in_time": [
+      17,
+      322
+    ],
+    "exposure:adventure/complex_composite_compound": [
+      -34,
+      216
+    ],
+    "exposure:adventure/wildlife_archivist": [
+      77,
+      276
+    ],
+    "exposure:adventure/spotlight": [
+      37,
+      246
+    ],
+    "exposure:adventure/lights_up": [
+      54,
+      214
+    ],
+    "exposure:adventure/spooky_silly_skeletons": [
+      6,
+      353
+    ],
+    "exposure:adventure/void": [
+      70,
+      186
+    ],
+    "exposure:adventure/exposed_paparazzi": [
+      84,
+      233
+    ],
+    "exposure:adventure/unforeseen_consequences": [
+      107,
+      205
+    ],
+    "exposure:adventure/photos_of_spider_man": [
+      131,
+      234
     ]
   },
   "tab_properties": {
@@ -1954,6 +2090,27 @@
     },
     "archeological:root": {
       "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5,
+      "background_rules": "[]"
+    },
+    "powergrid:root": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5,
+      "background_rules": "[]"
+    },
+    "exposure:adventure/exposure": {
+      "title": "Exposure",
+      "background": "minecraft:textures/block/smithing_table_top.png",
       "static_background": false,
       "bg_width": 16,
       "bg_height": 16,

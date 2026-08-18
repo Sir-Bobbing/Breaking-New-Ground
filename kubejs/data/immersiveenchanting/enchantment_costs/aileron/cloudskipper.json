@@ -3,8 +3,8 @@
         "1": [
             {
                 "item_cost": {
-                    "item": "quark:bottled_cloud",
-                    "count": 1
+                    "item": "minecraft:feather",
+                    "count": 4
                 }
             }
         ],
