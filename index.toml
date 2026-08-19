@@ -3917,11 +3917,6 @@ hash = "07d4a4e17176f56e21f6714a1706384dad8f596d09edcb750c17c6f9d93b8786"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics-automated-logistics.pw.toml"
-hash = "74f06daeb954e5f44a78e6330f5c1d192d9af2e9c1d9d539ea85882e213cb550"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics-compatability.pw.toml"
 hash = "aa12b9347675c1dba8a3567b90fdd3a5749abde2503c423c9188f2743d07b640"
 metafile = true

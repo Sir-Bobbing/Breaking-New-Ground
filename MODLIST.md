@@ -38,7 +38,6 @@
 - [Create](https://modrinth.com/mod/LNytGWDc) by simibubi
 - [Create Aeronautics](https://modrinth.com/mod/oWaK0Q19) by Simulated Team
 - [Create Aeronautics Lift Fix](https://modrinth.com/mod/wEWnF0xx)
-- [Create Aeronautics: Automated Logistics](https://modrinth.com/mod/73ZXeRfx)
 - [Create Compact Flap](https://modrinth.com/mod/Rsk2MfzV) by qwxon
 - [Create Contraption Terminals](https://modrinth.com/mod/gOPAFzp0) by tom5454
 - [Create Propulsion: Simulated](https://modrinth.com/mod/ApkoHNO9) by Sergey Feduk, Tronco\_78, Bunting\_chj, SSnowly, KyivSec
