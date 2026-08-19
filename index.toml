@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "MODLIST.md"
+hash = "f73c51089f5fc7cc82353e174f5281355b24b9464ffefd2db00766a94f766465"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "48c9dd6cc6fb871acf4232def15f510c2d8a91a10a8ac2dd23915ad09f7d8e58"
 
@@ -3995,6 +3999,11 @@ metafile = true
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "910afec6c30c7f68956bfa4e8fdaaad4d156b08534cf25128870053e26545f0c"
+metafile = true
+
+[[files]]
+file = "mods/bundle-scroll.pw.toml"
+hash = "df06befb67c03635147d9650faa83dd15eb1773fbe89f06e7f8a16b38b5f8089"
 metafile = true
 
 [[files]]
