@@ -682,7 +682,7 @@ hash = "ecd2b2cae57c5e34a532751d50c586491826a992af9eb2ac446504b966a29040"
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
-hash = "6467da9095ec20431b7eef461ba54891a8bd78df2ea96b2db49daf2d9c44fc62"
+hash = "69e6df84b62fa74d31b9787f3ca75ed84a5f386a9752db7519e0c71ce7b72ad2"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
