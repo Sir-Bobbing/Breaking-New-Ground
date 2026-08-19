@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "MODLIST.md"
-hash = "f73c51089f5fc7cc82353e174f5281355b24b9464ffefd2db00766a94f766465"
+hash = "53b8374544400887d262959a991663ad37617eca61b722e54d1fa0e5703abd37"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -686,7 +686,7 @@ hash = "ecd2b2cae57c5e34a532751d50c586491826a992af9eb2ac446504b966a29040"
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
-hash = "69e6df84b62fa74d31b9787f3ca75ed84a5f386a9752db7519e0c71ce7b72ad2"
+hash = "8e3cc100ca353320a2c6ab5344aea48e94c9b2b5b7af53bda432f3e8d689b987"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
