@@ -118,7 +118,6 @@
 - [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) by MehVahdJukaar
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) by Aizistral
 - [No Man's Land](https://modrinth.com/mod/kjZCvAn6) by Farcr, Tazer, and many Contributors
-- [NoBroken](https://modrinth.com/mod/Lyeon1uY) by Bahanos
 - [NoExplodeItems](https://modrinth.com/mod/FnYjkHdc) by FifthTundraG
 - [Noisium](https://modrinth.com/mod/hasdd01q) by Steveplays28
 - [Not Enough Crashes](https://modrinth.com/mod/yM94ont6) by Fudge
