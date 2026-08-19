@@ -65,11 +65,11 @@
 		#Multiplier for delay between mob gun bursts. Higher values add longer pauses between bursts.
 		# Default: 1.0
 		# Range: 0.1 ~ 5.0
-		mobBurstDelayMultiplier = 1.25
+		mobBurstDelayMultiplier = 3
 		#Global multiplier for mob gun damage after difficulty scaling.
 		# Default: 1.0
 		# Range: 0.01 ~ 100.0
-		mobGunDamageMultiplier = 1.0
+		mobGunDamageMultiplier = 0.5
 		#If true, allows flamethrowers to place fire on blocks
 		enableFirePlacement = true
 
@@ -176,7 +176,7 @@
 		#This does not change player weapon spread or gun JSON values.
 		# Default: 1.5
 		# Range: 0.0 ~ 10.0
-		gunnerMobInaccuracyMultiplier = 1.5
+		gunnerMobInaccuracyMultiplier = 2.5
 
 	#Scorched Guns raid configuration
 	[common.raids]

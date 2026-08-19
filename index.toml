@@ -490,7 +490,7 @@ hash = "95cece7299e0bb26e1c1f7132fff6c0ed9e8d415e97a7d38879fe44b6d1bf106"
 
 [[files]]
 file = "config/scguns-common.toml"
-hash = "5e78d6c7ab0d3d6c712167953bb56c2e9ea21dfb56ff83834ceebfe30ee9435c"
+hash = "9e0f70b62d3ee0e18c71369de61c7307efc96e7ea010f1d67de3380adbb9ba9e"
 
 [[files]]
 file = "config/scguns-server.toml"
