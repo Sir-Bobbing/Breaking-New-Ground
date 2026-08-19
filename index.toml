@@ -681,6 +681,10 @@ file = "kubejs/assets/malum/textures/block/ores/deepslate_soulstone_ore.png"
 hash = "ecd2b2cae57c5e34a532751d50c586491826a992af9eb2ac446504b966a29040"
 
 [[files]]
+file = "kubejs/assets/minecraft/texts/splashes.txt"
+hash = "6467da9095ec20431b7eef461ba54891a8bd78df2ea96b2db49daf2d9c44fc62"
+
+[[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
 hash = "8a8a6d6325c5391079a56dc9a9185ef79618a784232a529db8b9809d3260e4cb"
 
