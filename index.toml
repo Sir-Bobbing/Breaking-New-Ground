@@ -3471,11 +3471,11 @@ hash = "936fec40d959ebc62d90fd651d391b6ac713ba092083f04980354a74264bae4e"
 
 [[files]]
 file = "kubejs/data/shape_tweaks/shape_map/add.json"
-hash = "90b2221942fe022041e135f986551dd8d53357ea9b38dcc77bfe8dbd061f492d"
+hash = "3612b931e7f1a1d9d4a35f99bf06736089c1bd40cd1fd4db8fc0ba1cfdfd523b"
 
 [[files]]
 file = "kubejs/data/shape_tweaks/shape_map/remove.json"
-hash = "16218add28f29cd1a69c41dc4ae625b05a6b88bf6bd4a68e5b087b0ec5ab9258"
+hash = "a96acc1f75226e0c78dc70d082acd014c74a3f563ffa080c191534e15983dc52"
 
 [[files]]
 file = "kubejs/data/simulated/end_sea/overworld.json"
@@ -3723,7 +3723,7 @@ hash = "9a75b8dd95ef5b2dd64998a78ef9c621b0d8e5578c9fd3e3bc268b1853258ca9"
 
 [[files]]
 file = "kubejs/startup_scripts/scamppanzer_beacon.js"
-hash = "13eeb76fc2672fcef927f7ccb020fe830b6ddbad1cd08f1b25a6f511d0dd93c4"
+hash = "41555f87d4a7d034e029e19fd062e59917ca3f973b9f9dfb632b86019b1d5bc6"
 
 [[files]]
 file = "kubejs/startup_scripts/startup_item_tweaks.js"

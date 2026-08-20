@@ -3,7 +3,10 @@
     "remove": {
         "/minecraft:.*_concrete/": [
             "/.*/"
-        ]
+        ],
+        "/architects_palette:.*_slab/": [
+            "/.*/"
+    ]
     },
     "add": {
         "/tfmg:(?<color>.+)_concrete/": [

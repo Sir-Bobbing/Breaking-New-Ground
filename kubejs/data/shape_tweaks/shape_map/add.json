@@ -1,5 +1,5 @@
 {
-    "priority": 600,
+    "priority": 800,
     "add": {
         "create:speedometer": [
             "create:stressometer"
@@ -147,6 +147,9 @@
         ],
         "/everycomp:fd/(?<stem>.+?)(?<end>_cabinet)/": [
             "everycomp:hc/${stem}_cupboard"
+        ],
+        "/architects_palette:(?<stem>.+?)(?<end>_slab)/": [
+            "architects_palette:${stem}_vertical_slab"
         ]
     }
 }
