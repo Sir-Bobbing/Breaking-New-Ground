@@ -285,7 +285,7 @@ _version = 4
 		#  outside the vanilla render distance? 
 		# Depending on the generator mode, this will import existing chunks 
 		# and/or generating missing chunks.
-		enableDistantGeneration = false
+		enableDistantGeneration = true
 		#
 		# The center X chunk position that the world gen max radius is centered around.
 		generationCenterChunkX = 0
@@ -670,7 +670,7 @@ _version = 4
 				# Note: Due to current limitations, the min value is [50] 
 				# and the max value is 5000. Any values outside this range 
 				# will be set to 0 (disabled).
-				earthCurveRatio = 250
+				earthCurveRatio = 650
 
 			[client.advanced.graphics.genericRendering]
 				#
@@ -785,7 +785,7 @@ _version = 4
 				# Note: this is a best effort number. 
 				# The actual render distance may be above or below this number 
 				# depending on your other graphic settings.
-				lodChunkRenderDistanceRadius = 256
+				lodChunkRenderDistanceRadius = 192
 				#
 				# How should the sides and bottom of grass block LODs render? 
 				# 
@@ -856,13 +856,13 @@ _version = 4
 				# 0.0: Fog starts at the player's position. 
 				# 1.0: Fog starts at the closest edge of the vanilla render distance. 
 				# 1.414: Fog starts at the corner of the vanilla render distance.
-				farFogStart = "0.05"
+				farFogStart = "0.1"
 				#
 				# What is the minimum fog thickness? 
 				# 
 				# 0.0: No fog. 
 				# 1.0: Fully opaque fog.
-				farFogMin = "0.05"
+				farFogMin = "0.01"
 				#
 				# What color should fog use? 
 				# 

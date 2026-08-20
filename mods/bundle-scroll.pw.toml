@@ -1,0 +1,21 @@
+filename = 'bundlescroll-1.1+1.21.jar'
+name = 'Bundle Scroll'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1+1.21'
+
+[download]
+hash = '5ab49752f2546fdc7133dc445dd5a19a6beee4b7ac2ac6ef5bd84b86f1817535c9e854c989422ac2d0bd22931694c83b4ee50ea9dba4190a3e88ec09088e93ea'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fJKsphvU/versions/kPuGLH88/bundlescroll-1.1%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'fJKsphvU'
+version = 'kPuGLH88'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
