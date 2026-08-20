@@ -3714,6 +3714,10 @@ file = "kubejs/startup_scripts/fluid_registry.js"
 hash = "21bf944048897ed87f6ca1944ae2af5a7dd44c5d3131ffeb23a5c086b4bba297"
 
 [[files]]
+file = "kubejs/startup_scripts/item_modification.js"
+hash = "b6cb6d289b916043e05095e44d3b3dc6eea69baf532eed4e9083e4d40c60c917"
+
+[[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
 hash = "9a75b8dd95ef5b2dd64998a78ef9c621b0d8e5578c9fd3e3bc268b1853258ca9"
 
