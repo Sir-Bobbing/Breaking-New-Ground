@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "20b30a4c7f26e236142cdf7e940424f25fff774da9131aecf7d4bbf8bed3f3db"
+hash = "6f29ae5dcea01485ff5a71c1cc2988ca7eb0c76878f327ba558df8d25181029d"
 
 [[files]]
 file = "config/aeronautics-server.toml"
@@ -366,7 +366,7 @@ hash = "95cece7299e0bb26e1c1f7132fff6c0ed9e8d415e97a7d38879fe44b6d1bf106"
 
 [[files]]
 file = "config/scguns-common.toml"
-hash = "9e0f70b62d3ee0e18c71369de61c7307efc96e7ea010f1d67de3380adbb9ba9e"
+hash = "a110347e7653d32d754c6b4405a3354f3c2dfd720b257c1c684ad7afd206a8f1"
 
 [[files]]
 file = "config/scguns-server.toml"
@@ -1107,7 +1107,7 @@ hash = "246208555d8ac93b0686c16724248bfca37b81b07381cc960a421103555cc75c"
 
 [[files]]
 file = "kubejs/data/breakingnewground/tags/worldgen/biome/spawns_redcoats.json"
-hash = "54d2a7c8d9149e09adb10a9fc210057853ce15921b4da03a5c7e42bd3825328b"
+hash = "01e9e3f29c8da11df181c2ba42da8a5a1c651899021f4488bb1abb16645ec886"
 
 [[files]]
 file = "kubejs/data/breakingnewground/tags/worldgen/biome/spawns_scguns_mobs.json"
@@ -3054,6 +3054,10 @@ file = "kubejs/data/powergrid/recipe/sequenced_assembly/electrical_gizmo.json"
 hash = "c44c403e1f61c3add8316b4058daea9014e6a890038f635736d891fcebda036e"
 
 [[files]]
+file = "kubejs/data/scguns/entity/elite_tiers.json"
+hash = "11c25aaa8fe558bf475a5b44f2b010680ec25f51ec9ff3920f4c894b36187b66"
+
+[[files]]
 file = "kubejs/data/scguns/loot_modifiers/pebbles_from_gravel.json"
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
 
@@ -3467,7 +3471,7 @@ hash = "936fec40d959ebc62d90fd651d391b6ac713ba092083f04980354a74264bae4e"
 
 [[files]]
 file = "kubejs/data/shape_tweaks/shape_map/add.json"
-hash = "48d13348b1caf5ab9384210ce207692964a168c854d0325299874b8a24fe0f1b"
+hash = "90b2221942fe022041e135f986551dd8d53357ea9b38dcc77bfe8dbd061f492d"
 
 [[files]]
 file = "kubejs/data/shape_tweaks/shape_map/remove.json"
@@ -3699,7 +3703,7 @@ hash = "f2432b2ae1d81e8ad2008b3c9f7a93eefc9942c0ec2389433f32e7e6190cdcbf"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "6ab3aba6938f07fa2fa8fcc91176b5f9cb459948c78715c1e2d21f0c4b7eb38d"
+hash = "5a56b33b060e0d233f75a872a06cae8a66ac23ae670494bbb10dacf45ffbe750"
 
 [[files]]
 file = "kubejs/startup_scripts/block_modification.js"
@@ -3708,6 +3712,10 @@ hash = "e28138f90e13b48cd7bba8ab85f3ed6e64135bdfb756c573dc638ed749983d70"
 [[files]]
 file = "kubejs/startup_scripts/fluid_registry.js"
 hash = "21bf944048897ed87f6ca1944ae2af5a7dd44c5d3131ffeb23a5c086b4bba297"
+
+[[files]]
+file = "kubejs/startup_scripts/item_modification.js"
+hash = "b6cb6d289b916043e05095e44d3b3dc6eea69baf532eed4e9083e4d40c60c917"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"

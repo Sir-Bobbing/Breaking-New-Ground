@@ -163,5 +163,11 @@ ServerEvents.tags('fluid', event => {
         event.add('scguns:bullet', 'scguns:rocket')
         event.add('scguns:bullet', 'scguns:scamp_rocket')
 
+// Gunner blacklist
+        event.remove('scguns:gunner', 'minecraft:zombie')
+        event.remove('scguns:gunner', 'minecraft:zombie_villager')
+        event.remove('scguns:gunner', 'minecraft:zombified_piglin')
+        event.remove('scguns:gunner', 'minecraft:husk')
+        event.remove('scguns:gunner', 'minecraft:wither_skeleton')
 
 })

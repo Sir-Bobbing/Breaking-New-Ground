@@ -91,9 +91,62 @@
         "dndecor:dark_metal_block": [
             "dndecor:dark_metal_plating"
         ],
+
+
+
         "/(?<ns>[^:]+):(?<stem>.+?)(?<end>_planks)/": [
             "nomansland:trimmed_${stem}_planks",
             "everycomp:nml/${ns}/trimmed_${stem}_planks"
+        ],
+        "/(?<ns>[^:]+):(?<stem>.+?)(?<end>_chair)/": [
+            "handcrafted:${stem}_chair"
+        ],
+        "/(?<ns>[^:]+):(?<stem>.+?)(?<end>_table)/": [
+            "handcrafted:${stem}_table"
+        ],
+        "/(?<ns>[^:]+):(?<stem>.+?)(?<end>_drawer)/": [
+            "handcrafted:${stem}_drawer"
+        ],
+        "/(?<ns>[^:]+):(?<stem>.+?)(?<end>_stool)/": [
+            "another_furniture:${stem}_tall_stool"
+        ],
+        "/(?<ns>[^:]+):(?<stem>.+?)(?<end>_cabinet)/": [
+            "handcrafted:${stem}_cupboard",
+            "everycomp:hc/${ns}/${stem}_cupboard"
+        ],
+        "/another_furniture:(?<stem>.+?)(?<end>_bench)/": [
+            "handcrafted:${stem}_bench",
+            "handcrafted:${stem}_dining_bench"
+        ],
+        "/handcrafted:(?<stem>.+?)(?<end>_pillar_trim)/": [
+            "handcrafted:${stem}_corner_trim"
+        ],
+        "/handcrafted:(?<stem>.+?)(?<end>_thin_pot)/": [
+            "handcrafted:${stem}_medium_pot",
+            "handcrafted:${stem}_wide_pot",
+            "handcrafted:${stem}_thick_pot"
+        ],
+        "/dndecor:(?<stem>.+?)(?<end>_dark_metal_block)/": [
+            "dndecor:${stem}_dark_metal_plating"
+        ],
+        "/everycomp:af/(?<stem>.+?)(?<end>_chair)/": [
+            "everycomp:hc/${stem}_chair"
+        ],
+        "/everycomp:af/(?<stem>.+?)(?<end>_table)/": [
+            "everycomp:hc/${stem}_table"
+        ],
+        "/everycomp:af/(?<stem>.+?)(?<end>_drawer)/": [
+            "everycomp:hc/${stem}_drawer"
+        ],
+        "/everycomp:af/(?<stem>.+?)(?<end>_bench)/": [
+            "everycomp:hc/${stem}_bench",
+            "everycomp:hc/${stem}_dining_bench"
+        ],
+        "/everycomp:hc/(?<stem>.+?)(?<end>_pillar_trim)/": [
+            "everycomp:hc/${stem}_corner_trim"
+        ],
+        "/everycomp:fd/(?<stem>.+?)(?<end>_cabinet)/": [
+            "everycomp:hc/${stem}_cupboard"
         ]
     }
 }
