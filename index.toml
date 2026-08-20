@@ -906,6 +906,22 @@ file = "kubejs/data/breakingnewground/recipe/crafting/andesite_alloy_from_copper
 hash = "94c457be997a99c88502270b283f5e41fa18b13e3e12d1c2fae3325c3bf80c33"
 
 [[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/chainmail_boots.json"
+hash = "51ad9a5403c2113d4dc4953d6f17303dfaf28a24b69a749b784fa6b757299ca0"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/chainmail_chestplate.json"
+hash = "aa6e7620bf3e2a4494a9c87353a135b63b1f2ebcd806d9207fbb51e95bb69be4"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/chainmail_helmet.json"
+hash = "52b549d763e7f8fe95a78961d6cadd48a1154d251910af984109e7c943e691d8"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/chainmail_leggings.json"
+hash = "a7ed01a0b7bd4faa65ef487372a7cf53bb04c2ff6096492fb26313796b8999a9"
+
+[[files]]
 file = "kubejs/data/breakingnewground/recipe/crafting/deed_of_ownership.json"
 hash = "9fae832f9140cb26045c43d78cce5e0b52a6fac7073bb6d5ff73003aa38d35cf"
 
@@ -936,6 +952,22 @@ hash = "1f299da6075b8b87c77612cd9a22c6652f2c33737742709d5319ed887f5d291e"
 [[files]]
 file = "kubejs/data/breakingnewground/recipe/crafting/rebreather_module.json"
 hash = "a8dd4ec65bd2d168e3bb8e3fb0bf8d1a020dc9dc465424aa69df0d58cdbf0a24"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/redcoat_boots.json"
+hash = "554d2a4eb2f579d31bb2ff80ffd58c4f66fcd1ff0974e7f15aa3a09ff7910dd5"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/redcoat_coat.json"
+hash = "3507d906348cf6d18c0b82f1f7980a6bae24d477f32241971d2e24b498417bd7"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/redcoat_hat.json"
+hash = "3c21e9b8c38f8e4cb407305262ea7c5fabaf3a645412478f8d506a84a2602637"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/redcoat_pants.json"
+hash = "754e45c3acddefdf33a5f746cbf719d06921ed694e50241c848bbc9e6cc8fe88"
 
 [[files]]
 file = "kubejs/data/breakingnewground/recipe/crafting/saddle.json"
@@ -3471,7 +3503,7 @@ hash = "936fec40d959ebc62d90fd651d391b6ac713ba092083f04980354a74264bae4e"
 
 [[files]]
 file = "kubejs/data/shape_tweaks/shape_map/add.json"
-hash = "3612b931e7f1a1d9d4a35f99bf06736089c1bd40cd1fd4db8fc0ba1cfdfd523b"
+hash = "dff7f578fac4fb14a569ce7ac4d0d9a53945c14f021351bf29754fc3216bf4c1"
 
 [[files]]
 file = "kubejs/data/shape_tweaks/shape_map/remove.json"

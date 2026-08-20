@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "B": {
+      "item": "minecraft:black_wool"
+    }
+  },
+  "pattern": [
+    "B B",
+    "B B",
+    "L L"
+  ],
+  "result": {
+    "id": "scguns:redcoat_boots"
+  }
+}
