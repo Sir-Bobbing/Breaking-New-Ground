@@ -342,7 +342,7 @@ hash = "2fc8333ddc190d44d555f49da8857a5464d1b5fafe8844bb9a4b8f2688b9ab02"
 
 [[files]]
 file = "config/reliable_recipes/recipe_rules.json"
-hash = "1ad20a28e49d8b2dff7a0c06aae071b56b060f2eed8a0a93b7c016c6b08315f2"
+hash = "ae26fa0877c4b9415b00984af93cfabf20b630a784044206d4348571c689cb98"
 
 [[files]]
 file = "config/reliable_remover.json"
@@ -350,7 +350,7 @@ hash = "5b9399eea3ff127d808f4debfaf3eae7513817cd63b36225e550daf9f8054e88"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
-hash = "f5409c9bacd57d119404f964165cbdc3f992d95c5c35defd626c0746271ee2d2"
+hash = "a340757b79dc68a74f998595ff1982306a84ed10a1ed7f953d6afa6ea2ffb484"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -864,18 +864,6 @@ hash = "00f560b07ba9f6b9e5f9dfa7701b8e41175c8ca0662ec7a8fb52fd166f3d7226"
 [[files]]
 file = "kubejs/data/artifacts/neoforge/biome_modifier/add_campsite.json"
 hash = "b6dd47ba9b6c3dc0ea93f17e8dd84c7dba5ba678d5f2918580ca257db7d15680"
-
-[[files]]
-file = "kubejs/data/bagofholding/recipe/golden_bag_of_holding.json"
-hash = "c59ffe6a60f8bcb461d01e924bab65e83edd89cc3fe9ddfcb4a0f8faeb193ce8"
-
-[[files]]
-file = "kubejs/data/bagofholding/recipe/iron_bag_of_holding.json"
-hash = "951f69954461dd15f036a21e5a553632a864ba68ffdfd8e0635fb6d615ca8948"
-
-[[files]]
-file = "kubejs/data/bagofholding/recipe/leather_bag_of_holding.json"
-hash = "a1529847d7b5569eaa0ca1858ff6123aec44b24db17c25dc41857605eb0ce1d4"
 
 [[files]]
 file = "kubejs/data/bng_ore.zip"
@@ -1547,7 +1535,7 @@ hash = "7af9637213e5e47c0086b1ebab10c2653f8d3e564e954ad54f28be1c46824d79"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/capacitor.json"
-hash = "6fe0e17da3050c1a5d0dc55f2e5988e4cb218efcba9c24cd10469c1301e67f08"
+hash = "eef009fa8c007248c1cac2e794b97085607e607e37abe670f60aabac6edffb3b"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/haunted.json"
@@ -3837,11 +3825,6 @@ hash = "a14f245fbb84696e37a9388448f0b729023f64f2e8618159625dde7256759eee"
 metafile = true
 
 [[files]]
-file = "mods/bag-of-holding.pw.toml"
-hash = "c5446051515995f48a50c715058f4edd562b4a77d7ca89d1b6b8f0868fbef2c4"
-metafile = true
-
-[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "6d49e453fead55672e5acdbcdf2627f226f08500f86360f15084f287ff8184a5"
 metafile = true
@@ -4468,6 +4451,11 @@ metafile = true
 [[files]]
 file = "mods/reliable-advancements.pw.toml"
 hash = "7542c7eeb537c8b0b84c9af67813bad297770ee7e109915f16bcd5677fe646f7"
+metafile = true
+
+[[files]]
+file = "mods/reliable-backpacks.pw.toml"
+hash = "0c0e42ca8c15afef6150369b1adc06635ad5daffec34d21a28fbb3a22ae237dd"
 metafile = true
 
 [[files]]

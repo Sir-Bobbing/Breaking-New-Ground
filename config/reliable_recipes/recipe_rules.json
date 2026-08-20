@@ -12,6 +12,11 @@
   },
   {
     "action": "replace_input",
+    "target": "farmersdelight:rope",
+    "replacement": "#c:ropes"
+  },
+  {
+    "action": "replace_input",
     "target": "minecraft:slime_ball",
     "replacement": "#c:slime_balls"
   },
