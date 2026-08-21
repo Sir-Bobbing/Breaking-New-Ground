@@ -314,7 +314,7 @@ hash = "84ccea01cf443aec50e3ba787a2d6d865752e98e919f45512868a41861a56732"
 
 [[files]]
 file = "config/powergrid-server.toml"
-hash = "5cf5341c1980bf4349419121cd7c17238406c2cb90ba3050a71e5ca9549170cf"
+hash = "ebfd5a41c99a066c2dd26cf482731bf35223ce87121f5eb589f2ed6e13c8f309"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
@@ -1140,6 +1140,14 @@ hash = "355adde1e6c65825baec8c59c66428e0a2ad3a1f622e9bf2f62e07a66e879e08"
 [[files]]
 file = "kubejs/data/brewinandchewin/advancement/main/place_keg.json"
 hash = "8d320402cb93bb53fa7438e3e2159b471b43356aef8e6a79cee3a66c8751b9b4"
+
+[[files]]
+file = "kubejs/data/c/tags/block/ores.json"
+hash = "59633336c740c6f40b080b5b641edc36e8fb37d4c84f14f9843e4db3f05292c7"
+
+[[files]]
+file = "kubejs/data/c/tags/block/ores/weeping.json"
+hash = "59633336c740c6f40b080b5b641edc36e8fb37d4c84f14f9843e4db3f05292c7"
 
 [[files]]
 file = "kubejs/data/chunkloaders/recipe/advanced_chunk_loader.json"
@@ -3703,7 +3711,7 @@ hash = "3d04369a44dc75f6a70dfc51080beb357eb39b395a2db0b6557ce8b9900ceec4"
 
 [[files]]
 file = "kubejs/server_scripts/creature_conjuration.js"
-hash = "46bdc62295082c6994eaaba8be3b43475a686ac866fdde4913ebb6b703375fc1"
+hash = "06b904f7b05f6b2c8234ba5d9e6b8afe41b5ba79ffe0b412cb30ec2b8347fa31"
 
 [[files]]
 file = "kubejs/server_scripts/emi.js"
@@ -3743,7 +3751,7 @@ hash = "9a75b8dd95ef5b2dd64998a78ef9c621b0d8e5578c9fd3e3bc268b1853258ca9"
 
 [[files]]
 file = "kubejs/startup_scripts/scamppanzer_beacon.js"
-hash = "41555f87d4a7d034e029e19fd062e59917ca3f973b9f9dfb632b86019b1d5bc6"
+hash = "3519644a2dcad1a8823ef52071ceafc63677fa611fcdb5de8f089184efacffee"
 
 [[files]]
 file = "kubejs/startup_scripts/startup_item_tweaks.js"
