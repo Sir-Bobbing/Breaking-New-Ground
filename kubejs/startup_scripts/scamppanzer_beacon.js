@@ -183,11 +183,15 @@ StartupEvents.registry('item', event => {
   //arcaneBeacon.use((level) => {level.createEntity().saveWithoutId})
   arcaneBeacon.tooltip('§5§oInfused arcana subtly empowers the Scamppanzer...')
   arcaneBeacon.texture('scguns:item/beacon_grenade')
+  arcaneBeacon.displayName('Arcane Scamppanzer Transmitter')
+  arcaneBeacon.rarity("rare")
   registerUseLogic(arcaneBeacon, true)
 
   let beacon = event.create('scamppanzer_beacon')
   assignDefaultProperties(beacon)
   beacon.texture('scguns:item/cog_locator')
+  beacon.displayName('Scamppanzer Transmitter')
+  beacon.rarity("rare")
   registerUseLogic(beacon, false)
   
 })
