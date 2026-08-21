@@ -13,7 +13,6 @@
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) by shedaniel
 - [Armourer's Workshop](https://modrinth.com/mod/y4JF3gXL) by RiskyKen, SAGESSE
 - [Artifacts](https://modrinth.com/mod/P0Mu4wcQ) by ochotonida
-- [Bag Of Holding](https://modrinth.com/mod/qbqWvc0D) by Fuzs
 - [Barebones McQoy](https://modrinth.com/mod/tNmWwdI2) by Sisby folk\. Contributions by cassiancc\.
 - [Better Ping Display](https://modrinth.com/mod/ZvaHbwoZ) by Quintinity
 - [BetterDays](https://modrinth.com/mod/tPLE214j) by wendall911
@@ -135,6 +134,7 @@
 - [ReadyPlayerFun](https://modrinth.com/mod/AwiAYDUq) by wendall911
 - [Redomesticate](https://modrinth.com/mod/4QTKALKe) by Evan
 - [Reliable Advancements](https://modrinth.com/mod/xVwaUG1g) by Evan
+- [Reliable Backpacks](https://modrinth.com/mod/GVh7zzwG) by Spydnel, Evan
 - [Reliable Recipes](https://modrinth.com/mod/Hl4ARA1z) by Evan
 - [Reliable Remover](https://modrinth.com/mod/pLxsKvNt) by Evan
 - [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) by ThatGravyBoat, Epic\_Oreo

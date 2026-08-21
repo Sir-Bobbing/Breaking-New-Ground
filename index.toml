@@ -342,7 +342,7 @@ hash = "2fc8333ddc190d44d555f49da8857a5464d1b5fafe8844bb9a4b8f2688b9ab02"
 
 [[files]]
 file = "config/reliable_recipes/recipe_rules.json"
-hash = "1ad20a28e49d8b2dff7a0c06aae071b56b060f2eed8a0a93b7c016c6b08315f2"
+hash = "ae26fa0877c4b9415b00984af93cfabf20b630a784044206d4348571c689cb98"
 
 [[files]]
 file = "config/reliable_remover.json"
@@ -350,7 +350,7 @@ hash = "5b9399eea3ff127d808f4debfaf3eae7513817cd63b36225e550daf9f8054e88"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
-hash = "f5409c9bacd57d119404f964165cbdc3f992d95c5c35defd626c0746271ee2d2"
+hash = "a340757b79dc68a74f998595ff1982306a84ed10a1ed7f953d6afa6ea2ffb484"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -866,18 +866,6 @@ file = "kubejs/data/artifacts/neoforge/biome_modifier/add_campsite.json"
 hash = "b6dd47ba9b6c3dc0ea93f17e8dd84c7dba5ba678d5f2918580ca257db7d15680"
 
 [[files]]
-file = "kubejs/data/bagofholding/recipe/golden_bag_of_holding.json"
-hash = "c59ffe6a60f8bcb461d01e924bab65e83edd89cc3fe9ddfcb4a0f8faeb193ce8"
-
-[[files]]
-file = "kubejs/data/bagofholding/recipe/iron_bag_of_holding.json"
-hash = "951f69954461dd15f036a21e5a553632a864ba68ffdfd8e0635fb6d615ca8948"
-
-[[files]]
-file = "kubejs/data/bagofholding/recipe/leather_bag_of_holding.json"
-hash = "a1529847d7b5569eaa0ca1858ff6123aec44b24db17c25dc41857605eb0ce1d4"
-
-[[files]]
 file = "kubejs/data/bng_ore.zip"
 hash = "35e26bd609a0e090f9fc2f123b4b4ac982d72069c135dcc11e511daae9036242"
 
@@ -904,6 +892,22 @@ hash = "46577abfe051008371e420079547916729056771e68f3867f0bbc64ed3151498"
 [[files]]
 file = "kubejs/data/breakingnewground/recipe/crafting/andesite_alloy_from_copper.json"
 hash = "94c457be997a99c88502270b283f5e41fa18b13e3e12d1c2fae3325c3bf80c33"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/chainmail_boots.json"
+hash = "51ad9a5403c2113d4dc4953d6f17303dfaf28a24b69a749b784fa6b757299ca0"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/chainmail_chestplate.json"
+hash = "aa6e7620bf3e2a4494a9c87353a135b63b1f2ebcd806d9207fbb51e95bb69be4"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/chainmail_helmet.json"
+hash = "52b549d763e7f8fe95a78961d6cadd48a1154d251910af984109e7c943e691d8"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/chainmail_leggings.json"
+hash = "a7ed01a0b7bd4faa65ef487372a7cf53bb04c2ff6096492fb26313796b8999a9"
 
 [[files]]
 file = "kubejs/data/breakingnewground/recipe/crafting/deed_of_ownership.json"
@@ -936,6 +940,22 @@ hash = "1f299da6075b8b87c77612cd9a22c6652f2c33737742709d5319ed887f5d291e"
 [[files]]
 file = "kubejs/data/breakingnewground/recipe/crafting/rebreather_module.json"
 hash = "a8dd4ec65bd2d168e3bb8e3fb0bf8d1a020dc9dc465424aa69df0d58cdbf0a24"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/redcoat_boots.json"
+hash = "554d2a4eb2f579d31bb2ff80ffd58c4f66fcd1ff0974e7f15aa3a09ff7910dd5"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/redcoat_coat.json"
+hash = "3507d906348cf6d18c0b82f1f7980a6bae24d477f32241971d2e24b498417bd7"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/redcoat_hat.json"
+hash = "3c21e9b8c38f8e4cb407305262ea7c5fabaf3a645412478f8d506a84a2602637"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/redcoat_pants.json"
+hash = "754e45c3acddefdf33a5f746cbf719d06921ed694e50241c848bbc9e6cc8fe88"
 
 [[files]]
 file = "kubejs/data/breakingnewground/recipe/crafting/saddle.json"
@@ -1515,7 +1535,7 @@ hash = "7af9637213e5e47c0086b1ebab10c2653f8d3e564e954ad54f28be1c46824d79"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/capacitor.json"
-hash = "6fe0e17da3050c1a5d0dc55f2e5988e4cb218efcba9c24cd10469c1301e67f08"
+hash = "eef009fa8c007248c1cac2e794b97085607e607e37abe670f60aabac6edffb3b"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/haunted.json"
@@ -3471,11 +3491,11 @@ hash = "936fec40d959ebc62d90fd651d391b6ac713ba092083f04980354a74264bae4e"
 
 [[files]]
 file = "kubejs/data/shape_tweaks/shape_map/add.json"
-hash = "90b2221942fe022041e135f986551dd8d53357ea9b38dcc77bfe8dbd061f492d"
+hash = "dff7f578fac4fb14a569ce7ac4d0d9a53945c14f021351bf29754fc3216bf4c1"
 
 [[files]]
 file = "kubejs/data/shape_tweaks/shape_map/remove.json"
-hash = "16218add28f29cd1a69c41dc4ae625b05a6b88bf6bd4a68e5b087b0ec5ab9258"
+hash = "a96acc1f75226e0c78dc70d082acd014c74a3f563ffa080c191534e15983dc52"
 
 [[files]]
 file = "kubejs/data/simulated/end_sea/overworld.json"
@@ -3723,7 +3743,7 @@ hash = "9a75b8dd95ef5b2dd64998a78ef9c621b0d8e5578c9fd3e3bc268b1853258ca9"
 
 [[files]]
 file = "kubejs/startup_scripts/scamppanzer_beacon.js"
-hash = "13eeb76fc2672fcef927f7ccb020fe830b6ddbad1cd08f1b25a6f511d0dd93c4"
+hash = "41555f87d4a7d034e029e19fd062e59917ca3f973b9f9dfb632b86019b1d5bc6"
 
 [[files]]
 file = "kubejs/startup_scripts/startup_item_tweaks.js"
@@ -3802,11 +3822,6 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "a14f245fbb84696e37a9388448f0b729023f64f2e8618159625dde7256759eee"
-metafile = true
-
-[[files]]
-file = "mods/bag-of-holding.pw.toml"
-hash = "c5446051515995f48a50c715058f4edd562b4a77d7ca89d1b6b8f0868fbef2c4"
 metafile = true
 
 [[files]]
@@ -4436,6 +4451,11 @@ metafile = true
 [[files]]
 file = "mods/reliable-advancements.pw.toml"
 hash = "7542c7eeb537c8b0b84c9af67813bad297770ee7e109915f16bcd5677fe646f7"
+metafile = true
+
+[[files]]
+file = "mods/reliable-backpacks.pw.toml"
+hash = "0c0e42ca8c15afef6150369b1adc06635ad5daffec34d21a28fbb3a22ae237dd"
 metafile = true
 
 [[files]]
