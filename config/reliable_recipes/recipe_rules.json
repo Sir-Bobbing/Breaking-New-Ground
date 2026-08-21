@@ -95,12 +95,6 @@
       "scguns:powered_mech_press/powered_exo_suit_core"
     ]
   },
-// CBC
-  {
-    "action": "replace_input",
-    "target": "createbigcannons:nitropowder",
-    "replacement": "createbigcannons:packed_gunpowder"
-  },
 // TFMG
   {
     "action": "replace_input",

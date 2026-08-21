@@ -163,6 +163,9 @@
         ],
         "/architects_palette:(?<stem>.+?)_planks/": [
             "architects_palette:${stem}_vertical_slab"
+        ],
+        "handcrafted:hammer": [
+            "another_furniture:furniture_hammer"
         ]
   }
 }

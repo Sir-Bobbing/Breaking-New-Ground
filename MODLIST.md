@@ -118,9 +118,6 @@
 - [No Man's Land](https://modrinth.com/mod/kjZCvAn6) by Farcr, Tazer, and many Contributors
 - [NoExplodeItems](https://modrinth.com/mod/FnYjkHdc) by FifthTundraG
 - [Noisium](https://modrinth.com/mod/hasdd01q) by Steveplays28
-- [Not Enough Crashes](https://modrinth.com/mod/yM94ont6) by Fudge
-- [Not Enough Recipe Book](https://modrinth.com/mod/bQh7xzFq) by OctoStudios
-- [OctoLib](https://modrinth.com/mod/RH2KUdKJ) by OctoStudios
 - [Particle Mimicry](https://modrinth.com/mod/g8vF2B3R) by Mrbysco, ShyNieke
 - [Particle Rain](https://modrinth.com/mod/nrikgvxm) by pigcart
 - [Pehkui](https://modrinth.com/mod/t5W7Jfwy) by Virtuoel
@@ -159,7 +156,7 @@
 - [StepUp](https://modrinth.com/mod/NOxfLnRC) by NotTooManyItems, Giselbaer
 - [Stoat](https://modrinth.com/mod/fhMTnqBJ) by Bobisnotaperson
 - [Storage Labels](https://modrinth.com/mod/x6r7yhfi) by MehVahdJukaar, Plantkillable
-- [StreamsReflowing](https://modrinth.com/mod/oLS8HdJ1) by cbg\.john
+- [StreamsReflowing](https://modrinth.com/mod/oLS8HdJ1) by nicejohn
 - [Structurify](https://modrinth.com/mod/yz7AM2zx) by Faboslav
 - [Styled Nicknames](https://modrinth.com/mod/DOk6Gcdi) by Patbox
 - [SuperMartijn642's Config Library](https://modrinth.com/mod/LN9BxssP) by SuperMartijn642
@@ -170,7 +167,6 @@
 - [Ticks](https://modrinth.com/mod/X0B3FAp6) by vercim
 - [Tom's Simple Storage Mod](https://modrinth.com/mod/XZNI4Cpy) by tom5454
 - [Trading Post](https://modrinth.com/mod/8pcjMDgj) by Fuzs
-- [Underground Rivers](https://modrinth.com/mod/Y7J94SaP) by Apollo
 - [VS Hose Connectors](https://modrinth.com/mod/YaZEkFmd) by M\_K2525
 - [Vista](https://modrinth.com/mod/zuARv1N7) by MehVahdJukaar, Plantkillable
 - [Void Water](https://modrinth.com/mod/Oyt8TC1k) by NormallyNormal
