@@ -675,7 +675,7 @@ hash = "19882a938d7d742b543c52dfc256bdaf34460b3cbd60f8611c6645666a14edbe"
 
 [[files]]
 file = "kubejs/config/client.json"
-hash = "112e9a8c8e8082733196113c1d7d65cd9a6518888cf997a229f37862040b13ce"
+hash = "5304f711aad3e596bca9420012808fbf2bcee20f971f226d33ab0d2e880ae37c"
 
 [[files]]
 file = "kubejs/config/common.json"
@@ -4395,16 +4395,6 @@ metafile = true
 [[files]]
 file = "mods/noisiumforked.pw.toml"
 hash = "a92097d7a2743abeb37669cedee7efd91854a1aae045f1be7b2f83c347def454"
-metafile = true
-
-[[files]]
-file = "mods/notenoughrecipebook.pw.toml"
-hash = "8dc52c2517aa437dec2e4edf90e90b96df5d2d486083f1ccb8ed753e1ac2ac8d"
-metafile = true
-
-[[files]]
-file = "mods/octo-lib.pw.toml"
-hash = "ba8a8ac1bfa36486c89f0c099bb46b26337c79682a75944b1417d28cbd131d1a"
 metafile = true
 
 [[files]]
