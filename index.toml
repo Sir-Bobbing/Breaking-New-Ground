@@ -157,6 +157,10 @@ file = "config/dimthread-common.toml"
 hash = "d54a316dda5a1955935e6c6d99626288b479884869e45887e0a6eb80c9c16ccc"
 
 [[files]]
+file = "config/ding.toml"
+hash = "86d07de6c8412bde36fa18bb4946726edade7defd1f9505e9475f0b9e8028228"
+
+[[files]]
 file = "config/dndecor-server.toml"
 hash = "712d07cd68e9abfea7d7be0f92ab355da6f21dc669d96c27e20b4352b0888132"
 
@@ -399,6 +403,10 @@ hash = "64e5e385a9220317b769904615af9d6fc7b952c5831cca6eef6672b6b50c6753"
 [[files]]
 file = "config/streamsreflowing-client.toml"
 hash = "8babc8d0c8464e529ded796a3b7e9d502f306be1f402c736786fe8b14071507e"
+
+[[files]]
+file = "config/streamsreflowing-common.toml"
+hash = "24afb49ff0ee7fed062cec3ee665ff115c16e70b176ee64d7abaa146ceee32d7"
 
 [[files]]
 file = "config/structurify.json"
@@ -876,6 +884,18 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "kubejs/data/breakingnewground/function/tick.mcfunction"
 hash = "c64964042cc2d15c3e50a95f6347004e8a0df95eb5c71f1d36265c2466330eba"
+
+[[files]]
+file = "kubejs/data/breakingnewground/neoforge/biome_modifier/deep_cold_ocean/remove_features.json"
+hash = "7cefdd1a15546329436d3b718723bb0ed715210fe90e3e736b974df67d3a3210"
+
+[[files]]
+file = "kubejs/data/breakingnewground/neoforge/biome_modifier/deep_lukewarm_ocean/remove_features.json"
+hash = "5658bc93a237533954f4146681adff25573bc90ce06e141780a76b39e46d30ba"
+
+[[files]]
+file = "kubejs/data/breakingnewground/neoforge/biome_modifier/deep_ocean/remove_features.json"
+hash = "3a626998390fe41a31773fbf23ebd1e686eccca081f995b67599d6971dbd6554"
 
 [[files]]
 file = "kubejs/data/breakingnewground/predicate/nether_to_over.json"
@@ -3929,7 +3949,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "d503dd6710c9dc28f8fa634e28ed2ab76391121fcf936f03064254376525bbde"
+hash = "983bbdada7f247d4cb72762225b8250150b568f1a0fbe39f67aeba61a97abf5d"
 metafile = true
 
 [[files]]
@@ -4129,7 +4149,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "e95c9cfc26600c9e1cf66409c3c9198cdb9e49be257219a21bc37ef85b9b5ca9"
+hash = "8017c15797347b2d26ba38edd98a57e0312e6974ec14cf69f71545eb711c6888"
 metafile = true
 
 [[files]]
@@ -4329,7 +4349,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "4fe997f221354c3f180dbf7c002ab1fffda4200a1231eb0a3bc0202aa7062ce6"
+hash = "9059c65c4252fcc02f6f51661c49722c479d45edba32644b3374546c3dcf10f7"
 metafile = true
 
 [[files]]
@@ -4375,11 +4395,6 @@ metafile = true
 [[files]]
 file = "mods/noisiumforked.pw.toml"
 hash = "a92097d7a2743abeb37669cedee7efd91854a1aae045f1be7b2f83c347def454"
-metafile = true
-
-[[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "a2e9eb49d44ae59d13ec7bd75eb43d66da4a4654b9631f693dafd792d65e4bc4"
 metafile = true
 
 [[files]]
@@ -4458,7 +4473,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-advancements.pw.toml"
-hash = "7542c7eeb537c8b0b84c9af67813bad297770ee7e109915f16bcd5677fe646f7"
+hash = "655d3f2478b21b4422a8c3fb61de96bcb1c757a818709b87aeb0b232be2d3b23"
 metafile = true
 
 [[files]]
@@ -4588,7 +4603,7 @@ metafile = true
 
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
-hash = "fe7ebd6b28b3c08538f53afba3198d978a54ef8afbed3ebe355cade1750918b6"
+hash = "adf1749d1f1f77282b4b89b14f1442732bdb7f7670e4b068f6a462ce1d48f392"
 metafile = true
 
 [[files]]
@@ -4644,11 +4659,6 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "a9990c1e4ae5c5e63f3f7f64d57329f9cb8773a9bfb8283bd90d77866de4a99f"
-metafile = true
-
-[[files]]
-file = "mods/underground-rivers.pw.toml"
-hash = "b91dd48618c5448f06ccc140f585b71925fea4d50c3b1fde0dfc549f5ae82ad7"
 metafile = true
 
 [[files]]
