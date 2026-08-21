@@ -106,7 +106,7 @@ ServerEvents.recipes(event => {
                             "malum:geas_soul_info": {
                                 "geasEffects": [
                                     "malum:pact_of_the_berserker",
-                                    "malum:pact_of_patience_repaid",
+                                    "malum:pact_of_patience_repaid"
                                 ]
                             }
                         },
@@ -133,7 +133,7 @@ ServerEvents.recipes(event => {
                 }
             ],
             "hostile":true
-        },
+        }
     }
 
     function spiritCount(info, spirits) {

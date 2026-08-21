@@ -12,6 +12,8 @@ StartupEvents.registry('item', event => {
   defaultTag.putInt("kubejs:scamppanzer_beacon_y", 0)
   defaultTag.putInt("kubejs:scamppanzer_beacon_z", 0)
 
+  let defaultScampData = `{CustomName:'[{"text":"Arcane Scamppanzer","italic":true}]',"attributes":[{"id":"malum:healing_received","base":4}],"active_effects":[{"amplifier":0,"id": "minecraft:resistance","duration":-1,"show_icon":0}],"neoforge:attachments":{"malum:geas_soul_info":{"geasEffects":["malum:pact_of_the_lifeweaver"]}}}`
+
   function assignDefaultProperties(item) {
     item.tooltip('§7Charge near an active beacon to summon the Scamppanzer.')
     .tooltip('§7Requires sufficient clearance to spawn.')
@@ -62,7 +64,7 @@ StartupEvents.registry('item', event => {
 
   function locateBeacon(level, pos) {
     let beacon = null
-    searchArea(level, pos, 5, function(block) {
+    searchArea(level, pos, 10, function(block) {
       if (validateBeacon(block)) {
         beacon = block
         return true
@@ -81,7 +83,25 @@ StartupEvents.registry('item', event => {
     return true
   }
 
+  function positionString( pos ) {
+    return pos.x + ' ' + pos.y + ' ' + pos.z
+}
+
+  function summonScamppanzer(level, bpos, arcane) {
+    console.info('summon scguns:scamp_tank '+positionString(bpos)+(arcane ? ' ' + defaultScampData : ''))
+    level.runCommandSilent('summon scguns:scamp_tank '+positionString(bpos)+(arcane ? ' ' + defaultScampData : ''))
+  }
+
+  function failSummon(reason, level, entity, arcane, itemstack) {
+    failSound(level, entity, arcane)
+    cooldown(entity, 20)
+    entity.tell(Text.darkPurple(reason).italic())
+    $CustomData.set($DataComponents.CUSTOM_DATA, itemstack, defaultTag.copy())
+    return itemstack
+  }
+
   function finishUsingLogic(itemstack, level, entity, arcane) {
+    const effects = entity.potionEffects
     let data = itemstack.has($DataComponents.CUSTOM_DATA) ? itemstack.get($DataComponents.CUSTOM_DATA).copyTag() : defaultTag.copy()
     let charge = data.getInt("kubejs:scamppanzer_beacon_charge") + 1
     data.putInt("kubejs:scamppanzer_beacon_charge", charge)
@@ -94,34 +114,36 @@ StartupEvents.registry('item', event => {
         data.putInt("kubejs:scamppanzer_beacon_z",beacon.z)
       }
       else {
-        failSound(level, entity, arcane)
-        cooldown(entity, 20)
-        $CustomData.set($DataComponents.CUSTOM_DATA, itemstack, defaultTag.copy())
-        return itemstack
+        return failSummon("There is no powered beacon nearby...",level,entity,arcane,itemstack)
       }
     }
 
     let pos = new BlockPos(data.getInt("kubejs:scamppanzer_beacon_x"),data.getInt("kubejs:scamppanzer_beacon_y"),data.getInt("kubejs:scamppanzer_beacon_z"))
-    if (pos.distSqr(entity.blockPosition()) > 100) {
-      failSound(level, entity, arcane)
-      cooldown(entity, 20)
-      $CustomData.set($DataComponents.CUSTOM_DATA, itemstack, defaultTag.copy())
-      return itemstack
+    let dist = pos.distSqr(entity.blockPosition())
+    if (dist > 225) {
+      return failSummon("You are too far from the beacon...",level,entity,arcane,itemstack)
+    }
+
+    if (dist < 36) {
+      return failSummon("You are too close to the beacon...",level,entity,arcane,itemstack)
     }
 
     if (!validateBeacon(level.getBlock(pos))) {
-      failSound(level, entity, arcane)
-      cooldown(entity, 20)
-      $CustomData.set($DataComponents.CUSTOM_DATA, itemstack, defaultTag.copy())
-      return itemstack
+      return failSummon("There is no powered beacon nearby...",level,entity,arcane,itemstack)
+    }
+
+    if (searchArea(level, pos.offset(0, 4, 0), 3, function(bp) {
+      return level.getBlock(bp).id != "minecraft:air"
+    })) {
+      return failSummon("There is not enough open air around the beacon...",level,entity,arcane,itemstack)
     }
 
     if (charge == 3 || charge == 4) {
-      const effects = entity.potionEffects
-      effects.add("minecraft:levitation", 40)
+      effects.add("minecraft:levitation", 40, 0, true, false)
     }
 
     if (charge >= 5) {
+      summonScamppanzer(level, pos.offset(0, 1, 0), arcane)
       finishSound(level, entity)
       itemstack.shrink(1)
     }
@@ -129,9 +151,11 @@ StartupEvents.registry('item', event => {
       chargeSound(level, entity, arcane, charge)
     }
 
+    console.info("RUN HERE")
+
     $CustomData.set($DataComponents.CUSTOM_DATA, itemstack, data)
     return itemstack
-  }
+  } 
 
   function releaseUsingLogic(itemstack, level, entity, tick, arcane) {
     failSound(level, entity, arcane)
@@ -141,20 +165,22 @@ StartupEvents.registry('item', event => {
 
   function registerUseLogic(itembuilder, arcane) {
     itembuilder.use((level, player, hand) => {
+      if (level.isClientSide()) {return false}
       return useLogic(level, player, hand, arcane)
     })
     .finishUsing((itemstack, level, entity) => {
+      if (level.isClientSide()) {return itemstack}
       return finishUsingLogic( itemstack, level, entity, arcane )
     })
     .releaseUsing((itemstack, level, entity, tick) => {
+      if (level.isClientSide()) {return}
       return releaseUsingLogic( itemstack, level, entity, tick, arcane )
     })
   }
 
   let arcaneBeacon = event.create('arcane_scamppanzer_beacon')
-  //.use((level, player, hand) => {
-  //})
   assignDefaultProperties(arcaneBeacon)
+  //arcaneBeacon.use((level) => {level.createEntity().saveWithoutId})
   arcaneBeacon.tooltip('§5§oInfused arcana subtly empowers the Scamppanzer...')
   arcaneBeacon.texture('scguns:item/beacon_grenade')
   registerUseLogic(arcaneBeacon, true)
