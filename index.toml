@@ -150,7 +150,7 @@ hash = "d8088bd461dd7666552c4174bac6549e55112728e07aa3addd0e32a805c230fc"
 
 [[files]]
 file = "config/ding.toml"
-hash = "86d07de6c8412bde36fa18bb4946726edade7defd1f9505e9475f0b9e8028228"
+hash = "e8256181f8df08a3763a52aff327278e168402cce131da9cf289a4dfe8e70ab0"
 
 [[files]]
 file = "config/easyanvils-common.toml"
@@ -366,7 +366,7 @@ hash = "24afb49ff0ee7fed062cec3ee665ff115c16e70b176ee64d7abaa146ceee32d7"
 
 [[files]]
 file = "config/structurify.json"
-hash = "af4a348f2bbeffc4dbd923ec89c6d57d987e12f1e6ee0c11ddeee23e2d24a69d"
+hash = "09e4e9fb8d391c0ce616ebf3f30c43564c508d489f6fa11c99f28922c3e6be9d"
 
 [[files]]
 file = "config/styled-nicknames.json"
@@ -494,7 +494,7 @@ hash = "ecd2b2cae57c5e34a532751d50c586491826a992af9eb2ac446504b966a29040"
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
-hash = "17d13f3f99ca44718b26fff25078e7f3abc4f430b1dcfc6940615d352c900e7b"
+hash = "cbc2d19d9b85d8017382bcfe8b6494390599858e248e1866394fdd47c4dd60da"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
@@ -4220,11 +4220,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "00f847512616fbbf5e7d56ba2ac0ac3f0ecd1ad3e9ed27bcaafe0a79eb1010f2"
-metafile = true
-
-[[files]]
-file = "mods/incremental-mining.pw.toml"
-hash = "bb42921ae77f47f5eaf5aecdf2d64ee33c60f3090e9586cebf37d35d18dea969"
 metafile = true
 
 [[files]]

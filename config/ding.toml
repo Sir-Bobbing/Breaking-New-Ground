@@ -9,7 +9,7 @@
 	#EG: modname:modsound.boing
 	#
 	#If you want to use external sounds, consider looking into the mods that add resources
-	name = "exposure:misc.bsod"
+	name = "minecraft:block.vault.activate"
 	#Volume of the volume (when Minecraft loads)
 	# Default: 0.25
 	# Range: 0.0 ~ 10.0
