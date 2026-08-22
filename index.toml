@@ -81,6 +81,10 @@ file = "config/blueprint-common.toml"
 hash = "fd498503a74d6c82561869da4e86d8fb886dc2ac182a2086886314aca26bb7be"
 
 [[files]]
+file = "config/caelum-client.toml"
+hash = "3986996799bcb156e9fefb25ec31ce9497ae5eec98109672dcde58af97c97a26"
+
+[[files]]
 file = "config/combatnouveau-client.toml"
 hash = "d8bddc364abcee6b260746e0e2b841cca6be31696dc6f42ca3747fa0682e8952"
 
@@ -462,7 +466,7 @@ hash = "c055b10298d42f86453486a07f83c83f75346f578fd4c5140703d1a9399d968c"
 
 [[files]]
 file = "kubejs/assets/malum/lang/en_us.json"
-hash = "7aa60be51cdee8deef9a0b81ffeaccd6d4edbb3b8499fe79352fb5c10e97781a"
+hash = "7c314b8c6c78746c4e51986e8c614501df9c42edc57bcb19ff7a48df59d5bd09"
 
 [[files]]
 file = "kubejs/assets/malum/sounds/totem/spark/spark_direct1.ogg"
@@ -1092,6 +1096,10 @@ hash = "e0a13e5250a8981c2baac9ac8eaeb962223fc6a52187180cc5486ec03dc0dca4"
 [[files]]
 file = "kubejs/data/breakingnewground/tags/worldgen/biome/has_cog_chambers.json"
 hash = "1fef1473e8cedb1c11a3c6d5d046194b73d024fa7aff87b29237b452df80080e"
+
+[[files]]
+file = "kubejs/data/breakingnewground/tags/worldgen/biome/has_hotsprings.json"
+hash = "55e559ef264869440e5ac14d11a663c42902de26abed50f3d667a577ca792aa4"
 
 [[files]]
 file = "kubejs/data/breakingnewground/tags/worldgen/biome/has_kobold_dens.json"
@@ -3514,6 +3522,10 @@ file = "kubejs/data/spelunkery/advancement/spelunkery/true_north.json"
 hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
 
 [[files]]
+file = "kubejs/data/spelunkery/neoforge/biome_modifier/add_hot_springs.json"
+hash = "09181a4730d68f81f63518e0d558775c4fb487663ba94f9ca5add62fcb647d8c"
+
+[[files]]
 file = "kubejs/data/spelunkery/neoforge/biome_modifier/add_nephrite_geodes.json"
 hash = "cd8bb1c962a0700cdc57ee9fd5e2c466a6c8e3560abcdf91c892355029191d94"
 
@@ -3544,6 +3556,10 @@ hash = "719e97194deeb8d9c428924ed4ba01438daccb3fe0f70b611a1b4efc05d7fd30"
 [[files]]
 file = "kubejs/data/spelunkery/worldgen/placed_feature/nephrite_geode.json"
 hash = "110ac986743697ce8b4e4cc14fd599ff8779438192aa79952f50741e623aedb1"
+
+[[files]]
+file = "kubejs/data/spelunkery/worldgen/placed_feature/spring_water_pool.json"
+hash = "175a557b0c6faf9e2e66799c4b8c93a42da2f97c580d9e50cdb7d376393e4555"
 
 [[files]]
 file = "kubejs/data/stoat/tags/block/rubbery.json"
@@ -3859,6 +3875,11 @@ metafile = true
 [[files]]
 file = "mods/bundle-scroll.pw.toml"
 hash = "df06befb67c03635147d9650faa83dd15eb1773fbe89f06e7f8a16b38b5f8089"
+metafile = true
+
+[[files]]
+file = "mods/caelum.pw.toml"
+hash = "019585282e341f5758b979794582f8787727dabba8cda17a37707f35f817ac4b"
 metafile = true
 
 [[files]]
