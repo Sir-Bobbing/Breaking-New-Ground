@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "6f29ae5dcea01485ff5a71c1cc2988ca7eb0c76878f327ba558df8d25181029d"
+hash = "6539a4fe3519e7f557e33bd000f41185bb2fd37a10894dfa262c4260029419f7"
 
 [[files]]
 file = "config/aeronautics-server.toml"
@@ -119,6 +119,10 @@ hash = "98abc386a142611a852bb7f7166777b195ecc35f0be48b2287d257efccbe004c"
 [[files]]
 file = "config/cosmeticarmorreworked-common.toml"
 hash = "d7922ae120ea9aab0b43eb76ed814ac69b567e8332539e224792be5335a4b650"
+
+[[files]]
+file = "config/cpm-server-default.json"
+hash = "eadaf30f25de518803a36052782dfce17fe91496f1f3cfad4d20e2959dbbdf6f"
 
 [[files]]
 file = "config/create-client.toml"
@@ -257,14 +261,6 @@ file = "config/nomansland-startup.toml"
 hash = "1782991af7ebd64c1f9e2b308e0c39b41a00f22b7d395b2a872deb54f73cf5b7"
 
 [[files]]
-file = "config/particlerain/config.json"
-hash = "bd8abf7000e1cd681b090d8425b808f196297b6af473826405321d037e6fdd3a"
-
-[[files]]
-file = "config/particlerain/particles.json"
-hash = "6073e4ccdf51cebfb0c911bae2700771dc04a213cf3e180b7076de1655b493c9"
-
-[[files]]
 file = "config/personality-client.toml"
 hash = "dff5d7af96730f2054dab42d85b360298c335dd1da379477c86a8ecfb8f36082"
 
@@ -310,7 +306,7 @@ hash = "30f32069e04a0885e75a581e54f0f2368f4d55f2d2439f3b744ac40ab8c80031"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
-hash = "b2edf970ef1ecd86c1af8d9b746624fd97430f44bc438a3913245d677398a3d5"
+hash = "9b13f1ca5d16695226fe8a4fb0c40d0bfe1e43a380441ed6d4b28c986181d844"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -326,7 +322,7 @@ hash = "95cece7299e0bb26e1c1f7132fff6c0ed9e8d415e97a7d38879fe44b6d1bf106"
 
 [[files]]
 file = "config/scguns-common.toml"
-hash = "a110347e7653d32d754c6b4405a3354f3c2dfd720b257c1c684ad7afd206a8f1"
+hash = "203f5efb2d6cae05126d37afcf9a739f4ae679a30ba2771801c592c3d78e334b"
 
 [[files]]
 file = "config/scguns-server.toml"
@@ -490,7 +486,7 @@ hash = "ecd2b2cae57c5e34a532751d50c586491826a992af9eb2ac446504b966a29040"
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
-hash = "cbc2d19d9b85d8017382bcfe8b6494390599858e248e1866394fdd47c4dd60da"
+hash = "d895c999eab1d8df2ad5641d67fcf940207f2f536aa3ecb51576044e64a6e0d9"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
@@ -1082,18 +1078,6 @@ file = "kubejs/data/breakingnewground/recipe/spirit_transmutation/salt/sulfur_fr
 hash = "3c5b7ebd1db02c04dd2f8922b2c08121010c3d266aff5a17034b7eaf512d046c"
 
 [[files]]
-file = "kubejs/data/breakingnewground/tags/item/arcane_spirit_catalyst.json"
-hash = "5cdf5fa198fa4869094382995d78a405c19cd1e6445be667d0777d8ddccc3266"
-
-[[files]]
-file = "kubejs/data/breakingnewground/tags/item/sacred_spirit_catalyst.json"
-hash = "c165d82db5c20d6adbbe18f1feee0ad62240b418d395af2817f8027faf6ddf69"
-
-[[files]]
-file = "kubejs/data/breakingnewground/tags/item/wicked_spirit_catalyst.json"
-hash = "e0a13e5250a8981c2baac9ac8eaeb962223fc6a52187180cc5486ec03dc0dca4"
-
-[[files]]
 file = "kubejs/data/breakingnewground/tags/worldgen/biome/has_cog_chambers.json"
 hash = "1fef1473e8cedb1c11a3c6d5d046194b73d024fa7aff87b29237b452df80080e"
 
@@ -1120,14 +1104,6 @@ hash = "355adde1e6c65825baec8c59c66428e0a2ad3a1f622e9bf2f62e07a66e879e08"
 [[files]]
 file = "kubejs/data/brewinandchewin/advancement/main/place_keg.json"
 hash = "8d320402cb93bb53fa7438e3e2159b471b43356aef8e6a79cee3a66c8751b9b4"
-
-[[files]]
-file = "kubejs/data/c/tags/block/ores.json"
-hash = "59633336c740c6f40b080b5b641edc36e8fb37d4c84f14f9843e4db3f05292c7"
-
-[[files]]
-file = "kubejs/data/c/tags/block/ores/weeping.json"
-hash = "59633336c740c6f40b080b5b641edc36e8fb37d4c84f14f9843e4db3f05292c7"
 
 [[files]]
 file = "kubejs/data/chunkloaders/recipe/advanced_chunk_loader.json"
@@ -2683,7 +2659,7 @@ hash = "366fa3c150b52629d2b76088a9d1110edced76aacfa4127c77a3cdac87dcacb6"
 
 [[files]]
 file = "kubejs/data/malum/recipe/spirit_infusion/complete_design.json"
-hash = "3e282979118a857441bdf59afe428b6ec5579b8de3a7bd08ea4ba20eec785d05"
+hash = "919df1f96787b4b7d1aa2e3788ea556ea79e1b8724c297d78e543d24ea09f650"
 
 [[files]]
 file = "kubejs/data/malum/recipe/spirit_infusion/malignant_pewter_ingot.json"
@@ -2794,10 +2770,6 @@ file = "kubejs/data/malum/recipe/void_favor/mnemonic_fragment_from_cluster.json"
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
 
 [[files]]
-file = "kubejs/data/malum/tags/item/soul_shatter_capable_weapon.json"
-hash = "7aa69dcfe0d855545840406790b08cfda7e61be1a76ac9f2b3ec8bbc9bfbbc54"
-
-[[files]]
 file = "kubejs/data/malum/worldgen/placed_feature/azure_runewood_tree.json"
 hash = "79efd8392f4bf89ddd21bf7361f6d60308d113a780901e8dfbccbb0cd2a055c0"
 
@@ -2886,24 +2858,12 @@ file = "kubejs/data/minecraft/recipe/bamboo_mosaic.json"
 hash = "5b05190e006e6bb4eb517876ec35357c3a5c26b08b09f921d6765dfa64450398"
 
 [[files]]
-file = "kubejs/data/minecraft/tags/block/enderman_holdable.json"
-hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
-
-[[files]]
-file = "kubejs/data/minecraft/tags/block/logs.json"
-hash = "abf2fef6ec7bd29bc28ec6dc0b3fbc0f7df6e103015eea01e081653f6421c48a"
-
-[[files]]
 file = "kubejs/data/minecraft/tags/function/load.json"
 hash = "1bd03f22385a82e75798c4999d0a7015ab5d4f4c68e47792c58ff4c34b0899fe"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/function/tick.json"
 hash = "c5a4c1c3e987e568202070faa69b5951d1259021bf2065edab2e6b31c33f4856"
-
-[[files]]
-file = "kubejs/data/minecraft/tags/painting_variant/placeable.json"
-hash = "90e97aaa925e305e611ec7276106f171fe00d8cdb4467bfd4d0eeeee2082de7e"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_desert.json"
@@ -2966,10 +2926,6 @@ file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gravel.json"
 hash = "dc299db28d6473efb88c511b61fd4960a2fb9f7ed082066029265f120246bec3"
 
 [[files]]
-file = "kubejs/data/neoforge/tags/item/enchanting_fuels.json"
-hash = "f62b11eeb3402e1639b038209916069f0dd3091a38e8f764f91c16a448bc4aaa"
-
-[[files]]
 file = "kubejs/data/nomansland/recipe/pebbles.json"
 hash = "1bd9fe4dbc0c84563cb1bc8af62a45595aa53343e8c75d95b3594b87bc68ee39"
 
@@ -2988,10 +2944,6 @@ hash = "b29aa9037227b339b84481a9ad423f7cc59e5eecce628b5336c75f345878be94"
 [[files]]
 file = "kubejs/data/nova_structures/advancement/root.json"
 hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
-
-[[files]]
-file = "kubejs/data/particlemimicry/recipe/particle_emitter.json"
-hash = "a1f3df7036e96ef96db7fa8a1cfefaff1b7cc945b746b2b7fd95d862509be8ab"
 
 [[files]]
 file = "kubejs/data/powergrid/advancement/acid.json"
@@ -3450,22 +3402,6 @@ file = "kubejs/data/scguns/structure/osgood_lab.nbt"
 hash = "487300d336cb223037383d13891e20bf8c6a47a715ccad54e7d06245f4ff86a5"
 
 [[files]]
-file = "kubejs/data/scguns/tags/item/advanced_bullet_material.json"
-hash = "4f7edf4e8597725cb14c82aaf7e3e3d39424d565dc5b67429882ba8e4c08c7a5"
-
-[[files]]
-file = "kubejs/data/scguns/tags/item/advanced_bullet_tips.json"
-hash = "881ba387a376aa4f95e3502c99f2e0ca0d4422466703fe063b2dc758a78639ac"
-
-[[files]]
-file = "kubejs/data/scguns/tags/item/stan_bullet_tips.json"
-hash = "5dd34c63a83197fb2985bf53c37b2efb9a1d446fd22d2e5fc2412d2d7b42dff6"
-
-[[files]]
-file = "kubejs/data/scguns/tags/item/standard_bullet_material.json"
-hash = "4ea35b8a3e88db414d5380051232c61971e48b91408eb1c6951b992708462335"
-
-[[files]]
 file = "kubejs/data/scguns/vents/geothermal_vent.json"
 hash = "cffec8072bc7812dbc08c7a25ca2eadcda7868d4e2d7c7ecc9e88065faff1588"
 
@@ -3560,10 +3496,6 @@ hash = "110ac986743697ce8b4e4cc14fd599ff8779438192aa79952f50741e623aedb1"
 [[files]]
 file = "kubejs/data/spelunkery/worldgen/placed_feature/spring_water_pool.json"
 hash = "175a557b0c6faf9e2e66799c4b8c93a42da2f97c580d9e50cdb7d376393e4555"
-
-[[files]]
-file = "kubejs/data/stoat/tags/block/rubbery.json"
-hash = "6ed215aa075f34bbbab0b6b678d90cfc3ec1ab7fd506ea77c4b24ebe73809a61"
 
 [[files]]
 file = "kubejs/data/supplementaries/recipe/flower_box.json"
@@ -3731,7 +3663,7 @@ hash = "f2432b2ae1d81e8ad2008b3c9f7a93eefc9942c0ec2389433f32e7e6190cdcbf"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "5a56b33b060e0d233f75a872a06cae8a66ac23ae670494bbb10dacf45ffbe750"
+hash = "2b2d923cc4a1123b56a92197c4c5749183ba5e750efea0b854542d4e5d250f32"
 
 [[files]]
 file = "kubejs/startup_scripts/block_modification.js"
@@ -4375,11 +4307,6 @@ metafile = true
 [[files]]
 file = "mods/noisiumforked.pw.toml"
 hash = "a92097d7a2743abeb37669cedee7efd91854a1aae045f1be7b2f83c347def454"
-metafile = true
-
-[[files]]
-file = "mods/particle-mimicry.pw.toml"
-hash = "350fa3219381414c0e256a308946bad2dd21507499374e7200fd6ddfbf4b6b62"
 metafile = true
 
 [[files]]

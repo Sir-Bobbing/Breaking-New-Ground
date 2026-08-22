@@ -26,6 +26,29 @@ ServerEvents.tags('item', event => {
 // Bookshelf
     event.add('minecraft:bookshelf_books', 'guideme:guide')
 
+// Malum Soul Shattering
+    event.add('malum:soul_shatter_capable_weapon', '#scguns:deep_dark_gun_tier')
+
+// Enchanting Fuel
+    event.add('neoforge:enchanting_fuels', 'tfmg:copper_sulfate')
+
+// Spirit Catalysts
+    event.add('breakingnewground:wicked_spirit_catalyst', 'minecraft:flint')
+    event.add('breakingnewground:wicked_spirit_catalyst', 'tfmg:copper_sulfate')
+    event.add('breakingnewground:sacred_spirit_catalyst', 'minecraft:quartz')
+    event.add('breakingnewground:sacred_spirit_catalyst', 'tfmg:copper_sulfate')
+    event.add('breakingnewground:arcane_spirit_catalyst', 'minecraft:amethyst_shard')
+    event.add('breakingnewground:arcane_spirit_catalyst', 'tfmg:copper_sulfate')
+
+// Scorched Guns Bullet Materials
+    event.add('scguns:advanced_bullet_material', 'scguns:treated_iron_ingot')
+    event.add('scguns:advanced_bullet_material', '#c:ingots/steel')
+    event.add('scguns:advanced_bullet_tips', 'scguns:hardened_bullet')
+    event.add('scguns:advanced_bullet_tips', 'scguns:treated_iron_ingot')
+    event.add('scguns:advanced_bullet_tips', '#c:nuggets/steel')
+    event.add('scguns:stan_bullet_tips', '#c:nuggets/lead')
+    event.add('scguns:stan_bullet_tips', 'scguns:standard_bullet')
+    event.add('scguns:standard_bullet_material', '#c:ingots/lead')
 })
 
 ServerEvents.tags('fluid', event => {
@@ -34,6 +57,29 @@ ServerEvents.tags('fluid', event => {
 })
 
     ServerEvents.tags('block', event => {
+// Weeping
+        event.add('c:ores', 'malum:primordial_soup')
+        event.add('c:ores/weeping', 'malum:primordial_soup')
+
+// Rubbery
+        event.add('stoat:rubbery', 'tfmg:asphalt')
+        event.add('stoat:rubbery', 'tfmg:asphalt_slab')
+        event.add('stoat:rubbery', 'tfmg:asphalt_stairs')
+        event.add('stoat:rubbery', 'clutternomore:tfmg/vertical_asphalt_slab')
+        event.add('stoat:rubbery', 'clutternomore:tfmg/asphalt_step')
+
+// Enderman pickup blacklist
+    event.removeAll('minecraft:enderman_holdable')
+
+// Chisel Tags
+    event.add('spelunkery:chisel_immune', 'nomansland:moon_carving')
+    event.remove('spelunkery:chisel_immune', 'minecraft:budding_amethyst')
+
+// Logs
+    event.add('minecraft:logs', 'malum:runewood_log')
+    event.add('minecraft:logs', 'malum:runewood')
+    event.add('minecraft:logs', 'malum:exposed_runewood_log')
+    event.add('minecraft:logs', 'malum:revealed_runewood_log')
 
 // Molten Metals
     event.add('kubejs:molten_metals', 'kubejs:molten_iron')
@@ -47,7 +93,8 @@ ServerEvents.tags('fluid', event => {
 // Carver Tweaks
     event.remove('minecraft:overworld_carver_replaceables', 'minecraft:obsidian')
     event.remove('minecraft:overworld_carver_replaceables', 'minecraft:crying_obsidian')
-    // No Spring Break
+
+// No Spring Break
     event.remove('spelunkery:spring_geyser_breakable', '#minecraft:overworld_carver_replaceables')
     event.remove('spelunkery:spring_geyser_breakable', 'spelunkery:rock_salt_block')
     event.remove('spelunkery:spring_geyser_breakable', '#minecraft:snow')
@@ -96,8 +143,13 @@ ServerEvents.tags('fluid', event => {
     event.add('create:wrench_pickup', 'toms_storage:basic_inventory_hopper')
     event.add('create:wrench_pickup', 'toms_storage:open_crate')
     event.add('create:wrench_pickup', 'toms_storage:filing_cabinet')
+
     // Fix break
     event.remove('minecraft:mineable/pickaxe', 'drivebysable:advanced_cable_hub')
+
+    // Lootr Blacklist
+    event.removeAll('lootr:convert/sands')
+    event.removeAll('lootr:convert/gravels')
 
 
 })

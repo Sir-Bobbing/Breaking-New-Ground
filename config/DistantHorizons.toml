@@ -703,7 +703,7 @@ _version = 4
 				#
 				# False = DH will render a single layer of clouds, like vanilla Minecraft. 
 				# True = DH will render 3 layers of clouds at different heights.
-				enableMultiLayerClouds = true
+				enableMultiLayerClouds = false
 
 			[client.advanced.graphics.quality]
 				#
@@ -785,7 +785,7 @@ _version = 4
 				# Note: this is a best effort number. 
 				# The actual render distance may be above or below this number 
 				# depending on your other graphic settings.
-				lodChunkRenderDistanceRadius = 192
+				lodChunkRenderDistanceRadius = 128
 				#
 				# How should the sides and bottom of grass block LODs render? 
 				# 
