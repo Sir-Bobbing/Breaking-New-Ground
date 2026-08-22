@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#breakingnewground:has_hotsprings",
+  "features": [
+    "spelunkery:spring_water_pool"
+  ],
+  "step": "local_modifications"
+}
