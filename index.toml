@@ -217,14 +217,6 @@ file = "config/immersiveenchanting-server.toml"
 hash = "f967e40de287a2adf9cf26c734a0461c52d0e7040f45e9b10cbf1e1b29de70b2"
 
 [[files]]
-file = "config/incrementalmining-client.toml"
-hash = "1879621c6b675909e0e3879f11e159955889ad18d46e5415b09af7790ee3feb7"
-
-[[files]]
-file = "config/incrementalmining-server.toml"
-hash = "545d6be7794515da679554b3577d596bee7a8154f25bf50d1a66e4853027282f"
-
-[[files]]
 file = "config/itemphysic-client.json"
 hash = "4a54b91e90490fec1af0cfb386bd9b4997256c13b5ee03630a97ee7c9b355eeb"
 
@@ -290,7 +282,7 @@ hash = "ebfd5a41c99a066c2dd26cf482731bf35223ce87121f5eb589f2ed6e13c8f309"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
-hash = "420cd44afd3a9f6e20b2a4a3f6e32ea375bfff87634e56971f5c1c3515aa13fe"
+hash = "d35240784629fa5f8483949c7d58cbcee4ce79e5e548afcc052cc7fbb9ec5367"
 
 [[files]]
 file = "config/prospectingpicks-common.toml"
@@ -2630,6 +2622,10 @@ file = "kubejs/data/lootr/advancement/root.json"
 hash = "43bcdfceef92fd8146176174062a58abc818746e5e034a185906daee66639d6c"
 
 [[files]]
+file = "kubejs/data/malum/reaping_data/phantom.json"
+hash = "921ffc73f595490b58e27ac385b8ff943ebedc809335dcaeaa356b57451a89d1"
+
+[[files]]
 file = "kubejs/data/malum/recipe/malum/spirit_repair/common/aluminum.json"
 hash = "f7c77467b70258c95142ed2b5b1081a193905a01a64e7268170da8f04b1aa22a"
 
@@ -2810,6 +2806,10 @@ file = "kubejs/data/malum/worldgen/placed_feature/runewood_tree.json"
 hash = "ca03c0e78b3cac1939e37fc0b3487d643b0e2b42535317b76fc8a601fa903332"
 
 [[files]]
+file = "kubejs/data/minecraft/advancement/adventure/two_birds_one_arrow.json"
+hash = "a3598c12596599192f399f38b17362208c64357821d46d815ca16a3a4808ba68"
+
+[[files]]
 file = "kubejs/data/minecraft/advancement/end/levitate.json"
 hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
 
@@ -2852,6 +2852,10 @@ hash = "219e0396d55073278f206ab517d948a054bf7b778c98baf752204fcbd37c445c"
 [[files]]
 file = "kubejs/data/minecraft/function/whats_this/remember.mcfunction"
 hash = "c38278b5161a2b3f7f1b6014da354f1932524e747d82e883a12f6a5c66a135a5"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_table/entities/bat.json"
+hash = "7c3a257de8fd57382f666267492989a0c2e87fb86ffd4342195bbc99390e942d"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_table/entities/iron_golem.json"
