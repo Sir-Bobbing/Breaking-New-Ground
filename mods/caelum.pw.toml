@@ -1,0 +1,18 @@
+filename = 'caelum-2.0.0.0+1.21.1.jar'
+name = 'Caelum'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.0.0'
+
+[download]
+hash = '5b88c76e06c207563027b04cdbe21d043e4a69bfb355a2a14d919cff1087cd1a04e8cea07f5b059bb2eea7070462898d271cb3e06d8e55179fc74de430d74e8a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Xkw3TXqP/versions/ouDwow5o/caelum-2.0.0.0%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'Xkw3TXqP'
+version = 'ouDwow5o'
