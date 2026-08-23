@@ -6,8 +6,6 @@
     "minecraft:deep_dark",
     "minecraft:mushroom_fields",
     "#minecraft:is_ocean",
-    "#minecraft:is_deep_ocean",
-    "nomansland:alchemist_ruins",
-    "streamsreflowing:stream"
+    "#minecraft:is_deep_ocean"
   ]
 }
