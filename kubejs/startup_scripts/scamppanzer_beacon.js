@@ -85,12 +85,25 @@ StartupEvents.registry('item', event => {
 
   function positionString( pos ) {
     return pos.x + ' ' + pos.y + ' ' + pos.z
-}
+  }
 
   function summonScamppanzer(level, bpos, arcane) {
     console.info('summon scguns:scamp_tank '+positionString(bpos)+(arcane ? ' ' + defaultScampData : ''))
     level.runCommandSilent('summon scguns:scamp_tank '+positionString(bpos)+(arcane ? ' ' + defaultScampData : ''))
   }
+
+  function lightningParticles(level, bpos) {
+    level.runCommandSilent('particle nomansland:moonlight_spark ' + positionString(bpos) + ' 0.25 0 0.25 0 20')
+  }
+
+  function enchantParticles(level, bpos, charge) {
+    const comStr = 'particle minecraft:enchant ' + positionString(bpos)
+    for (var i = 0; i < 30; i = i + 2) {
+      level.server.scheduleInTicks(i, function() {
+        level.runCommandSilent(comStr + ' 0 5 0 ' + (0.5 + charge*0.25) + ' ' + (10 + charge*5) )
+      })
+    }
+  } 
 
   function failSummon(reason, level, entity, arcane, itemstack) {
     failSound(level, entity, arcane)
@@ -141,7 +154,10 @@ StartupEvents.registry('item', event => {
     if (charge == 3 || charge == 4) {
       effects.add("minecraft:levitation", 40, 0, true, false)
     }
-
+    if (charge > 1) {
+      level.spawnLightning(pos.x, pos.y + 1, pos.z, true)
+      lightningParticles(level, pos.offset(0, 1, 0))
+    }
     if (charge >= 5) {
       summonScamppanzer(level, pos.offset(0, 1, 0), arcane)
       finishSound(level, entity)
@@ -151,7 +167,7 @@ StartupEvents.registry('item', event => {
       chargeSound(level, entity, arcane, charge)
     }
 
-    console.info("RUN HERE")
+    enchantParticles(level, pos.offset(0, 6, 0), charge)
 
     $CustomData.set($DataComponents.CUSTOM_DATA, itemstack, data)
     return itemstack
@@ -180,7 +196,7 @@ StartupEvents.registry('item', event => {
 
   let arcaneBeacon = event.create('arcane_scamppanzer_beacon')
   assignDefaultProperties(arcaneBeacon)
-  //arcaneBeacon.use((level) => {level.createEntity().saveWithoutId})
+  //arcaneBeacon.use((level) => {})
   arcaneBeacon.tooltip('§5§oInfused arcana subtly empowers the Scamppanzer...')
   arcaneBeacon.texture('scguns:item/beacon_grenade')
   arcaneBeacon.displayName('Arcane Scamppanzer Transmitter')
