@@ -30,11 +30,8 @@ To start. you will need either MultiMC or Prismlauncher to Install the modpack.
 - The modpack needs a minimum of 5GB of RAM to run. This is already set in the .zip but serves as a warning for systems with less RAM.
 
 ## Known Issues
-#### Bugs
 - [Spelunkery Parachutes render as a black and pink box](https://github.com/Silversmith-Mods/Spelunkery/issues/393)
 - [Vista viewfinders will forget their position and point to the sky in a world with an End Sea](https://github.com/ryanhcode/sable/issues/1031)
 - [Scorched Guns Firearms with animated features will fail to show in to other clients in multiplayer](https://github.com/sadeast69/ScorchedGunsNeoforge/issues/47)
-#### Incompatibility
-- Amendments fireballs don't hit Sublevels
 - [Supplementaries cannons cannot target sublevels or coordinates off sublevels](https://github.com/MehVahdJukaar/Supplementaries/issues/1971)
 
