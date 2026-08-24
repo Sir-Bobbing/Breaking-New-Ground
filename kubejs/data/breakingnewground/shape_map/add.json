@@ -98,6 +98,13 @@
             "nomansland:trimmed_${stem}_planks",
             "everycomp:nml/${ns}/trimmed_${stem}_planks"
         ],
+        "/(?<ns>[^:]+):(?<stem>.+?)(?<end>_fence)/": [
+            "architects_palette:${stem}_railing",
+            "everycomp:ap/${ns}/${stem}_railing"
+        ],
+        "/malum:(?<stem>.+?)(?<end>_planks_fence)/": [
+            "everycomp:ap/${ns}/${stem}_railing"
+        ],
         "/(?<ns>[^:]+):(?<stem>.+?)(?<end>_chair)/": [
             "handcrafted:${stem}_chair"
         ],
