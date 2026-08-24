@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "6539a4fe3519e7f557e33bd000f41185bb2fd37a10894dfa262c4260029419f7"
+hash = "8b9746259bea15407937078c4a8df74a694df26d56dac135317b59dd8319bf70"
 
 [[files]]
 file = "config/aeronautics-server.toml"
@@ -426,7 +426,59 @@ hash = "12828c353d886511363c99ef8915548ddf08422d5b70594e01c02e89250f5356"
 
 [[files]]
 file = "kubejs/assets/breakingnewground.zip"
-hash = "1615dadabb5a54b201e3fb717f9026f97404e0c2dd595ed67a63057de7845ae2"
+hash = "4f44494c4f292f5d0f8810766a04d3b90148aeb2a8010ce0ef1bf27b70de23b1"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/guideme_guides/guide.json"
+hash = "7fdb82409fed5768c06d0df9594e44c834e286741ae80d94654fb942e41d75bb"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/items/guide.json"
+hash = "3b8fd8934c17fb54c320dd356b0a58b8fae7390a342ef2245900e5dce60cf497"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/lang/en_us.json"
+hash = "74982935e96394be6aa3e20d1a01289878f8f456a772ad67b362dda692274ae9"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/models/item/guide.json"
+hash = "c067e8904ad8758c4bf4db7f005ccbff10f2141c9c81c4a23b2697ef4e9e3626"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/sounds/sounds.json"
+hash = "b831d29cbe69e40cc0c88c197dad055b9df00808db88464099b6fa134b39ea9f"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/sounds/ui_channel_news_04.ogg"
+hash = "b7761644e5b2b42402707031d097d11d74180769273544d1a289d2b9dd2524c9"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/textures/entity/mob_variants/bat/phantasmal_bat.png"
+hash = "f4dcc9438f9ff5fd1bfac0b3d0fdbcea35bfd7ff5fd991bb59006b844f47ada2"
+
+[[files]]
+file = "kubejs/assets/breakingnewground/textures/item/guide.png"
+hash = "33b6f7c419928a38489b138c5195c0adde98a1cb41e53876a2d7c81bc5fbfbe3"
+
+[[files]]
+file = "kubejs/assets/chunkloaders/textures/advanced_chunk_loader.png"
+hash = "002ec9f1300a21cd764a166eefc84ed972ceadf6bf13d133da6508f7eb0769bd"
+
+[[files]]
+file = "kubejs/assets/chunkloaders/textures/basic_chunk_loader.png"
+hash = "c3eaa5c29b096123026f1153daf045ec4820a595f104423cfdca90de1578c0d5"
+
+[[files]]
+file = "kubejs/assets/chunkloaders/textures/single_chunk_loader.png"
+hash = "c3eaa5c29b096123026f1153daf045ec4820a595f104423cfdca90de1578c0d5"
+
+[[files]]
+file = "kubejs/assets/chunkloaders/textures/ultimate_chunk_loader.png"
+hash = "04754e5c405214465214a8e1fdf7aa80d0ab1f2dac88bd01876135bb54bb93cc"
+
+[[files]]
+file = "kubejs/assets/create/lang/en_us.json"
+hash = "fa08c9626c2646bd10d981c943ebc23df0dea856c4dcca47b2bdeb6ef1f80937"
 
 [[files]]
 file = "kubejs/assets/createpropulsion/sounds.json"
@@ -455,6 +507,22 @@ hash = "3f8c4cea9c2540ed7b4ff2ce44ef2ad3a38563875f6d065d0b2224411e9e5c61"
 [[files]]
 file = "kubejs/assets/createpropulsion/sounds/thruster_startup.ogg"
 hash = "e5ab5ee1982d5ac9a8bd3a50ebd409ebe398d6980f680bf7e4b57206e20b901d"
+
+[[files]]
+file = "kubejs/assets/createpropulsion/textures/block/coral_generator.png"
+hash = "ccab8d927f9a32b988ce36819c4613c51402f39862940990d8375211b5da4b90"
+
+[[files]]
+file = "kubejs/assets/createpropulsion/textures/block/redstone_converter_off.png"
+hash = "570f5425abdde866850134f99b5843d1196f06981edcb215ba86f859c715bb86"
+
+[[files]]
+file = "kubejs/assets/createpropulsion/textures/block/redstone_converter_on.png"
+hash = "afcd9ec7c4cae1977ac83883df0f451bd15ed09f96849503eb95aa7dc4060362"
+
+[[files]]
+file = "kubejs/assets/createpropulsion/textures/block/vector_thruster.png"
+hash = "7b1b6d299f1d09a1ad3516ca5e337e78e22d36f754349daf2aa297f437e4dbc9"
 
 [[files]]
 file = "kubejs/assets/handcrafted/lang/en_us.json"
@@ -487,6 +555,22 @@ hash = "ecd2b2cae57c5e34a532751d50c586491826a992af9eb2ac446504b966a29040"
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
 hash = "d895c999eab1d8df2ad5641d67fcf940207f2f536aa3ecb51576044e64a6e0d9"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/entity/warden/warden.png"
+hash = "f66349d6ae7005fba9f249f0093b2f7704d97f9b700f614fb39c48b2cb5afc77"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/entity/warden/warden_bioluminescent_layer.png"
+hash = "0b1cf5c2fbf361447b9149ff78a80a9bcc98e199f0fa1b991e32216a665034b9"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/entity/warden/warden_pulsating_spots_1.png"
+hash = "7ecffda2459dfdfcf19938b3f87ce72580c36de1537227d1120df531606a5477"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/entity/warden/warden_pulsating_spots_2.png"
+hash = "dcfcb495f428deb2c063a003e4117e9a76db7747c4bfe3b82ac56e74c013f319"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
@@ -838,6 +922,22 @@ file = "kubejs/data/breakingnewground/function/tick.mcfunction"
 hash = "c64964042cc2d15c3e50a95f6347004e8a0df95eb5c71f1d36265c2466330eba"
 
 [[files]]
+file = "kubejs/data/breakingnewground/mixed_litter/variant_groups/bat.json"
+hash = "5220ea937259ab7d6915c7fc72670a51bc4d538bad41a5d7a0732b4d9b4aa5b5"
+
+[[files]]
+file = "kubejs/data/breakingnewground/mixed_litter/variant_types/bat.json"
+hash = "a9f4d4dd675bd79ba6976e4b6242b0eb877eda52aa0366c0709e80f576bf4e21"
+
+[[files]]
+file = "kubejs/data/breakingnewground/mixed_litter/variants/bat/phantasmal.json"
+hash = "3c05bd303e8121e9f58fde0e4222ad76af0ccf891b724563ec7f8b673e9e93d6"
+
+[[files]]
+file = "kubejs/data/breakingnewground/neoforge/biome_modifier/add_hot_springs.json"
+hash = "e9a9341c74702a6f6c7399550ca3420704ce00e89254fb4db34dc5f329994cba"
+
+[[files]]
 file = "kubejs/data/breakingnewground/neoforge/biome_modifier/deep_cold_ocean/remove_features.json"
 hash = "7cefdd1a15546329436d3b718723bb0ed715210fe90e3e736b974df67d3a3210"
 
@@ -1078,12 +1178,20 @@ file = "kubejs/data/breakingnewground/recipe/spirit_transmutation/salt/sulfur_fr
 hash = "3c5b7ebd1db02c04dd2f8922b2c08121010c3d266aff5a17034b7eaf512d046c"
 
 [[files]]
+file = "kubejs/data/breakingnewground/shape_map/add.json"
+hash = "c95edce76cb1e70c35383469233ae6f98c1a75f525ba06f22261ffcba36b43be"
+
+[[files]]
+file = "kubejs/data/breakingnewground/shape_map/remove.json"
+hash = "a96acc1f75226e0c78dc70d082acd014c74a3f563ffa080c191534e15983dc52"
+
+[[files]]
 file = "kubejs/data/breakingnewground/tags/worldgen/biome/has_cog_chambers.json"
 hash = "1fef1473e8cedb1c11a3c6d5d046194b73d024fa7aff87b29237b452df80080e"
 
 [[files]]
 file = "kubejs/data/breakingnewground/tags/worldgen/biome/has_hotsprings.json"
-hash = "55e559ef264869440e5ac14d11a663c42902de26abed50f3d667a577ca792aa4"
+hash = "77fd0bb85450a62a184b4af9e2ed5c36a279ea6f33ac6f7bb9571ca630d0a099"
 
 [[files]]
 file = "kubejs/data/breakingnewground/tags/worldgen/biome/has_kobold_dens.json"
@@ -1100,6 +1208,14 @@ hash = "54d2a7c8d9149e09adb10a9fc210057853ce15921b4da03a5c7e42bd3825328b"
 [[files]]
 file = "kubejs/data/breakingnewground/tags/worldgen/structure/adventure_map_destinations.json"
 hash = "355adde1e6c65825baec8c59c66428e0a2ad3a1f622e9bf2f62e07a66e879e08"
+
+[[files]]
+file = "kubejs/data/breakingnewground/worldgen/configured_feature/hot_spring.json"
+hash = "4314329fe459db7d59e94b40a5bfe7a0069eeba2bf661be3f31376a0ef9c4dad"
+
+[[files]]
+file = "kubejs/data/breakingnewground/worldgen/placed_feature/hot_spring.json"
+hash = "5907f5d5b1105f89658c70acc4c46c776803f454bdc6ba02960bf52993c2501f"
 
 [[files]]
 file = "kubejs/data/brewinandchewin/advancement/main/place_keg.json"
@@ -3426,14 +3542,6 @@ file = "kubejs/data/scguns/worldgen/structure_set/trench.json"
 hash = "936fec40d959ebc62d90fd651d391b6ac713ba092083f04980354a74264bae4e"
 
 [[files]]
-file = "kubejs/data/shape_tweaks/shape_map/add.json"
-hash = "c95edce76cb1e70c35383469233ae6f98c1a75f525ba06f22261ffcba36b43be"
-
-[[files]]
-file = "kubejs/data/shape_tweaks/shape_map/remove.json"
-hash = "a96acc1f75226e0c78dc70d082acd014c74a3f563ffa080c191534e15983dc52"
-
-[[files]]
 file = "kubejs/data/simulated/end_sea/overworld.json"
 hash = "f390a92a94ed876ebebfc98f817238fb4bfaacc04a634a734bc796b5362ce715"
 
@@ -3458,8 +3566,40 @@ file = "kubejs/data/spelunkery/advancement/spelunkery/true_north.json"
 hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
 
 [[files]]
-file = "kubejs/data/spelunkery/neoforge/biome_modifier/add_hot_springs.json"
-hash = "09181a4730d68f81f63518e0d558775c4fb487663ba94f9ca5add62fcb647d8c"
+file = "kubejs/data/spelunkery/loot_table/gameplay/sluice/lava/passive.json"
+hash = "2aca4026756487832b6a575b03eba8f488f501f75a78b293f24b66b94c4ac616"
+
+[[files]]
+file = "kubejs/data/spelunkery/loot_table/gameplay/sluice/spring_water/passive.json"
+hash = "bde4115486dc20bc818ccbfa3a7b0b25f286ab3a22655caee4491b6f50a6177f"
+
+[[files]]
+file = "kubejs/data/spelunkery/loot_table/gameplay/sluice/water/clay.json"
+hash = "e3609f1e68aac5bdbfbe43d98463688468f8b0d89b54bac1649c8d8539b1da7b"
+
+[[files]]
+file = "kubejs/data/spelunkery/loot_table/gameplay/sluice/water/gravel.json"
+hash = "b51e9fe9dadb3492310a5b8cb23e6b339da80457b20eb1ef32483e93ae88c3a1"
+
+[[files]]
+file = "kubejs/data/spelunkery/loot_table/gameplay/sluice/water/mud.json"
+hash = "a6f6b9c4099f97730e1c02d7d3cb5b8a16b0115b7c20deb8062ee48d728c3bd7"
+
+[[files]]
+file = "kubejs/data/spelunkery/loot_table/gameplay/sluice/water/passive.json"
+hash = "2a594050e05d6cba59a673e3ed5e929001e09d48d05aec1926aac8d4fdfab2d7"
+
+[[files]]
+file = "kubejs/data/spelunkery/loot_table/gameplay/sluice/water/red_sand.json"
+hash = "9c0d6542328b3da53b0deb12100ca347d65e8c3ac1b8c3cbbde42a9f993a2cd0"
+
+[[files]]
+file = "kubejs/data/spelunkery/loot_table/gameplay/sluice/water/sand.json"
+hash = "26b9b9a6d06d7e921aac2abcb7bdf45cf76618ee493d342f0a72c34200d43d2f"
+
+[[files]]
+file = "kubejs/data/spelunkery/loot_table/gameplay/sluice/water/soul_sand.json"
+hash = "afd4e7d24cdfe8a6e487616a3f6df1887c71a68c6d39706ffd4a220003ee156c"
 
 [[files]]
 file = "kubejs/data/spelunkery/neoforge/biome_modifier/add_nephrite_geodes.json"
@@ -3492,10 +3632,6 @@ hash = "719e97194deeb8d9c428924ed4ba01438daccb3fe0f70b611a1b4efc05d7fd30"
 [[files]]
 file = "kubejs/data/spelunkery/worldgen/placed_feature/nephrite_geode.json"
 hash = "110ac986743697ce8b4e4cc14fd599ff8779438192aa79952f50741e623aedb1"
-
-[[files]]
-file = "kubejs/data/spelunkery/worldgen/placed_feature/spring_water_pool.json"
-hash = "175a557b0c6faf9e2e66799c4b8c93a42da2f97c580d9e50cdb7d376393e4555"
 
 [[files]]
 file = "kubejs/data/supplementaries/recipe/flower_box.json"
@@ -3683,7 +3819,7 @@ hash = "9a75b8dd95ef5b2dd64998a78ef9c621b0d8e5578c9fd3e3bc268b1853258ca9"
 
 [[files]]
 file = "kubejs/startup_scripts/scamppanzer_beacon.js"
-hash = "3519644a2dcad1a8823ef52071ceafc63677fa611fcdb5de8f089184efacffee"
+hash = "9e4778d2807fb38ec70aab68046ebbd57aaa5bb815ce8bc82090b5c01f57ad3f"
 
 [[files]]
 file = "kubejs/startup_scripts/startup_item_tweaks.js"
