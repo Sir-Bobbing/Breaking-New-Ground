@@ -426,7 +426,7 @@ hash = "12828c353d886511363c99ef8915548ddf08422d5b70594e01c02e89250f5356"
 
 [[files]]
 file = "kubejs/assets/breakingnewground.zip"
-hash = "c7cbc744d313a2c6ee483c812bb40a69ba0c5c374060f37be1fbb03fec5aedf9"
+hash = "30463c30d4a19411dc97e90da531b4aba35f2ff6533bac0249d461457be6e1da"
 
 [[files]]
 file = "kubejs/assets/breakingnewground/guideme_guides/guide.json"
@@ -1179,7 +1179,7 @@ hash = "3c5b7ebd1db02c04dd2f8922b2c08121010c3d266aff5a17034b7eaf512d046c"
 
 [[files]]
 file = "kubejs/data/breakingnewground/shape_map/add.json"
-hash = "c95edce76cb1e70c35383469233ae6f98c1a75f525ba06f22261ffcba36b43be"
+hash = "3495fc0763ef19e750527147f9c98e5fd12da74f1d7d82ea47cb4c843953bee8"
 
 [[files]]
 file = "kubejs/data/breakingnewground/shape_map/remove.json"
@@ -3711,7 +3711,7 @@ hash = "6ffacdf6f5207b2cd12c6be27e0334d2065e31c9a1ab148ac4de7653aa678975"
 
 [[files]]
 file = "kubejs/data/toms_storage/recipe/inventory_cable.json"
-hash = "83e763fdefb04a08872bf232293e08bd002945afb8de9a77cc05b2c4c8942d33"
+hash = "e47613fae63590ebbc8d09f2b5ca33aaa596c37e175eaec227bee19e742c14d4"
 
 [[files]]
 file = "kubejs/data/toms_storage/recipe/inventory_cable_connector.json"
@@ -3779,7 +3779,7 @@ hash = "3d04369a44dc75f6a70dfc51080beb357eb39b395a2db0b6557ce8b9900ceec4"
 
 [[files]]
 file = "kubejs/server_scripts/creature_conjuration.js"
-hash = "06b904f7b05f6b2c8234ba5d9e6b8afe41b5ba79ffe0b412cb30ec2b8347fa31"
+hash = "bd5eb7f14d67fe65e509cd069ceceff908e9740699d78c34082965582ea0df3a"
 
 [[files]]
 file = "kubejs/server_scripts/emi.js"
@@ -3799,7 +3799,7 @@ hash = "f2432b2ae1d81e8ad2008b3c9f7a93eefc9942c0ec2389433f32e7e6190cdcbf"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "2b2d923cc4a1123b56a92197c4c5749183ba5e750efea0b854542d4e5d250f32"
+hash = "080263b663a35f255f2614f4a9c5c26612793326325763cf1035adf792ee5df3"
 
 [[files]]
 file = "kubejs/startup_scripts/block_modification.js"
