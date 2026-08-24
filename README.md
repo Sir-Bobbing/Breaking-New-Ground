@@ -27,7 +27,7 @@ To start. you will need either MultiMC or Prismlauncher to Install the modpack.
 
   `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://sir-bobbing.github.io/Breaking-New-Ground/pack.toml`
 - You will need to set your launcher instance to use Java 25.
-- The modpack needs a minimum of 5GB of RAM to run. This is already set in the .zip but serves as a warning for systems with less RAM.
+- Your computer needs a minimum of 16GB of RAM to safely run the pack. The pack itself has 6GB of RAM dedicated to it in order to run. (this number could be wrong!)
 
 ## Known Issues
 - [Spelunkery Parachutes render as a black and pink box](https://github.com/Silversmith-Mods/Spelunkery/issues/393)
