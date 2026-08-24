@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "8b9746259bea15407937078c4a8df74a694df26d56dac135317b59dd8319bf70"
+hash = "6539a4fe3519e7f557e33bd000f41185bb2fd37a10894dfa262c4260029419f7"
 
 [[files]]
 file = "config/aeronautics-server.toml"
@@ -426,7 +426,7 @@ hash = "12828c353d886511363c99ef8915548ddf08422d5b70594e01c02e89250f5356"
 
 [[files]]
 file = "kubejs/assets/breakingnewground.zip"
-hash = "4f44494c4f292f5d0f8810766a04d3b90148aeb2a8010ce0ef1bf27b70de23b1"
+hash = "c7cbc744d313a2c6ee483c812bb40a69ba0c5c374060f37be1fbb03fec5aedf9"
 
 [[files]]
 file = "kubejs/assets/breakingnewground/guideme_guides/guide.json"
@@ -4002,7 +4002,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "983bbdada7f247d4cb72762225b8250150b568f1a0fbe39f67aeba61a97abf5d"
+hash = "60324363741c3bcdf37b89ba1ccece1da1b887848812e44b430548f0391857cf"
 metafile = true
 
 [[files]]
@@ -4102,7 +4102,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "ea85a2ee0ac019ab16434dae86ebc7d8062016ab3c1c531d5e813c47f9fcd346"
+hash = "366c558aff8c467e0876d0483eddfed5d1f1009980671581630a2619af96d9ee"
 metafile = true
 
 [[files]]
@@ -4157,7 +4157,7 @@ metafile = true
 
 [[files]]
 file = "mods/drive-by-sable.pw.toml"
-hash = "9906389b72871b30f51b0f7d85c4ec00d1cab59c719bce736a1e08f403534e98"
+hash = "6ab0ccf09fc8e7aac551fa5463a1b4ea8aec679d2f8313c392d2fa90044c31e9"
 metafile = true
 
 [[files]]
@@ -4347,7 +4347,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "555970008e5ee09295457d9b6e113a1a08310b9bceb709837042dfbb535ed9e0"
+hash = "3374d5352e20b25feb01909afb9184459c2689538752d3523fbe5a0cb217cc15"
 metafile = true
 
 [[files]]
@@ -4422,7 +4422,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "496cac3a9b8b7d9dcb119fb29d5996dbec51639666c9a114bdf33b5c525f057d"
+hash = "ad074f98b8ee280a6eec726e8956176f7ba1bf618096ce55283b826352ffe4d0"
 metafile = true
 
 [[files]]
@@ -4447,7 +4447,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "de5dff48f2919bf7c7c58f19a110b21e0c9f9b1f1501a5c58f254dcfb1ebc43b"
+hash = "f9d405af5aa0d6c7308cb3f4ecf87338dbece64759736a907048bdd8a5eb807f"
 metafile = true
 
 [[files]]
@@ -4641,7 +4641,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "49fab21cd12791359035070c1da37d8bd0be637a5dc6ffa297042ba604119839"
+hash = "680b433d98c343c8e19ae383f110e2a37d7e95133b6d2c51a21a9c3eb0938b26"
 metafile = true
 
 [[files]]
