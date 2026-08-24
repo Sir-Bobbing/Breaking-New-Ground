@@ -39,6 +39,8 @@ ServerEvents.tags('item', event => {
     event.add('breakingnewground:sacred_spirit_catalyst', 'tfmg:copper_sulfate')
     event.add('breakingnewground:arcane_spirit_catalyst', 'minecraft:amethyst_shard')
     event.add('breakingnewground:arcane_spirit_catalyst', 'tfmg:copper_sulfate')
+    event.add('breakingnewground:aerial_spirit_catalyst', 'minecraft:pointed_dripstone')
+    event.add('breakingnewground:aerial_spirit_catalyst', 'tfmg:copper_sulfate')
 
 // Scorched Guns Bullet Materials
     event.add('scguns:advanced_bullet_material', 'scguns:treated_iron_ingot')
