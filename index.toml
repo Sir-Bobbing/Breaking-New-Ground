@@ -1207,7 +1207,7 @@ hash = "b6dd47ba9b6c3dc0ea93f17e8dd84c7dba5ba678d5f2918580ca257db7d15680"
 
 [[files]]
 file = "kubejs/data/bng_ore.zip"
-hash = "35e26bd609a0e090f9fc2f123b4b4ac982d72069c135dcc11e511daae9036242"
+hash = "4d0200ab01a8ebb21e56142d6a4eb39e2116aba109cb30a40127c86f706cadd8"
 
 [[files]]
 file = "kubejs/data/breakingnewground/function/load.mcfunction"
