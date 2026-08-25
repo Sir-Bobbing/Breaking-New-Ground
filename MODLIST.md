@@ -24,6 +24,7 @@
 - [Brewin' And Chewin'](https://modrinth.com/mod/hIu9KJTT) by Probleyes, Umpaz, MerchantCalico
 - [Bundle Scroll](https://modrinth.com/mod/fJKsphvU) by boyonk
 - [CPM OSC Compat](https://modrinth.com/mod/QDihBtsN) by tom5454
+- [Caelum](https://modrinth.com/mod/Xkw3TXqP) by Sophka
 - [Chalk](https://modrinth.com/mod/YWGP4Y1d) by mortuusars
 - [Chunk Loaders](https://modrinth.com/mod/t1VgucWo) by SuperMartijn642
 - [Chunky](https://modrinth.com/mod/fALzjamp) by pop4959
@@ -95,7 +96,6 @@
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK\_01
 - [Immersive Enchanting](https://www.curseforge.com/projects/1354719) by Alfie
 - [Immersive Paintings](https://modrinth.com/mod/6txNkua3) by Luke100000
-- [Incremental Mining](https://modrinth.com/mod/NguWGade)
 - [Incubation](https://modrinth.com/mod/A4Xrv60A) by Team Abnormals
 - [ItemPhysic](https://modrinth.com/mod/aT8BzaOj) by CreativeMD
 - [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) by mezz
@@ -118,7 +118,6 @@
 - [No Man's Land](https://modrinth.com/mod/kjZCvAn6) by Farcr, Tazer, and many Contributors
 - [NoExplodeItems](https://modrinth.com/mod/FnYjkHdc) by FifthTundraG
 - [Noisium](https://modrinth.com/mod/hasdd01q) by Steveplays28
-- [Particle Mimicry](https://modrinth.com/mod/g8vF2B3R) by Mrbysco, ShyNieke
 - [Particle Rain](https://modrinth.com/mod/nrikgvxm) by pigcart
 - [Pehkui](https://modrinth.com/mod/t5W7Jfwy) by Virtuoel
 - [Personality](https://modrinth.com/mod/zrAMu1nt) by Team Abnormals
