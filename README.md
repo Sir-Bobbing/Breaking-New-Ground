@@ -23,7 +23,7 @@ To start. you will need either MultiMC or Prismlauncher to Install the modpack.
 
 # Notes and Known Issues
 ## Notes
-- If you disable the pre-launch command it will clear. The pre-launch command is:
+- If you disable the pre-launch command it will clear. If needed, the pre-launch command is:
 
   `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://sir-bobbing.github.io/Breaking-New-Ground/pack.toml`
 - You will need to set your launcher instance to use Java 25.
