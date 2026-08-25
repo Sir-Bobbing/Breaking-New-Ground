@@ -349,8 +349,8 @@
       430
     ],
     "chalk:adventure/vandalism": [
-      23,
-      466
+      45,
+      479
     ],
     "minecraft:adventure/fall_from_world_height": [
       28,
@@ -406,7 +406,7 @@
     ],
     "chalk:adventure/alone_in_the_darkness": [
       50,
-      486
+      367
     ],
     "minecraft:adventure/two_birds_one_arrow": [
       35,
@@ -1788,10 +1788,6 @@
       -72,
       100
     ],
-    "powergrid:nether_transformer": [
-      75,
-      50
-    ],
     "powergrid:fe_inverter": [
       96,
       131
@@ -1875,6 +1871,18 @@
     "exposure:adventure/photos_of_spider_man": [
       131,
       234
+    ],
+    "chalk:adventure/guiding_star": [
+      34,
+      441
+    ],
+    "chalk:adventure/consumed_by_the_light": [
+      42,
+      405
+    ],
+    "chalk:adventure/paint_the_grass": [
+      59,
+      329
     ]
   },
   "tab_properties": {
