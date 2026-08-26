@@ -409,6 +409,18 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
+file = "kubejs/assets/ambientsounds/basic/blockgroups/flesh.json"
+hash = "0c40dce1f067a74790a1023906e58f8bf8b6bf979824e60503dcfab53947aff7"
+
+[[files]]
+file = "kubejs/assets/ambientsounds/basic/features/dripstone.json"
+hash = "7ad1a58640ffd75ad3e9042c8e43237dae07652489e98a4302bfc763855cef62"
+
+[[files]]
+file = "kubejs/assets/ambientsounds/basic/features/rock.json"
+hash = "ac9ffb086b77d0eaafdade08e8ebb936282e3e4edd17db1bd37c03fe868e59e2"
+
+[[files]]
 file = "kubejs/assets/another_furniture/lang/en_us.json"
 hash = "6a83224dd3109ce87e8111337a967ce04be28f21bcf1b6fbad5105c1d6d88fc6"
 
@@ -1207,7 +1219,7 @@ hash = "b6dd47ba9b6c3dc0ea93f17e8dd84c7dba5ba678d5f2918580ca257db7d15680"
 
 [[files]]
 file = "kubejs/data/bng_ore.zip"
-hash = "4d0200ab01a8ebb21e56142d6a4eb39e2116aba109cb30a40127c86f706cadd8"
+hash = "522fc01a6c9046ae91631243a9bae9a6768d281c75ef0a762d77688337131386"
 
 [[files]]
 file = "kubejs/data/breakingnewground/function/load.mcfunction"
@@ -3931,7 +3943,7 @@ hash = "21bf944048897ed87f6ca1944ae2af5a7dd44c5d3131ffeb23a5c086b4bba297"
 
 [[files]]
 file = "kubejs/startup_scripts/item_modification.js"
-hash = "b6cb6d289b916043e05095e44d3b3dc6eea69baf532eed4e9083e4d40c60c917"
+hash = "41980393dbd6a76c567d5d28ca8ff9e5c2afd7fe7205635a6164a02f9b6f67f0"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -3957,7 +3969,7 @@ metafile = true
 
 [[files]]
 file = "mods/alfinolib.pw.toml"
-hash = "06c9f383149e5c98efcec2dadcd9613dcd065c933061ab812e64b8a3ffac2341"
+hash = "c40764ed7927e5c6e2acbc793216d209f1f981ddae5e40466a55c99df5078c06"
 metafile = true
 
 [[files]]
@@ -4427,7 +4439,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-enchanting.pw.toml"
-hash = "4bc15e35a096e1eb3152e3ba44e8c0bd63ebaf6f3f7d9202abe0f3ca33b0b56d"
+hash = "9f455f5ff86c3bddc31737ee3ca63310ab22999d21a7838fb041e17df8767231"
 metafile = true
 
 [[files]]
