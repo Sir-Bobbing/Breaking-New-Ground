@@ -442,7 +442,7 @@ hash = "12828c353d886511363c99ef8915548ddf08422d5b70594e01c02e89250f5356"
 
 [[files]]
 file = "kubejs/assets/breakingnewground.zip"
-hash = "6c4aaf750d2a3e92dfa59785a63c3aea7409633a4cdf8f4050771e0a0284406f"
+hash = "fee40d726bcd490f0b5d1b7d84ec621a6a5cad874701e1382a95302844f6477f"
 
 [[files]]
 file = "kubejs/assets/breakingnewground/guideme_guides/guide.json"
@@ -574,15 +574,15 @@ hash = "5888f75f69bbe8649a2bb4cbc8b25126489839f52485c7e6129c5933df39ee42"
 
 [[files]]
 file = "kubejs/assets/minecraft/sounds/random/click_stereo_1.ogg"
-hash = "6912c8bdfd88be18f4cd911eb8e99f8a6220939fe101d738639a40c2c24e017f"
+hash = "0ced52b822061d8dd0f0b1648c9f8e85a5849eb3030b744accb474507cb9c108"
 
 [[files]]
 file = "kubejs/assets/minecraft/sounds/random/click_stereo_2.ogg"
-hash = "66e97bf30c884b5741fbc485abac8035a439c7408a7b546a23cda35131bc4c60"
+hash = "d6453cf1036cf440d8c2024ddc8e0e5ccc52cde3c96b489779d6464fdb3061bd"
 
 [[files]]
 file = "kubejs/assets/minecraft/sounds/random/click_stereo_3.ogg"
-hash = "97fcf01a33d2462d64a6e1ea54ccf09e16211036b06bd23e51e7c99c56761fdc"
+hash = "b9f16d449308c4590784b6db2a642df9931e31d55c2dda5ec4285a3ffbb02b87"
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
@@ -895,6 +895,10 @@ hash = "a3a360379d84e4b8931d9b930bef95844b21c5a8730888e07220796cd362ab8b"
 [[files]]
 file = "kubejs/assets/scguns/textures/block/deepslate_anthralite_ore.png"
 hash = "813b5a48bf757a4a14b9c7c53780925f5c1567924b47f35029fb910102103c06"
+
+[[files]]
+file = "kubejs/assets/sounds.json"
+hash = "f8e2b534ddef8142406abcb5e1b0d2a0792e91789a50daa3ec4b61c837ccbb38"
 
 [[files]]
 file = "kubejs/assets/spelunkery/lang/en_us.json"
