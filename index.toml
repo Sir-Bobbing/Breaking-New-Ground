@@ -1234,6 +1234,10 @@ file = "kubejs/data/breakingnewground/function/tick.mcfunction"
 hash = "c64964042cc2d15c3e50a95f6347004e8a0df95eb5c71f1d36265c2466330eba"
 
 [[files]]
+file = "kubejs/data/breakingnewground/lithostitched/worldgen_modifier/add_hotsprings.json"
+hash = "df6ecaf02903410667c623f6e6d731d234f63ff56a8cd1bed2f784241cdb4fa1"
+
+[[files]]
 file = "kubejs/data/breakingnewground/mixed_litter/variant_groups/bat.json"
 hash = "5220ea937259ab7d6915c7fc72670a51bc4d538bad41a5d7a0732b4d9b4aa5b5"
 
@@ -1244,10 +1248,6 @@ hash = "a9f4d4dd675bd79ba6976e4b6242b0eb877eda52aa0366c0709e80f576bf4e21"
 [[files]]
 file = "kubejs/data/breakingnewground/mixed_litter/variants/bat/phantasmal.json"
 hash = "3c05bd303e8121e9f58fde0e4222ad76af0ccf891b724563ec7f8b673e9e93d6"
-
-[[files]]
-file = "kubejs/data/breakingnewground/neoforge/biome_modifier/add_hot_springs.json"
-hash = "e9a9341c74702a6f6c7399550ca3420704ce00e89254fb4db34dc5f329994cba"
 
 [[files]]
 file = "kubejs/data/breakingnewground/neoforge/biome_modifier/deep_cold_ocean/remove_features.json"
@@ -1522,12 +1522,12 @@ file = "kubejs/data/breakingnewground/tags/worldgen/structure/adventure_map_dest
 hash = "355adde1e6c65825baec8c59c66428e0a2ad3a1f622e9bf2f62e07a66e879e08"
 
 [[files]]
-file = "kubejs/data/breakingnewground/worldgen/configured_feature/hot_spring.json"
-hash = "4314329fe459db7d59e94b40a5bfe7a0069eeba2bf661be3f31376a0ef9c4dad"
+file = "kubejs/data/breakingnewground/worldgen/configured_feature/hotspring.json"
+hash = "2b487d9ec2dca15304ef0b01878eae8ec855e8edd47d5ff716ae6bc1afe7cdbb"
 
 [[files]]
-file = "kubejs/data/breakingnewground/worldgen/placed_feature/hot_spring.json"
-hash = "5907f5d5b1105f89658c70acc4c46c776803f454bdc6ba02960bf52993c2501f"
+file = "kubejs/data/breakingnewground/worldgen/placed_feature/hotspring.json"
+hash = "8ac91631f18b31eee8ca65ebd4130d31b0e4c807eeba2ab2a1fcc3b5a807fdc3"
 
 [[files]]
 file = "kubejs/data/brewinandchewin/advancement/main/place_keg.json"
@@ -4462,11 +4462,6 @@ hash = "96d04b39c002de4c9d2bf980020a1cd1f05e3cfd7b7b2d5f74e9a09d073854be"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "771a19dedbdd1ebb0358f2341be2d51e2739977a8eede162238e33477f2bf032"
-metafile = true
-
-[[files]]
 file = "mods/kobolds.pw.toml"
 hash = "848bab9c4ec55ecde2354ee9a7014dcc62dbab07b2d1063ad094b6cc1c6d9d55"
 metafile = true
@@ -4813,6 +4808,11 @@ metafile = true
 [[files]]
 file = "mods/ticks.pw.toml"
 hash = "d70fe3fe1fa634ba048987225368ec0e934e91dbd272baf84c3ffa233c754fdb"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "6f18007605bc1aca0ba95030fed1cec8e9065b86d6f60bcddabb2a5ccccd345e"
 metafile = true
 
 [[files]]
