@@ -718,7 +718,7 @@ hash = "6eb76f81f5d587d0dc169d79a7a30fbb34bb7337b8b2744967f698a0fafaff46"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/widget/button.png"
-hash = "7f0f8f4ca53faee0824ac5d9b4bff7106c900e107f0e057ba60e68f4dfb5b1d9"
+hash = "4ed8c22d845bbd663f4ae58b4387fab0ee0041ea3ba118b85f9835498f128c5c"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/widget/button.png.mcmeta"
@@ -734,7 +734,7 @@ hash = "c8f6fe62c01c357a814223d4ab6a368e5122c195fa2671e585fa24988557a505"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
-hash = "b9a5380e569362509d7b5fa19c7e4031775fff9b7609d52cbe6e6c782ed65569"
+hash = "7c8108552ee740163e79872cdaaa71bbf928188eeea5a409cd239ba8f22eef4c"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png.mcmeta"
