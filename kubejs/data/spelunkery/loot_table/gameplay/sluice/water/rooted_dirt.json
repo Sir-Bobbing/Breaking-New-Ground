@@ -7,12 +7,43 @@
         {
           "type": "minecraft:item",
           "weight": 50,
-          "name": "minecraft:clay_ball"
+          "name": "minecraft:mud"
         },
         {
           "type": "minecraft:item",
-          "weight": 50,
-          "name": "minecraft:prismarine_crystals",
+          "weight": 30,
+          "name": "spelunkery:tangle_roots_block"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:carrot"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:potato"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:sugar_cane"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "farmersdelight:onion"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "farmersdelight:rice"
+        },
+        {
+          "type": "minecraft:tag",
+          "weight": 2,
+          "expand": true,
+          "name": "breakingnewground:hot_saplings",
           "conditions": [
             {
               "condition": "minecraft:any_of",
@@ -20,55 +51,7 @@
                 {
                   "condition": "minecraft:location_check",
                   "predicate": {
-                    "structures": "minecraft:monument"
-                  }
-                }
-              ]
-            }
-          ],
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 4
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 49,
-          "name": "nomansland:seashells",
-          "conditions": [
-            {
-              "condition": "minecraft:any_of",
-              "terms": [
-                {
-                  "condition": "minecraft:location_check",
-                  "predicate": {
-                    "biomes": "#c:is_beach"
-                  }
-                }
-              ]
-            }
-          ],
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 4
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 1,
-          "name": "minecraft:turtle_scute",
-          "conditions": [
-            {
-              "condition": "minecraft:any_of",
-              "terms": [
-                {
-                  "condition": "minecraft:location_check",
-                  "predicate": {
-                    "biomes": "#c:is_beach"
+                    "biomes": "#c:is_hot"
                   }
                 }
               ]
@@ -77,9 +60,9 @@
         },
         {
           "type": "minecraft:tag",
-          "weight": 5,
+          "weight": 1,
           "expand": true,
-          "name": "minecraft:corals",
+          "name": "breakingnewground:temperate_saplings",
           "conditions": [
             {
               "condition": "minecraft:any_of",
@@ -87,7 +70,26 @@
                 {
                   "condition": "minecraft:location_check",
                   "predicate": {
-                    "biomes": "minecraft:warm_ocean"
+                    "biomes": "#c:is_temperate"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:tag",
+          "weight": 2,
+          "expand": true,
+          "name": "breakingnewground:cold_saplings",
+          "conditions": [
+            {
+              "condition": "minecraft:any_of",
+              "terms": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#c:is_cold"
                   }
                 }
               ]

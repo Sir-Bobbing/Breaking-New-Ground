@@ -2,6 +2,15 @@
 // event.remove('tag', 'item')
 
 console.info('Tags Loaded')
+
+function get_items_by_block_tag(block_tag){
+    let item_list = []
+    Block.getTaggedIds(block_tag).forEach(block=>{
+        item_list.push(Block.getBlock(block).asItem().getId())
+    })
+    return item_list
+}
+
 ServerEvents.tags('item', event => {
 
 //Ingredient Flattening
@@ -41,6 +50,46 @@ ServerEvents.tags('item', event => {
     event.add('breakingnewground:arcane_spirit_catalyst', 'tfmg:copper_sulfate')
     event.add('breakingnewground:aerial_spirit_catalyst', 'minecraft:pointed_dripstone')
     event.add('breakingnewground:aerial_spirit_catalyst', 'tfmg:copper_sulfate')
+
+// Sapling Categories
+    event.add('breakingnewground:hot_saplings', 'minecraft:jungle_sapling')
+    event.add('breakingnewground:hot_saplings', 'minecraft:bamboo')
+    event.add('breakingnewground:hot_saplings', 'minecraft:cactus')
+    event.add('breakingnewground:hot_saplings', 'minecraft:acacia_sapling')
+    event.add('breakingnewground:hot_saplings', 'nomansland:willow_sapling')
+    event.add('breakingnewground:temperate_saplings', 'minecraft:oak_sapling')
+    event.add('breakingnewground:temperate_saplings', 'minecraft:birch_sapling')
+    event.add('breakingnewground:temperate_saplings', 'minecraft:dark_oak_sapling')
+    event.add('breakingnewground:temperate_saplings', 'minecraft:mangrove_propagule')
+    event.add('breakingnewground:temperate_saplings', 'minecraft:cherry_sapling')
+    event.add('breakingnewground:temperate_saplings', 'nomansland:pale_cherry_sapling')
+    event.add('breakingnewground:temperate_saplings', 'nomansland:autumnal_oak_sapling')
+    event.add('breakingnewground:temperate_saplings', 'nomansland:yellow_birch_sapling')
+    event.add('breakingnewground:temperate_saplings', 'nomansland:maple_sapling')
+    event.add('breakingnewground:temperate_saplings', 'malum:runewood_sapling')
+    event.add('breakingnewground:cold_saplings', 'minecraft:spruce_sapling')
+    event.add('breakingnewground:cold_saplings', 'nomansland:red_maple_sapling')
+    event.add('breakingnewground:cold_saplings', 'nomansland:pine_sapling')
+    event.add('breakingnewground:cold_saplings', 'nomansland:walnut_sapling')
+    event.add('breakingnewground:cold_saplings', 'malum:azure_runewood_sapling')
+
+// Itemize Coral Block Tags
+    let corals = get_items_by_block_tag("minecraft:corals")
+    corals.forEach(function(item, index) {
+        event.add('minecraft:corals', item)
+    })
+    corals = get_items_by_block_tag("minecraft:coral_blocks")
+    corals.forEach(function(item, index) {
+        event.add('minecraft:coral_blocks', item)
+    })
+
+// Steel Tools
+    event.add('breakingnewground:steel_tools', 'tfmg:steel_sword')
+    event.add('breakingnewground:steel_tools', 'tfmg:steel_pickaxe')
+    event.add('breakingnewground:steel_tools', 'tfmg:steel_axe')
+    event.add('breakingnewground:steel_tools', 'tfmg:steel_shovel')
+    event.add('breakingnewground:steel_tools', 'tfmg:steel_hoe')
+    event.add('breakingnewground:steel_tools', 'prospectingpicks:steel_prospector_pick')
 
 // Scorched Guns Bullet Materials
     event.add('scguns:advanced_bullet_material', 'scguns:treated_iron_ingot')
@@ -155,7 +204,7 @@ ServerEvents.tags('fluid', event => {
 
 
 })
-    ServerEvents.tags('entity_type', event => {
+ServerEvents.tags('entity_type', event => {
 // Cage and Jar Entities
         event.add('supplementaries:jar_catchable', 'minecraft:silverfish')
         event.add('supplementaries:jar_catchable', 'endermanoverhaul:spirit')
@@ -224,4 +273,19 @@ ServerEvents.tags('fluid', event => {
         event.remove('scguns:gunner', 'minecraft:husk')
         event.remove('scguns:gunner', 'minecraft:wither_skeleton')
 
+})
+
+// Categorize all ruins into one tag
+ServerEvents.tags('worldgen/structure', event => {
+    event.add('breakingnewground:ruins', 'minecraft:trail_ruins')
+    event.add('breakingnewground:ruins', '#minecraft:ocean_ruin')
+    event.add('breakingnewground:ruins', 'nomansland:alchemist_ruins')
+    event.add('breakingnewground:ruins', 'nomansland:desert_ruin')
+    event.add('breakingnewground:ruins', 'nova_structures:conduit_ruin')
+    event.add('breakingnewground:ruins', 'nova_structures:desert_ruins')
+    event.add('breakingnewground:ruins', 'nova_structures:jungle_ruins')
+    event.add('breakingnewground:ruins', 'nova_structures:remnant_ruin_farmer')
+    event.add('breakingnewground:ruins', 'nova_structures:remnant_ruin_smith')
+    event.add('breakingnewground:ruins', 'nova_structures:ruin_town')
+    event.add('breakingnewground:ruins', 'nova_structures:wild_ruin')
 })

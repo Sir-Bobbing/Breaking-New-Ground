@@ -25,6 +25,7 @@ ItemEvents.modification(event => {
 
   event.modify('architects_palette:rotten_flesh_block', item => {
     item.modifyFood(food => {
+        food.alwaysEdible(true)
         food.nutrition(2)
         food.saturation(0.5)
         food.eatSeconds(0.25)
