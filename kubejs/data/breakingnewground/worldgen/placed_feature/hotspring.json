@@ -1,12 +1,14 @@
 {
-  "feature": "breakingnewground:hot_spring",
+  "feature": "breakingnewground:hotspring",
   "placement": [
     {
       "type": "minecraft:rarity_filter",
-      "chance": 10000000000
+      "chance": 200
     },
     {
-      "type": "minecraft:in_square"
+      "type": "lithostitched:offset",
+      "x_offset": 8,
+      "z_offset": 8
     },
     {
       "type": "minecraft:heightmap",
