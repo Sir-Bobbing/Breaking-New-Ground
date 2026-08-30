@@ -12,6 +12,10 @@
     {
       "count": 1,
       "tag": "artifacts:artifacts"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:shulker_shell"
     }
   ],
   "input": {
