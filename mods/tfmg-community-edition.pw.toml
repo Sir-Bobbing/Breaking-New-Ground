@@ -1,0 +1,25 @@
+filename = 'tfmg-1.21.1-1.2.4b-community.jar'
+name = 'Create: TFMG Community Edition'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.4b [Community Edition]'
+
+[download]
+hash = 'c86ddf31e6a5eda21be5c5de7c405bb91c5a1768'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = 'https://www.curseforge.com/minecraft/mc-mods/tfmg-community-edition/download/8723583'
+
+[update.curseforge]
+file-id = 8723583
+project-id = 1653026
+
+[[x-prismlauncher-dependencies]]
+addonId = '676721'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'

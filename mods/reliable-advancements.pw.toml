@@ -1,20 +1,20 @@
-filename = 'reliable_advancements-neoforge-1.21.1-5.0.1.jar'
+filename = 'reliable_advancements-neoforge-1.21.1-6.2.1.jar'
 name = 'Reliable Advancements'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '5.0.1-1.21.1-neoforge'
+x-prismlauncher-version-number = '6.2.1-1.21.1-neoforge'
 
 [download]
-hash = 'f76f7fdc19a4435b6008fce7ffd8530cde4fb82312448a0f6bc67e81b23f64b9558eb275066a857af315474db7ce1beb9ef23acc7e701de65e5f0d0a45badc54'
+hash = 'bc5702c7077ae76793cc21766261682356b3535f9fe593a6d63bf3ea09e555abfd29a8801e2d37aa2b91dc56ff65ff63817cd461de4175e2cb3b10a7df2be7e4'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/xVwaUG1g/versions/mWq4hgy7/reliable_advancements-neoforge-1.21.1-5.0.1.jar'
+url = 'https://cdn.modrinth.com/data/xVwaUG1g/versions/z8gqi4xO/reliable_advancements-neoforge-1.21.1-6.2.1.jar'
 
 [update.modrinth]
 mod-id = 'xVwaUG1g'
-version = 'mWq4hgy7'
+version = 'z8gqi4xO'
 
 [[x-prismlauncher-dependencies]]
 addonId = '9s6osm5g'

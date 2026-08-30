@@ -1,7 +1,7 @@
 - [Aeronautics Propeller Blur](https://modrinth.com/mod/uKFK3MBp) by LopyLuna
 - [AeronauticsCompat](https://modrinth.com/mod/aLVC5usA) by rohan
 - [Aileron](https://modrinth.com/mod/b8kG1VGq) by Team Lodestar
-- [AlfinoLib](https://www.curseforge.com/projects/1554698)
+- [AlfinoLib](https://modrinth.com/mod/I7x1hGed)
 - [Almanac](https://modrinth.com/mod/Gi02250Z) by frikinjay
 - [AmbientSounds](https://modrinth.com/mod/fM515JnW) by CreativeMD, AriaFreeze
 - [Amendments](https://modrinth.com/mod/6iTJugQR) by MehVahdJukaar, Plantkillable
@@ -28,13 +28,14 @@
 - [Chalk](https://modrinth.com/mod/YWGP4Y1d) by mortuusars
 - [Chunk Loaders](https://modrinth.com/mod/t1VgucWo) by SuperMartijn642
 - [Chunky](https://modrinth.com/mod/fALzjamp) by pop4959
+- [Cirrus](https://modrinth.com/mod/SJDzFJH7) by jvn
 - [Cloth Config v15 API](https://modrinth.com/mod/9s6osm5g) by shedaniel
 - [Clutter No More](https://modrinth.com/mod/ewyjbmG4) by Tazer, Farcr, cassiancc
 - [Combat Nouveau](https://modrinth.com/mod/Iv3kcKZn) by Fuzs
 - [Controlling](https://modrinth.com/mod/xv94TkTM) by Jaredlll08
 - [Copper Tools & Armor Backport](https://modrinth.com/mod/J94K8VJM) by Team SmartStreamLabs
 - [Corpse](https://modrinth.com/mod/WrpuIfhw) by Max Henkel
-- [CosmeticArmorReworked](https://www.curseforge.com/projects/237307) by zlainsama
+- [CosmeticArmorReworkedForked](https://modrinth.com/mod/6cpT8CUC)
 - [Create](https://modrinth.com/mod/LNytGWDc) by simibubi
 - [Create Aeronautics](https://modrinth.com/mod/oWaK0Q19) by Simulated Team
 - [Create Aeronautics Lift Fix](https://modrinth.com/mod/wEWnF0xx)
@@ -50,8 +51,7 @@
 - [Create: Power Grid](https://modrinth.com/mod/eWiBLJ9R) by patryk3211, Da\-Negy, rvndm, casvara
 - [Create: Redstone Link GUI](https://modrinth.com/mod/GhtD1QcW) by ggrgg
 - [Create: Smart Bounds](https://modrinth.com/mod/kSok4DxT) by LiukRast
-- [Create: The Factory Must Grow](https://modrinth.com/mod/USgVjXsk) by DrMangoTea, Pepa, Luna
-- [Create: Threaded Trains](https://modrinth.com/mod/RYJzdkDr) by MrJulsen
+- [Create: The Factory Must Grow](https://www.curseforge.com/projects/1653026) by DrMangoTea, Pepa, Luna
 - [CreativeCore](https://modrinth.com/mod/OsZiaDHq) by CreativeMD
 - [Creeper Overhaul](https://modrinth.com/mod/MI1LWe93) by Artist/Creator \- Joosh, Dev \- ThatGravyBoat
 - [Cupboard mod](https://www.curseforge.com/projects/326652) by Someaddon
@@ -94,11 +94,10 @@
 - [HT's TreeChop](https://modrinth.com/mod/gHoB7SHO) by hammertater
 - [Handcrafted](https://modrinth.com/mod/pJmCFF0p) by Alex Nijjar, Kekie6
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK\_01
-- [Immersive Enchanting](https://www.curseforge.com/projects/1354719) by Alfie
+- [Immersive Enchanting](https://modrinth.com/mod/DfWQAvS4) by Alfie
 - [Immersive Paintings](https://modrinth.com/mod/6txNkua3) by Luke100000
 - [Incubation](https://modrinth.com/mod/A4Xrv60A) by Team Abnormals
 - [ItemPhysic](https://modrinth.com/mod/aT8BzaOj) by CreativeMD
-- [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) by mezz
 - [Kobolds](https://modrinth.com/mod/ufaxN0Ay) by Jusey1
 - [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz)
 - [KubeJS](https://modrinth.com/mod/umyGl7zF) by latvian\.dev
@@ -165,6 +164,7 @@
 - [TFMG x Sable Compatibility](https://modrinth.com/mod/iiew33xt)
 - [Ticks](https://modrinth.com/mod/X0B3FAp6) by vercim
 - [Tom's Simple Storage Mod](https://modrinth.com/mod/XZNI4Cpy) by tom5454
+- [TooManyRecipeViewers](https://modrinth.com/mod/yFypjcfd) by Nolij \(@xdMatthewbx\#1337\) & the Craftoria team
 - [Trading Post](https://modrinth.com/mod/8pcjMDgj) by Fuzs
 - [VS Hose Connectors](https://modrinth.com/mod/YaZEkFmd) by M\_K2525
 - [Vista](https://modrinth.com/mod/zuARv1N7) by MehVahdJukaar, Plantkillable
@@ -176,4 +176,3 @@
 - [antiportals](https://modrinth.com/mod/2IyQrutX) by Lucasmellof
 - [iChunUtil](https://modrinth.com/mod/W6ROj0Hl) by iChun
 - [lever drugster](https://modrinth.com/mod/GQNtImhh)
-- [tfmg\-fixes](https://modrinth.com/mod/JHWnRy4b) by Prosto\_Chelovechic
