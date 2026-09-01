@@ -33,5 +33,9 @@ ItemEvents.modification(event => {
         food.effect("minecraft:nausea",80,0,0.2)
     })
   })
+
+  event.modify('scguns:metal_detector', item => {
+    item.setMaxDamage(512)
+  })
   
 })

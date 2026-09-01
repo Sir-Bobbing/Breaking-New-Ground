@@ -1,0 +1,16 @@
+{
+  "type": "tfmg:casting",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "amount": 1,
+      "fluid": "tfmg:molten_slag"
+    }
+  ],
+  "processing_time": 10,
+  "results": [
+    {
+      "id": "tfmg:slag_block"
+    }
+  ]
+}

@@ -1,4 +1,6 @@
 {
   "breakingnewground.guide_name": "Information Manual",
-  "breakingnewground.info.sluice_obtainable": "Can be obtained by slucing. Check uses for sluice grate for more details."
+  "breakingnewground.info.sluice_obtainable": "Can be obtained by slucing. Check uses for sluice grate for more details.",
+  "breakingnewground.info.circuit": "Circuits are dropped by the Scamppanzer boss which can be summoned via a Scamppanzer Transmitter",
+  "breakingnewground.info.cog_drops": "Rare drops from Cog mobs"
 }

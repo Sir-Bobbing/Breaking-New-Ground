@@ -92,10 +92,14 @@ ServerEvents.tags('item', event => {
     event.add('breakingnewground:steel_tools', 'prospectingpicks:steel_prospector_pick')
 
 // Scorched Guns Bullet Materials
+    event.removeAll('scguns:advanced_bullet_material')
+    event.removeAll('scguns:advanced_bullet_tips')
+    event.removeAll('scguns:stan_bullet_tips')
+    event.removeAll('scguns:standard_bullet_material')
     event.add('scguns:advanced_bullet_material', 'scguns:treated_iron_ingot')
     event.add('scguns:advanced_bullet_material', '#c:ingots/steel')
     event.add('scguns:advanced_bullet_tips', 'scguns:hardened_bullet')
-    event.add('scguns:advanced_bullet_tips', 'scguns:treated_iron_ingot')
+    event.add('scguns:advanced_bullet_tips', 'scguns:treated_iron_nugget')
     event.add('scguns:advanced_bullet_tips', '#c:nuggets/steel')
     event.add('scguns:stan_bullet_tips', '#c:nuggets/lead')
     event.add('scguns:stan_bullet_tips', 'scguns:standard_bullet')
@@ -109,15 +113,15 @@ ServerEvents.tags('fluid', event => {
 
     ServerEvents.tags('block', event => {
 // Weeping
-        event.add('c:ores', 'malum:primordial_soup')
-        event.add('c:ores/weeping', 'malum:primordial_soup')
+    event.add('c:ores', 'malum:primordial_soup')
+    event.add('c:ores/weeping', 'malum:primordial_soup')
 
 // Rubbery
-        event.add('stoat:rubbery', 'tfmg:asphalt')
-        event.add('stoat:rubbery', 'tfmg:asphalt_slab')
-        event.add('stoat:rubbery', 'tfmg:asphalt_stairs')
-        event.add('stoat:rubbery', 'clutternomore:tfmg/vertical_asphalt_slab')
-        event.add('stoat:rubbery', 'clutternomore:tfmg/asphalt_step')
+    event.add('stoat:rubbery', 'tfmg:asphalt')
+    event.add('stoat:rubbery', 'tfmg:asphalt_slab')
+    event.add('stoat:rubbery', 'tfmg:asphalt_stairs')
+    event.add('stoat:rubbery', 'clutternomore:tfmg/vertical_asphalt_slab')
+    event.add('stoat:rubbery', 'clutternomore:tfmg/asphalt_step')
 
 // Enderman pickup blacklist
     event.removeAll('minecraft:enderman_holdable')
@@ -202,7 +206,41 @@ ServerEvents.tags('fluid', event => {
     event.removeAll('lootr:convert/sands')
     event.removeAll('lootr:convert/gravels')
 
+    // Metal Detector
+    event.add('scguns:metal_detectable', '#c:ores/iron')
+    event.add('scguns:metal_detectable', '#c:ores/copper')
+    event.add('scguns:metal_detectable', '#c:ores/gold')
+    event.add('scguns:metal_detectable', '#c:ores/zinc')
+    event.add('scguns:metal_detectable', '#c:ores/anthralite')
+    event.add('scguns:metal_detectable', '#c:ores/lead')
+    event.add('scguns:metal_detectable', '#c:ores/nickel')
+    event.add('scguns:metal_detectable', '#c:storage_blocks/raw_iron')
+    event.add('scguns:metal_detectable', '#c:storage_blocks/raw_copper')
+    event.add('scguns:metal_detectable', '#c:storage_blocks/raw_gold')
+    event.add('scguns:metal_detectable', '#c:storage_blocks/raw_zinc')
+    event.add('scguns:metal_detectable', '#c:storage_blocks/raw_anthralite')
+    event.add('scguns:metal_detectable', '#c:storage_blocks/raw_lead')
+    event.add('scguns:metal_detectable', '#c:storage_blocks/raw_nickel')
+    event.add('scguns:metal_detectable', 'spelunkery:raw_magnetite_block')
+    event.add('scguns:metal_detectable', 'malum:cthonic_gold_ore')
+    event.add('scguns:metal_detectable', 'tfmg:bauxite')
 
+    // Prospecting Pick Stones
+    event.add('c:stones', 'minecraft:blackstone')
+    event.add('c:stones', 'minecraft:dripstone')
+    event.add('c:stones', 'minecraft:calcite')
+    event.add('c:stones', 'nomansland:quartzite')
+    event.add('c:stones', 'malum:smooth_twisted_rock')
+    event.add('c:stones', 'architects_palette:warpstone')
+    event.add('c:stones', 'scguns:phosphorite')
+    event.add('c:stones', 'create:limestone')
+    event.add('c:stones', 'create:scoria')
+    event.add('c:stones', 'create:crimsite')
+    event.add('c:stones', 'create:veridium')
+    event.add('c:stones', 'create:ochrum')
+    event.add('c:stones', 'create:asurine')
+    event.add('c:stones', 'tfmg:lignite')
+    event.add('c:stones', 'tfmg:galena')
 })
 ServerEvents.tags('entity_type', event => {
 // Cage and Jar Entities

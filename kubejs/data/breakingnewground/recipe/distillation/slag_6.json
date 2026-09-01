@@ -1,0 +1,36 @@
+{
+  "type": "tfmg:distillation",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "amount": 50,
+      "fluid": "tfmg:molten_slag"
+    }
+  ],
+  "results": [
+    {
+      "amount": 9,
+      "id": "kubejs:molten_lead"
+    },
+    {
+      "amount": 9,
+      "id": "kubejs:molten_gold"
+    },
+    {
+      "amount": 8,
+      "id": "kubejs:molten_zinc"
+    },
+    {
+      "amount": 6,
+      "id": "kubejs:molten_copper"
+    },
+    {
+      "amount": 4,
+      "id": "kubejs:molten_nickel"
+    },
+    {
+      "amount": 4,
+      "id": "kubejs:molten_iron"
+    }
+  ]
+}
