@@ -309,8 +309,8 @@ file = "config/reliable_advancements.json"
 hash = "607a7f9015802b3443d50c161f10dca0b2660791642b8f1e11896493f04d97c5"
 
 [[files]]
-file = "config/reliable_advancements_layout.json"
-hash = "e7f02a6de383e5b724dbf8340fb289745dacd18bafc10b4333138f0f112594f5"
+file = "config/reliable_advancements_edits/tabs.json"
+hash = "f34b5a31070af0f6c32f98450b28a30ff836cfeee1c422063c7061fb2335b884"
 
 [[files]]
 file = "config/reliable_recipes/recipe_rules.json"
@@ -1007,26 +1007,6 @@ hash = "7181a2c9d613ff15e7f1c8e4ff7862e8044a12ec1edb1196566eacd201ed8b88"
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/edition.png"
 hash = "97914b96a3ee48c31541969f81b095459826aace69e893403347d1a2695feaf7"
-
-[[files]]
-file = "kubejs/assets/reliable_advancements/textures/gui/inventory_button.png"
-hash = "7ab164da74d02a28402aef3ad51be106f94c56f0f808c68c0a475c6c399a5c63"
-
-[[files]]
-file = "kubejs/assets/reliable_advancements/textures/gui/inventory_button_highlighted.png"
-hash = "bbade67f99d8d0233594df01dbe735fa3ca36f8e8f1f9de378cd6e0cc3d9c070"
-
-[[files]]
-file = "kubejs/assets/reliable_advancements/textures/gui/tabs.png"
-hash = "1d4ec8e1bd26e6b27b032c48b79bc0e6fe89fb6d5e09dba2e5601220d1a20807"
-
-[[files]]
-file = "kubejs/assets/reliable_advancements/textures/gui/window.aseprite"
-hash = "37e0200c8aaa00cff88076ecbb0fc0daa464aa4ec6d97a19bd3e96c2436d54d0"
-
-[[files]]
-file = "kubejs/assets/reliable_advancements/textures/gui/window.png"
-hash = "ddfbc337db95669b718f5089c43dceb01223e88427ecae7cec309567a4a5ae3c"
 
 [[files]]
 file = "kubejs/assets/scguns/lang/en_us.json"
@@ -3851,6 +3831,11 @@ hash = "96466749f4543bfe3df41fe1f78dd2c8a37ea0698ac1a80e52ffaed1e9e2153f"
 metafile = true
 
 [[files]]
+file = "mods/clientsort.pw.toml"
+hash = "cb8e1fd06a6aa4bf732a4ebc64d9073669b998cbef5be25dbbeac1ba9a25311e"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c9f5811e9b12ef54fe3bca7ec48f4d3a792b74a6d58c50c8a00194af6dfe5fae"
 metafile = true
@@ -4546,7 +4531,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfmg-community-edition.pw.toml"
-hash = "d2d5d957fc2a70ba221564355424376ba0ac79f76c67eac592f5fae24ceb43d8"
+hash = "f4a92a4a75cf824917ed855cd2e6e7502bbd95ef88cf1c49fa7bd03f2fe6ca80"
 metafile = true
 
 [[files]]
