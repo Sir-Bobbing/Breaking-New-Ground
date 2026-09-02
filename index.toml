@@ -294,7 +294,7 @@ hash = "d35240784629fa5f8483949c7d58cbcee4ce79e5e548afcc052cc7fbb9ec5367"
 
 [[files]]
 file = "config/prospectingpicks-common.toml"
-hash = "959ccd77ccff958d6626fcf5ee2fa8f84aaf15608af12dab6e3b8f5105820f25"
+hash = "19eb5443c567112a196a0ea88cb7d14fc80fcfb595bbc9756e3367aa37a8d9dc"
 
 [[files]]
 file = "config/randomenchantfix-common.toml"
