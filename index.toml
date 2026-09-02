@@ -4061,6 +4061,11 @@ hash = "f6dba26447fef46f0b7d65ce8a6acded51ce176166b85850149e92014d6df36f"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "cbc759f04fdc36b0938869c4863f8e37ff758eaed057aa3dfc8c9b3c64441bcd"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "b5d48ae059b24373c2cea6ac8c67cddd8ba28dbab66a393990bd33c3fe3392d7"
 metafile = true
@@ -4093,11 +4098,6 @@ metafile = true
 [[files]]
 file = "mods/envelope.pw.toml"
 hash = "5187caf079335f79477cae4a7e67a32598c7e7c563d45967028ec440a2435590"
-metafile = true
-
-[[files]]
-file = "mods/essential.pw.toml"
-hash = "8a8534c12082f49dda03637421d933ee52f7f09ce7e77df83aa3ebb546fa0010"
 metafile = true
 
 [[files]]
@@ -4158,11 +4158,6 @@ metafile = true
 [[files]]
 file = "mods/glows.pw.toml"
 hash = "71cab604dbb897585ee1ceb6eafb295690a2d78ab43ae4cb0013414745ab816a"
-metafile = true
-
-[[files]]
-file = "mods/gpushift.pw.toml"
-hash = "4ff08ae6bf939554ed7ae4c00bc7f344e82f249de8ff2b8ddd6737490da84376"
 metafile = true
 
 [[files]]
