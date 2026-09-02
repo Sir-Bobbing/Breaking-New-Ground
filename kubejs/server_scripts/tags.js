@@ -112,9 +112,13 @@ ServerEvents.tags('fluid', event => {
 })
 
     ServerEvents.tags('block', event => {
-// Weeping
+// Prospecting pick ore tagging
     event.add('c:ores', 'malum:primordial_soup')
     event.add('c:ores/weeping', 'malum:primordial_soup')
+    event.add('c:ores', 'tfmg:crude_oil')
+    event.add('c:ores', 'tfmg:oil_deposit')
+    event.add('c:ores/oil', 'tfmg:crude_oil')
+    event.add('c:ores/oil', 'tfmg:oil_deposit')
 
 // Rubbery
     event.add('stoat:rubbery', 'tfmg:asphalt')

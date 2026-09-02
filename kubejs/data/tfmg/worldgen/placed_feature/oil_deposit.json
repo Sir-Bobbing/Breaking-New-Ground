@@ -1,16 +1,16 @@
 {
-  "feature": "tfmg:oil_well",
+  "feature": "tfmg:oil_deposit",
   "placement": [
     {
       "type": "minecraft:rarity_filter",
-      "chance": 700
+      "chance": 40
     },
     {
       "type": "minecraft:count",
       "count": {
         "type": "minecraft:uniform",
         "min_inclusive": 1,
-        "max_inclusive": 2
+        "max_inclusive": 4
       }
     },
     {
