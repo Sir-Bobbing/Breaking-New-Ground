@@ -1,6 +1,6 @@
 filename = 'cupboard-1.21.1-4.1.jar'
 name = 'Cupboard mod'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
