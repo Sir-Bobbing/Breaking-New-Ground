@@ -2854,6 +2854,10 @@ file = "kubejs/data/nova_structures/advancement/root.json"
 hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
 
 [[files]]
+file = "kubejs/data/nova_structures/worldgen/structure/bunker.json"
+hash = "3b10cdce4b806295fd13256bf22f0fe0be17670f278616458cda67ecfc3bf82f"
+
+[[files]]
 file = "kubejs/data/powergrid/advancement/acid.json"
 hash = "0439fcb342588124844bbc49b4f20058e6b913c8665e2326c1f3b2ef57cc8d30"
 
@@ -3670,8 +3674,16 @@ file = "kubejs/server_scripts/respawn.js"
 hash = "f2432b2ae1d81e8ad2008b3c9f7a93eefc9942c0ec2389433f32e7e6190cdcbf"
 
 [[files]]
+file = "kubejs/server_scripts/skeleton_pierce.js"
+hash = "d3123fcb39399659d0a99b3d634f12767ec03810be6a4d5bb424a0ec4bc3db44"
+
+[[files]]
 file = "kubejs/server_scripts/tags.js"
 hash = "6bf8570eee9fc012072b76b159d9714bf428cbc42431037946fa933192192df5"
+
+[[files]]
+file = "kubejs/server_scripts/zombie_axe.js"
+hash = "577993ef0892635c67619a578f8665e3953bdfb65acc16b6677b0fc2a5b75e82"
 
 [[files]]
 file = "kubejs/startup_scripts/block_modification.js"
