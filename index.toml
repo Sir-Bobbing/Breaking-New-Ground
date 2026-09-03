@@ -86,7 +86,7 @@ hash = "3986996799bcb156e9fefb25ec31ce9497ae5eec98109672dcde58af97c97a26"
 
 [[files]]
 file = "config/cirrus-client.json"
-hash = "e647efbb84e0352706aec900674c92ac440d60ffada1f66dea9c4361447b370f"
+hash = "27ba1efdaff3ddb36da4f16058df0b1f99201443fd85740804c7f142f3c276ee"
 
 [[files]]
 file = "config/combatnouveau-client.toml"
@@ -1400,6 +1400,10 @@ hash = "46577abfe051008371e420079547916729056771e68f3867f0bbc64ed3151498"
 [[files]]
 file = "kubejs/data/breakingnewground/recipe/crafting/andesite_alloy_from_copper.json"
 hash = "94c457be997a99c88502270b283f5e41fa18b13e3e12d1c2fae3325c3bf80c33"
+
+[[files]]
+file = "kubejs/data/breakingnewground/recipe/crafting/beacon.json"
+hash = "9582a720426995e41491a47fc8c6d07415d9f3aef3a9678779d0f78e9d920a73"
 
 [[files]]
 file = "kubejs/data/breakingnewground/recipe/crafting/chainmail_boots.json"
@@ -3050,6 +3054,10 @@ file = "kubejs/data/scguns/recipe/create/diamond_steel_ingot_from_mixing.json"
 hash = "d3a23cf3d21a929fae0ac377cfda422d77990a15c3eef43b555d23c767eac71e"
 
 [[files]]
+file = "kubejs/data/scguns/recipe/create/nether_star_fragment.json"
+hash = "c6d23f8178cef3fed2c46ceddcd269a86bbb13efc0de364133a9b5e8672eabaa"
+
+[[files]]
 file = "kubejs/data/scguns/recipe/create/nitro_powder_from_mixing.json"
 hash = "79e313da3be00c9d1ee2f53b9e68cef876efee08620f7d8d8b3bd12b2c906c7f"
 
@@ -3683,7 +3691,7 @@ hash = "6bf8570eee9fc012072b76b159d9714bf428cbc42431037946fa933192192df5"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_axe.js"
-hash = "577993ef0892635c67619a578f8665e3953bdfb65acc16b6677b0fc2a5b75e82"
+hash = "18e35a4811b0a064870720b3c42bacb1461800ad43f65b4b192f0ead1446540e"
 
 [[files]]
 file = "kubejs/startup_scripts/block_modification.js"

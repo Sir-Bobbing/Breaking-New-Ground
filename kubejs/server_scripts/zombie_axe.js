@@ -14,7 +14,7 @@ EntityEvents.spawned(event => {
     let id = event.entity.type
     if (id == "minecraft:zombie" || id == "minecraft:husk") {
         let mob = event.entity
-        if (Math.random() < (mob.isBaby() ? 0.5 : 0.25) && mob.getItemBySlot('mainhand').isEmpty()) {
+        if (Math.random() < (mob.isBaby() ? 0.25 : 0.125) && mob.getItemBySlot('mainhand').isEmpty()) {
             let index = Math.floor(Math.random() * (mob.isBaby() ? 2 : axes.length))
             console.log(index)
             mob.setItemSlot('mainhand', axes[index])
