@@ -197,6 +197,10 @@ file = "config/everycomp-common.toml"
 hash = "6ecab953789d91c8100bbad6195ca4e9966dd73049be083070e57e484440fe24"
 
 [[files]]
+file = "config/everycomp-entries.toml"
+hash = "fa3280e12e9465dfa56ca9fcef3c083b6f39fae358beb0729bea328a50c66f4a"
+
+[[files]]
 file = "config/everycomp-hazardous.toml"
 hash = "f306d0ca39ff5dffc0d71715d651f3fabdceafce6978bce78e3c30a73a15adc9"
 
@@ -3789,7 +3793,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "a14f245fbb84696e37a9388448f0b729023f64f2e8618159625dde7256759eee"
+hash = "2139e4ef00aa3c8e3930221a6127784e6b24465764245ee5d3b70f29419d39b3"
 metafile = true
 
 [[files]]
@@ -3954,7 +3958,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "5d93a190bda6b04a10042d32315ddb5a3e19e67ab3b6e5eac33ffbc5d8c74520"
+hash = "58c10eda16fd9f21b31de86c0dfd97c49e1fd96f9b6082a5bdd1035251cc53ba"
 metafile = true
 
 [[files]]
@@ -4244,7 +4248,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "a0287d88a8e5bff420878c3f3c6cb25caf99a15f7e1b5b6752c434a7c0acbed5"
+hash = "67aa69df84506e382ab35aee7923dd2021141bbeab6c17dc9f51b0989d9f9abb"
 metafile = true
 
 [[files]]
@@ -4304,12 +4308,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "906443d0ee3798d5d7ce38994ba8b992c114e009f55f8c43841f39443570222a"
+hash = "67036ae8d42f13d0370a40ded80dea42bf29fb388921e4cf76f5b6d5f37f3275"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "fe88524bca8b391965d097a79350b9150b30ec949255b3d16f3bcb12a473906d"
+hash = "fa9828b4ecf9c6cbbc578c08fd034d3fff56a6b373e28aba94b2f34d93ba20a1"
 metafile = true
 
 [[files]]
@@ -4378,7 +4382,7 @@ hash = "c8aac0436c1345e27a4cc3b672943a2906dfe0738eda53f824a46277eb21ec9d"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "2dabf332a4076fe03a4519aba703cb9ea472fad79e8ee696d9feb9abc8a8ad0a"
+hash = "78ca14f15b4e28f756dbf2c4c55beedaf3a4917e6015c2b06cf8b3270a9b5eff"
 metafile = true
 
 [[files]]
@@ -4398,7 +4402,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-advancements.pw.toml"
-hash = "1cc23d10980c9cc1d27ec5f1714db0ddf0466d9c2d30e13e07bc6358cb7eb86f"
+hash = "ae5ca4845f39dfe5ec388769cf39b124218223c17f85d32792a36af6c2888d70"
 metafile = true
 
 [[files]]
@@ -4408,7 +4412,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "8f2c0571fd60cf76f07285630a60ea6270ec7960fed1981b463d74b3be00ecca"
+hash = "86b74255aaa094c62dc3e316e2edaf05bef041a9b9700f2d76b697bc21b31425"
 metafile = true
 
 [[files]]
@@ -4533,7 +4537,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "680b433d98c343c8e19ae383f110e2a37d7e95133b6d2c51a21a9c3eb0938b26"
+hash = "4e1572dc05a0164a7982e7f5acc91f26564bcf5bd031536d66aa7384d21a2244"
 metafile = true
 
 [[files]]
