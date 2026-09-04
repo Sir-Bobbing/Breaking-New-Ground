@@ -119,6 +119,7 @@ ServerEvents.tags('fluid', event => {
     event.add('c:ores', 'tfmg:oil_deposit')
     event.add('c:ores/oil', 'tfmg:crude_oil')
     event.add('c:ores/oil', 'tfmg:oil_deposit')
+    event.add('c:ores/deposits/redstone', 'spelunkery:calcite_redstone_ore')
 
 // Rubbery
     event.add('stoat:rubbery', 'tfmg:asphalt')
