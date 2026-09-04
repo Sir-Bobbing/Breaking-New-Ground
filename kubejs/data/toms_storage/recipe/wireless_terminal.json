@@ -2,15 +2,15 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
   	"PTP",
-    "PEP",
+    "PGP",
     "PCP"
   ],
   "key": {
   	"C": {
-      "item": "tfmg:circuit_board"
+      "item": "powergrid:electrical_gizmo"
     },
-    "E": {
-      "item": "create:electron_tube"
+    "G": {
+      "tag": "c:glass_blocks/colorless"
     },
     "P": {
       "item": "tfmg:plastic_sheet"

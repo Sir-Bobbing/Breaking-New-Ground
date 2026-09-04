@@ -4,9 +4,12 @@
 
  If you've found this pack. I hope you enjoy it.
  
- **[Notice]** it is NOT recommended you assume you can play this one like a normal run of Minecraft. Ore generation has been significantly changed!
+> [!NOTE]
+> it is NOT recommended you assume you can play this one like a normal run of Minecraft.</br>
+> Ore generation has been significantly changed!
  
- **[Notice]** Reading the ingame manual/guide is highly recommended. If you ignored you will likely be very confused!
+> [!TIP]
+> Reading the ingame manual/guide is highly recommended. If you ignored you will likely be very confused!
  
 # Installation 
 To start. you will need either MultiMC or Prismlauncher to Install the modpack.
