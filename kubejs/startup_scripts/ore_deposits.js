@@ -7,35 +7,42 @@ const oreBlocks = [
     {
         id: 'copper',
         stone:'veridium',
-        vein:true
+        vein:true,
+        stoneTier:true
     },
     {
         id: 'iron',
         stone:'crimsite',
-        vein:true
+        vein:true,
+        stoneTier:true
     },
     {
         id: 'iron',
         stone:'tuff',
-        vein:true
+        vein:true,
+        stoneTier:true
     },
     {
         id: 'iron',
         stone:'dripstone',
+        stoneTier:true
     },
     {
         id: 'gold',
         stone:'ochrum',
-        vein:true
+        vein:true,
+        ironTier:true
     },
     {
         id: 'gold',
-        stone:'quartzite'
+        stone:'quartzite',
+        ironTier:true
     },
     {
         id: 'lapis',
         stone:'calcite',
-        vein:true
+        vein:true,
+        stoneTier:true
     }
 ]
 
@@ -68,8 +75,10 @@ function addOreBlock(event, block) {
     .requiresTool(true)
     .tagBlock('minecraft:mineable/pickaxe')
     .tagBlock('c:ores')
-    .tagBlock((block.vein ? 'c:ores/deposits/' : 'c:ores/') + block.id)
-    
+    .tagBlock('c:ores/' + block.id)
+    if (block.vein) { builder.tagBlock('c:ores/deposits/' + block.id) }
+    if (block.stoneTier) { builder.tagBlock('minecraft:needs_stone_tool') }
+    if (block.ironTier) { builder.tagBlock('minecraft:needs_iron_tool') }
 }
 
 StartupEvents.registry('block', event => {
