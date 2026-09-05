@@ -565,6 +565,330 @@ file = "kubejs/assets/emi/recipe/additions/cog/cog_drops.json"
 hash = "d6a980d2ead24991df5f0bf7d321121d23fc65922b5e0f25482b97d70fddb4eb"
 
 [[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/aileron/cloudskipper.json"
+hash = "9587c9f63f65c6f5c84e249d1ee2266c0e4f6690a0abf44458a8d754b995b6eb"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/aileron/smokestack.json"
+hash = "c7381d779a5e4ae3615e53d0257877e87a3ef4ffffbf1a7fcbb57ed7ae922ed4"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/create/capacity.json"
+hash = "da9572100c0591f3768013bed3860e84d58250f32b99640e1981ee11df7d35ab"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/create/potato_recovery.json"
+hash = "693e980c2f1253118e030c63f246326832626037e4a862e6be1620e366a4d38f"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/farmersdelight/backstabbing.json"
+hash = "d8db2a1d0e9ad0e7f815bea55f28f16ceb7dd22282c280e03b08f79ef8e10eb6"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/kobolds/prospector.json"
+hash = "1adff4dd02eb6c135c4f12f3fdf01558058362e508a0d0aa5ef1b91fcb4362a8"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/malum/animated.json"
+hash = "a783a952f148b8367cd785d30ee6cdc63b52797d859dbec17f6ecaf49b2b6279"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/malum/ascension.json"
+hash = "22883495385cbdaf1b79fd8bc46ae3dc4230e3f10398be447950bd611b23ac51"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/malum/capacitor.json"
+hash = "2078a9e73c0ca868498eb2bcdb996cdbcdfe2b77d51bd731adb86d1604e34bbf"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/malum/haunted.json"
+hash = "f59195ae247d72b7c8860fca6b8c5aefb61982b80e211341e7c33b7a8a9e6c4a"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/malum/rebound.json"
+hash = "9a701d1ac6dcb8715d916ee6f68a0aa6df91e2629ccccdf1dd43078a956a8b82"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/malum/replenishing.json"
+hash = "b77443c71dbb3911dfd7a517ea964c610f3066976c8cf23b1f509b2ea66323e9"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/malum/spirit_plunder.json"
+hash = "98780566b19df3d62879513dc2a5523e72d516dca029f1a91bbb1b38fb74b9da"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/malum/weavers_haste.json"
+hash = "c3f0d785dd9db064d59256d1957d7a0599f672ce278df91ea46cf7ad4af6d9b0"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/malum/weavers_propagation.json"
+hash = "8c6b497e7f3d103efd51e354cd08d12adf66b2f3ac1b8852ba97b2838820dc24"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/aqua_affinity.json"
+hash = "a53cd555af736757a248eb7997e0263929e7ad759c5f0a25d395c45f928f3f14"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/bane_of_arthropods.json"
+hash = "417623612609f877bab1dc5ddfd06e2758c201e236ce1fef83d0ae7e82cf79ac"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/blast_protection.json"
+hash = "e29482f14faf3840228f40e19489a1165db17c02e87bcd5620a9bf97d25cb7af"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/breach.json"
+hash = "bb984838b0377bb3ee3960c2f56d1fe9ab2657750505909b1656434d16812094"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/channeling.json"
+hash = "e83a88866586099e1fff958309e997dda1a74e7b9633ffb7d07e01faddf7181a"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/density.json"
+hash = "4d374cd4483be6148e0848d6536fe887da4fb7b6c69aca77e560f2b50fe89489"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/depth_strider.json"
+hash = "8bc97deb156f153961299e163a782bbb55e6723d2d132e87fe5c9f51a2367785"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/efficiency.json"
+hash = "a916dee74be545412833a7d835ca5a8356bbec0e42296775b6f2f29fbcf44a5d"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/feather_falling.json"
+hash = "75079e08d68b6cda5a6eee48cbb8668ff2a391921879f095c3197a92b8a36af2"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/fire_aspect.json"
+hash = "8db234fc640f1611688f2b03f5f33d2037700b2a66e31a687fdb0d0d7ec5f216"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/fire_protection.json"
+hash = "e59a5c9092e37172818a19b441716c9f918c14b9fe733393f04bfd7a90e2b3cd"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/flame.json"
+hash = "88807a60d5939060c21450f67a6b998b7cde81110f4815957cc3ee9fb7629731"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/fortune.json"
+hash = "d897c46efa04124d5c2d86008254c8ca2eb33659579f5b2b957e3d9e1707736d"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/frost_walker.json"
+hash = "812cd7e40ef986e48bab4c485ab5f9cede8e1c4a793ba80cd58ea35bf315b4a5"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/impaling.json"
+hash = "ceac2bfc438548dc8f1024b28cdf4f206925f3521682bb14c17786d5327ff5a2"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/infinity.json"
+hash = "92ca228284472e4906579259f87d801c53e2ca7e19e54f64d5916f9850906157"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/knockback.json"
+hash = "f1b696260ab2ffff32cb08fbc3b71c486c2839cbde9eef1ac00b575915f18e05"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/looting.json"
+hash = "f03fd30a1c20a78b3083754f7558efab72a28dcc527e7b535e5f9caf4fb5f306"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/loyalty.json"
+hash = "684ee00b5d5fa2198ff0b9cc9d857f23d5b6695b7915df1c647ebb0aaad39620"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/luck_of_the_sea.json"
+hash = "03214fd048effcdad990a61c789d8a8f685344d67ce277a1df58e3e60c4dbb97"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/lure.json"
+hash = "a258b57cb1a7193adfe76f2a83bb43a60427511d3ef420fe2018924ab8a2a487"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/multishot.json"
+hash = "e1e3fa9f50ab8244c0614177b67c161040a377439c0e400e323ce190930d83f4"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/piercing.json"
+hash = "6ed92d03e5536c790f593ad19616005e5590b984278fe2b85b3ab9966a8650b9"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/power.json"
+hash = "e9d8f3ee764e6cee0d9287926b735fef5906a845c34e7f5ec8c945d988c4f45a"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/projectile_protection.json"
+hash = "14d45ef8265722276186866a1b1cb57b5d2639da628edd232c6e64a6eb480566"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/protection.json"
+hash = "bac8f3e9d57aa5b6e5e4fd8ef9a72d47d857ecd969e3e1097e9c5c06a567b481"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/punch.json"
+hash = "9a9d5dbcb576ecc79d447696d817cde5298798ef366b307d43fb1816ea550f6e"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/quick_charge.json"
+hash = "f0b3c3216e5c194b045bc29e08d9fb677390d8f87e467be3c7de7c28f96c6160"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/respiration.json"
+hash = "8ce8fe597200684cd811f6c4ad4381592f8bf3652cc3ee27ca2b2cb049335e6e"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/riptide.json"
+hash = "d6f10aa06cd27f8be1730933b3f467ce2dabf84ef9c59265382923dfa63d4548"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/sharpness.json"
+hash = "bc37ab0f13344717f760a7ce4e1ed6c76b9aee42a5df23278634fc22441ab4f5"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/silk_touch.json"
+hash = "3950e06aed49f6ca47822d31d4281ae63167f18b7230837e55c3051063f255bc"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/smite.json"
+hash = "899ea59c210351782ab846bc7341ce683d717e749b8c36759bd057bd9ce134a4"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/soul_speed.json"
+hash = "a2727369ab2e6e7a2e8c83d4ef0d64df51df4a11f083e27107f93a26cccf2872"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/sweeping_edge.json"
+hash = "35809fcb26c205cc72af24348edbb15aa98b98ba58de571b28d72abee00d461f"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/swift_sneak.json"
+hash = "a8dcfc65c2bb46a01ffe67bc215bc0497730cb900740c913b10ab159c0ee6471"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/thorns.json"
+hash = "065b9d4ac2f8f967f814459d4a89b77ae8a3c1a4280782ae1ea733fffbfd7a81"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/unbreaking.json"
+hash = "65dc0f7d8e4e0e8fd38a724c6f51958f99df503029dc1bea231ae6b1bf8dd0d2"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/wind_burst.json"
+hash = "12dd654195b5e893fbc17157078ee1f807c12315a3fec464fa45adf7dc2e2ba9"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/antidote.json"
+hash = "727917a6e0cc26bdcb4a0fca9572998527f352abd900b282467a687ecaf4a12e"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/conductivity_curse.json"
+hash = "1c9f0eae70468a5ce02d3caf1ac3b480214d1c39b3f38995f0d69ea4a89c994c"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/ghasted.json"
+hash = "e6686e42e317e30f1d3d8f350eb7372ec98237e9b2beae0ecee6c65fccfb73d1"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/gravity.json"
+hash = "2f49d89f0e7ddb44ed64f1f0e5ab01fa70d687c1db102a74b79bb6b32e393d31"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/illagers_bane.json"
+hash = "638f41159eedbacd6a57eae63ecb04934ba8684985ef59755e26d901b4f34886"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/multishot.json"
+hash = "af6243e5d3908974260203cc04f169883d75572507fa625d460215407b6d7429"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/outreach.json"
+hash = "4c60fe26cd02537c8a92fa3df095c3301b3b13ec5a418d29bd0968b01e054221"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/piercing.json"
+hash = "8dd1c79a1931b92cbc9d37e365ebfe7771fc5252e04cde3a38956f90da2ebee5"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/power.json"
+hash = "dc4244da996c709f3a6bfa200476984cee2456a4f9a13c389e8a712f736555d9"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/traveler.json"
+hash = "fe547d50e93ca30b6ac18680f6411526cd0fc2cd3d510a172a932e7418399f98"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/wax_wings.json"
+hash = "7502ebcbc663c1c2e61ae64fe0f371952c8a39b2c2e0be1c446506454483bca8"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/wither_coated.json"
+hash = "7bbd8bc081b83f793f6a7050be8d35208aa93662dc85dad5b5c14569afd31a0b"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/accelerator.json"
+hash = "137dfb81b022d417544e1cd64edf9673b26aa410d26146840c4e25fb9dfc680d"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/banzai.json"
+hash = "4a0192304608ee902209d6f46e7f91c726babe39dd5df43cfc688bf343a12b3d"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/collateral.json"
+hash = "2236da3b8cfa7c0aaf3dfeee4b4a921b7121c8d337f14bad3b0ad94e31484f1e"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/corroded.json"
+hash = "4a13e2001937d3d45f56035ba3b65f7294429f3bbe5a5429888cb0add52b3e8e"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/elemental_pop.json"
+hash = "46ae3409079e0b235478717590b505f18d499beef9436c342cc1df6f5b4b813e"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/heavy_shot.json"
+hash = "74a7eebc6e8a25c4697ec5cc26773e0da0aacfa813e2892d82f7f28ea60acfb4"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/hot_barrel.json"
+hash = "2ec21a2bbda18cf234e23fa66ee48f781c8fa5a1d21c7034ea2d0f8af4ffaf5e"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/lightweight.json"
+hash = "4a60fc97b893a24f72a7a5c397e0b2163fce35e255f867e184e291a46bf41084"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/puncturing.json"
+hash = "083578b600264e1fe0e1e5608ea34f8888187a4799671d9ab70f0e9aab56b8a3"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/quick_hands.json"
+hash = "6a78c375073335f7e75b19da71c896652a77307becb6a8b3075d3948b40d5d82"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/reclaimed.json"
+hash = "cb2d28ef801716aa04d2ba7dfcfb7f16e6f229fc4f0cdf4c48e43f5dc0bb2c8d"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/shell_catcher.json"
+hash = "90f0e8aef7babf6aa5d63e5cdad39bd754ea9b20041267881f71fcd96f1272aa"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/trigger_finger.json"
+hash = "9183ff48af49f4e1618e5ad84d5c91ae9060e01694f3b5d3cf0de321e3efc3a4"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/waterproof.json"
+hash = "53f843b1296dbf100c7b1bec8183569d6fcda61e656ecba9b1810727335b0acd"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/supplementaries/stasis.json"
+hash = "e3ba4afe31ab0b279fa586b7491735092ca3183ded7506858f414cf55f243a4f"
+
+[[files]]
 file = "kubejs/assets/emi/recipe/additions/sluice/crude_oil/passive.json"
 hash = "576203450ff61c3275f377b7d602ac1bd0ad838f2c0cbcdd39f898194276e219"
 
@@ -2048,10 +2372,6 @@ hash = "7438a078e356122906e01129ba53bca7a1616ea18c0f359ffae31c279f5989ca"
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/aileron/smokestack.json"
 hash = "865ab9246724cb16a73be5ca09f032011dc3b982ec5607bebf221bb7da0caa26"
-
-[[files]]
-file = "kubejs/data/immersiveenchanting/enchantment_costs/bagofholding/preservation.json"
-hash = "675d745db95e3c1acae55fcdbadf40bc73cc9e81f8d40160e333fd182f3ae974"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/create/capacity.json"
@@ -3870,6 +4190,10 @@ file = "kubejs/data/vista/recipe/television.json"
 hash = "1ba8d4ec7b26b83912a823e602839d76a30c2b483cc37d3c625714c622d0898b"
 
 [[files]]
+file = "kubejs/immersive_enchanting_datagen.py"
+hash = "bf0884e21ee590090403b34bbcb2f41c9aac0437d58b59e23475dee325875b3e"
+
+[[files]]
 file = "kubejs/package.json"
 hash = "3d04369a44dc75f6a70dfc51080beb357eb39b395a2db0b6557ce8b9900ceec4"
 
@@ -4465,7 +4789,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-furniture-another-furniture-handcrafted-create-sable.pw.toml"
-hash = "7e2dd57cbe6098f0731ad1650d1c0f4afb75f390fd217ca771c56cf802f931f1"
+hash = "a5b57db7eb689ac236db31a969f3a87ae66efe2f05ae0cdcb6bb6e35e98302c7"
 metafile = true
 
 [[files]]
@@ -4500,7 +4824,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "9059c65c4252fcc02f6f51661c49722c479d45edba32644b3374546c3dcf10f7"
+hash = "8e0c97a636f1457100faf34b6135a955219c75b4d459803bf7eeca266f85cd06"
 metafile = true
 
 [[files]]
@@ -4525,7 +4849,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "fa9828b4ecf9c6cbbc578c08fd034d3fff56a6b373e28aba94b2f34d93ba20a1"
+hash = "4240395047f9c511a104e2c2b29a4f450eff79aa78ea866225a4301ae46a17b9"
 metafile = true
 
 [[files]]
@@ -4624,7 +4948,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "86b74255aaa094c62dc3e316e2edaf05bef041a9b9700f2d76b697bc21b31425"
+hash = "628b4ae443e9d64fc1d201a92f84ca95e1f905fa0441eb19e313de1fc9c97dc1"
 metafile = true
 
 [[files]]
@@ -4769,7 +5093,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "3a36da0275ab73c171c34b4c9bc1fb3f8e489addd439ef3abb75edb5d28fb813"
+hash = "22633cf7d7d59f35552f8e1d92bc63771f07026fd1e06ec59293c7debce890eb"
 metafile = true
 
 [[files]]
