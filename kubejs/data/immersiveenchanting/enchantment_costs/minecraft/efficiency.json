@@ -22,21 +22,7 @@
             {
                 "xp_levels": 5,
                 "item_cost": {
-                    "item": "nomansland:resin_oil_bottle",
-                    "count": 1
-                }
-            },
-            {
-                "xp_levels": 5,
-                "item_cost": {
-                    "item": "create:builders_tea",
-                    "count": 1
-                }
-            },
-            {
-                "xp_levels": 5,
-                "item_cost": {
-                    "item": "malum:rune_of_burning_fervor",
+                    "items": ["nomansland:resin_oil_bottle", "create:builders_tea", "malum:rune_of_burning_fervor"],
                     "count": 1
                 }
             }
@@ -45,21 +31,7 @@
             {
                 "xp_levels": 7,
                 "item_cost": {
-                    "item": "minecraft:flow_armor_trim_smithing_template",
-                    "count": 1
-                }
-            },
-            {
-                "xp_levels": 7,
-                "item_cost": {
-                    "item": "create:precision_mechanism",
-                    "count": 1
-                }
-            },
-            {
-                "xp_levels": 7,
-                "item_cost": {
-                    "item": "malum:blazing_diode",
+                    "items": ["minecraft:flow_armor_trim_smithing_template", "create:precision_mechanism", "malum:blazing_diode"],
                     "count": 1
                 }
             }
@@ -68,21 +40,7 @@
             {
                 "xp_levels": 15,
                 "item_cost": {
-                    "item": "scguns:nether_star_fragment",
-                    "count": 1
-                }
-            },
-            {
-                "xp_levels": 15,
-                "item_cost": {
-                    "item": "malum:auric_embers",
-                    "count": 128
-                }
-            },
-            {
-                "xp_levels": 15,
-                "item_cost": {
-                    "item": "tfmg:lubrication_oil_bucket",
+                    "items": ["scguns:nether_star_fragment", "malum:rune_of_indomitability", "tfmg:lubrication_oil_bucket"],
                     "count": 1
                 }
             }

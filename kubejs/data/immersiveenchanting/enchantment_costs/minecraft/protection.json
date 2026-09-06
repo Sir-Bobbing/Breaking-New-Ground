@@ -13,14 +13,7 @@
             {
                 "xp_levels": 8,
                 "item_cost": {
-                    "item": "minecraft:turtle_scute",
-                    "count": 1
-                }
-            },
-            {
-                "xp_levels": 8,
-                "item_cost": {
-                    "item": "minecraft:armadillo_scute",
+                    "items": ["minecraft:turtle_scute", "minecraft:armadillo_scute"],
                     "count": 1
                 }
             }

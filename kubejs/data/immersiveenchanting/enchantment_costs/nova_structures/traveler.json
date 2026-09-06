@@ -4,28 +4,7 @@
             {
                 "xp_levels": 2,
                 "item_cost": {
-                    "item": "farmersdelight:cake_slice",
-                    "count": 1
-                }
-            },
-            {
-                "xp_levels": 2,
-                "item_cost": {
-                    "item": "farmersdelight:apple_pie_slice",
-                    "count": 1
-                }
-            },
-            {
-                "xp_levels": 2,
-                "item_cost": {
-                    "item": "farmersdelight:sweet_berry_cheesecake_slice",
-                    "count": 1
-                }
-            },
-            {
-                "xp_levels": 2,
-                "item_cost": {
-                    "item": "farmersdelight:pumpkin_pie_slice",
+                    "items": ["farmersdelight:cake_slice", "farmersdelight:apple_pie_slice", "farmersdelight:sweet_berry_cheesecake_slice", "farmersdelight:pumpkin_pie_slice"],
                     "count": 1
                 }
             }

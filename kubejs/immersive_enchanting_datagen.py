@@ -60,9 +60,17 @@ def appendCosts(list, costs, enchant, level):
     for cost in costs:
         info = cost["item_cost"]
         if "components" in info:
-            list.append(costItemData(info['item'],info['count'], info["components"], enchant,level))
+            if "items" in info:
+                for item in info['items']:
+                    list.append(costItemData(item,info['count'], info["components"], enchant,level))
+            else:
+                list.append(costItemData(info['item'],info['count'], info["components"], enchant,level))
         else:
-            list.append(costItem(info['item'],info['count'],enchant,level))
+            if "items" in info:
+                for item in info['items']:
+                    list.append(costItem(item,info['count'],enchant,level))
+            else:
+                list.append(costItem(info['item'],info['count'],enchant,level))
 
 def emiEnchantDir(enchant):
     return emiAdditionsPath + enchant.replace(":","/") + ".json"
