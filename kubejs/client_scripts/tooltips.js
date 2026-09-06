@@ -11,4 +11,16 @@ ItemEvents.modifyTooltips(event => {
 
     event.add(['scguns:whispers', 'scguns:echoes_2', 'scguns:sculk_resonator', 'scguns:forlorn_hope'], Text.aqua('Capable of soul shattering'))
 
+    /*
+    event.modify('immersiveenchanting:ancient_book', tooltip => {
+        tooltip.dynamic('ancient_book_tooltip')
+    })
+    */
+
 })
+
+/*
+ItemEvents.dynamicTooltips('ancient_book_tooltip', event => {
+    event.add(Text.gray("Not sure how to pull this off"))
+})
+*/

@@ -2,38 +2,85 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 1,
                 "item_cost": {
-                    "item": "minecraft:redstone_block",
+                    "item": "minecraft:sugar",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "create:builders_tea",
-                    "count": 1
+                    "item": "minecraft:redstone_block",
+                    "count": 4
                 }
             }
         ],
         "3": [
             {
+                "xp_levels": 5,
                 "item_cost": {
-                    "item": "malum:aerial_spirit",
-                    "count": 8
+                    "item": "nomansland:resin_oil_bottle",
+                    "count": 1
+                }
+            },
+            {
+                "xp_levels": 5,
+                "item_cost": {
+                    "item": "create:builders_tea",
+                    "count": 1
+                }
+            },
+            {
+                "xp_levels": 5,
+                "item_cost": {
+                    "item": "malum:rune_of_burning_fervor",
+                    "count": 1
                 }
             }
         ],
         "4": [
             {
+                "xp_levels": 7,
                 "item_cost": {
-                    "item": "malum:rune_of_howling_gale",
+                    "item": "minecraft:flow_armor_trim_smithing_template",
+                    "count": 1
+                }
+            },
+            {
+                "xp_levels": 7,
+                "item_cost": {
+                    "item": "create:precision_mechanism",
+                    "count": 1
+                }
+            },
+            {
+                "xp_levels": 7,
+                "item_cost": {
+                    "item": "malum:blazing_diode",
                     "count": 1
                 }
             }
         ],
         "5": [
             {
+                "xp_levels": 15,
+                "item_cost": {
+                    "item": "scguns:nether_star_fragment",
+                    "count": 1
+                }
+            },
+            {
+                "xp_levels": 15,
+                "item_cost": {
+                    "item": "malum:auric_embers",
+                    "count": 128
+                }
+            },
+            {
+                "xp_levels": 15,
                 "item_cost": {
                     "item": "tfmg:lubrication_oil_bucket",
                     "count": 1

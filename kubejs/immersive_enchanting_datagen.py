@@ -13,7 +13,7 @@ baseRecipe = {
         {
             "type": "item",
             "id": "minecraft:chiseled_bookshelf",
-            "nbt": "{lore:['{text:\"Place ancient book in bookshelf near enchanting table\"}']}"
+            "nbt": "{lore:['{text:\"Place ancient book in bookshelf near an enchanting table\"}']}"
         }
     ],
     "right": []
@@ -47,10 +47,22 @@ def costItem(item, amount, enchant, level):
         "nbt": "{" + storedEnchantString(enchant,level) + ",lore:['{text:\"Cost to enchant an item to this level\"}']}"
     }
 
+def costItemData(item, amount, data, enchant, level):
+    dataStr = json.dumps(data)[1:-1]
+    return {
+        "type": "item",
+        "id": item,
+        "amount": amount,
+        "nbt": "{" + storedEnchantString(enchant,level) + ",lore:['{text:\"Cost to enchant an item to this level\"}']," + dataStr + "}"
+    }
+
 def appendCosts(list, costs, enchant, level):
     for cost in costs:
         info = cost["item_cost"]
-        list.append(costItem(info['item'],info['count'],enchant,level))
+        if "components" in info:
+            list.append(costItemData(info['item'],info['count'], info["components"], enchant,level))
+        else:
+            list.append(costItem(info['item'],info['count'],enchant,level))
 
 def emiEnchantDir(enchant):
     return emiAdditionsPath + enchant.replace(":","/") + ".json"
