@@ -322,7 +322,7 @@ hash = "30f32069e04a0885e75a581e54f0f2368f4d55f2d2439f3b744ac40ab8c80031"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
-hash = "9b13f1ca5d16695226fe8a4fb0c40d0bfe1e43a380441ed6d4b28c986181d844"
+hash = "313e91add111f0e63711cc13e055d200af78d543f91e806fe711316631edc775"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -505,6 +505,10 @@ file = "kubejs/assets/chunkloaders/textures/ultimate_chunk_loader.png"
 hash = "04754e5c405214465214a8e1fdf7aa80d0ab1f2dac88bd01876135bb54bb93cc"
 
 [[files]]
+file = "kubejs/assets/cosmeticarmorreworkedforked/textures/gui/cosarmorinventory.png"
+hash = "061705fdea25bdf333cc676e6ae7e3f39137c75ab174135de9e4cd3e0083ca44"
+
+[[files]]
 file = "kubejs/assets/create/lang/en_us.json"
 hash = "8eaa8b4975bc5257d94d14328f9382d9b28f81304ac8c7ce0a8e6058f5154d75"
 
@@ -570,327 +574,327 @@ hash = "d6a980d2ead24991df5f0bf7d321121d23fc65922b5e0f25482b97d70fddb4eb"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/aileron/cloudskipper.json"
-hash = "9587c9f63f65c6f5c84e249d1ee2266c0e4f6690a0abf44458a8d754b995b6eb"
+hash = "6aa5ac68a744345f7ea3f2447482cdd6288f23543d576c67887adf4df0db2271"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/aileron/smokestack.json"
-hash = "c7381d779a5e4ae3615e53d0257877e87a3ef4ffffbf1a7fcbb57ed7ae922ed4"
+hash = "a13505adb109bf42ab542b513651de69eb2f67e6d9a1d07d67ed9a995ffc134f"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/create/capacity.json"
-hash = "da9572100c0591f3768013bed3860e84d58250f32b99640e1981ee11df7d35ab"
+hash = "8e0457ff7cd866e55ddc8569ba219b12ae17c6c6cab4e8dd51a98f3737572b9e"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/create/potato_recovery.json"
-hash = "693e980c2f1253118e030c63f246326832626037e4a862e6be1620e366a4d38f"
+hash = "f0f267c9bac29a4549cf9789f92c4e679d5caf497d2b0840e3d64529f04628be"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/farmersdelight/backstabbing.json"
-hash = "d8db2a1d0e9ad0e7f815bea55f28f16ceb7dd22282c280e03b08f79ef8e10eb6"
+hash = "0cef7c8fcaf9e5c995dc84d554e0de777516ccc3003cd88815cfb41003c63e0f"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/kobolds/prospector.json"
-hash = "1adff4dd02eb6c135c4f12f3fdf01558058362e508a0d0aa5ef1b91fcb4362a8"
+hash = "2feca7662c7a7935aa1425c8f289696315888d52d473a33fb6c8663d55b4a82b"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/malum/animated.json"
-hash = "a783a952f148b8367cd785d30ee6cdc63b52797d859dbec17f6ecaf49b2b6279"
+hash = "0c742d68de74340bc0d1bcdc17d7305d237992d1556ec0f43d622329aa696c0f"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/malum/ascension.json"
-hash = "22883495385cbdaf1b79fd8bc46ae3dc4230e3f10398be447950bd611b23ac51"
+hash = "14108c0aec1bf96e4fd19d17bafbc354f4c274acec7a1e4e9847bb8a09e96f54"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/malum/capacitor.json"
-hash = "2078a9e73c0ca868498eb2bcdb996cdbcdfe2b77d51bd731adb86d1604e34bbf"
+hash = "f08018a229a55a21f03ad3b09b9f081fd0cf54b744da8aebeff8cc2055e79560"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/malum/haunted.json"
-hash = "f59195ae247d72b7c8860fca6b8c5aefb61982b80e211341e7c33b7a8a9e6c4a"
+hash = "e60f2724d2ef1e69ba5813ca7d89cb2ca168f3c0fe5829feda39392681c1cc50"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/malum/rebound.json"
-hash = "9a701d1ac6dcb8715d916ee6f68a0aa6df91e2629ccccdf1dd43078a956a8b82"
+hash = "49a59728cce571dcfb8ea67e86b4a9a1a2dd768f875050e08b41e20672f297f3"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/malum/replenishing.json"
-hash = "b77443c71dbb3911dfd7a517ea964c610f3066976c8cf23b1f509b2ea66323e9"
+hash = "34260995ec4b3ab015dccb3f1bfd3450766d854d9b9108f15a39473f524356b0"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/malum/spirit_plunder.json"
-hash = "98780566b19df3d62879513dc2a5523e72d516dca029f1a91bbb1b38fb74b9da"
+hash = "661ede855ae36c22ebc009335e9c4bf3ccd24f3a95b308de877b48e3ff16f413"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/malum/weavers_haste.json"
-hash = "c3f0d785dd9db064d59256d1957d7a0599f672ce278df91ea46cf7ad4af6d9b0"
+hash = "fda3fa5cd2fc86d6365a3fe9c29282eb7816d664ae33fb227f1ea190f103607d"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/malum/weavers_propagation.json"
-hash = "8c6b497e7f3d103efd51e354cd08d12adf66b2f3ac1b8852ba97b2838820dc24"
+hash = "7a76645693f014df29b42965917b61d143c173ea28a0b8caa4d685db83bb6b1b"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/aqua_affinity.json"
-hash = "a53cd555af736757a248eb7997e0263929e7ad759c5f0a25d395c45f928f3f14"
+hash = "5741ad3d3d2fa98969ef6c3ea858a59437f86fd349dc08add8e774b02dc409d1"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/bane_of_arthropods.json"
-hash = "417623612609f877bab1dc5ddfd06e2758c201e236ce1fef83d0ae7e82cf79ac"
+hash = "3582e6b3ee6b082db16fb6dbe75535a6edc138ee512d3ec600a3087808c30e72"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/blast_protection.json"
-hash = "e29482f14faf3840228f40e19489a1165db17c02e87bcd5620a9bf97d25cb7af"
+hash = "e0d90c20ff0786d964caaecbe93644f7e994b33432043f1b6f332c74164ee8b6"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/breach.json"
-hash = "bb984838b0377bb3ee3960c2f56d1fe9ab2657750505909b1656434d16812094"
+hash = "dd18db62099d445587c10f3d14785b351d67b25b9a4a64f6ab6219af202c8512"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/channeling.json"
-hash = "e83a88866586099e1fff958309e997dda1a74e7b9633ffb7d07e01faddf7181a"
+hash = "d6045e170b67e63a0e2c4c89684f4bc64adfd0747039f44e7af6554f7b283221"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/density.json"
-hash = "4d374cd4483be6148e0848d6536fe887da4fb7b6c69aca77e560f2b50fe89489"
+hash = "8d59e36928e2a4e3b59f9f2260939e4943f1b87954ef966fdba8b890283fcd7e"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/depth_strider.json"
-hash = "8bc97deb156f153961299e163a782bbb55e6723d2d132e87fe5c9f51a2367785"
+hash = "ab894386c02afa1c8119005a284d4258a869af18cb9755ba2160b44543884ca5"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/efficiency.json"
-hash = "a916dee74be545412833a7d835ca5a8356bbec0e42296775b6f2f29fbcf44a5d"
+hash = "3fe1ca759af1ba0260480f77bd36798724f3ed3beb9ed1192dcb0c7cff2180e3"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/feather_falling.json"
-hash = "75079e08d68b6cda5a6eee48cbb8668ff2a391921879f095c3197a92b8a36af2"
+hash = "d36d533d5fe08ed8e04bb1775fe993574434f0924c46da1fd9e2e1e25f3c12f9"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/fire_aspect.json"
-hash = "8db234fc640f1611688f2b03f5f33d2037700b2a66e31a687fdb0d0d7ec5f216"
+hash = "418e79e948b8cc02bd416a1dba954fb84b22b260266c849f8ac1020c1e7298ce"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/fire_protection.json"
-hash = "e59a5c9092e37172818a19b441716c9f918c14b9fe733393f04bfd7a90e2b3cd"
+hash = "8b4775c030fec8115eff13d81e0f58251e63d3223a81657d149a3da644ba6261"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/flame.json"
-hash = "88807a60d5939060c21450f67a6b998b7cde81110f4815957cc3ee9fb7629731"
+hash = "1ccf62b4c9998c1518dc21b542c23b215cc11f9220dc6d3dd75be57552049aad"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/fortune.json"
-hash = "d897c46efa04124d5c2d86008254c8ca2eb33659579f5b2b957e3d9e1707736d"
+hash = "fe01787a48a945e827fde21722e9ca2d00d570147934f447bc74ac48d37a7fe1"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/frost_walker.json"
-hash = "812cd7e40ef986e48bab4c485ab5f9cede8e1c4a793ba80cd58ea35bf315b4a5"
+hash = "8692714d8ae6dc9abafbd376a23e4e9ee0649d7162a14be05aca60807c2db656"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/impaling.json"
-hash = "ceac2bfc438548dc8f1024b28cdf4f206925f3521682bb14c17786d5327ff5a2"
+hash = "b0b138bffee1dae0231eec53280b6e996a8bcb881b78b11f90072b7148a86ce6"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/infinity.json"
-hash = "92ca228284472e4906579259f87d801c53e2ca7e19e54f64d5916f9850906157"
+hash = "60e8a3fc8e08b79155c1fb0d17fcc07c5bd0f8140c01b7c8ee9c4785c39122f4"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/knockback.json"
-hash = "f1b696260ab2ffff32cb08fbc3b71c486c2839cbde9eef1ac00b575915f18e05"
+hash = "5864c2b19bd84415d835980d042f9a9b41ca929eb55a016365b8ba4eaad07a04"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/looting.json"
-hash = "f03fd30a1c20a78b3083754f7558efab72a28dcc527e7b535e5f9caf4fb5f306"
+hash = "b29fc382af6e5c853b82f7316eb876195e269014bd8abb6f00795194af54d3cc"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/loyalty.json"
-hash = "684ee00b5d5fa2198ff0b9cc9d857f23d5b6695b7915df1c647ebb0aaad39620"
+hash = "5be0e1c0adecb8f6a978b14c7bc47785ff045637f44101c367a3447fc80bf3f8"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/luck_of_the_sea.json"
-hash = "03214fd048effcdad990a61c789d8a8f685344d67ce277a1df58e3e60c4dbb97"
+hash = "256370d4ea9e21c99988ccb78354cef741c1d48d13a03f021dd8b58dc75dac7a"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/lure.json"
-hash = "a258b57cb1a7193adfe76f2a83bb43a60427511d3ef420fe2018924ab8a2a487"
+hash = "6d7ffe2ca1f068687739be1dadb8217b52733e63241fc2e128b0031b55c5ae33"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/multishot.json"
-hash = "e1e3fa9f50ab8244c0614177b67c161040a377439c0e400e323ce190930d83f4"
+hash = "736a17826f852e4a0c1c2a574595badf9097b59b171a0dc6a2c0e431e66e1226"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/piercing.json"
-hash = "6ed92d03e5536c790f593ad19616005e5590b984278fe2b85b3ab9966a8650b9"
+hash = "3285086f673a2563f98c40c1c4079390c2d384a7abf4536c8f8876ca48b4b24f"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/power.json"
-hash = "e9d8f3ee764e6cee0d9287926b735fef5906a845c34e7f5ec8c945d988c4f45a"
+hash = "92371e2e9d54c29d222236eb8017e1fcf778c4266191e429b61151f0f65b7966"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/projectile_protection.json"
-hash = "14d45ef8265722276186866a1b1cb57b5d2639da628edd232c6e64a6eb480566"
+hash = "e5850d90e4105741328bbefd85c54daa9fb30573f076746c2887bd861207a423"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/protection.json"
-hash = "bac8f3e9d57aa5b6e5e4fd8ef9a72d47d857ecd969e3e1097e9c5c06a567b481"
+hash = "34767057c96d5ec86d9c08ab2cea5aa6269a034b449468e265bb8041f1bc1273"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/punch.json"
-hash = "9a9d5dbcb576ecc79d447696d817cde5298798ef366b307d43fb1816ea550f6e"
+hash = "4c519f76dc2637dbbff007df7cfd2956bcc88d9c6f036e4f2bfdc52d35935d17"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/quick_charge.json"
-hash = "f0b3c3216e5c194b045bc29e08d9fb677390d8f87e467be3c7de7c28f96c6160"
+hash = "5af11aa08a8015e83888afd47fdae4cab4f5be5b131e6a57b677aea608e83d82"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/respiration.json"
-hash = "8ce8fe597200684cd811f6c4ad4381592f8bf3652cc3ee27ca2b2cb049335e6e"
+hash = "a130fd4f2ddaefb9ea7f147f18646f630d22ce324ac14e44beaa0ef548636fe1"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/riptide.json"
-hash = "d6f10aa06cd27f8be1730933b3f467ce2dabf84ef9c59265382923dfa63d4548"
+hash = "999cebb9a902384638840747ebf9938636e69ccf56a4089658aef643892e9bd7"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/sharpness.json"
-hash = "bc37ab0f13344717f760a7ce4e1ed6c76b9aee42a5df23278634fc22441ab4f5"
+hash = "6a51ada09a1b2a94fbeb5086b42c82634cd70571af0b62b9a6d4a1275de2fcfd"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/silk_touch.json"
-hash = "3950e06aed49f6ca47822d31d4281ae63167f18b7230837e55c3051063f255bc"
+hash = "fb33f533f096fed882dfa9426ef4532887f5e966a7266760d19c0a4e94058a46"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/smite.json"
-hash = "899ea59c210351782ab846bc7341ce683d717e749b8c36759bd057bd9ce134a4"
+hash = "c535e646a1dac423f338dba846f30a8ccf3dd2d1c7df16a60afd8033854210cf"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/soul_speed.json"
-hash = "a2727369ab2e6e7a2e8c83d4ef0d64df51df4a11f083e27107f93a26cccf2872"
+hash = "ba7c3f66a0f953aee60e2ea2e7f64d26f3648f252dd6cdd99904f9a08f8baf5c"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/sweeping_edge.json"
-hash = "35809fcb26c205cc72af24348edbb15aa98b98ba58de571b28d72abee00d461f"
+hash = "2a2235d23accf0c3bafbfe326bf8f0c6ec21f0e9b65258b80f41ff0268617371"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/swift_sneak.json"
-hash = "a8dcfc65c2bb46a01ffe67bc215bc0497730cb900740c913b10ab159c0ee6471"
+hash = "739701ce7244a5099e349f65e1950c1d8fe0ceeff4530947d0ad7e216d4d045c"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/thorns.json"
-hash = "065b9d4ac2f8f967f814459d4a89b77ae8a3c1a4280782ae1ea733fffbfd7a81"
+hash = "864f63ff426a912b94b164a2febdedbe070d381706a19c7337fb70f7971b1fa6"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/unbreaking.json"
-hash = "65dc0f7d8e4e0e8fd38a724c6f51958f99df503029dc1bea231ae6b1bf8dd0d2"
+hash = "c0c49f7b85e19a60190d00b0118d6728d164779e08a2de387e2ec3e88141ff34"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/wind_burst.json"
-hash = "12dd654195b5e893fbc17157078ee1f807c12315a3fec464fa45adf7dc2e2ba9"
+hash = "753695a5742720866df866ebe7632d405927db6f0173b705fca7d7ba559a884a"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/antidote.json"
-hash = "727917a6e0cc26bdcb4a0fca9572998527f352abd900b282467a687ecaf4a12e"
+hash = "54b1cd586902f02ce961e67b6739ec39ebbabefb0c02b30af0df8b528faeca0c"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/conductivity_curse.json"
-hash = "1c9f0eae70468a5ce02d3caf1ac3b480214d1c39b3f38995f0d69ea4a89c994c"
+hash = "5a2322babf907977cc15d7e5be54cc344133cff3a269bf87ee8f6a6d1ae44bf8"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/ghasted.json"
-hash = "e6686e42e317e30f1d3d8f350eb7372ec98237e9b2beae0ecee6c65fccfb73d1"
+hash = "1bfbd44acb996c8b532a1b9a4f90e91029c096d006ee84443a87e9f550e31706"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/gravity.json"
-hash = "2f49d89f0e7ddb44ed64f1f0e5ab01fa70d687c1db102a74b79bb6b32e393d31"
+hash = "82a9d7002e7adfa1c5ec2766e64ea87a5c2e2178321e692331a2f5fecd540bcd"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/illagers_bane.json"
-hash = "638f41159eedbacd6a57eae63ecb04934ba8684985ef59755e26d901b4f34886"
+hash = "9e9d026e920450638f0405e262b57f5badfd74bf16ffaca6b26932561acb813c"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/multishot.json"
-hash = "af6243e5d3908974260203cc04f169883d75572507fa625d460215407b6d7429"
+hash = "48a8b024d02770c7f7e9db3cd407e720bb9c948ccbb86c1c63de1a9ad66fff4c"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/outreach.json"
-hash = "4c60fe26cd02537c8a92fa3df095c3301b3b13ec5a418d29bd0968b01e054221"
+hash = "8736fda744e466a6093ebebe8a00a45cdd2b25c863713545d47c76830d8f77b6"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/piercing.json"
-hash = "8dd1c79a1931b92cbc9d37e365ebfe7771fc5252e04cde3a38956f90da2ebee5"
+hash = "043d8dbf5d777b1e6639b8188e6f805d125e49335266bb6782aa4e689e65a0b8"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/power.json"
-hash = "dc4244da996c709f3a6bfa200476984cee2456a4f9a13c389e8a712f736555d9"
+hash = "3a8db181d6d6aa449a2f70976d6317610287786b5d0acd171a8c7cb84ac9c6a2"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/traveler.json"
-hash = "fe547d50e93ca30b6ac18680f6411526cd0fc2cd3d510a172a932e7418399f98"
+hash = "d95661520167e2a950088ecb7ebedeca6eaed606fe08224dad6836919adabdfa"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/wax_wings.json"
-hash = "7502ebcbc663c1c2e61ae64fe0f371952c8a39b2c2e0be1c446506454483bca8"
+hash = "118b7d9ef4c4a46a0b0b8731c42ed45800d832bb10af5d461b34c0861dd060e8"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/nova_structures/wither_coated.json"
-hash = "7bbd8bc081b83f793f6a7050be8d35208aa93662dc85dad5b5c14569afd31a0b"
+hash = "68361e8bd12f556bfd0d37b849d706da76418a95d776f908f7c794967638588f"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/accelerator.json"
-hash = "137dfb81b022d417544e1cd64edf9673b26aa410d26146840c4e25fb9dfc680d"
+hash = "0c83b08a073564122e726fa970c2593a958f15fc0324934812c12aa2bf2d9a55"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/banzai.json"
-hash = "4a0192304608ee902209d6f46e7f91c726babe39dd5df43cfc688bf343a12b3d"
+hash = "a2355e00d8e51dacb07363a58c69e0da66fa36c83d8f475df48d13ae77fc5479"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/collateral.json"
-hash = "2236da3b8cfa7c0aaf3dfeee4b4a921b7121c8d337f14bad3b0ad94e31484f1e"
+hash = "93964b648b7ccc97df1c66283f74da0c1308c9bc34232b9882df1d988498cfd3"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/corroded.json"
-hash = "4a13e2001937d3d45f56035ba3b65f7294429f3bbe5a5429888cb0add52b3e8e"
+hash = "a8923a29346ff639413461d61ccdb18822739de9ba7812d78255fcd492c163b7"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/elemental_pop.json"
-hash = "46ae3409079e0b235478717590b505f18d499beef9436c342cc1df6f5b4b813e"
+hash = "683024cf42982a610f3471f80cdbab534dfb45ea4f5cd8fde4860e5339133257"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/heavy_shot.json"
-hash = "74a7eebc6e8a25c4697ec5cc26773e0da0aacfa813e2892d82f7f28ea60acfb4"
+hash = "89c16d9d83bb9549eff7d311f5d74e67e07806953f828fc9dcfb854cbf279750"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/hot_barrel.json"
-hash = "2ec21a2bbda18cf234e23fa66ee48f781c8fa5a1d21c7034ea2d0f8af4ffaf5e"
+hash = "d5aceb7654196b8cbc118b1f87d25b8d7fbd15901adbd40c9d59b8761b3c4c2e"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/lightweight.json"
-hash = "4a60fc97b893a24f72a7a5c397e0b2163fce35e255f867e184e291a46bf41084"
+hash = "af8371a477541bf8d1481b354e1117c9af9c2dfd44c489bcecc2bba9e5e64746"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/puncturing.json"
-hash = "083578b600264e1fe0e1e5608ea34f8888187a4799671d9ab70f0e9aab56b8a3"
+hash = "980c890cf83649b435e41b8afdb29b281bd812bfb0edb55b8bda1500c4112d19"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/quick_hands.json"
-hash = "6a78c375073335f7e75b19da71c896652a77307becb6a8b3075d3948b40d5d82"
+hash = "9aef12dffb45adfb5e9fbaeba09f16aba098484bd0d19763f9b070634dd14f43"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/reclaimed.json"
-hash = "cb2d28ef801716aa04d2ba7dfcfb7f16e6f229fc4f0cdf4c48e43f5dc0bb2c8d"
+hash = "d5220bd0f3eb1282f50ed4e4854e4b636f0aaf62122a136fee8c7e4d78b3cca1"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/shell_catcher.json"
-hash = "90f0e8aef7babf6aa5d63e5cdad39bd754ea9b20041267881f71fcd96f1272aa"
+hash = "6e36346fef6bf7d6addb1a70b95c5ac8e053f743218649ef8dbf9f88e0977167"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/trigger_finger.json"
-hash = "9183ff48af49f4e1618e5ad84d5c91ae9060e01694f3b5d3cf0de321e3efc3a4"
+hash = "7464d99ba63af3a7b7ef3b2af3ffacbd8bf9c0c943dd701ca47f8ff2e4f67ddc"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/scguns/waterproof.json"
-hash = "53f843b1296dbf100c7b1bec8183569d6fcda61e656ecba9b1810727335b0acd"
+hash = "f519546d7965775f42922038a582c5594433d72521f3bb16be7bdaea4f8955eb"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/supplementaries/stasis.json"
-hash = "e3ba4afe31ab0b279fa586b7491735092ca3183ded7506858f414cf55f243a4f"
+hash = "81c55907a42d2b43fd6c0953c5ec2f4a04b55970cc39a8568579b5c8e5f98716"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/sluice/crude_oil/passive.json"
@@ -1118,7 +1122,7 @@ hash = "ecb7b1b27140791d3c19bc92d64febe072d233bbd58a28080f2cf3b6d8363049"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/container/generic_54.png"
-hash = "a2777285ad1b9130873ad2f74bd8500002e36fc5e235bb5a6ebfae6c945a1b0f"
+hash = "a1a5eb0e2b062cde2f78fc5aa5bb95248a3afb7db19451e3d9f993809b9a96dd"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/container/hopper.png"
@@ -1127,6 +1131,10 @@ hash = "58291e5cf451881c83059a36e01cbfd9d6296c0b359a040cf6a326c6f572cf9a"
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/container/inventory.png"
 hash = "dd4e580ccf82c198d0d34bf818f3e557168b425dbbd3f586a6b884183e87b95b"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/loom.png"
+hash = "6570ceffe4b7a85171368cea90d648206f52c1e8678d7b1358f962adfebeb751"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/container/shulker_box.png"
@@ -1259,6 +1267,26 @@ hash = "8293df47839d85214351800a3dc5bacb21e35bef1d76790cc1d994b2419b15f9"
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/container/furnace/lit_progress.png"
 hash = "4b542e93961016a84391855243f0b3f0abdee11f939228f6846789a92e206f03"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/sprites/container/loom/banner_slot.png"
+hash = "c854d7d02bc6782ed5bc5316127e9610fa734973c62e187f575d0b38f97d7480"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/sprites/container/loom/dye_slot.png"
+hash = "0452034db37a788c46ccbd213ac3a247c0cd761c7fc7a1e325f2e99893005169"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/sprites/container/loom/pattern_slot.png"
+hash = "82e976a2f85dab3438b034506230f48d43d05a324c6176a63ec75f538d7459b4"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/sprites/container/loom/scroller.png"
+hash = "603aabac9838dbea96701eab50ebfba783b7bcbe848632f2004c4cf1e3044fbe"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/sprites/container/loom/scroller_disabled.png"
+hash = "677b4ab90befd6d7061691bf6157650802a7cd095acb8257c226de6c02c24a1e"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/recipe_book/button.png"
@@ -1577,6 +1605,14 @@ file = "kubejs/assets/sounds.json"
 hash = "f8e2b534ddef8142406abcb5e1b0d2a0792e91789a50daa3ec4b61c837ccbb38"
 
 [[files]]
+file = "kubejs/assets/supplementaries/textures/item/gui_slots/empty_slot_banner.png"
+hash = "c854d7d02bc6782ed5bc5316127e9610fa734973c62e187f575d0b38f97d7480"
+
+[[files]]
+file = "kubejs/assets/supplementaries/textures/item/gui_slots/empty_slot_flag.png"
+hash = "949d759ab01f7887a8041413515c2f6462a404b78c5ea53db6443874215da67e"
+
+[[files]]
 file = "kubejs/assets/tfmg/lang/en_us.json"
 hash = "c6e90391c4ffb5efb348f717ecb409dc943d098d5f1a42ab703fa33bc5cb27b6"
 
@@ -1679,7 +1715,7 @@ hash = "074d0711e4acb8ad4f0421127c8df1e8eb73c060bf0417bb159fc05239dbdcb8"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "6f16d09c763e79cbe1eb3adf876a50dce1cf24024f8e8883955445fc4918cace"
+hash = "fa7fce092ab212dfebf49d5315ca932321b4e3a1f5e36d76196383d2c4cf3dc6"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -1844,10 +1880,6 @@ hash = "3e03659218d005ae4d496f0fa3d1c38c005566b3a5c558c0267164bc86ea4bc1"
 [[files]]
 file = "kubejs/data/armourers_workshop/recipe/blocks/outfit-maker.json"
 hash = "f4ffa93eb842b6b9d6deba58bf30b91baa30d1861d46e6687cd37d1d464b2c7e"
-
-[[files]]
-file = "kubejs/data/armourers_workshop/recipe/blocks/skin-library-global.json"
-hash = "b82e2f13d0c8e1109d236f59525e88259ce8da3530f9f3c4b4f9efc1ccca5fb8"
 
 [[files]]
 file = "kubejs/data/armourers_workshop/recipe/blocks/skin-library.json"
@@ -2399,23 +2431,23 @@ hash = "b492560f82a8fdc004215cd727916a175a54e446902746a3661fcec443833cbf"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/aileron/cloudskipper.json"
-hash = "7438a078e356122906e01129ba53bca7a1616ea18c0f359ffae31c279f5989ca"
+hash = "171273868d7077e4e81b7ff386b42c42ed81141c7ede4b2350eb1e182ac062a1"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/aileron/smokestack.json"
-hash = "865ab9246724cb16a73be5ca09f032011dc3b982ec5607bebf221bb7da0caa26"
+hash = "0396ffbb2842ca3b0c0cca82297664f0a497f68d320a7f621094759fb00dc96c"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/create/capacity.json"
-hash = "fee86f6cae8fe27833478a8331de5a017014dacd38bff83fe265b9d214bdfe75"
+hash = "dd1015ce3dde91262063333b4395dd553dcf9cbeb65f9701cbee561f863b9d24"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/create/potato_recovery.json"
-hash = "d47464eaef3b344a1d704ea785170e0e051dbb1379297dd73d49a29a9e6e94f4"
+hash = "bf96fc8f59104e4b06b05a476e617a6a21006f3fab30b698daf5bcc76d0e489a"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/farmersdelight/backstabbing.json"
-hash = "21bb1f55426bdc401fef82d81278395fff06a2f68b1fcde205fa1582f2ab1953"
+hash = "ee73e199da2216d9e5c9a72f218d8a0a982d0a4aaffa575c85a0b26071721774"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/immersiveenchanting/enchanting_fuels.json"
@@ -2431,127 +2463,127 @@ hash = "05f71ad7043591d9186e6eb8832a46d8ced4b521bf5cc2fe5deb89a85f6224aa"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/kobolds/prospector.json"
-hash = "a8f8f4ed945d23f147de1f8db594b4a508777752087c9ad8a0aeddc676d83894"
+hash = "b46d93aba93210ef021cadc41139a4d8e43876210ec068213bc51970199f8005"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/animated.json"
-hash = "0359fd1ab6984931c82c400cbf4a51e18913e47f1b41b90bfd74ca46bc2c54c2"
+hash = "2b83ee00bc09baf927b62278b7e334951eb165186f078a4e50b61457da4b97c0"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/ascension.json"
-hash = "7af9637213e5e47c0086b1ebab10c2653f8d3e564e954ad54f28be1c46824d79"
+hash = "54e4b70e6be96979603ec712224ffa496a60ea554dcc2623ed2a1563f94fd1d4"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/capacitor.json"
-hash = "eef009fa8c007248c1cac2e794b97085607e607e37abe670f60aabac6edffb3b"
+hash = "4f6d9e5f4637cbad03b07286773944629c861c8ee43472bbc421bd7344cfe53f"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/haunted.json"
-hash = "21e2208a26416391670bd73686e4fef0514fcda372ba414db439dd2d623dcb4d"
+hash = "229075de90407ba5016b9180b572fd109d9b8da079f90d58e7fd16f6c4660b05"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/rebound.json"
-hash = "4f16df30662b2e0a9961832fc7a0e12520c582a4ba2aa3bc6d09f46768530f84"
+hash = "d2ec79ab8eae45a42f7e764f2fe3f50f3433bed0fe99a142eac006c1cbefd33c"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/replenishing.json"
-hash = "e1e5e46612f2270a7607850d305482da5e8f7103b0a3145c45d7d817a3498615"
+hash = "eb0fa563f55a2552784cffbab1739985f2bc4a884fb82065ad242184196e5fa3"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/spirit_plunder.json"
-hash = "a6dcf5ccd9e0c73ea986a47b3571367d8c524288e4a5c6cf74184be53d8608dc"
+hash = "b5624201925df1baecc8b341dd0400d8da2b28b0b5c165d8c248c5e8d8f99d7a"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/weavers_haste.json"
-hash = "62ea6b6b6fad5e6ca685200d73d0abde482cddf3a9fb67922e45aaf33b73e751"
+hash = "c8bd8b565a9469a0e291ba8bdaf3acd88d85b389048969a051627294510cfe7b"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/malum/weavers_propagation.json"
-hash = "c6916fa19a00954d9727e12519ded45441c2c4b7781d6234de845a5a5ee3b07f"
+hash = "de3fa047dfb35caac62f1e8ed46bd0d2b1f92d48b7b4224a1c946ce32b7f9ab3"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/aqua_affinity.json"
-hash = "795af2dba791e950794efb9ccf5b93b0c4ca83d6d017832c0a3ebfadbb995f82"
+hash = "d289bcf3200154eb3f1e094842e8156853ad89c87939ae35caa77ac68036d9df"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/bane_of_arthropods.json"
-hash = "af061c28e6ba24730a878845f17fef1bf5c297dc41efd198863a1cd82eefc0e6"
+hash = "6a42f235bfa1ff3e9347024b087ba59c4581fbe6e17b3052b7f69669a34f245c"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/blast_protection.json"
-hash = "fab42166f410316b3ae038da61d5228c0f46429128237137ccf8f10d9b0a5fce"
+hash = "8b24d1a244a2e4a1f7eae2256dd7ee3b7346960a2ae429dc21a46292348dabdd"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/breach.json"
-hash = "0a9a7d81b335e4ef519e1ab3c2dd747c67de2c47de4460b9bb5f509c135137ae"
+hash = "c4de9fcd15b8985c3f4c9ff3523bb9b4994e85495f7296b0ac053d97b3de6820"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/channeling.json"
-hash = "294f0ec5026c6e9a7a261a3be293c39ecddc67858a45f3ce1f68b6f56eddb76b"
+hash = "ab68634c73ff2f40a300a94bface2cd6cf83a3525e8d19c458322e0466926840"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/density.json"
-hash = "6b4cbed01d2495768b7477ae3ec2711cf3a44e0409c11076d4be81ba1dd86c9d"
+hash = "3b839571e63b4c3d5e719adae223318d83f112525791db9f73544880f11fc2e6"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/depth_strider.json"
-hash = "6b93b1d9f1f7b4cedc331595302444df2539767782bc41ad8a5c9503ed05e069"
+hash = "12252ceb2a4d06ed0711b1639891c12f0eecc341717fafe7dbbc1bd354b0747c"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/efficiency.json"
-hash = "fc42b490e811a5b5513f17e21bdb166d180a879ee09a42023be5b12abae03405"
+hash = "bad9e180c5b2195ee1a5abedecac59db13b79f3a82f59585925067f187c304d0"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/feather_falling.json"
-hash = "a56d8346e8bcb22052423704fc94e6e987cc2a3089cd36423cc15a1c8d77fb92"
+hash = "b04860dcf4ed183ff6e1b141dfb6f4b4572fb0b3b3dc75019d1a6b880fd60a53"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/fire_aspect.json"
-hash = "040e8e24c59138e4115ca677ae5fa7cf837f95ea10192dd17c9b686e2be548ad"
+hash = "7fd54e14cae9ee3c321a9d4ba2b44eeba0ce712ab36757b09169533054acc3be"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/fire_protection.json"
-hash = "2fc00044a52e1f0f8a947b6c189b60be87bccab60b4742c45d4a6a709e78e314"
+hash = "e24c3837c27ef9a8dd40fabd72423479a694d084bef0b03c05c14ab78fd76756"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/flame.json"
-hash = "9f0f83a562ebac6c7b1112576db4bb750e2c222da09a53a9688637ad7154f2df"
+hash = "a68d18501a36368e596f91e5c2ddd9ae2f8d097f1ae2f400e4328778600af30f"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/fortune.json"
-hash = "1594a37d03651d6bfd20f3857c139ffdf4d16345c70eaaba58539f6ce64bfb54"
+hash = "db89cfb50cece0099390b890ca36ee4006f3a883a980999e56b9ef7f960321cf"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/frost_walker.json"
-hash = "c4e3234a5140279d8b0e20f01ab8890041429bab1b1a4785edb8c1f20b273224"
+hash = "cb3ed5b8f8da3aa71278c847dcae498a2c52528de2741cab7d4a094b6ea3f1e4"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/impaling.json"
-hash = "aeda9eaa1495206d3fed60331c8e60014e608479ca9f34f1b8ab81da2738058e"
+hash = "752a4af441b082ebe3312536b8f5bd3a88a0063f6dd20c4ea740d249d4ea1c49"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/infinity.json"
-hash = "9d7c431dda49563ac32c2516d94d4320b92b74739a823d5617b778c831257beb"
+hash = "f60bde331a141bec7f33b3a428916cd760e49607d7130a7d000cb13f652bf306"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/knockback.json"
-hash = "fe5323814dee183ae31f1933f8d910d716170bc69f83cc022ab200e4c5cd0018"
+hash = "c82a21cedc68c6a314f2761d6d1c559d0b591b430fbdabc106758573b02263e0"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/looting.json"
-hash = "c040f6bfbcbd4a181965141a247046ec00c5eb21ec690a11286f5d3f1e7dbb31"
+hash = "3f459c33c6986e78f60e3fae28d01522994e72fd4dc1f68c4b436b88d1d50df8"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/loyalty.json"
-hash = "d62ac198047693b7712e6cb2b5d1335d3c12a94bd0ae5fa87fa71f1b0b352335"
+hash = "cce1ee89ee43943059f95b6b471371ead126589149d2d39e9ecf2018c2115136"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/luck_of_the_sea.json"
-hash = "d20da3223b5e291137f2635a0394afce3e13dad04bd0af4ec25e6cecde924880"
+hash = "8bb391773061b204b264e2acdac31d9e40c172c2ccba2961891dcb9044f1ddef"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/lure.json"
-hash = "5d173300f30637372e15e3fe3917d7409fb60102742942de24db2b01de15161b"
+hash = "332c2195d45ab8182f9bcd97fee85cb10cad93321e77dffe4460ee03b277cf80"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/mending.json"
@@ -2559,79 +2591,79 @@ hash = "4e2bf3d68f362669342d77b4bdf5e5db6e8507c2cf7357c84b78228882f4d1f2"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/multishot.json"
-hash = "5f8a13ca093b8fad265eeba25181677530190214aa5030e0480d6fa7ec4e9496"
+hash = "6910867f4a2954bbff457230bf1410176298c26eb70dfd8767d3093cff9475ff"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/piercing.json"
-hash = "11dd29cadcfc66e38a2f9e860d51122aa1da893abd9cb83d033fac1a03f44f11"
+hash = "1a2dff4b57e1142af5a278b6de11dc82a7bfe4ded4e6c1673e93e6bbb653a3dd"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/power.json"
-hash = "247e170b73c25f17e233bdd7bd347ffd878ecc9d63b6690194edb1af7d3a6fc9"
+hash = "74f86d410db3a35a30d2f0259e0f7dd8f28d2c3ca445fad9f2b604a86f56152f"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/projectile_protection.json"
-hash = "d2d95076ea2f654e2b10b869b7980832f30f25a16cd16c046e2779e0655f85cc"
+hash = "febac05d4496a7e458fb0a3ee71872367d3c34f56eafb61190c4d35a04f660dd"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/protection.json"
-hash = "79baa607e9c6ab74015496385d888c528a09f26f001ca37b29c781f3b02e2e9c"
+hash = "3788222034de5f58c235db58b5ac64ed5106de1b3d140a629c122bf32aab531c"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/punch.json"
-hash = "fe5323814dee183ae31f1933f8d910d716170bc69f83cc022ab200e4c5cd0018"
+hash = "d002068fb533cce66f7c0c0c51ada7dddb206aab6aaba63d02fc7b84d69995bc"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/quick_charge.json"
-hash = "d07029b98d8eb75828b18272e365190bbada4cf4c16d86f0620b362d2bad02ab"
+hash = "1573e12530cefe42b3f38c7ba3d2b86c4982174d59ac91f3208ed178f9dee0b3"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/respiration.json"
-hash = "50b8e2131085299d427f2041c52f895c2b6e5582c2dd04d1c90188f234d6522b"
+hash = "d423b3583f1e9a766533c3b4e4f5702ce475adb4ffea718d84aa8dd4e4df1ce9"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/riptide.json"
-hash = "d00d7e334107f7671d193ba8976522e247a0c883930adf74f9824f60d49d756f"
+hash = "3a9b8d43968393aa8d427b8ac39e6e6e58ca6d7c71635cccc7868cae09412123"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/sharpness.json"
-hash = "0de1882b00c9cb3f2b741499d65fba8b01996caae6393d33cc89f267e806f70d"
+hash = "6402629526f63acfe010f657add11daedc3a7af76449a92154801fd01863803e"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/silk_touch.json"
-hash = "409e3e35b0addd0c96702522fd09998c3e1433308289cc568d7e4d0ef3d0b855"
+hash = "7b66f08ed31fefe59e2a80402bde558986c9b76c356bd455fc8fd798020b2d1f"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/smite.json"
-hash = "e27592117b8b8b7cf76b11374a852f53f8d188d7ba5aba4d711c94d0e6ffc633"
+hash = "d3183cefcb70ba0ae58f2876ff50c8e955261359d78d429bb6377150a294699e"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/soul_speed.json"
-hash = "6073a0220fc45c5a274832f0b912a0822167203f987c999aa7df80fe1d0621b8"
+hash = "0cc31ecfdd8bee4d3ac4a16cb13803fad2bed1627d2deb06ace2ea4367d36ad6"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/sweeping_edge.json"
-hash = "228d33fffe3691259fd7c9ce4abfafb1c6e235c9b0ac6f6c1832ae64503793ab"
+hash = "6089161c7e0738ed0db66e0072698dc3bc87ae3dfb3523c6b0db48810035ca09"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/swift_sneak.json"
-hash = "dd38dcc169088c4293f59709ae576ed12d7d8ab571f2de7794077540a5c15322"
+hash = "848314339e037879ac753067d09a9baee8a8c42b85e27cbb868983bc715513fe"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/thorns.json"
-hash = "4f7e483cf0ec6bb1b0529c8671084809a9343ce92d1c7d11a65919663cbb3b8d"
+hash = "f50b75f7b4d644443a4d6dd5d4f045fe8f7064e77848f640af8fdc6c906a2653"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/unbreaking.json"
-hash = "423bb8e730d38d2429b7ff984ce5c7a3a7881293523c629eab1349514c85ad58"
+hash = "ff30eb1ca8c139dcb3ae23f866b408537bde25cd1ee97e3806bb24778fb12223"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/wind_burst.json"
-hash = "b77e7183f4c3b5704ff9af201dbd6644db125f69430debb2c0fbddc222123964"
+hash = "08cea3dfd0d41a718d27c7baaef8915548a93af638e6eaf0e40221bea375a016"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/nova_structures/antidote.json"
-hash = "9b09a02f11f58491bd94f05ecc15b8abb1a280c78dbe392068b9bcba2b78c96f"
+hash = "44659e8496df9b6ded9e64404afffdb1e52aaffdd772847b5ce5a697a200bc25"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/nova_structures/boss_behaviour.json"
@@ -2639,27 +2671,27 @@ hash = "4e2bf3d68f362669342d77b4bdf5e5db6e8507c2cf7357c84b78228882f4d1f2"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/nova_structures/conductivity_curse.json"
-hash = "f7876eb0f27a597954674f862e4ef7f50472aadef2eb7a7c6c27726513bea2a3"
+hash = "7023ca90d8b8b6498bf043416d596b27d2fb997f20f68297a95a54b403f26a1b"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/nova_structures/ghasted.json"
-hash = "e80d4920cbd22a9a4f9580fafb7154d4aa1743746f21b47b13c5da8ce1dac0cd"
+hash = "6a6a2bbf2787ab410b836449b8931a2e9db38b184a4cce64a2edae8c209dc9ad"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/nova_structures/gravity.json"
-hash = "b9c8869c13bf1e7c5c4bdcb96880740454f0997287679406bb06b2a51e299aab"
+hash = "77ea8f24367f04eaeb18e6d55879d5bd2df5258afbd1b278b1ed28e30cce24dc"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/nova_structures/illagers_bane.json"
-hash = "d47da369f91ca0c987d32ecefcf11dc7b8d17e57c5260e9bc6ce35e05c2f3e31"
+hash = "558967feb62b52dc52dfa5e8811742f112d8aebea9439c90bd23627b8a15f3e3"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/nova_structures/multishot.json"
-hash = "5f8a13ca093b8fad265eeba25181677530190214aa5030e0480d6fa7ec4e9496"
+hash = "6910867f4a2954bbff457230bf1410176298c26eb70dfd8767d3093cff9475ff"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/nova_structures/outreach.json"
-hash = "352618fdcbe99fd4e7797e4c0fd3701871b9b712984e3a0cb45e06e18228357c"
+hash = "306e94d40d6395d44a124a2eee5efbd96857c023eedbebccafb3f4d033c1bd6b"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/nova_structures/photosynthesis.json"
@@ -2667,11 +2699,11 @@ hash = "4e2bf3d68f362669342d77b4bdf5e5db6e8507c2cf7357c84b78228882f4d1f2"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/nova_structures/piercing.json"
-hash = "11dd29cadcfc66e38a2f9e860d51122aa1da893abd9cb83d033fac1a03f44f11"
+hash = "1a2dff4b57e1142af5a278b6de11dc82a7bfe4ded4e6c1673e93e6bbb653a3dd"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/nova_structures/power.json"
-hash = "247e170b73c25f17e233bdd7bd347ffd878ecc9d63b6690194edb1af7d3a6fc9"
+hash = "74f86d410db3a35a30d2f0259e0f7dd8f28d2c3ca445fad9f2b604a86f56152f"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/nova_structures/shulker_boss.json"
@@ -2683,15 +2715,15 @@ hash = "4e2bf3d68f362669342d77b4bdf5e5db6e8507c2cf7357c84b78228882f4d1f2"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/nova_structures/traveler.json"
-hash = "7c276553d949e0533335ba39b93c26a2493b34219dfbeb34da181a77ac04981e"
+hash = "7d55b5e27f0f3e65525f1fb04ec4ded11e7a72d90fd1b90224fbaf97778726e5"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/nova_structures/wax_wings.json"
-hash = "b220e9acc6dfd3e801f23b0b0615720939c56e875b15bbd37731914aaf069b5f"
+hash = "228afc0325d91fa11d7612f97cb91e0d88c790f8429869fe7c018dac3ab5113e"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/nova_structures/wither_coated.json"
-hash = "645d0cf4aff830e1533e6fdc74c7a9eb8dd3d767ad32af6ed086fe75eff4dd23"
+hash = "a61eb7aa2137f487934f1841f571be24417733d0fa9299321d0075a87a37f4d6"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/redomesticate/amphibious.json"
@@ -2835,23 +2867,23 @@ hash = "4e2bf3d68f362669342d77b4bdf5e5db6e8507c2cf7357c84b78228882f4d1f2"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/accelerator.json"
-hash = "99f2d2146dd14fc314f1a69f2d9c8565294d37bec2e0c5a01793895c32ae898c"
+hash = "bb92fe5ff7306c1686b337967fc73c6fbffaef5bdb9b9da9ca9c0b01dd6345fb"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/banzai.json"
-hash = "b85b87768150b99dcc3eb6bdd0818a9f0c71e995f446b821c8f2c246bedbbc63"
+hash = "33bf758f2441a46e6d117452878b3e618abd2e945b3123afa19692e0b4b8f96a"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/collateral.json"
-hash = "16bdbc5fefbe129208f6d14e22139c4f62196e70df09987a82c534fd8c16b37a"
+hash = "20b507a01e44ba6fa6a8357498b252c8082165d285a92b868c07d7ca476c694e"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/corroded.json"
-hash = "77d314eb4cdd70fd43b53c8a432f616919e6fe4c8dfb55dd4d8234669a53ec10"
+hash = "f860b9fcfcc3728614555553a3f50a43c0354c06a36c96562b492f4b83b03835"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/elemental_pop.json"
-hash = "afce12ee8ad397b17575a730d1e034ae2a05664719929166f886c863ee928b34"
+hash = "69a42dbc751d5d2c4f37e2b21ab23fa3c73b70d4ef5cf5be88782844dd00d9c4"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/gun_rust.json"
@@ -2859,43 +2891,43 @@ hash = "4e2bf3d68f362669342d77b4bdf5e5db6e8507c2cf7357c84b78228882f4d1f2"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/heavy_shot.json"
-hash = "ae9d75bdf5326c8bef03f89374ac6606aba13394fa57accb036b5160b5443723"
+hash = "8d6731bc74bf38cec806b7120ba8f7e6c2572034819758ae960ed12fff3fa70b"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/hot_barrel.json"
-hash = "b594aa26ac73182b667c0693c4eae550a87c40691ee129a91abe9b9707248ec5"
+hash = "9269fc68ac5801a3aeff05a93f1c12524bb40096d703e76d6fa42fd2f184344e"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/lightweight.json"
-hash = "f3410d27da8280a8bb6e9005c8823986868c5322316ce6331d745f27a0731a89"
+hash = "9c0f1de6f5f2d8993b426cc45b6958c3dee424fec0438727a4034215a9258222"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/puncturing.json"
-hash = "6fc66b2319fc713d0dab9ea0f3b03cd3fdda5724846bc7003f091dce6511b185"
+hash = "88429b97d8c2f264efc6b406a1dcb68a4e2de00805a5f3bf05b1577cb68f4ecf"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/quick_hands.json"
-hash = "fcdbd7be728775e9f9a6f6f6c0a0e7a013ac265e702b4933f32fd299596b7a56"
+hash = "4b2b74e8da40e9e4dcb96c8aace3d4fa6d8dae6983ed8bb97a61a76b48023ec9"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/reclaimed.json"
-hash = "273ba86535b45b96e3a9fd02b37e279be9671191ceb33fa3b34ef49763c17e45"
+hash = "ec42d02670fe6c98b9dd30ddacbc84f26e0b0f1943439599b4aa41bfee22089b"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/shell_catcher.json"
-hash = "55d27e5d960b3e8b755efd100ec9a2b53601a8f8e7cd0b70168e0779ba787e90"
+hash = "f17f47865630ec0e15cb250ac81110f710ec7f2908b5aa79453a2efbf7293b92"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/trigger_finger.json"
-hash = "3926c23bdb3c872b462c4675c6daf9c06934281de56705bbe6f4de270fb158ed"
+hash = "bf89b40b66105dce77a93734d846bda1b16d36f8d380a62b7f59155d0d7e15dd"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/scguns/waterproof.json"
-hash = "3c337ae3c4bccf4c8e1b9be73fdd49c8612a6e65ba6972730e9e97c5d672d6c0"
+hash = "5317b9561bcffee3f9be2101cd12e1d1b87a138f075d450f679959a9003c792a"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/supplementaries/stasis.json"
-hash = "9e6484520577b3076b0f689899331939c429b2700da30e945eb3f0a9836f6ca8"
+hash = "f948008084f9b8506009f026e4076ecaa38adcb574a16a78f3b7d1f9b67be772"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/loot_modifiers/abandoned_mineshaft_ancient_books.json"
@@ -4223,7 +4255,7 @@ hash = "1ba8d4ec7b26b83912a823e602839d76a30c2b483cc37d3c625714c622d0898b"
 
 [[files]]
 file = "kubejs/immersive_enchanting_datagen.py"
-hash = "bf0884e21ee590090403b34bbcb2f41c9aac0437d58b59e23475dee325875b3e"
+hash = "4e9a0a5824ce201d48cea73e66d935768a3609e91e4e245bb7dfe47dcbaad7a0"
 
 [[files]]
 file = "kubejs/package.json"
@@ -4258,8 +4290,8 @@ file = "kubejs/server_scripts/tags.js"
 hash = "fe4f2836b587182260e41ddea990455ef1f8f8351a812388c545fc99ee8f97d6"
 
 [[files]]
-file = "kubejs/server_scripts/zombie_axe.js"
-hash = "18e35a4811b0a064870720b3c42bacb1461800ad43f65b4b192f0ead1446540e"
+file = "kubejs/server_scripts/zombie_modification.js"
+hash = "d58dfdc7879b094d2cb58128fe5e949a22db1f2ab874b507cf512cb047741726"
 
 [[files]]
 file = "kubejs/startup_scripts/block_modification.js"
