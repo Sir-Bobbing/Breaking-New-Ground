@@ -513,6 +513,10 @@ file = "kubejs/assets/create/textures/block/deepslate_zinc_ore.png"
 hash = "1668f0cc9b425dd251aa1c5fa80932b1bc6ba7a1cf044edd1aefbf6af673b0ad"
 
 [[files]]
+file = "kubejs/assets/create/textures/gui/player_inventory.png"
+hash = "41bccea7e9747a5fa75fd1513b9572562a32a18cc0f9c3f6432e0048cd821a87"
+
+[[files]]
 file = "kubejs/assets/createpropulsion/sounds.json"
 hash = "a6de6a84d0e0156e56ed3b22efb864bfa7d5acaf6950273dad2cb549abf348e8"
 
@@ -989,6 +993,10 @@ file = "kubejs/assets/emi/recipe/filters/sluice_filter.json"
 hash = "5426e254fdf5962087bf50bd2b983257325f5bf619ddb5eedb6d08a6d83ecf9e"
 
 [[files]]
+file = "kubejs/assets/gallery/textures/gui/painting_selector.png"
+hash = "5f3b1e95b5769a0bc2ae3fa60ce32e45bf7ea9339d5193ecea4977239b43ac38"
+
+[[files]]
 file = "kubejs/assets/handcrafted/lang/en_us.json"
 hash = "c055b10298d42f86453486a07f83c83f75346f578fd4c5140703d1a9399d968c"
 
@@ -1086,7 +1094,7 @@ hash = "dcfcb495f428deb2c063a003e4117e9a76db7747c4bfe3b82ac56e74c013f319"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/container/crafting_table.png"
-hash = "43746415bd958c92c483dc4899a8b8570bbeb0ed8c05559924fe81338c8c3975"
+hash = "960ac4accef9984204ead246b011cceba7a18b8de2520cdc87e9f043a24388ef"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
@@ -1094,15 +1102,19 @@ hash = "3b237e4af33b634b8117de929246b20c124d838e01cb16078022576c61946b5f"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-hash = "a455786dfae7daf7b35ada036f0522f7c64cd06da9c7f5325e82d5bae170e1a2"
+hash = "7f6c1add1b22707107655223588a696b6a32f603fdc7ad9873c4320ee7fee6a7"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-hash = "708a03c043e59ff5decef733cfbdd8cb8a2979aa187ebd2c79f11a9ade49bd22"
+hash = "61d1759e0d6d92bb7f66adf3fe64794156dc0a96a1e7747139aa7d3d80d4c959"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/container/dispenser.png"
 hash = "426428ce6fb1a356fcf529d6a1d9aadda70ee07c18555e8c58bd34f4e904ce69"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/furnace.png"
+hash = "ecb7b1b27140791d3c19bc92d64febe072d233bbd58a28080f2cf3b6d8363049"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/container/generic_54.png"
@@ -1239,6 +1251,22 @@ hash = "bc0d1b8bd342863a452f2e4f4f60e8ae06a897eb0afc52d29c86a4cc2f5e130d"
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_unselected_7.png"
 hash = "bc0d1b8bd342863a452f2e4f4f60e8ae06a897eb0afc52d29c86a4cc2f5e130d"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/sprites/container/furnace/burn_progress.png"
+hash = "8293df47839d85214351800a3dc5bacb21e35bef1d76790cc1d994b2419b15f9"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/sprites/container/furnace/lit_progress.png"
+hash = "4b542e93961016a84391855243f0b3f0abdee11f939228f6846789a92e206f03"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/sprites/recipe_book/button.png"
+hash = "1dba885bfaf2b41b6720aae717257de28ccb5e87488c9b8e7280fe50ef115bf3"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+hash = "14a16572b606a793a73f6bebef49da6671258c02e2da22b010a9a9a9f514bc95"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/server_list/incompatible.png"
@@ -1523,6 +1551,10 @@ hash = "7181a2c9d613ff15e7f1c8e4ff7862e8044a12ec1edb1196566eacd201ed8b88"
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/edition.png"
 hash = "97914b96a3ee48c31541969f81b095459826aace69e893403347d1a2695feaf7"
+
+[[files]]
+file = "kubejs/assets/neoforge/textures/gui/version_check_icons.png"
+hash = "42f7b9fa33816de4014185529996bf044c0214ae1bb704804051a88193677bbc"
 
 [[files]]
 file = "kubejs/assets/reliable_advancements/textures/gui/tabs.png"
