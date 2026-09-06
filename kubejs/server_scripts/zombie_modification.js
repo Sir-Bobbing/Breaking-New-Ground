@@ -19,5 +19,8 @@ EntityEvents.spawned(event => {
             console.log(index)
             mob.setItemSlot('mainhand', axes[index])
         }
+        if (mob.isBaby()) {
+            mob.setMaxHealth(6)
+        }
     }
 })
