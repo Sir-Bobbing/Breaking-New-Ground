@@ -247,6 +247,7 @@ ServerEvents.tags('fluid', event => {
     event.add('c:stones', 'tfmg:lignite')
     event.add('c:stones', 'tfmg:galena')
 })
+
 ServerEvents.tags('entity_type', event => {
 // Cage and Jar Entities
         event.add('supplementaries:jar_catchable', 'minecraft:silverfish')
@@ -331,4 +332,70 @@ ServerEvents.tags('worldgen/structure', event => {
     event.add('breakingnewground:ruins', 'nova_structures:remnant_ruin_smith')
     event.add('breakingnewground:ruins', 'nova_structures:ruin_town')
     event.add('breakingnewground:ruins', 'nova_structures:wild_ruin')
+})
+
+ServerEvents.tags('enchantment', event => {
+    
+
+    event.add('nova_structures:positive', "nova_structures:antidote")
+    event.add('nova_structures:positive', "nova_structures:ghasted")
+    event.add('nova_structures:positive', "nova_structures:gravity")
+    event.add('nova_structures:positive', "nova_structures:illagers_bane")
+    event.add('nova_structures:positive', "nova_structures:multishot")
+    event.add('nova_structures:positive', "nova_structures:outreach")
+    event.add('nova_structures:positive', "nova_structures:piercing")
+    event.add('nova_structures:positive', "nova_structures:power")
+    event.add('nova_structures:positive', "nova_structures:traveler")
+    event.add('nova_structures:positive', "nova_structures:wax_wings")
+    event.add('nova_structures:positive', "nova_structures:wither_coated")
+
+    event.add('minecraft:on_mob_spawn_equipment', 'nova_structures:gravity')
+    event.add('minecraft:on_mob_spawn_equipment', 'nova_structures:multishot')
+    event.add('minecraft:on_mob_spawn_equipment', 'nova_structures:piercing')
+    event.add('minecraft:on_mob_spawn_equipment', 'nova_structures:power')
+    event.add('minecraft:on_mob_spawn_equipment', 'nova_structures:wither_coated')
+    event.add('minecraft:on_mob_spawn_equipment', 'nova_structures:conductivity_curse')
+    
+    event.add('minecraft:on_traded_equipment', '#nova_structures:positive')
+    event.add('minecraft:on_random_loot', '#nova_structures:positive')
+
+    let resetTags = [
+        'nova_structures:antidote',
+        //'nova_structures:conductivity_curse' // for some reason bricks everything
+        'nova_structures:end_castle',
+        'nova_structures:ghasted',
+        'nova_structures:gravity',
+        'nova_structures:illagers_bane',
+        'nova_structures:multishot',
+        'nova_structures:outreach',
+        'nova_structures:photosynthesis',
+        'nova_structures:piercing',
+        'nova_structures:power',
+        'nova_structures:shrine',
+        'nova_structures:toxic',
+        'nova_structures:traveler',
+        'nova_structures:wax_wings',
+        'nova_structures:wither_coated'
+    ]
+
+    for (let tag of resetTags) {
+        event.removeAll(tag)
+        event.add(tag, '#minecraft:on_random_loot')
+    }
+
+    let removeEnchants = [
+        'minecraft:mending',
+        "nova_structures:shulker_boss",
+        "nova_structures:shulker_miniboss",
+        "nova_structures:boss_behaviour",
+        "nova_structures:photosynthesis"
+    ]
+
+    event.remove('minecraft:tradeable', removeEnchants)
+    event.remove('minecraft:treasure', removeEnchants)
+    event.remove('minecraft:on_traded_equipment', removeEnchants)
+    event.remove('minecraft:on_random_loot', removeEnchants)
+    event.remove('minecraft:on_mob_spawn_equipment', removeEnchants)
+
+
 })
