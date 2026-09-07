@@ -301,10 +301,6 @@ file = "config/prospectingpicks-common.toml"
 hash = "6af706e4777eef1ed83a8cc17e46dbada77b17a46448319d19e5680f6404bd67"
 
 [[files]]
-file = "config/randomenchantfix-common.toml"
-hash = "357a0c18b7fdcba0e8939dd8d35dbf9dadd344b6fda759e77808d2a8d0d81f41"
-
-[[files]]
 file = "config/redomesticate.json"
 hash = "ec03394fe81793bd4b341cc95527f3cf54393bdc68bb6f5a2bfd0d2ee120be72"
 
@@ -489,6 +485,10 @@ file = "kubejs/assets/breakingnewground/textures/item/guide.png"
 hash = "33b6f7c419928a38489b138c5195c0adde98a1cb41e53876a2d7c81bc5fbfbe3"
 
 [[files]]
+file = "kubejs/assets/brewinandchewin/textures/gui/keg.png"
+hash = "e03bb0fd8c6c01eb17bfec00666671b20db6df96417896e7afe4e05267924cb2"
+
+[[files]]
 file = "kubejs/assets/chunkloaders/textures/advanced_chunk_loader.png"
 hash = "002ec9f1300a21cd764a166eefc84ed972ceadf6bf13d133da6508f7eb0769bd"
 
@@ -662,7 +662,7 @@ hash = "ab894386c02afa1c8119005a284d4258a869af18cb9755ba2160b44543884ca5"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/efficiency.json"
-hash = "3fe1ca759af1ba0260480f77bd36798724f3ed3beb9ed1192dcb0c7cff2180e3"
+hash = "4a9fdc23d599b6d3a27995ba4ac7b0e6d6b4cd0f598c8f3c95e278fe03bc9595"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/feather_falling.json"
@@ -1113,20 +1113,12 @@ file = "kubejs/assets/minecraft/textures/gui/container/creative_inventory/tab_it
 hash = "61d1759e0d6d92bb7f66adf3fe64794156dc0a96a1e7747139aa7d3d80d4c959"
 
 [[files]]
-file = "kubejs/assets/minecraft/textures/gui/container/dispenser.png"
-hash = "426428ce6fb1a356fcf529d6a1d9aadda70ee07c18555e8c58bd34f4e904ce69"
-
-[[files]]
 file = "kubejs/assets/minecraft/textures/gui/container/furnace.png"
 hash = "ecb7b1b27140791d3c19bc92d64febe072d233bbd58a28080f2cf3b6d8363049"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/container/generic_54.png"
 hash = "a1a5eb0e2b062cde2f78fc5aa5bb95248a3afb7db19451e3d9f993809b9a96dd"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/container/hopper.png"
-hash = "58291e5cf451881c83059a36e01cbfd9d6296c0b359a040cf6a326c6f572cf9a"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/container/inventory.png"
@@ -2531,7 +2523,7 @@ hash = "12252ceb2a4d06ed0711b1639891c12f0eecc341717fafe7dbbc1bd354b0747c"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/efficiency.json"
-hash = "bad9e180c5b2195ee1a5abedecac59db13b79f3a82f59585925067f187c304d0"
+hash = "b387e30b268f279b354f40fe9ac88b17eb0df616790583ba2c3d3f76ca1126f0"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/feather_falling.json"
@@ -2551,7 +2543,7 @@ hash = "a68d18501a36368e596f91e5c2ddd9ae2f8d097f1ae2f400e4328778600af30f"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/fortune.json"
-hash = "db89cfb50cece0099390b890ca36ee4006f3a883a980999e56b9ef7f960321cf"
+hash = "64b4d3597d5ca0a57f2383c3721d18e1ed0acf0ae298fcf59fd25339418c2b6f"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/frost_walker.json"
@@ -2607,7 +2599,7 @@ hash = "febac05d4496a7e458fb0a3ee71872367d3c34f56eafb61190c4d35a04f660dd"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/protection.json"
-hash = "3788222034de5f58c235db58b5ac64ed5106de1b3d140a629c122bf32aab531c"
+hash = "a4cc1a8e2cd54b716609319ecda031121e958180a50677b9fe205838727aa4b1"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/punch.json"
@@ -2715,7 +2707,7 @@ hash = "4e2bf3d68f362669342d77b4bdf5e5db6e8507c2cf7357c84b78228882f4d1f2"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/nova_structures/traveler.json"
-hash = "7d55b5e27f0f3e65525f1fb04ec4ded11e7a72d90fd1b90224fbaf97778726e5"
+hash = "63212be01b52fed7f25326efcbf8ab0bfcdaf41c4acab860549c4f3b3fb40110"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/nova_structures/wax_wings.json"
@@ -3110,6 +3102,18 @@ file = "kubejs/data/lootr/advancement/root.json"
 hash = "43bcdfceef92fd8146176174062a58abc818746e5e034a185906daee66639d6c"
 
 [[files]]
+file = "kubejs/data/malum/enchantment/haunted.json"
+hash = "d7572d2be5b04f3f9c43f043a00123839020c2b5b4f9a540344a7e538c9d940d"
+
+[[files]]
+file = "kubejs/data/malum/enchantment/weavers_haste.json"
+hash = "12c255991ffacbfc6f40647d6261ad37e118e31942a9a253e22d1205078e92c3"
+
+[[files]]
+file = "kubejs/data/malum/enchantment/weavers_propagation.json"
+hash = "103f14303d1111f4660d6fa9e5bae0dc3912bc89f0fc7728e4f20dd88e9a4df8"
+
+[[files]]
 file = "kubejs/data/malum/reaping_data/phantom.json"
 hash = "921ffc73f595490b58e27ac385b8ff943ebedc809335dcaeaa356b57451a89d1"
 
@@ -3326,6 +3330,10 @@ file = "kubejs/data/minecraft/dimension_type/the_nether.json"
 hash = "360731697a58adc00f8055ad3cf9fd1d2652e1313c24bd05aa71eaae5f852bfe"
 
 [[files]]
+file = "kubejs/data/minecraft/enchantment/protection.json"
+hash = "d3d1cb516d945f7bc133c0687fce55137c75af2a849fc3da73e4191578e02f1f"
+
+[[files]]
 file = "kubejs/data/minecraft/function/guide/guide.mcfunction"
 hash = "2054d39dffeba601dc08d0a90848acf94fdbc09e5bb771c2b30c1372db6c59bc"
 
@@ -3452,6 +3460,10 @@ hash = "b29aa9037227b339b84481a9ad423f7cc59e5eecce628b5336c75f345878be94"
 [[files]]
 file = "kubejs/data/nova_structures/advancement/root.json"
 hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
+
+[[files]]
+file = "kubejs/data/nova_structures/loot_table/chests/undead_crypts_grave.json"
+hash = "b1372d929427756d581acf8c19cbbe702fe3d36648eb54573d2ad1f261b7ce7f"
 
 [[files]]
 file = "kubejs/data/nova_structures/worldgen/structure/bunker.json"
@@ -4255,7 +4267,7 @@ hash = "1ba8d4ec7b26b83912a823e602839d76a30c2b483cc37d3c625714c622d0898b"
 
 [[files]]
 file = "kubejs/immersive_enchanting_datagen.py"
-hash = "4e9a0a5824ce201d48cea73e66d935768a3609e91e4e245bb7dfe47dcbaad7a0"
+hash = "316e20798042f27030da6b0163daf1fa5ca983b82db02661568ed3c06769b814"
 
 [[files]]
 file = "kubejs/package.json"
@@ -4287,7 +4299,7 @@ hash = "d3123fcb39399659d0a99b3d634f12767ec03810be6a4d5bb424a0ec4bc3db44"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "fe4f2836b587182260e41ddea990455ef1f8f8351a812388c545fc99ee8f97d6"
+hash = "ca1ea87f3c09d859d35e3a9805091f381d30739256cadc0498c5c4884ab09333"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
@@ -4986,11 +4998,6 @@ hash = "78ca14f15b4e28f756dbf2c4c55beedaf3a4917e6015c2b06cf8b3270a9b5eff"
 metafile = true
 
 [[files]]
-file = "mods/random-enchant-fix.pw.toml"
-hash = "bf0860d62539385e56ea6eb9c4222d023098fc49961a7ecbdf2856d7ce8997f5"
-metafile = true
-
-[[files]]
 file = "mods/ready-player-fun.pw.toml"
 hash = "593c196f98c00ef1a9873a5244f6d9b7c76767aef74fcb4b6ba975564a95380f"
 metafile = true
@@ -5193,11 +5200,6 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "a9990c1e4ae5c5e63f3f7f64d57329f9cb8773a9bfb8283bd90d77866de4a99f"
-metafile = true
-
-[[files]]
-file = "mods/txnilib.pw.toml"
-hash = "acda9a810f62061429ad47a1ed327fb05250df12e7a454fcf28aefd64e5ce284"
 metafile = true
 
 [[files]]
