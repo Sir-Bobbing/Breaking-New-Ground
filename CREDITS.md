@@ -6,6 +6,8 @@
 > Shadowzofthedark
 ### Ore Generation
 > Shadowzofthedark
+### Enchant costs and balancing
+> Shadowzofthedark
 
 # Asset work
 ### GUI textures
