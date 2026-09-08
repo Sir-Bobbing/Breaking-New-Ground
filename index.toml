@@ -65,10 +65,6 @@ file = "config/bagofholding-server.toml"
 hash = "1633094b884ef08214b37e4d68e46b90fdfad479caeb9a48a50cd3cfe224ebb5"
 
 [[files]]
-file = "config/betterdays-common.toml"
-hash = "59dc4f8e695154864bd01431c0b5b5af71aa48a8d7c7078feee225c9b1f6cdce"
-
-[[files]]
 file = "config/biggerstacks-rules.xml"
 hash = "b21c2ab3b7e77a4b17bace8d11ec8fbee0a8d9c63c5bea2de68e56a623a878fe"
 
@@ -2730,8 +2726,12 @@ file = "kubejs/data/kobolds/worldgen/structure_set/kobold_den.json"
 hash = "c220bf75e12ef51e7511b4f766bd7f38474095a4f70ffa2196febf0f8a4a81ee"
 
 [[files]]
+file = "kubejs/data/kubejs/function/first_world_load.mcfunction"
+hash = "9a7b2705a4c9a279777cb8914d63b97c22732899337a3ebadc8a84572d323711"
+
+[[files]]
 file = "kubejs/data/kubejs/function/load.mcfunction"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "1af7dbe2d021490db5f93a9007b92da7a89e02bcd0a29bf8766f9abb168cddda"
 
 [[files]]
 file = "kubejs/data/kubejs/function/tick.mcfunction"
@@ -2803,7 +2803,7 @@ hash = "1011f58a044f45f3dd4c90995a3a9ed4b64fd45f38917b9b6685ae51e334ad72"
 
 [[files]]
 file = "kubejs/data/kubejs/predicate/over_to_nether.json"
-hash = "a1bdfe8a98cd5e56814784d3ada0a42832daafd384321cd9af766e70a8d9c949"
+hash = "b1c30a8553a36e02f95ab309873b4fa897606b441c564fc82e37749c5475019d"
 
 [[files]]
 file = "kubejs/data/kubejs/predicate/over_to_nether_dismount.json"
@@ -4450,11 +4450,6 @@ hash = "6d49e453fead55672e5acdbcdf2627f226f08500f86360f15084f287ff8184a5"
 metafile = true
 
 [[files]]
-file = "mods/betterdays.pw.toml"
-hash = "5745adcc65ee12f0486b987d9380914eab7f8003f2015f1a5767e52bc19f78c8"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "ac0bb6a6660040c6f1990a17176a8a62937e34fd74a310eb574b345a23257b33"
 metafile = true
@@ -4730,6 +4725,11 @@ hash = "b5d48ae059b24373c2cea6ac8c67cddd8ba28dbab66a393990bd33c3fe3392d7"
 metafile = true
 
 [[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "10eedabb6ff64e230a1d2755abd46325d6ed6a9d10b4709f169de3644690d0d7"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "54588a6b7f6a9ea789f683c9f351d9dbe50d0363a6e24f8539b71d2bb0a63955"
 metafile = true
@@ -5000,11 +5000,6 @@ hash = "4c8964369aee4768ca033bc7b09b9b1cb8d7ccb96b31c9f78f4e0b8b9f6afc73"
 metafile = true
 
 [[files]]
-file = "mods/preferred-gamerules.pw.toml"
-hash = "b5d40071cb8511343078786fada0e0a7a913ead85ddb63267bd272e1ca19e329"
-metafile = true
-
-[[files]]
 file = "mods/prickle.pw.toml"
 hash = "4930361828dbdbb889e87900c50730c9e1fca24d59a5cf22a4f8ff24a268eba0"
 metafile = true
@@ -5016,6 +5011,11 @@ hash = "db034369d779d791fdf636e4af818354706c57bb8e5e7602c44ca2626fc13c64"
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "3f5526604de15f98a8b3dde557e6bb24ca9b0a64daf3c0d710d9659e094537f3"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "8f7de684bcb19c53621a9f47b6050557d224e67d55a57f02edb1ae7bf3d2fec1"
 metafile = true
 
 [[files]]
