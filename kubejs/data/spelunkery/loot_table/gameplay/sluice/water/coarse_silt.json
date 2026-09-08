@@ -23,7 +23,7 @@
           "type": "minecraft:tag",
           "weight": 1,
           "expand": true,
-          "name": "breakingnewground:steel_tools",
+          "name": "kubejs:steel_tools",
           "conditions": [
             {
               "condition": "minecraft:any_of",
@@ -97,7 +97,7 @@
                 {
                   "condition": "minecraft:location_check",
                   "predicate": {
-                    "structures": "#breakingnewground:ruins"
+                    "structures": "#kubejs:ruins"
                   }
                 },
                 {
@@ -151,7 +151,7 @@
                 {
                   "condition": "minecraft:location_check",
                   "predicate": {
-                    "structures": "#breakingnewground:ruins"
+                    "structures": "#kubejs:ruins"
                   }
                 }
               ]
@@ -242,7 +242,7 @@
                 {
                   "condition": "minecraft:location_check",
                   "predicate": {
-                    "structures": "#breakingnewground:ruins"
+                    "structures": "#kubejs:ruins"
                   }
                 }
               ]
@@ -260,7 +260,7 @@
                 {
                   "condition": "minecraft:location_check",
                   "predicate": {
-                    "structures": "#breakingnewground:ruins"
+                    "structures": "#kubejs:ruins"
                   }
                 }
               ]
@@ -278,7 +278,7 @@
                 {
                   "condition": "minecraft:location_check",
                   "predicate": {
-                    "structures": "#breakingnewground:ruins"
+                    "structures": "#kubejs:ruins"
                   }
                 }
               ]
@@ -296,7 +296,7 @@
                 {
                   "condition": "minecraft:location_check",
                   "predicate": {
-                    "structures": "#breakingnewground:ruins"
+                    "structures": "#kubejs:ruins"
                   }
                 }
               ]
@@ -314,7 +314,7 @@
                 {
                   "condition": "minecraft:location_check",
                   "predicate": {
-                    "structures": "#breakingnewground:ruins"
+                    "structures": "#kubejs:ruins"
                   }
                 }
               ]

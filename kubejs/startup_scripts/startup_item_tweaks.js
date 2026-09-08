@@ -13,7 +13,7 @@ ItemEvents.modification(event => {
     })
 })
 StartupEvents.registry('sound_event', event => {
-    event.create('breakingnewground:ui_channel_news_04')
+    event.create('kubejs:ui_channel_news_04')
 
 
 })

@@ -6,13 +6,13 @@
       "id": "spelunkery:sluice_grate",
       "nbt": "{lore:['{text:\"Not obtainable by sluicing\"}','{text:\"Check the uses of this item for more details\"}']}"
     },
-    "#item:breakingnewground:steel_tools",
+    "#item:kubejs:steel_tools",
     "#item:minecraft:decorated_pot_sherds",
-    "#item:breakingnewground:hot_saplings",
-    "#item:breakingnewground:temperate_saplings",
-    "#item:breakingnewground:cold_saplings",
+    "#item:kubejs:hot_saplings",
+    "#item:kubejs:temperate_saplings",
+    "#item:kubejs:cold_saplings",
     "#item:minecraft:corals",
     "#item:minecraft:coral_blocks"
   ],
-  "text": "breakingnewground.info.sluice_obtainable"
+  "text": "kubejs.info.sluice_obtainable"
 }

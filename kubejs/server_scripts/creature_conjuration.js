@@ -1,11 +1,11 @@
 ServerEvents.recipes(event => {
 
     const spiritCatalysts = {
-        "malum:sacred": {"tag":'breakingnewground:sacred_spirit_catalyst'},
-        "malum:wicked": {"tag":'breakingnewground:wicked_spirit_catalyst'},
-        "malum:arcane": {"tag":'breakingnewground:arcane_spirit_catalyst'},
+        "malum:sacred": {"tag":'kubejs:sacred_spirit_catalyst'},
+        "malum:wicked": {"tag":'kubejs:wicked_spirit_catalyst'},
+        "malum:arcane": {"tag":'kubejs:arcane_spirit_catalyst'},
         "malum:eldritch": {"item":'architects_palette:unobtanium'},
-        "malum:aerial": {"tag":'breakingnewground:aerial_spirit_catalyst'},
+        "malum:aerial": {"tag":'kubejs:aerial_spirit_catalyst'},
         "malum:aqueous": {"item":'minecraft:clay_ball'},
         "malum:earthen": {"tag":'spelunkery:pebbles'},
         "malum:infernal": {"item":'minecraft:glowstone_dust'}
