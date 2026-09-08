@@ -373,10 +373,6 @@ file = "config/structurify.json"
 hash = "09e4e9fb8d391c0ce616ebf3f30c43564c508d489f6fa11c99f28922c3e6be9d"
 
 [[files]]
-file = "config/styled-nicknames.json"
-hash = "785ab788071e693bb98203519fb5d093fd1cd95e9235e6e897bf5734d0b24e39"
-
-[[files]]
 file = "config/supplementaries-client.toml"
 hash = "27206847a0ed66f615e7b1291db29ebe8facd7f928e4a63fa017d7aceaa14e0d"
 
@@ -1595,6 +1591,18 @@ hash = "813b5a48bf757a4a14b9c7c53780925f5c1567924b47f35029fb910102103c06"
 [[files]]
 file = "kubejs/assets/sounds.json"
 hash = "f8e2b534ddef8142406abcb5e1b0d2a0792e91789a50daa3ec4b61c837ccbb38"
+
+[[files]]
+file = "kubejs/assets/supplementaries/textures/gui/lunch_basket_gui.png"
+hash = "22de004135b530e051379f527ea496f1d32f80059ad4f0fec6ae447772d268a6"
+
+[[files]]
+file = "kubejs/assets/supplementaries/textures/gui/sack_gui.png"
+hash = "63baaba6523abfa4e8e048edf126b4c741e1cefea6c895a0554913efb3a1cc09"
+
+[[files]]
+file = "kubejs/assets/supplementaries/textures/gui/sprites/slot.png"
+hash = "0a9f8a34eeb393d90bfd043949bfa68c3bf1f22c4cd3a2691d388bfff44a7fa1"
 
 [[files]]
 file = "kubejs/assets/supplementaries/textures/item/gui_slots/empty_slot_banner.png"
@@ -4360,7 +4368,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "bb380d6fc8456ba9314e2ed9f1693036b2ab7126151208e4984c6afd7af29873"
+hash = "c1304ff4723b50389b161671c0360d0511e47c1182107bfe28a73cc5a9fa8e7c"
 metafile = true
 
 [[files]]
@@ -4435,7 +4443,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "d4c8002f20471b945e073abf0d4025a239b5be96f422bd3cdcb113a2d909f186"
+hash = "ff5f9fd2bf571fdbc42940dd6e1f223a2cc3058c38ac2d82c0628a8ae5133c6d"
 metafile = true
 
 [[files]]
@@ -4460,7 +4468,7 @@ metafile = true
 
 [[files]]
 file = "mods/chalk-mod.pw.toml"
-hash = "395aca6eb3e0d7e164e410a68ecd06bfbc1619edb48ba377a83ec512e3b033f6"
+hash = "328c8dccf3ab1bcde492a422acc07496869da6233da56e5fe74cdfc52f23ccca"
 metafile = true
 
 [[files]]
@@ -4480,7 +4488,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "cb8e1fd06a6aa4bf732a4ebc64d9073669b998cbef5be25dbbeac1ba9a25311e"
+hash = "eda00b845bbd510722a713d6eedf882f519f74170b8678f8c274990c53e5b52f"
 metafile = true
 
 [[files]]
@@ -4520,7 +4528,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "60324363741c3bcdf37b89ba1ccece1da1b887848812e44b430548f0391857cf"
+hash = "97abb383f162211bc56685c67ab3cd447342d442b214bddb58c1aae736d063bc"
 metafile = true
 
 [[files]]
@@ -4581,11 +4589,6 @@ metafile = true
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "7bdb9bc1ea61ff6abceab169dac26c93eb5d041c0cf39e8b741a6a00687b143c"
-metafile = true
-
-[[files]]
-file = "mods/create-pattern-schematics.pw.toml"
-hash = "56b9b267f152e599260a7563d75a8080a04896fe8068ab94ea03c2d7ffa7b87e"
 metafile = true
 
 [[files]]
@@ -4665,12 +4668,7 @@ metafile = true
 
 [[files]]
 file = "mods/drive-by-sable.pw.toml"
-hash = "42702f228aa2564e99d9dc010a492a0fce2c51c568636b3c932f867f48df2ef6"
-metafile = true
-
-[[files]]
-file = "mods/drogstyle.pw.toml"
-hash = "03a4a61a3706b3941e8fca2fcaddf001543a6735101346a9217b737607f4321f"
+hash = "db8de34e628ead7533a8b4aa7dd1487f9e0a026f74c37c4744e7e30dda3055d5"
 metafile = true
 
 [[files]]
@@ -4880,7 +4878,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "bfbaa32e7b349313cdbda7e7fc64a8308d3a39e870684f36c2bc18a7b86ab757"
+hash = "ad5c0b2ee53eeb59db917b48bdc0bdff69eb6222a2706c32bf6e948aa0e20e80"
 metafile = true
 
 [[files]]
@@ -4925,7 +4923,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4240395047f9c511a104e2c2b29a4f450eff79aa78ea866225a4301ae46a17b9"
+hash = "cb9e4a743ce0452bcac4bbab0e03395a618f9f1ff0eb3b48a7e241f8ecfeb71b"
 metafile = true
 
 [[files]]
@@ -4964,11 +4962,6 @@ hash = "d7f470e016d3c0bd131c49de50d245548b3939e8c97e1970ae1f392f894b532d"
 metafile = true
 
 [[files]]
-file = "mods/picture-mode.pw.toml"
-hash = "27c4eb7c37eb9c5d08b000182c1631d2bc5e3cbab95478e9ff33d6cc3da9e77c"
-metafile = true
-
-[[files]]
 file = "mods/portfolio.pw.toml"
 hash = "180fa0472485aef8948d34df181963e304bfd951253a50b33f41490a22409469"
 metafile = true
@@ -4994,7 +4987,7 @@ hash = "db034369d779d791fdf636e4af818354706c57bb8e5e7602c44ca2626fc13c64"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "78ca14f15b4e28f756dbf2c4c55beedaf3a4917e6015c2b06cf8b3270a9b5eff"
+hash = "3f5526604de15f98a8b3dde557e6bb24ca9b0a64daf3c0d710d9659e094537f3"
 metafile = true
 
 [[files]]
@@ -5009,17 +5002,17 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-advancements.pw.toml"
-hash = "ae5ca4845f39dfe5ec388769cf39b124218223c17f85d32792a36af6c2888d70"
+hash = "feb367da56cf6b2c787e2c525cb8fd47b591351fbc9cb31f43cd2f3875816a82"
 metafile = true
 
 [[files]]
 file = "mods/reliable-backpacks.pw.toml"
-hash = "0c0e42ca8c15afef6150369b1adc06635ad5daffec34d21a28fbb3a22ae237dd"
+hash = "5c33e8da5489e83f8f83647a9783fe425bf08e0a74735e5f1e83823c93331867"
 metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "628b4ae443e9d64fc1d201a92f84ca95e1f905fa0441eb19e313de1fc9c97dc1"
+hash = "1e513e579db2c535f635a16d3d718e297ce59d63826a1bd751b0ff97569426f5"
 metafile = true
 
 [[files]]
@@ -5148,11 +5141,6 @@ hash = "4e1572dc05a0164a7982e7f5acc91f26564bcf5bd031536d66aa7384d21a2244"
 metafile = true
 
 [[files]]
-file = "mods/styled-nicknames.pw.toml"
-hash = "98e7fca829ca9824c0fec9c57befb20529f526d00b9742ff5289083052fd106d"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "0e1d1db1559dc09ddd9f0d49a69681ee32204b91e115c722b7c8f123565ad258"
 metafile = true
@@ -5164,7 +5152,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "22633cf7d7d59f35552f8e1d92bc63771f07026fd1e06ec59293c7debce890eb"
+hash = "07498485f020bc98ff7aa2da44e6fca75ee7ef6f121b3854a0c1b45c04e43437"
 metafile = true
 
 [[files]]
