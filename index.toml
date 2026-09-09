@@ -201,6 +201,26 @@ file = "config/everycomp-hazardous.toml"
 hash = "f306d0ca39ff5dffc0d71715d651f3fabdceafce6978bce78e3c30a73a15adc9"
 
 [[files]]
+file = "config/fancymenu/assets/title.png"
+hash = "76b1b32354481e94432509d2f1ec156f9235b8301c4e1a6f1a9b9defb3914b0d"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "32aebc4d42a8e17f224b33bfa88eac008bf81a0c50ecaed849797a617e4d15c4"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "9930a8cb6a20aae6166797dce0ef3af8ed00479849f1be840423e7ef62147085"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "6001189593638cb8fe12468fc4ada00dbc06547083f97a07842d9fcc1b0ac4c0"
+
+[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "4404ba02b39d4de63e4ab8fb5dd74e7994c23c67b15319c30f9fa207fa23ab1b"
 
@@ -4786,6 +4806,11 @@ hash = "0222f767345e2f3624b01c700ff09386f602e5787ec05c0d4eb13939000f2ec4"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "8e651e5daf25caf88cc7d400609c2641ce5384e552a67554897a0354c82c2f49"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "6d50b4c087e4385ea495d34574cbbe8a566118e44cbdb4ee484ae97f9f64e64d"
 metafile = true
@@ -4881,6 +4906,11 @@ hash = "848bab9c4ec55ecde2354ee9a7014dcc62dbab07b2d1063ad094b6cc1c6d9d55"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "6aa0befe61ce6eb033271ed92b0e89350bbaa61b74f6df7c4c59d1f64cb0e3e2"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "b3cc658ce1f76091a31563c324aa5e0bdb35aab6a5e45c3b81a0ab8aa2e22180"
 metafile = true
@@ -4958,6 +4988,11 @@ metafile = true
 [[files]]
 file = "mods/mcqoy.pw.toml"
 hash = "49c5f6f73331b359eff900aeec91e27078e1217834ea8a7e98cceb4f993a49cc"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "bf7a5824bdc50fcb0bd000d4caa0f29a8adae77de88c2f96e450e0864f337c3c"
 metafile = true
 
 [[files]]
