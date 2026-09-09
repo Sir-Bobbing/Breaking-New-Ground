@@ -48,7 +48,6 @@
 - [Create: Copycats\+](https://modrinth.com/mod/UT2M39wf) by Lysine, Bennyboy1695, Redcat\_XVIII
 - [Create: Power Grid](https://modrinth.com/mod/eWiBLJ9R) by patryk3211, Da\-Negy, rvndm, casvara
 - [Create: Redstone Link GUI](https://modrinth.com/mod/GhtD1QcW) by ggrgg
-- [Create: Smart Bounds](https://modrinth.com/mod/kSok4DxT) by LiukRast
 - [Create: The Factory Must Grow](https://modrinth.com/mod/hC1xYvnS) by DrMangoTea, Pepa, Luna
 - [CreativeCore](https://modrinth.com/mod/OsZiaDHq) by CreativeMD
 - [Creeper Overhaul](https://modrinth.com/mod/MI1LWe93) by Artist/Creator \- Joosh, Dev \- ThatGravyBoat
@@ -115,6 +114,7 @@
 - [No Man's Land](https://modrinth.com/mod/kjZCvAn6) by Farcr, Tazer, and many Contributors
 - [NoExplodeItems](https://modrinth.com/mod/FnYjkHdc) by FifthTundraG
 - [Noisium](https://modrinth.com/mod/hasdd01q) by Steveplays28
+- [Nowheel](https://modrinth.com/mod/c47YxuuI) by Lap2ka
 - [Particle Core](https://modrinth.com/mod/RSeLon5O) by fzzyhmstrs
 - [Particle Rain](https://modrinth.com/mod/nrikgvxm) by pigcart
 - [Pehkui](https://modrinth.com/mod/t5W7Jfwy) by Virtuoel
