@@ -82,7 +82,7 @@ hash = "3986996799bcb156e9fefb25ec31ce9497ae5eec98109672dcde58af97c97a26"
 
 [[files]]
 file = "config/cirrus-client.json"
-hash = "27ba1efdaff3ddb36da4f16058df0b1f99201443fd85740804c7f142f3c276ee"
+hash = "68c78e0befba551c691c809de7f49a064489debee40b6bf03bbf1ab312edad08"
 
 [[files]]
 file = "config/combatnouveau-client.toml"
@@ -227,10 +227,6 @@ hash = "f967e40de287a2adf9cf26c734a0461c52d0e7040f45e9b10cbf1e1b29de70b2"
 [[files]]
 file = "config/itemphysic-client.json"
 hash = "4a54b91e90490fec1af0cfb386bd9b4997256c13b5ee03630a97ee7c9b355eeb"
-
-[[files]]
-file = "config/lithium.properties"
-hash = "aa0a33c44cfd345a123e7d51a859a9bb192acd3ded3c6f603f03ff88c61a0488"
 
 [[files]]
 file = "config/lootr-client.toml"
@@ -2738,6 +2734,14 @@ file = "kubejs/data/kubejs/function/tick.mcfunction"
 hash = "f3fd794bc1ae1acda48bb22f0034de275222e3d153672f086ca9d271dfd56df4"
 
 [[files]]
+file = "kubejs/data/kubejs/item_contents_provider/sack.json"
+hash = "e2e67e2ac3ae228e5e0a7e8a9a7e8cac57bc9f13682025d30cb1c6a95a410e1f"
+
+[[files]]
+file = "kubejs/data/kubejs/item_contents_provider/safe.json"
+hash = "34e4364495a6f08908b0beed42060c3d34ff545d96b81d8661a4baf606d6c1fa"
+
+[[files]]
 file = "kubejs/data/kubejs/lithostitched/worldgen_modifier/add_hotsprings.json"
 hash = "55823ef1221fd4a608144158e4d3c2dd56c66cad26943ed995dc876f6b850fd7"
 
@@ -4480,13 +4484,8 @@ hash = "910afec6c30c7f68956bfa4e8fdaaad4d156b08534cf25128870053e26545f0c"
 metafile = true
 
 [[files]]
-file = "mods/bundle-scroll.pw.toml"
-hash = "df06befb67c03635147d9650faa83dd15eb1773fbe89f06e7f8a16b38b5f8089"
-metafile = true
-
-[[files]]
 file = "mods/caelum.pw.toml"
-hash = "019585282e341f5758b979794582f8787727dabba8cda17a37707f35f817ac4b"
+hash = "6dc63b5db527dcbbfe4c83d8e0d07ebe1ee2696ddb989484f70e82001bc7e063"
 metafile = true
 
 [[files]]
@@ -4726,7 +4725,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
-hash = "10eedabb6ff64e230a1d2755abd46325d6ed6a9d10b4709f169de3644690d0d7"
+hash = "bffe5f5ec2c7c02781a072d1e7ec45d40b769ac0fa0d52416678932cf7db4f43"
 metafile = true
 
 [[files]]
@@ -4860,6 +4859,11 @@ hash = "96d04b39c002de4c9d2bf980020a1cd1f05e3cfd7b7b2d5f74e9a09d073854be"
 metafile = true
 
 [[files]]
+file = "mods/ixeris.pw.toml"
+hash = "d31ccb71ec7f521efbc6f41c6069dc06166f2b44b9628b1f15d0eef28774f6e2"
+metafile = true
+
+[[files]]
 file = "mods/kobolds.pw.toml"
 hash = "848bab9c4ec55ecde2354ee9a7014dcc62dbab07b2d1063ad094b6cc1c6d9d55"
 metafile = true
@@ -4972,6 +4976,11 @@ metafile = true
 [[files]]
 file = "mods/noisiumforked.pw.toml"
 hash = "a92097d7a2743abeb37669cedee7efd91854a1aae045f1be7b2f83c347def454"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "a8e88d8dad474f36b4a83573ea383d116745da95f878a17f206a6623c43c6313"
 metafile = true
 
 [[files]]
@@ -5089,11 +5098,6 @@ hash = "014df0c0a016d0860931b36226e1afeb7e1d54c9422bc33935ac89398dca19eb"
 metafile = true
 
 [[files]]
-file = "mods/scrollabletooltips.pw.toml"
-hash = "8cb908fd135d89db255872503ccf4501d790090153d38b8511bd9aa4535cc1f0"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "4fc21e7bac0dfd2d036a41139a80ec546c60881cb99252a86189ad914e2dadd6"
 metafile = true
@@ -5106,11 +5110,6 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "4b583593c8bc81a19e6f099755a0dd0b15876c78eafc1a3426ecab959adfc408"
-metafile = true
-
-[[files]]
-file = "mods/smart-particles.pw.toml"
-hash = "08bfcea08c4c6af2fb462af8243c66c889ddcb7c5dcb54f69c2b3baab692bf83"
 metafile = true
 
 [[files]]
@@ -5140,7 +5139,7 @@ metafile = true
 
 [[files]]
 file = "mods/spelunkery.pw.toml"
-hash = "33327c1b12647fd47bcd9e2a64ed297d76ea3d7759283315d97dbd6d850af56e"
+hash = "cb2ae2bcd422ac8651d469fd4316f96126f128f1a3c2d4d5faf93c17eaabefa4"
 metafile = true
 
 [[files]]
@@ -5191,11 +5190,6 @@ metafile = true
 [[files]]
 file = "mods/tfmg-community-edition.pw.toml"
 hash = "f4a92a4a75cf824917ed855cd2e6e7502bbd95ef88cf1c49fa7bd03f2fe6ca80"
-metafile = true
-
-[[files]]
-file = "mods/ticks.pw.toml"
-hash = "d70fe3fe1fa634ba048987225368ec0e934e91dbd272baf84c3ffa233c754fdb"
 metafile = true
 
 [[files]]
