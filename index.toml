@@ -4497,7 +4497,7 @@ metafile = true
 
 [[files]]
 file = "mods/caelum.pw.toml"
-hash = "6dc63b5db527dcbbfe4c83d8e0d07ebe1ee2696ddb989484f70e82001bc7e063"
+hash = "019585282e341f5758b979794582f8787727dabba8cda17a37707f35f817ac4b"
 metafile = true
 
 [[files]]
@@ -5032,11 +5032,6 @@ hash = "db034369d779d791fdf636e4af818354706c57bb8e5e7602c44ca2626fc13c64"
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "3f5526604de15f98a8b3dde557e6bb24ca9b0a64daf3c0d710d9659e094537f3"
-metafile = true
-
-[[files]]
-file = "mods/raised.pw.toml"
-hash = "8f7de684bcb19c53621a9f47b6050557d224e67d55a57f02edb1ae7bf3d2fec1"
 metafile = true
 
 [[files]]
