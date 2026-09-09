@@ -81,6 +81,10 @@ file = "config/caelum-client.toml"
 hash = "b0277f5a2ad11bafdf35806f17e25dc6073c3846c621bb4b0a6579e3f582829c"
 
 [[files]]
+file = "config/caelum-server.toml"
+hash = "5d806b6ed8afb75401205ad55be40c1f9d118e9d41665e9922e17c292ebb767c"
+
+[[files]]
 file = "config/cirrus-client.json"
 hash = "68c78e0befba551c691c809de7f49a064489debee40b6bf03bbf1ab312edad08"
 
