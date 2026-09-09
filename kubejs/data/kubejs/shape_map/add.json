@@ -66,7 +66,49 @@
             "copycats:copycat_stairs",
             "copycats:copycat_vertical_stairs",
             "create:copycat_step",
-            "copycats:copycat_vertical_step"
+            "copycats:copycat_vertical_step",
+            "copycats:copycat_byte"
+        ],
+        "copycats:copycat_beam": [
+            "copycats:copycat_wall",
+            "copycats:copycat_fence",
+            "copycats:copycat_pane",
+            "copycats:copycat_flat_pane"
+        ],
+        "copycats:copycat_layer": [
+            "copycats:copycat_half_layer",
+            "copycats:copycat_vertical_half_layer",
+            "copycats:copycat_stacked_half_layer"
+        ],
+        "copycats:copycat_slope": [
+            "copycats:copycat_vertical_slope",
+            "copycats:copycat_slope_layer"
+        ],
+        "create:copycat_panel": [
+            "copycats:copycat_half_panel",
+            "copycats:copycat_byte_panel"
+        ],
+        "copycats:copycat_board": [
+            "copycats:copycat_slice",
+            "copycats:copycat_vertical_slice",
+            "copycats:copycat_corner_slice"
+        ],
+        "copycats:copycat_door": [
+            "copycats:copycat_iron_door",
+            "copycats:copycat_folding_door",
+            "copycats:copycat_sliding_door"
+        ],
+        "copycats:copycat_trapdoor": [
+            "copycats:copycat_iron_trapdoor"
+        ],
+        "copycats:copycat_wooden_pressure_plate": [
+            "copycats:copycat_wooden_pressure_plate",
+            "copycats:copycat_stone_pressure_plate",
+            "copycats:copycat_light_weighted_pressure_plate",
+            "copycats:copycat_heavy_weighted_pressure_plate"
+        ],
+        "copycats:copycat_wooden_button": [
+            "copycats:copycat_stone_button"
         ],
         "/railways:(?<type>copycat|wooden)_headstock/": [
             "/railways:${type}_headstock_.*/"
@@ -156,14 +198,14 @@
             "everycomp:hc/${stem}_cupboard"
         ],
         "/architects_palette:(?<stem>.+?)(?<end>s|)/": {
-        "shapes": [
-            "architects_palette:${stem}_vertical_slab",
-            "architects_palette:${stem}${end}_vertical_slab"
-        ],
-      "conditions": {
-        "is_blockitem": true
-      }
-    },
+            "shapes": [
+                "architects_palette:${stem}_vertical_slab",
+                "architects_palette:${stem}${end}_vertical_slab"
+            ],
+            "conditions": {
+                "is_blockitem": true
+            }
+        },
         "/architects_palette:(?<stem>.+?)_block/": [
             "architects_palette:${stem}_vertical_slab",
             "architects_palette:${stem}${end}_vertical_slab"
