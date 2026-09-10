@@ -201,6 +201,10 @@ file = "config/everycomp-hazardous.toml"
 hash = "f306d0ca39ff5dffc0d71715d651f3fabdceafce6978bce78e3c30a73a15adc9"
 
 [[files]]
+file = "config/fancymenu/assets/editor.png"
+hash = "cb8a6ebf4275256a2782a41bea73a192f510b171ae3ee400d78a86986daf3fb4"
+
+[[files]]
 file = "config/fancymenu/assets/title.png"
 hash = "76b1b32354481e94432509d2f1ec156f9235b8301c4e1a6f1a9b9defb3914b0d"
 
@@ -210,7 +214,7 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "32aebc4d42a8e17f224b33bfa88eac008bf81a0c50ecaed849797a617e4d15c4"
+hash = "f10e7f742a47b41cfdf25d93481a21abdc383e94613b80f28c0372b4557a4f64"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
@@ -218,7 +222,19 @@ hash = "9930a8cb6a20aae6166797dce0ef3af8ed00479849f1be840423e7ef62147085"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "6001189593638cb8fe12468fc4ada00dbc06547083f97a07842d9fcc1b0ac4c0"
+hash = "bad330488b2be9d3f49b967a530b68a596c0d2405d32a3ea09343343391e5407"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "401847d7a82d45a6bc9a1e6cc72fc5b2cecc959a7a5e9b890c9b1082c4760c4d"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -1583,10 +1599,6 @@ hash = "847f4dfae394ace4e1008523b5d1be1ce768672c29fd5b340db28b0ec10433a2"
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/world_list/warning_highlighted.png"
 hash = "7181a2c9d613ff15e7f1c8e4ff7862e8044a12ec1edb1196566eacd201ed8b88"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/title/edition.png"
-hash = "97914b96a3ee48c31541969f81b095459826aace69e893403347d1a2695feaf7"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/item/creeper_banner_pattern.png"
