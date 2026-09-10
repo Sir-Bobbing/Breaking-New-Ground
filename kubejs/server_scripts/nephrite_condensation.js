@@ -21,8 +21,6 @@ BlockEvents.rightClicked("spelunkery:carved_nephrite", event => {
     const stack = player.getMainHandItem()
 
     if (stack.id == "spelunkery:nephrite_chunk") {
-        console.log('Yay')
-        
         let bpos = block.pos
         let blockData = block.getEntityData()
 
