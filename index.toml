@@ -549,6 +549,10 @@ file = "kubejs/assets/emi/index/stacks/copycat.json"
 hash = "b9eef36df7cdd99b9e451e726fb95be05164f4f3e52adc3c38c184eff29286f1"
 
 [[files]]
+file = "kubejs/assets/emi/recipe/additions/blight.json"
+hash = "248b53316ce2a70198e5cb96c91998e8c4b36e99c59806b92e9ba87957a39044"
+
+[[files]]
 file = "kubejs/assets/emi/recipe/additions/cog/circuit.json"
 hash = "7bc2355b70f53ff4bfe72351b68e0c09b21a5383129bce2596236a3f2307f5bd"
 
@@ -1002,7 +1006,7 @@ hash = "1276bd1fd7360de8527a093383fd0d7517e528c7775d4714b9936d59d5632d39"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
-hash = "350d003bcfae1786e8cb585302edb15ac8dbcff19e17705ff3917344b505ec8b"
+hash = "86d9faf4cd2280d603827d3ff0e50424daf10cf51cef741fe8e62d8e7391351e"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/guide.json"
@@ -1783,7 +1787,7 @@ hash = "074d0711e4acb8ad4f0421127c8df1e8eb73c060bf0417bb159fc05239dbdcb8"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "fa7fce092ab212dfebf49d5315ca932321b4e3a1f5e36d76196383d2c4cf3dc6"
+hash = "2324e388e138d0d18f9a20be38f16352c398593519b59f490cc18f44f1de3066"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -3008,6 +3012,10 @@ hash = "ebf6b172c7419facf5fb62ef97b87f78357de7ade6b058b91f0e1e878c6632f6"
 [[files]]
 file = "kubejs/data/kubejs/recipe/spirit_infusion/blue_bomb.json"
 hash = "c75f517b48a4369cec555bb3635e8cb34a9c33b2c455c2e8431ca8207b09710b"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/spirit_infusion/crystal_resonator.json"
+hash = "fca6d4044e571d58cf4e8911822fe5c903ec196d266489894c364c9581060372"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/spirit_infusion/echo_shard.json"
@@ -4400,6 +4408,10 @@ hash = "d58dfdc7879b094d2cb58128fe5e949a22db1f2ab874b507cf512cb047741726"
 [[files]]
 file = "kubejs/startup_scripts/block_modification.js"
 hash = "e28138f90e13b48cd7bba8ab85f3ed6e64135bdfb756c573dc638ed749983d70"
+
+[[files]]
+file = "kubejs/startup_scripts/crystal_resonator.js"
+hash = "a546e775414c4761843e679fd007c7e1a2d5f933ba854d102434c2349ec2e73b"
 
 [[files]]
 file = "kubejs/startup_scripts/fluid_registry.js"
