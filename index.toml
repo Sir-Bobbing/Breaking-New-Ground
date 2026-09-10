@@ -201,10 +201,6 @@ file = "config/everycomp-hazardous.toml"
 hash = "f306d0ca39ff5dffc0d71715d651f3fabdceafce6978bce78e3c30a73a15adc9"
 
 [[files]]
-file = "config/fancymenu/assets/editor.png"
-hash = "cb8a6ebf4275256a2782a41bea73a192f510b171ae3ee400d78a86986daf3fb4"
-
-[[files]]
 file = "config/fancymenu/assets/title.png"
 hash = "76b1b32354481e94432509d2f1ec156f9235b8301c4e1a6f1a9b9defb3914b0d"
 
@@ -217,12 +213,16 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "f10e7f742a47b41cfdf25d93481a21abdc383e94613b80f28c0372b4557a4f64"
 
 [[files]]
+file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
+hash = "93a8f7f5e4e82127333a34575b2d8e457aa6e10ae959bf704b02707cbb9e55a5"
+
+[[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "9930a8cb6a20aae6166797dce0ef3af8ed00479849f1be840423e7ef62147085"
+hash = "67d3a428e67d8de495f591f574c441fd75befae7818612314987ef9f2555165f"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "bad330488b2be9d3f49b967a530b68a596c0d2405d32a3ea09343343391e5407"
+hash = "3a44a5fb4e638b35aff0d3d05331876344a3926b3dcdc520cb4bbc60181c99a5"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -879,6 +879,10 @@ hash = "f519546d7965775f42922038a582c5594433d72521f3bb16be7bdaea4f8955eb"
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/supplementaries/stasis.json"
 hash = "81c55907a42d2b43fd6c0953c5ec2f4a04b55970cc39a8568579b5c8e5f98716"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/nephrite_condensation.json"
+hash = "8ba6878cf76ac65f1177bf66b786b2d6624a8f48650427b69314f0100c8273b0"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/sluice/crude_oil/passive.json"
@@ -2982,12 +2986,12 @@ file = "kubejs/data/kubejs/recipe/mixing/fireproof_brick.json"
 hash = "2cc69ce18db0f0f093596ff2f2107d7c47070ed8bf002e8fe7e3ee8f545e7463"
 
 [[files]]
-file = "kubejs/data/kubejs/recipe/mixing/refined_brilliance_ancient.json"
-hash = "deb06dddbdbef15d2da73a60f9bdd47c743c486c37e333a2d856118c9d45fc02"
+file = "kubejs/data/kubejs/recipe/mixing/refined_brilliance_grow.json"
+hash = "fa192c8f3fdb3addbd4910fe293e9b51859444daf4a36245316ec7e4d3682327"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/mixing/refined_brilliance_sculk.json"
-hash = "17053aaf735aa5f2e9e94823eddd4ca1600e059a743828d01c32121a8ebe0bb5"
+hash = "a58607ca4cd772bcb470bc3fce0b3e0cca681659ab874c615b4be5837a2ad05a"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/mixing/soap.json"
@@ -4368,6 +4372,10 @@ hash = "42c92ad557857b1c4a99cf2ef009e6e65ef00615df0f9513b71312817e938f6f"
 [[files]]
 file = "kubejs/server_scripts/metallurgy.js"
 hash = "254dbd976bf64927ef4c5da994b8c7cdae5bfcc40108e077db22711191e6c824"
+
+[[files]]
+file = "kubejs/server_scripts/nephrite_condensation.js"
+hash = "1492dccf1eef0b5358385a2547b7c6cfccd3fa641fab25a33adf2ebc772891b5"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
