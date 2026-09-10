@@ -218,11 +218,11 @@ hash = "93a8f7f5e4e82127333a34575b2d8e457aa6e10ae959bf704b02707cbb9e55a5"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "67d3a428e67d8de495f591f574c441fd75befae7818612314987ef9f2555165f"
+hash = "847d7260b43bd845ba741c0b75e88f4f2bed3ad6f117a32044ef8c3b47be2e2a"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "3a44a5fb4e638b35aff0d3d05331876344a3926b3dcdc520cb4bbc60181c99a5"
+hash = "f6c9b6d2ac0c99267149c6fb3aebdfc9d4a6cae5ad2760f57f105d2c55002082"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -1442,27 +1442,27 @@ hash = "6eb76f81f5d587d0dc169d79a7a30fbb34bb7337b8b2744967f698a0fafaff46"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/widget/button.png"
-hash = "fa6a33e02c110cda21acbe76957209f826f5f6c95aff516efb5278dfd54d9bb9"
+hash = "dc66fd1a347c83cb493784bf8a12c0cf7c830f6fbe5baff8fd40e2f76ee90001"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/widget/button.png.mcmeta"
-hash = "c8f6fe62c01c357a814223d4ab6a368e5122c195fa2671e585fa24988557a505"
+hash = "a19d780ce718eaa1d2198f565695c1cf38c4049151218aa32da790eb73abde93"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
-hash = "2439f9e311a5f34180393da0a9b7fdd7d72ae7a9ef7ace2ff448d3480c304c3b"
+hash = "4fa8d99d4d23cce85bedb8787eebcfd13d78835453b64057dfabee8fcfdadbbb"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/widget/button_disabled.png.mcmeta"
-hash = "c8f6fe62c01c357a814223d4ab6a368e5122c195fa2671e585fa24988557a505"
+hash = "a19d780ce718eaa1d2198f565695c1cf38c4049151218aa32da790eb73abde93"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
-hash = "47c3e3eeaf2399994d5a7025b3c7cd63f54ff97d91855b06e757fe92c738a3e0"
+hash = "ddc09bf8ddb3cf9d8e3c1d625f60d5b5b0ee0da30d981ee60d9f87979621a2e3"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png.mcmeta"
-hash = "c8f6fe62c01c357a814223d4ab6a368e5122c195fa2671e585fa24988557a505"
+hash = "a19d780ce718eaa1d2198f565695c1cf38c4049151218aa32da790eb73abde93"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/widget/checkbox.png"
@@ -1526,7 +1526,7 @@ hash = "c8f6fe62c01c357a814223d4ab6a368e5122c195fa2671e585fa24988557a505"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/widget/slider_handle.png"
-hash = "beeb162117a83ac2dd7e1518ed82e4794ff921f48cd8b8e8fe77883254d6c8a5"
+hash = "6d5af755ae3891ce4678b5216d3cf04b3fa22c93ad8351bcb78b3f125e8d70e4"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/widget/slider_handle.png.mcmeta"
@@ -1534,7 +1534,7 @@ hash = "e455ece745d4f9d34e477a20dc60f0899e769e7c4fbdf0c2b7a9ccfab615201c"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/widget/slider_handle_highlighted.png"
-hash = "f75e195a547f2e9f6ed48fe59d2a4bd188882f7e2a0329d2f49b62a4c73a70fc"
+hash = "eabede0bbc5ed243ddbbbe871db1a18ff8abcc519d158c3ebd0e156bb116f092"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/widget/slider_handle_highlighted.png.mcmeta"
