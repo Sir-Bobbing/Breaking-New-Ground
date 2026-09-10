@@ -201,10 +201,6 @@ file = "config/everycomp-hazardous.toml"
 hash = "f306d0ca39ff5dffc0d71715d651f3fabdceafce6978bce78e3c30a73a15adc9"
 
 [[files]]
-file = "config/fancymenu/assets/editor.png"
-hash = "cb8a6ebf4275256a2782a41bea73a192f510b171ae3ee400d78a86986daf3fb4"
-
-[[files]]
 file = "config/fancymenu/assets/title.png"
 hash = "76b1b32354481e94432509d2f1ec156f9235b8301c4e1a6f1a9b9defb3914b0d"
 
@@ -217,12 +213,16 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "f10e7f742a47b41cfdf25d93481a21abdc383e94613b80f28c0372b4557a4f64"
 
 [[files]]
+file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
+hash = "93a8f7f5e4e82127333a34575b2d8e457aa6e10ae959bf704b02707cbb9e55a5"
+
+[[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "9930a8cb6a20aae6166797dce0ef3af8ed00479849f1be840423e7ef62147085"
+hash = "67d3a428e67d8de495f591f574c441fd75befae7818612314987ef9f2555165f"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "bad330488b2be9d3f49b967a530b68a596c0d2405d32a3ea09343343391e5407"
+hash = "3a44a5fb4e638b35aff0d3d05331876344a3926b3dcdc520cb4bbc60181c99a5"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
