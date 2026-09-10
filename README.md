@@ -1,4 +1,4 @@
-# Breaking New Ground
+# Refined & Tailored
  A Modpack that started as a thing for me and my friends that started production when Create Aeronautics came out. featuring some collaboration with them when it came to some aspects. Namely Shad who's help immensely on the more code heavy things.
  Good chunks of this wouldn't be possible without his help.
 
