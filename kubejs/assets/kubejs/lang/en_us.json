@@ -1,6 +1,7 @@
 {
   "kubejs.guide_name": "Information Manual",
   "kubejs.info.sluice_obtainable": "Can be obtained by sluicing. Check uses for sluice grate for more details.",
+  "kubejs.info.blight_obtainable": "Can be obtained by spreading blight with bonemeal or otherwise. Blight can occur from certain totem magic.",
   "kubejs.info.circuit": "Circuits are dropped by the Scamppanzer boss which can be summoned via a Scamppanzer Transmitter",
   "kubejs.info.cog_drops": "Rare drops from Cog mobs"
 }
