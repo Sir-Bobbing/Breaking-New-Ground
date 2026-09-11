@@ -130,7 +130,7 @@ hash = "eadaf30f25de518803a36052782dfce17fe91496f1f3cfad4d20e2959dbbdf6f"
 
 [[files]]
 file = "config/create-client.toml"
-hash = "16774bad3d5684a5ecfb6e9e9a8ca5c158fbc8bb3c97568af830be925e6d3d2a"
+hash = "a24ca52e9c93885f97f5cea636b5f34fc7be72d800b20aee21ad4e9bc10b97dc"
 
 [[files]]
 file = "config/create-common.toml"
@@ -218,11 +218,11 @@ hash = "93a8f7f5e4e82127333a34575b2d8e457aa6e10ae959bf704b02707cbb9e55a5"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "847d7260b43bd845ba741c0b75e88f4f2bed3ad6f117a32044ef8c3b47be2e2a"
+hash = "01ed802fb5228e7e0295cb30f46062f4ee54da8a2d73ba819f8a3faa7409296d"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "f6c9b6d2ac0c99267149c6fb3aebdfc9d4a6cae5ad2760f57f105d2c55002082"
+hash = "4ec0d88355fbdc80484205901e5ac19d9efabba5ffa6c732617220889db613c8"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -2044,6 +2044,10 @@ hash = "246208555d8ac93b0686c16724248bfca37b81b07381cc960a421103555cc75c"
 [[files]]
 file = "kubejs/data/decorative_blocks/recipe/lattice.json"
 hash = "3b94cf8e00acc0a079c455f761c766cc3ce9643f11ba2b76b4805781fb127e65"
+
+[[files]]
+file = "kubejs/data/endermanoverhaul/tags/worldgen/biome/cave_spawns.json"
+hash = "aeba286ee6dbd92f2fc9dbdfa322133ef0b1204e5341d3c5ff626e8737e27674"
 
 [[files]]
 file = "kubejs/data/envelope/structure/collapsed_mail_hub/balloon_large_red.nbt"
