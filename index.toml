@@ -1009,6 +1009,10 @@ file = "kubejs/assets/kubejs/lang/en_us.json"
 hash = "86d9faf4cd2280d603827d3ff0e50424daf10cf51cef741fe8e62d8e7391351e"
 
 [[files]]
+file = "kubejs/assets/kubejs/models/item/giggler.json"
+hash = "225b84ce4786efcc234a42f2eb2a82e9b32a06764e7263bcafdd47dde8df4c6d"
+
+[[files]]
 file = "kubejs/assets/kubejs/models/item/guide.json"
 hash = "e596e47749f2cba743fbc87e2abab0e402c1f4dfc9173448802416d76674336a"
 
@@ -1075,6 +1079,10 @@ hash = "3de4c03376966a9d67ce865b069bcfe0da5f1413d861c664168940946dd79775"
 [[files]]
 file = "kubejs/assets/kubejs/textures/entity/mob_variants/bat/phantasmal_bat.png"
 hash = "f4dcc9438f9ff5fd1bfac0b3d0fdbcea35bfd7ff5fd991bb59006b844f47ada2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/giggler.png"
+hash = "dd17d01b8c0f6edc5474c2e2dc54e1ea06c140410e98dd69592ebc4017e77520"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/guide.png"
@@ -4414,6 +4422,10 @@ file = "kubejs/startup_scripts/fluid_registry.js"
 hash = "6c869c3727dc13171713a7f0af8507756da13e75d1cdd5e4582b6e74f7d7bc8b"
 
 [[files]]
+file = "kubejs/startup_scripts/giggler.js"
+hash = "3b82abc5d38873a11f6528ffe3a09addd9044d92ed599135b2caeb65b1f0ed63"
+
+[[files]]
 file = "kubejs/startup_scripts/item_modification.js"
 hash = "0185d893e745b3fac970a9ed99dd915547de87c738aa97e5bfb75d86e51f5cb5"
 
@@ -4431,7 +4443,7 @@ hash = "9e4778d2807fb38ec70aab68046ebbd57aaa5bb815ce8bc82090b5c01f57ad3f"
 
 [[files]]
 file = "kubejs/startup_scripts/startup_item_tweaks.js"
-hash = "c9dba52fb22ce844f6edf5fb25d2aba524ae6a079809572fce39f10fb1b780c7"
+hash = "b98f020db639bcbddfd676edcaf07b18b67fe112212d1755629a8aecd487909a"
 
 [[files]]
 file = "mods/aeronautics-propeller-blur.pw.toml"
@@ -4545,7 +4557,7 @@ metafile = true
 
 [[files]]
 file = "mods/caelum.pw.toml"
-hash = "019585282e341f5758b979794582f8787727dabba8cda17a37707f35f817ac4b"
+hash = "a0d63fd2fdcf75055772ab990abf3af8d7c7b76f8cfdd9788c32f606c587aefe"
 metafile = true
 
 [[files]]
@@ -4695,7 +4707,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "366c558aff8c467e0876d0483eddfed5d1f1009980671581630a2619af96d9ee"
+hash = "828a34063995bcecaa73c8eaccf7b720b0de576c6faf1a79a07df02a923af2a6"
 metafile = true
 
 [[files]]
@@ -4950,7 +4962,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "3374d5352e20b25feb01909afb9184459c2689538752d3523fbe5a0cb217cc15"
+hash = "931a0c9aaadb7e8ee4e6d2d66b89717c509c1a2ebba695399f3ac77d7150cd34"
 metafile = true
 
 [[files]]
@@ -5030,7 +5042,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "cb9e4a743ce0452bcac4bbab0e03395a618f9f1ff0eb3b48a7e241f8ecfeb71b"
+hash = "ddd00dbaa9f8a2cde12b20c66ee53e0123ae45a21c66fb8db082410da7810a08"
 metafile = true
 
 [[files]]
@@ -5124,7 +5136,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "1afc0c4a0646eea3459a46e975c24d5ec80b4f8f44fd718571e50087ad20e33d"
+hash = "22732d437f31f18573be85fcb098296efd086f1594bf1c251ab8c9fe1e25eca1"
 metafile = true
 
 [[files]]
@@ -5249,7 +5261,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "07498485f020bc98ff7aa2da44e6fca75ee7ef6f121b3854a0c1b45c04e43437"
+hash = "72b6b7eab8f263ebc511af05261ba20f0a93bd333e70c2165bc809b37a220de1"
 metafile = true
 
 [[files]]
@@ -5284,7 +5296,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "0c99482d136773ed56f84329ac0363f64dfa3b44affddb992b9f5898e2b17f2d"
+hash = "ce701e35cfaeb74acafc6907d43ccd6713cdee07c649920f23e486b2d16ac653"
 metafile = true
 
 [[files]]
