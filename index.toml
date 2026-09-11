@@ -1334,35 +1334,35 @@ hash = "8a2ecf878e774d0d230e2d06bc7f4a3e68e8bbf7681d2fae550c24f044b76ab7"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/server_list/join.png"
-hash = "d5272fe99f142cbc07a69f15248c2c8306e9e94e736d1dedb5937e6fa0ed50eb"
+hash = "3a5b82655216904a0ca6cfd963dc54841324bdbe2bc94779e234589376625236"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/server_list/join_highlighted.png"
-hash = "fa0b183c1a4654862a4490a85afdf6c983ec929ed96f234ef0aa36064994d8d8"
+hash = "fd86ae04346f3c62240fadf668a1fa4321b156d1a585649f026b2500b7d9949a"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/server_list/marked_join.png"
-hash = "d5272fe99f142cbc07a69f15248c2c8306e9e94e736d1dedb5937e6fa0ed50eb"
+hash = "3a5b82655216904a0ca6cfd963dc54841324bdbe2bc94779e234589376625236"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/server_list/marked_join_highlighted.png"
-hash = "fa0b183c1a4654862a4490a85afdf6c983ec929ed96f234ef0aa36064994d8d8"
+hash = "fd86ae04346f3c62240fadf668a1fa4321b156d1a585649f026b2500b7d9949a"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/server_list/move_down.png"
-hash = "f77e963e8f16900cc3087414e24fa898a8d61212ede2ffe82bd44322446c2b18"
+hash = "c893eae0fa5f4c1ac7254149165b3d76d2832f3ee7fe8352ff3fb74f8d971ec1"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/server_list/move_down_highlighted.png"
-hash = "3277e03c22f6e7bbe5dfe21cb0185cce5de4a07ac3f30dabafd4015b5503c6d4"
+hash = "eccbb2a7020bcebd632cb66837c6b94c2f87a99ab53f2a0b2bf7df3f4a8a2314"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/server_list/move_up.png"
-hash = "4015a10fbfcf37ca8249cbb2d54f56d2471efdcb6219ffa2823f64856c708680"
+hash = "b2e3de04bb270816eed5b1708aa833ab89a7766b09f9d9d83eef1b32e63c5d56"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/server_list/move_up_highlighted.png"
-hash = "155f259b193475293b928b29788151e8934aa20d5a26d0583587f33b20857f90"
+hash = "037063b6812e935938a4bb9a5d43f444338c17745f378468da6bfff095b20ca6"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/server_list/ping_1.png"
@@ -1410,35 +1410,35 @@ hash = "8a2ecf878e774d0d230e2d06bc7f4a3e68e8bbf7681d2fae550c24f044b76ab7"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/transferable_list/move_down.png"
-hash = "b4ed49940a9da826de539aaee40bc3a3de8215776509e203e0bbcb61fe6ed175"
+hash = "dfb6c5bc186d3d762bd67b7acc8b0f5dab313ee69f25776091abb9d90f13b8d8"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/transferable_list/move_down_highlighted.png"
-hash = "16727af8ac77977c31364959b15ed70d3172626b44121b7bd88981cc6a29ad7f"
+hash = "e20f2e4891f568cea2e3fd5d8c67a98d11e7c51fbde5c7b97fe3d38ad4fabfc0"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/transferable_list/move_up.png"
-hash = "4a8b82e725b203fe21d7a6e40ee0c0a23615273e01b70cfcb96d8d54bb39bee7"
+hash = "373ce32be0b4043e6c5acfbb4379903137d971e9816c91d52ce137b19bbb6435"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/transferable_list/move_up_highlighted.png"
-hash = "eed671b7ff1b852d067645a5912c8a2b2150f637452bfc11fe20b817c26a9d8d"
+hash = "0b187a6e650a101c6c5d5e1cea5743328fa3f48fc0cf7d6bbe00db347d85cfae"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/transferable_list/select.png"
-hash = "01658eeed93b65179f089839a01606aa08b80bd9b187b80a7e030aae153de088"
+hash = "eb6a0aac2893cda8c800af84ba6ff3a00f541204b7c767c6eb545bbe2a291cfa"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/transferable_list/select_highlighted.png"
-hash = "47671384023f10e0de45389c83106fde9b74d9b7441961210f2662da347ad27e"
+hash = "f3b3da73d1d41b0e70f678cddcc5d64c72e56cd20b1ba0a89017a15872c47a65"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/transferable_list/unselect.png"
-hash = "06859290dd099960760291c16df9e6f810639998c8f287e5cc28215a4c54a998"
+hash = "dd84a7781f3ce1495e236cf42fe55aedef7f8058c6e5cbff2815bb3b07acab40"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/transferable_list/unselect_highlighted.png"
-hash = "6eb76f81f5d587d0dc169d79a7a30fbb34bb7337b8b2744967f698a0fafaff46"
+hash = "7a6e2d29c148fa4aa9f212dc2fbd37ceda3e3f0c0bc1045fbe625bcb02ff6994"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/widget/button.png"
@@ -1577,36 +1577,20 @@ file = "kubejs/assets/minecraft/textures/gui/sprites/widget/unlocked_button_high
 hash = "3502dd5cffa935a7ded6e8e392f8cd3ffec8c46679975b1c6d9f39278df6e73f"
 
 [[files]]
-file = "kubejs/assets/minecraft/textures/gui/sprites/world_list/error.png"
-hash = "483cd4a31c018d995d2c744965f8134ee215d8a88449db8db16fbea6b7f9ab54"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/sprites/world_list/error_highlighted.png"
-hash = "675be21f29a0b3063f2d4c27534ffcb0a6cdc09a9f62a0e01169deebc1a15f6d"
-
-[[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/world_list/join.png"
-hash = "d5272fe99f142cbc07a69f15248c2c8306e9e94e736d1dedb5937e6fa0ed50eb"
+hash = "3a5b82655216904a0ca6cfd963dc54841324bdbe2bc94779e234589376625236"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/world_list/join_highlighted.png"
-hash = "fa0b183c1a4654862a4490a85afdf6c983ec929ed96f234ef0aa36064994d8d8"
+hash = "fd86ae04346f3c62240fadf668a1fa4321b156d1a585649f026b2500b7d9949a"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/world_list/marked_join.png"
-hash = "d5272fe99f142cbc07a69f15248c2c8306e9e94e736d1dedb5937e6fa0ed50eb"
+hash = "3a5b82655216904a0ca6cfd963dc54841324bdbe2bc94779e234589376625236"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/world_list/marked_join_highlighted.png"
-hash = "fa0b183c1a4654862a4490a85afdf6c983ec929ed96f234ef0aa36064994d8d8"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/sprites/world_list/warning.png"
-hash = "847f4dfae394ace4e1008523b5d1be1ce768672c29fd5b340db28b0ec10433a2"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/sprites/world_list/warning_highlighted.png"
-hash = "7181a2c9d613ff15e7f1c8e4ff7862e8044a12ec1edb1196566eacd201ed8b88"
+hash = "fd86ae04346f3c62240fadf668a1fa4321b156d1a585649f026b2500b7d9949a"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/item/creeper_banner_pattern.png"
