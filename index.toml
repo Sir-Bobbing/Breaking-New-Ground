@@ -3118,6 +3118,10 @@ file = "kubejs/data/kubejs/recipe/spirit_transmutation/salt/sulfur_from_saltpete
 hash = "3c5b7ebd1db02c04dd2f8922b2c08121010c3d266aff5a17034b7eaf512d046c"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/void_favor/giggler.json"
+hash = "d220e1ddff1fca69981992c75c610dbf6d51dc896788f47a317892a966fee9d5"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/void_favor/malignant_lead.json"
 hash = "bbc63a89999f6dddc58d3a74420d88f2cf5c34a1a6823893e65f0125d2e18bcf"
 
