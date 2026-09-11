@@ -1029,6 +1029,10 @@ file = "kubejs/assets/kubejs/textures/block/crimsite_iron_ore.png"
 hash = "4d791771cf9ff54212accb22460f800fd4875d59a292496f8b42a20d1a7d7f78"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/crystal_resonator.png"
+hash = "4a3e2f741523d5c9c73743b22a27338618a4bf19f4e1e3925b4d373651c2bbef"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/dripstone_iron_ore.png"
 hash = "f9c6e54e2ca607e9e1a93c7555b9c1d9ca293417fb6ded36eede4e43750c40a8"
 
@@ -1770,8 +1774,12 @@ file = "kubejs/client_scripts/jsconfig.json"
 hash = "074d0711e4acb8ad4f0421127c8df1e8eb73c060bf0417bb159fc05239dbdcb8"
 
 [[files]]
+file = "kubejs/client_scripts/respawn_fade.js"
+hash = "66b37b095497ddc88e1368778ad79384f5d1698011d68749414a67ce0810d6fb"
+
+[[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "2324e388e138d0d18f9a20be38f16352c398593519b59f490cc18f44f1de3066"
+hash = "66a3aa5466deefef6a9ee161b9ba2cd161b16a1e0d0b2f258e79c067801675ec"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -4378,8 +4386,8 @@ file = "kubejs/server_scripts/recipes.js"
 hash = "b6ff840bc44c7111a6e392bc6891a5781a84e82b269c6ad7bbc5f6b8cfbc992d"
 
 [[files]]
-file = "kubejs/server_scripts/respawn.js"
-hash = "f2432b2ae1d81e8ad2008b3c9f7a93eefc9942c0ec2389433f32e7e6190cdcbf"
+file = "kubejs/server_scripts/respawn_fade.js"
+hash = "9fbaea8eee7218cd642e0872400c819f746f7680679c3f533ab3a4236440648d"
 
 [[files]]
 file = "kubejs/server_scripts/skeleton_pierce.js"
