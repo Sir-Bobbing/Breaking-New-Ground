@@ -1,0 +1,26 @@
+{
+  "type": "emi:world_interaction",
+  "left": [
+    {
+      "type": "item",
+      "id": "minecraft:bee_nest",
+      "nbt": "{lore:['{text:\"Must be honey level 3 or greater\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "minecraft:beehive",
+      "nbt": "{lore:['{text:\"Must be honey level 3 or greater\"}']}"
+    }
+  ],
+  "right": [
+    {
+      "type": "item",
+      "id": "nomansland:tap",
+      "nbt": "{lore:['{text:\"Place on hive/nest with a cauldron below\"}']}"
+    },
+    "item:minecraft:cauldron"
+  ],
+  "output": [
+    "item:minecraft:honey_bottle"
+  ]
+}
