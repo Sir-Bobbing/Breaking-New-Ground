@@ -1,16 +1,8 @@
 {
   "type": "emi:world_interaction",
   "left": [
-    {
-      "type": "item",
-      "id": "minecraft:bee_nest",
-      "nbt": "{lore:['{text:\"Must be honey level 3 or greater\"}']}"
-    },
-    {
-      "type": "item",
-      "id": "minecraft:beehive",
-      "nbt": "{lore:['{text:\"Must be honey level 3 or greater\"}']}"
-    }
+    "item:minecraft:bee_nest",
+    "item:minecraft:beehive"
   ],
   "right": [
     {
