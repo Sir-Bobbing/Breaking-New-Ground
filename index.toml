@@ -985,6 +985,18 @@ file = "kubejs/assets/emi/recipe/additions/sluice/water/sand.json"
 hash = "ab5cc2f89e7d9197a0c2c031054270d6feee4a3dc7e8627981e6dff8b3eb8ddf"
 
 [[files]]
+file = "kubejs/assets/emi/recipe/additions/tap/honey.json"
+hash = "8495147da69b94d1ddec3d7bf9fb6ea3c09e3504cb561a90df04b40ee0db5e91"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/tap/maple.json"
+hash = "ec49c73ba7418858edc0b817a0fe23ecc82763d72d412564cdcb256922b3323a"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/tap/resin.json"
+hash = "e6adb968cd672c88e770b0b86283a3f6fd8a492c2aeb6e24a67766a69cd040ca"
+
+[[files]]
 file = "kubejs/assets/emi/recipe/filters/sluice_filter.json"
 hash = "5426e254fdf5962087bf50bd2b983257325f5bf619ddb5eedb6d08a6d83ecf9e"
 
@@ -5245,7 +5257,7 @@ metafile = true
 
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
-hash = "68345533538a63f16d883074534f64070df951e5da05e40761af220d09d0e330"
+hash = "f1f7c42b136f84bfad76304f00f9a07d33a3cdeef08e0682d77c87a164c5db16"
 metafile = true
 
 [[files]]
