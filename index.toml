@@ -218,7 +218,11 @@ hash = "93a8f7f5e4e82127333a34575b2d8e457aa6e10ae959bf704b02707cbb9e55a5"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "01ed802fb5228e7e0295cb30f46062f4ee54da8a2d73ba819f8a3faa7409296d"
+hash = "5d0e2ae797ed1564c0cc52fcc6a640ea2a17dcddb97ab90bf2b01bba29a104ab"
+
+[[files]]
+file = "config/fancymenu/customization/skin_customization_screen_layout.txt"
+hash = "044f7184218ca44a669c6182ae320e54eeef3d9d9e6a01bf0b53c0198f9ba197"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
@@ -4598,7 +4602,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "eda00b845bbd510722a713d6eedf882f519f74170b8678f8c274990c53e5b52f"
+hash = "6badd9a59448f22c780f50cfea3b35189f5a722b10dda86f2fbcec3fc38bb6dc"
 metafile = true
 
 [[files]]
@@ -5257,7 +5261,7 @@ metafile = true
 
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
-hash = "f1f7c42b136f84bfad76304f00f9a07d33a3cdeef08e0682d77c87a164c5db16"
+hash = "2ed92e0adb8781d7abd20b7ec54a472c1a14e63309b49499e9c12f2d70b2e28a"
 metafile = true
 
 [[files]]
